@@ -77,6 +77,19 @@
     z-index: 1;
   }
 
+  .decentr__logos {
+    align-items: flex-end;
+    column-gap: 32px;
+    flex-direction: row;
+    display: flex;
+  }
+
+  .decentr__logo-presearch {
+    display: flex;
+    margin-bottom: 38px;
+    min-height: 92px;
+  }
+
   #logo {
     margin-bottom: 38px;
     z-index: 1;  /* Needed so it layers on top of OneGoogleBar. */
@@ -308,6 +321,10 @@
     top: 0;
     z-index: 101;
   }
+  @media (max-width: 672px) {
+    .decentr__logos {
+      flex-direction: column;
+    }
 </style>
 <div id="content" style="
         --color-new-tab-page-attribution-foreground: [[rgbaOrInherit_(theme_.textColor)]];
@@ -325,10 +342,16 @@
        be nicer to use a dom-if. However, that breaks
        StartupBrowserCreatorPickerNoParamsTest.ShowPickerWhenAlreadyLaunched on
        the msan builder. See crbug.com/1169070. -->
-  <ntp-logo id="logo" single-colored$="[[singleColoredLogo_]]"
-      dark="[[theme_.isDark]]" background-color="[[backgroundColor_]]"
-      hidden$="[[!logoEnabled_]]">
-  </ntp-logo>
+  <div class="decentr__logos">
+    <ntp-logo id="logo" single-colored$="[[singleColoredLogo_]]"
+        dark="[[theme_.isDark]]" background-color="[[backgroundColor_]]"
+        hidden$="[[!logoEnabled_]]">
+    </ntp-logo>
+
+    <div class="decentr__logo-presearch">
+      <img src="chrome://new-tab-page/icons/presearch-logo.svg"></img>
+    </div>
+  </div>
   <div id="realboxContainer">
     <ntp-realbox id="realbox" is-dark="[[theme_.isDark]]"
         single-colored-icons="[[theme_.themeRealboxIcons]]"
@@ -382,7 +405,7 @@
            button in container to enforce solid background color. -->
       <div id="customizeButtonContainer">
         <cr-button id="customizeButton" on-click="onCustomizeClick_"
-            title="$i18n{customizeThisPage}">
+          title="$i18n{customizeThisPage}">
           <div id="customizeIcon"></div>
           <div id="customizeText" hidden$="[[showBackgroundImage_]]">
             $i18n{customizeButton}
@@ -391,7 +414,6 @@
       </div>
       <div id="themeAttribution"
           hidden$="[[!theme_.backgroundImage.attributionUrl]]">
-        <div>$i18n{themeCreatedBy}</div>
         <img src="[[theme_.backgroundImage.attributionUrl.url]]"><img>
       </div>
     </template>
