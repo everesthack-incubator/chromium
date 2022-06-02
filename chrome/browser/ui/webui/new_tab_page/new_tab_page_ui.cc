@@ -166,6 +166,8 @@ content::WebUIDataSource* CreateAndAddNewTabPageUiHtmlSource(Profile* profile) {
       profile, chrome::kChromeUINewTabPageHost);
 
   ui::Accelerator undo_accelerator(ui::VKEY_Z, ui::EF_PLATFORM_ACCELERATOR);
+  source->DisableTrustedTypesCSP();
+
   source->AddString("undoDescription", l10n_util::GetStringFUTF16(
                                            IDS_UNDO_DESCRIPTION,
                                            undo_accelerator.GetShortcutText()));
@@ -546,6 +548,8 @@ NewTabPageUI::NewTabPageUI(content::WebUI* web_ui)
       module_id_names_(ntp::MakeModuleIdNames(
           NewTabPageUI::IsDriveModuleEnabledForProfile(profile_))) {
   auto* source = CreateAndAddNewTabPageUiHtmlSource(profile_);
+  source->DisableTrustedTypesCSP();
+
   source->AddBoolean(
       "customBackgroundDisabledByPolicy",
       ntp_custom_background_service_->IsCustomBackgroundDisabledByPolicy());

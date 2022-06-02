@@ -25,11 +25,11 @@ BASE_FEATURE(kBackgroundTabLoadingFromPerformanceManager,
 
 BASE_FEATURE(kHighEfficiencyModeAvailable,
              "HighEfficiencyModeAvailable",
-             base::FEATURE_DISABLED_BY_DEFAULT);
+             base::FEATURE_ENABLED_BY_DEFAULT);
 
 BASE_FEATURE(kBatterySaverModeAvailable,
              "BatterySaverModeAvailable",
-             base::FEATURE_DISABLED_BY_DEFAULT);
+             base::FEATURE_ENABLED_BY_DEFAULT);
 
 const base::FeatureParam<base::TimeDelta> kHighEfficiencyModeTimeBeforeDiscard{
     &kHighEfficiencyModeAvailable, "time_before_discard", base::Hours(2)};
