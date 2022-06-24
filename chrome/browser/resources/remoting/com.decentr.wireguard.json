@@ -1,0 +1,9 @@
+{
+    "name": "com.decentr.wireguard",
+    "description": "Native messaging WireGuard host",
+    "path": "/Users/andrei/Library/Developer/Xcode/DerivedData/Test-dwhkopxikzqiulbcotjmbcgjwhhw/Build/Products/Debug/Test",
+    "type": "stdio",
+    "allowed_origins": [
+      "chrome-extension://nadpaajfejcjagnmbjdilnphpadhaiej/"
+    ]
+}

@@ -103,6 +103,7 @@ packaging_files = packaging_files_binaries + [
                     "$root_out_dir/locales/en-US.pak",
                     "$root_out_dir/MEIPreload/manifest.json",
                     "$root_out_dir/MEIPreload/preloaded_data.pb",
+                    "$root_out_dir/NativeMessagingHosts/com.decentr.wireguard.json",
                   ]
 
 action_foreach("calculate_deb_dependencies") {
@@ -389,6 +390,7 @@ group("installer_deps") {
     "//chrome/browser/resources/media/mei_preload:component",
     "//components/crash/core/app:chrome_crashpad_handler",
     "//sandbox/linux:decentr_sandbox",
+    "//chrome/browser/resources/remoting:component",
   ]
   if (enable_nacl) {
     public_deps += [

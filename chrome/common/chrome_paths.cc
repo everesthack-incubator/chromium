@@ -485,8 +485,8 @@ bool PathProvider(int key, base::FilePath* result) {
       cur = base::FilePath(FILE_PATH_LITERAL(
           "/etc/opt/chrome/native-messaging-hosts"));
 #else
-      cur = base::FilePath(FILE_PATH_LITERAL(
-          "/etc/Decentr/native-messaging-hosts"));
+      cur = base::FilePath(
+          FILE_PATH_LITERAL("/etc/Decentr/native-messaging-hosts"));
 #endif
 #endif  // !BUILDFLAG(IS_MAC)
       break;
