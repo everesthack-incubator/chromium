@@ -30056,6 +30056,7 @@ Called by update_extension_histograms.py.-->
   <int value="487" label="WEB_AUTHENTICATION_PROXY_REQUEST_CANCELLED"/>
   <int value="488" label="WEB_AUTHENTICATION_PROXY_ON_GET_REQUEST"/>
   <int value="489" label="DEVELOPER_PRIVATE_ON_USER_SITE_SETTINGS_CHANGED"/>
+  <int value="490" label="DECENTR_ON_CHANGED"/>
 </enum>
 
 <enum name="ExtensionFileWriteResult">
@@ -31761,6 +31762,8 @@ Called by update_extension_histograms.py.-->
   <int value="1626" label="AUTOFILLPRIVATE_ADDVIRTUALCARD"/>
   <int value="1627" label="AUTOFILLPRIVATE_REMOVEVIRTUALCARD"/>
   <int value="1628" label="FILEMANAGERPRIVATE_LISTMOUNTABLEGUESTS"/>
+  <int value="1629" label="DECENTR_GET"/>
+  <int value="1630" label="DECENTR_SET"/>
 </enum>
 
 <enum name="ExtensionIconState">
@@ -32388,6 +32391,7 @@ Called by update_extension_permission.py.-->
   <int value="235" label="kSpeechRecognitionPrivate"/>
   <int value="236" label="kChromeOSDiagnostics"/>
   <int value="237" label="kChromeOSTelemetrySerialNumber"/>
+  <int value="238" label="kDecentr"/>
 </enum>
 
 <enum name="ExtensionPointEnableState">
