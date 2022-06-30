@@ -1,4 +1,5 @@
 remoting_sources = [
+  "com.decentr.wireguard",
   "com.decentr.wireguard.json",
 ]
 

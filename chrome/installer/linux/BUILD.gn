@@ -96,15 +96,17 @@ copy("swiftshader_libs") {
 
 # TODO(mmoss) Any convenient way to get all the relevant build files?
 # (e.g. all locales, resources, etc.)
-packaging_files = packaging_files_binaries + [
-                    "$root_out_dir/vk_swiftshader_icd.json",
-                    "$root_out_dir/xdg-mime",
-                    "$root_out_dir/xdg-settings",
-                    "$root_out_dir/locales/en-US.pak",
-                    "$root_out_dir/MEIPreload/manifest.json",
-                    "$root_out_dir/MEIPreload/preloaded_data.pb",
-                    "$root_out_dir/NativeMessagingHosts/com.decentr.wireguard.json",
-                  ]
+packaging_files =
+    packaging_files_binaries + [
+      "$root_out_dir/vk_swiftshader_icd.json",
+      "$root_out_dir/xdg-mime",
+      "$root_out_dir/xdg-settings",
+      "$root_out_dir/locales/en-US.pak",
+      "$root_out_dir/MEIPreload/manifest.json",
+      "$root_out_dir/MEIPreload/preloaded_data.pb",
+      "$root_out_dir/NativeMessagingHosts/com.decentr.wireguard.json",
+      "$root_out_dir/NativeMessagingHosts/com.decentr.wireguard",
+    ]
 
 action_foreach("calculate_deb_dependencies") {
   deps = [ ":installer_deps" ]
@@ -388,15 +390,16 @@ group("installer_deps") {
     "//chrome",
     "//chrome:packed_resources",
     "//chrome/browser/resources/media/mei_preload:component",
+    "//chrome/browser/resources/remoting:component",
     "//components/crash/core/app:chrome_crashpad_handler",
     "//sandbox/linux:decentr_sandbox",
-    "//chrome/browser/resources/remoting:component",
   ]
   if (enable_nacl) {
     public_deps += [
-      "//components/nacl/loader:nacl_helper",
       ":strip_nacl_helper",
       ":strip_nacl_helper_bootstrap",
+      "//components/nacl/loader:nacl_helper",
+
       # These are data_deps of nacl_helper, but that is not enough,
       # as explained above.
       "//native_client/src/trusted/service_runtime/linux:bootstrap",
