@@ -33,7 +33,7 @@ class DecentrStorageService : public KeyedService {
         SQL_FROM_HERE,
         "REPLACE INTO decentr_keys (name, value) VALUES(?, ?);"));
 
-    auto [key, value] = std::move(object);
+    auto&& [key, value] = std::move(object);
     stmt.BindString(0, std::move(key));
     stmt.BindString(1, std::move(value));
 
@@ -45,8 +45,7 @@ class DecentrStorageService : public KeyedService {
   void Get(key_t key, Callback cb) {
     sql::Statement stmt(decentr_storage_db_.GetCachedStatement(
         SQL_FROM_HERE,
-        "SELECT value FROM decentr_keys WHERE name=? ORDER BY id DESC LIMIT "
-        "1;"));
+        "SELECT value FROM decentr_keys WHERE name=? ORDER BY id DESC LIMIT 1;"));
     stmt.BindString(0, key);
 
     if (!stmt.Step())
@@ -55,7 +54,7 @@ class DecentrStorageService : public KeyedService {
     std::move(cb).Run(std::make_pair(std::move(key), stmt.ColumnString(0)));
   }
 
-  ~DecentrStorageService() override {}
+  ~DecentrStorageService() noexcept override {}
 
   DecentrStorageService(const DecentrStorageService&) = delete;
   DecentrStorageService& operator=(const DecentrStorageService&) = delete;

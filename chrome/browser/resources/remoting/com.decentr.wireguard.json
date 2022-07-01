@@ -1,7 +1,7 @@
 {
     "name": "com.decentr.wireguard",
     "description": "Native messaging WireGuard host",
-    "path": "/opt/decentr.org/decentr/",
+    "path": "/opt/decentr.org/decentr/com.decentr.wireguard",
     "type": "stdio",
     "allowed_origins": [
       "chrome-extension://jmcganicnoomocjmplooahfffkaipbnn/"

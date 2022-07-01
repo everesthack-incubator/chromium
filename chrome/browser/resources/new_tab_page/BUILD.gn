@@ -89,9 +89,19 @@ generate_grd("build_grd") {
     "untrusted/background_image.html",
     "untrusted/background_image.js",
     "untrusted/image.html",
-    "icon.svg",
     "untrusted/one_google_bar.html",
     "untrusted/one_google_bar.js",
+    "main.js",
+    "styles.css",
+    "assets/fonts/Inter-Bold.ttf",
+    "assets/fonts/Inter-Bold.woff",
+    "assets/fonts/Inter-Bold.woff2",
+    "assets/fonts/Inter-Medium.ttf",
+    "assets/fonts/Inter-Medium.woff",
+    "assets/fonts/Inter-Medium.woff2",
+    "assets/fonts/Inter-Regular.ttf",
+    "assets/fonts/Inter-Regular.woff",
+    "assets/fonts/Inter-Regular.woff2",
   ]
   input_files_base_dir = rebase_path(".", "//")
 
@@ -102,6 +112,7 @@ generate_grd("build_grd") {
     "$target_gen_dir/modules/photos/images/resources.grdp",
     "$target_gen_dir/modules/recipes_v2/icons/resources.grdp",
     "$target_gen_dir/realbox/icons/resources.grdp",
+    #"$target_gen_dir/widgets/resources.grdp",
   ]
 
   deps = [
@@ -111,6 +122,7 @@ generate_grd("build_grd") {
     "modules/photos/images:build_grdp",
     "modules/recipes_v2/icons:build_grdp",
     "realbox/icons:build_grdp",
+    #"widgets:build_grdp",
   ]
 
   if (optimize_webui) {

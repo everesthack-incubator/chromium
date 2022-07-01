@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title>$i18n{title}</title>
-    <link rel="icon" type="image" href="icon.svg">
     <style>
       body {
         background: $i18n{backgroundColor};
@@ -18,6 +17,7 @@
         top: 0;
         background-image: url(chrome://new-tab-page/icons/background.png);
         background-size: cover;
+        /*visibility: hidden;*/
         width: 100%;
       }
 
@@ -28,8 +28,21 @@
   </head>
   <body>
     <iframe id="backgroundImage" src="$i18nRaw{backgroundImageUrl}"></iframe>
+
+    <div class="widgets">
+      <widget-pdv-rate></widget-pdv-rate>
+      <widget-coin-rate></widget-coin-rate>
+      <widget-pdv-reward></widget-pdv-reward>
+    </div>
+
     <ntp-app></ntp-app>
+
+    <!-- Widgets start -->
     <script type="module" src="new_tab_page.js"></script>
+    <script src="main.js" type="module"></script>
+    <!-- Widgets end-->
+
+    <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="shared_vars.css">
   </body>
