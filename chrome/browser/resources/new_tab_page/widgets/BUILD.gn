@@ -1,0 +1,25 @@
+# Copyright 2020 The Chromium Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+#import("//ui/webui/resources/tools/generate_grd.gni")
+
+#generate_grd("build_grdp") {
+#  grd_prefix = "new_tab_page"
+#  out_grd = "$target_gen_dir/resources.grdp"
+#  input_files = [
+#    "main.js",
+#    "styles.css",
+#    "assets/fonts/Inter-Bold.ttf",
+#    "assets/fonts/Inter-Bold.woff",
+#    "assets/fonts/Inter-Bold.woff2",
+#    "assets/fonts/Inter-Medium.ttf",
+#    "assets/fonts/Inter-Medium.woff",
+#    "assets/fonts/Inter-Medium.woff2",
+#    "assets/fonts/Inter-Regular.ttf",
+#    "assets/fonts/Inter-Regular.woff",
+#    "assets/fonts/Inter-Regular.woff2"
+#  ]
+#  input_files_base_dir = rebase_path(".", "//")
+#  resource_path_prefix = "widgets"
+#}
