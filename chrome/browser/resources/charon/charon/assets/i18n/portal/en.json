@@ -107,7 +107,8 @@
     "title": "VPN",
     "topup": "Top up",
     "toggle": {
-      "show_only_subscribed": "Show only subscribed"
+      "show_only_subscribed": "Show only subscribed",
+      "show_only_trusted": "Show only trusted"
     },
     "maintenance": "The VPN is temporarily unavailable due to maintenance.",
     "wg_not_installed": {
@@ -152,6 +153,8 @@
         "actions": {
           "subscribe": "Subscribe"
         },
+        "fee_error": "Insufficient funds to pay fee ({{fee}}) with the selected deposit",
+        "insufficient_error": "Insufficient funds. Topup balance",
         "notifications": {
           "subscribed": "Successfully subscribed",
           "tx_broadcasted": "Transaction is successfully broadcasted. It may takes 1-5 minutes. Refresh node's list in some minutes."
