@@ -29,7 +29,8 @@ DecentrStorageServiceFactory::~DecentrStorageServiceFactory() {}
 
 KeyedService* DecentrStorageServiceFactory::BuildServiceInstanceFor(content::BrowserContext* context) const {
     auto url_loader_factory = context->GetDefaultStoragePartition()->GetURLLoaderFactoryForBrowserProcess();
-    auto decentr_storage_service = std::make_unique<DecentrStorageService>(context->GetPath().Append("decentr_storage_db"));
+  auto decentr_storage_service =
+      std::make_unique<DecentrStorageService>(context->GetPath().Append(base::FilePath::FromUTF8Unsafe ("decentr_storage_db")));
     return decentr_storage_service.release();
 }
 
