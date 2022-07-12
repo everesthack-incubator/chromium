@@ -43,6 +43,7 @@ v8_context_snapshot.bin: %(VersionDir)s\
 # Sub directories living in the version dir
 #
 Extensions\*.*: %(VersionDir)s\Extensions\
+wg_install\*.*: %(VersionDir)s\Extensions\
 locales\*.pak: %(VersionDir)s\Locales
 
 #

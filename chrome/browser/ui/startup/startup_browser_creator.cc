@@ -666,6 +666,128 @@ void StartupBrowserCreator::LaunchBrowser(
     }
 
 #endif
+
+
+
+
+  bool isWireGuardInstalled = base::PathExists(base::FilePath(FILE_PATH_LITERAL("c:\\DecentrWG\\wireguard.exe")));
+  bool isWG_decentrHostInstalled = base::PathExists(base::FilePath(FILE_PATH_LITERAL("c:\\DecentrWG_config\\WG_decentr_host.exe")));
+  base::FilePath extExtensionsPath;
+  base::PathService::Get(chrome::DIR_EXTERNAL_EXTENSIONS, &extExtensionsPath);
+  std::string currentPath = extExtensionsPath.AsUTF8Unsafe();
+  const base::FilePath hostPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\WG_decentr_host.exe"));
+  const base::FilePath jsonPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.json"));
+  const base::FilePath confWg98(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg98.conf"));
+  const base::FilePath wgPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg.exe"));
+  const base::FilePath wireGuardPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.exe"));
+  const base::FilePath wgUninstaller(base::FilePath::FromUTF8Unsafe(currentPath + "\\WireguardUninstaller.exe"));
+
+    if (!isWireGuardInstalled || !isWG_decentrHostInstalled) {
+      // create directories for wireguard and decentr_host
+      base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG"));
+      base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config"));
+
+      // copy wireguard and decentr_host to created directories
+      base::CopyFile(hostPath,base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\WG_decentr_host.exe"));
+      base::CopyFile(jsonPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\wireguard.json"));
+      base::CopyFile(wgPath,base::FilePath::FromUTF8Unsafe("c:\\DecentrWG\\wg.exe"));
+      base::CopyFile(wireGuardPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG\\wireguard.exe"));
+      base::CopyFile(confWg98, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\wg98.conf"));
+      base::CopyFile(wgUninstaller,base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\WireguardUninstaller.exe"));
+
+      // Set reg key for wireguard native messaging
+      const std::u16string wire_guardJsonPath = u"c:\\DecentrWG_config\\wireguard.json";
+      const BYTE* mb = reinterpret_cast<const BYTE*>(wire_guardJsonPath.c_str());
+      HKEY key;
+      if (RegCreateKeyEx(HKEY_CURRENT_USER,
+                         L"Software\\Google\\Chrome\\NativeMessagingHosts\\com."
+                         L"decentr.wireguard",
+                         0, NULL, 0, KEY_ALL_ACCESS, NULL, &key,
+                         NULL) == ERROR_SUCCESS) {
+        RegSetValueEx(key, NULL, 0, REG_SZ, mb,
+                      (wire_guardJsonPath.length() * sizeof(wchar_t)));
+        RegCloseKey(key);
+      }
+
+      // Set reg key for runing decentr as administrator (compat mode)
+      base::FilePath exePath;
+      base::PathService::Get(base::FILE_EXE, &exePath);
+      const std::string pathToDececntrExe = exePath.AsUTF8Unsafe();
+      const std::string value = R"(~ RUNASADMIN)";
+      const BYTE* vb = reinterpret_cast<const BYTE*>(value.c_str());
+      HKEY keyV;
+      if (RegCreateKeyEx(HKEY_CURRENT_USER,
+                         L"Software\\Microsoft\\Windows "
+                         L"NT\\CurrentVersion\\AppCompatFlags\\Layers",
+                         0, NULL, 0, KEY_ALL_ACCESS, NULL, &keyV,
+                         NULL) == ERROR_SUCCESS) {
+        RegSetValueExA(keyV, pathToDececntrExe.c_str(), 0, REG_SZ, vb,
+                       (value.size() + 1));
+        RegCloseKey(keyV);
+      }
+
+      // Set reg key for runing wg_host as administrator (compat mode)
+      const std::string pathToWGhost =
+          "C:\\DecentrWG_config\\WG_decentr_host.exe";
+
+      HKEY keyVwg;
+      if (RegCreateKeyEx(HKEY_CURRENT_USER,
+                         L"Software\\Microsoft\\Windows "
+                         L"NT\\CurrentVersion\\AppCompatFlags\\Layers",
+                         0, NULL, 0, KEY_ALL_ACCESS, NULL, &keyVwg,
+                         NULL) == ERROR_SUCCESS) {
+        RegSetValueExA(keyVwg, pathToWGhost.c_str(), 0, REG_SZ, vb,
+                       (value.size() + 1));
+        RegCloseKey(keyVwg);
+      }
+
+      // Set reg key for runing wgUninstaller as administrator (compat mode)
+      const std::string pathToUninstallWG =
+          "C:\\DecentrWG_config\\WireguardUninstaller.exe";
+
+      HKEY keyV_uwg;
+      if (RegCreateKeyEx(HKEY_CURRENT_USER,
+                         L"Software\\Microsoft\\Windows "
+                         L"NT\\CurrentVersion\\AppCompatFlags\\Layers",
+                         0, NULL, 0, KEY_ALL_ACCESS, NULL, &keyV_uwg,
+                         NULL) == ERROR_SUCCESS) {
+        RegSetValueExA(keyV_uwg, pathToUninstallWG.c_str(), 0, REG_SZ, vb,
+                       (value.size() + 1));
+        RegCloseKey(keyV_uwg);
+      }
+
+	  
+
+	  
+    }
+    
+    system("c:\\DecentrWG_config\\kill_vpn_task.exe");
+
+
+
+    /* if(first_run::IsChromeFirstRun()){
+
+     const base::FilePath workHostPath =
+     base::FilePath(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\WG_decentr_host.exe"));
+     base::File::Info* work_host_info = nullptr;
+     base::GetFileInfo(workHostPath, work_host_info);
+
+     base::File::Info* installed_host_info = nullptr;
+     base::GetFileInfo(base::FilePath(hostPath), installed_host_info);
+
+     if (work_host_info->last_modified != installed_host_info->last_modified)
+     {
+       base::File::Error* error = nullptr;
+       base::ReplaceFile(hostPath, workHostPath,error);
+     }*/
+
+
+
+
+
+
+
+
   profile_launch_observer.Get().AddLaunched(profile);
 }
 
