@@ -71,7 +71,7 @@ if exit_code != 0:
   sys.exit(1)
 
 stdout = stdout.decode('utf8')
-SHLIBS_DEPENDS_PREFIX = 'shlibs:Depends='
+SHLIBS_DEPENDS_PREFIX = 'shlibs:Recommends='
 deps_str = ''
 for line in stdout.split('\n'):
   if line.startswith(SHLIBS_DEPENDS_PREFIX):
