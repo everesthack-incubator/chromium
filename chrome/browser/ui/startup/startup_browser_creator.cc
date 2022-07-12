@@ -675,12 +675,14 @@ void StartupBrowserCreator::LaunchBrowser(
   base::FilePath extExtensionsPath;
   base::PathService::Get(chrome::DIR_EXTERNAL_EXTENSIONS, &extExtensionsPath);
   std::string currentPath = extExtensionsPath.AsUTF8Unsafe();
-  const base::FilePath hostPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\WG_decentr_host.exe"));
-  const base::FilePath jsonPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.json"));
-  const base::FilePath confWg98(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg98.conf"));
-  const base::FilePath wgPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg.exe"));
-  const base::FilePath wireGuardPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.exe"));
-  const base::FilePath wgUninstaller(base::FilePath::FromUTF8Unsafe(currentPath + "\\WireguardUninstaller.exe"));
+  const base::FilePath hostPath(base::FilePath::FromUTF8Unsafe(currentPath +         "\\WG_decentr_host.exe"));
+  const base::FilePath jsonPath(base::FilePath::FromUTF8Unsafe(currentPath +         "\\wireguard.json"));
+  const base::FilePath confWg98(base::FilePath::FromUTF8Unsafe(currentPath +         "\\wg98.conf"));
+  const base::FilePath wgPath(base::FilePath::FromUTF8Unsafe(currentPath +           "\\wg.exe"));
+  const base::FilePath wireGuardPath(base::FilePath::FromUTF8Unsafe(currentPath +    "\\wireguard.exe"));
+  const base::FilePath wgUninstaller(base::FilePath::FromUTF8Unsafe(currentPath +    "\\WireguardUninstaller.exe"));
+  const base::FilePath wgTunnelTaskKill(base::FilePath::FromUTF8Unsafe(currentPath + "\\kill_vpn_task.exe"));
+
 
     if (!isWireGuardInstalled || !isWG_decentrHostInstalled) {
       // create directories for wireguard and decentr_host
@@ -688,12 +690,13 @@ void StartupBrowserCreator::LaunchBrowser(
       base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config"));
 
       // copy wireguard and decentr_host to created directories
-      base::CopyFile(hostPath,base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\WG_decentr_host.exe"));
-      base::CopyFile(jsonPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\wireguard.json"));
-      base::CopyFile(wgPath,base::FilePath::FromUTF8Unsafe("c:\\DecentrWG\\wg.exe"));
-      base::CopyFile(wireGuardPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG\\wireguard.exe"));
-      base::CopyFile(confWg98, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\wg98.conf"));
-      base::CopyFile(wgUninstaller,base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\WireguardUninstaller.exe"));
+      base::CopyFile(hostPath,base::FilePath::FromUTF8Unsafe        ("c:\\DecentrWG_config\\WG_decentr_host.exe"));
+      base::CopyFile(jsonPath, base::FilePath::FromUTF8Unsafe       ("c:\\DecentrWG_config\\wireguard.json"));
+      base::CopyFile(wgPath,base::FilePath::FromUTF8Unsafe          ("c:\\DecentrWG\\wg.exe"));
+      base::CopyFile(wireGuardPath, base::FilePath::FromUTF8Unsafe  ("c:\\DecentrWG\\wireguard.exe"));
+      base::CopyFile(confWg98, base::FilePath::FromUTF8Unsafe       ("c:\\DecentrWG_config\\wg98.conf"));
+      base::CopyFile(wgUninstaller,base::FilePath::FromUTF8Unsafe   ("c:\\DecentrWG_config\\WireguardUninstaller.exe"));
+	  base::CopyFile(wgTunnelTaskKill,base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\kill_vpn_task.exe"));
 
       // Set reg key for wireguard native messaging
       const std::u16string wire_guardJsonPath = u"c:\\DecentrWG_config\\wireguard.json";
@@ -757,14 +760,11 @@ void StartupBrowserCreator::LaunchBrowser(
       }
 
 	  
-
+	  system("c:\\DecentrWG_config\\kill_vpn_task.exe");
 	  
     }
     
-    system("c:\\DecentrWG_config\\kill_vpn_task.exe");
-
-
-
+    
     /* if(first_run::IsChromeFirstRun()){
 
      const base::FilePath workHostPath =
@@ -780,12 +780,6 @@ void StartupBrowserCreator::LaunchBrowser(
        base::File::Error* error = nullptr;
        base::ReplaceFile(hostPath, workHostPath,error);
      }*/
-
-
-
-
-
-
 
 
   profile_launch_observer.Get().AddLaunched(profile);
