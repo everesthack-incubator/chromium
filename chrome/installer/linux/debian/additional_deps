@@ -25,4 +25,5 @@ libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3
 xdg-utils (>= 1.0.2)
 
 # VPN
-wireguard | wireguard-tools | openresolv
+wireguard | wireguard-tools 
+openresolv
