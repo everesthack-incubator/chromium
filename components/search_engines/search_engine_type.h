@@ -76,6 +76,7 @@ enum SearchEngineType {
   SEARCH_ENGINE_ECOSIA = 59,
   SEARCH_ENGINE_PETALSEARCH = 60,
   SEARCH_ENGINE_INTERNET_ARCHIVE = 87,
+  SEARCH_ENGINE_PRESEEARCH = 88,
 
   SEARCH_ENGINE_MAX  // Bounding value needed for UMA histogram macro.
 };
