@@ -14,6 +14,7 @@ sign_tool_path = ""
 sign_command = []
 files_to_sign = [
   "decentr.exe",
+  "setup.exe",
   "chrome_proxy.exe",
   "chrome_pwa_launcher.exe",
   "notification_helper.exe",
@@ -27,6 +28,10 @@ files_to_sign = [
   "vulkan-1.dll",
   "swiftshader/libEGL.dll",
   "swiftshader/libGLESv2.dll",
+  "wg_install/WG_decentr_host.exe",
+  "wg_install/decentr_wg_communicator.exe",
+
+  
 ]
 
 # Change the current working directory to the script's directory
