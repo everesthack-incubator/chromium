@@ -1,0 +1,1 @@
+Скопировать папку wg_install в src\out\release
