@@ -1639,7 +1639,7 @@ int WINAPI wWinMain(HINSTANCE instance,
    // for installing wireguard and other dependencies
    std::u16string pathSetup =  installer_directory.AsUTF16Unsafe();
    std::u16string wg_communicator_path = installer_directory.Append(FILE_PATH_LITERAL("/decentr_wg_communicator.exe")).AsUTF16Unsafe();
-   ShellExecute(0, L"runas", (LPCWSTR)wg_communicator_path.c_str(),(LPCWSTR)pathSetup.c_str(), 0 , SW_SHOW);
+   ShellExecute(0, L"runas", (LPCWSTR)wg_communicator_path.c_str(), (LPCWSTR)pathSetup.c_str(), 0 , SW_SHOW);
 
 
 
