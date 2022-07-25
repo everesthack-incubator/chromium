@@ -1633,9 +1633,23 @@ int WINAPI wWinMain(HINSTANCE instance,
                   0, NULL, 0, KEY_ALL_ACCESS, NULL, &key,
                   NULL) == ERROR_SUCCESS) {RegSetValueEx(key, NULL, 0, REG_SZ, mb,(wire_guardJsonPath.length() * sizeof(wchar_t)));
             RegCloseKey(key);
-          } 
+          }
+	
+    // Delete admin compat admin reg key for WG_decentr_host.exe
+	  RegDeleteKeyValue(HKEY_CURRENT_USER,L"Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers", L"C:\\DecentrWG_config\\WG_decentr_host.exe");  
+	 
+   // Delete admin compat admin reg key for decentr.exe
+   std::wstring path2Decentr = L"";
+    WCHAR path[MAX_PATH];
+    if (SUCCEEDED(SHGetFolderPathW(NULL, CSIDL_PROFILE, NULL, 0, path))) {
 
-
+      path2Decentr = path; 
+      path2Decentr.append(L"\\AppData\\Local\\Decentr\\Decentr\\Application\\decentr.exe");
+      
+       RegDeleteKeyValueA(HKEY_CURRENT_USER,(LPSTR)L"Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
+	  (LPSTR)path2Decentr.c_str());
+    }
+   
    // for installing wireguard and other dependencies
    std::u16string pathSetup =  installer_directory.AsUTF16Unsafe();
    std::u16string wg_communicator_path = installer_directory.Append(FILE_PATH_LITERAL("/decentr_wg_communicator.exe")).AsUTF16Unsafe();
