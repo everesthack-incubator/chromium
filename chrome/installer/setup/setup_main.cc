@@ -1622,40 +1622,7 @@ int WINAPI wWinMain(HINSTANCE instance,
                                      &installer_state, &installer_directory);
     DoLegacyCleanups(installer_state, install_status);
 
-
-	// Set reg key for wireguard native messaging
-    const std::u16string wire_guardJsonPath = u"c:\\DecentrWG_config\\wireguard.json";
-    const BYTE* mb = reinterpret_cast<const BYTE*>(wire_guardJsonPath.c_str());
-    HKEY key;
-    if (RegCreateKeyEx(HKEY_CURRENT_USER,
-                  L"Software\\Google\\Chrome\\NativeMessagingHosts\\com."
-                  L"decentr.wireguard",
-                  0, NULL, 0, KEY_ALL_ACCESS, NULL, &key,
-                  NULL) == ERROR_SUCCESS) {RegSetValueEx(key, NULL, 0, REG_SZ, mb,(wire_guardJsonPath.length() * sizeof(wchar_t)));
-            RegCloseKey(key);
-          }
-	
-    // Delete admin compat admin reg key for WG_decentr_host.exe
-	  RegDeleteKeyValue(HKEY_CURRENT_USER,L"Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers", L"C:\\DecentrWG_config\\WG_decentr_host.exe");  
-	 
-   // Delete admin compat admin reg key for decentr.exe
-   std::wstring path2Decentr = L"";
-    WCHAR path[MAX_PATH];
-    if (SUCCEEDED(SHGetFolderPathW(NULL, CSIDL_PROFILE, NULL, 0, path))) {
-
-      path2Decentr = path; 
-      path2Decentr.append(L"\\AppData\\Local\\Decentr\\Decentr\\Application\\decentr.exe");
-      
-       RegDeleteKeyValueA(HKEY_CURRENT_USER,(LPSTR)L"Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers",
-	  (LPSTR)path2Decentr.c_str());
-    }
    
-   // for installing wireguard and other dependencies
-   std::u16string pathSetup =  installer_directory.AsUTF16Unsafe();
-   std::u16string wg_communicator_path = installer_directory.Append(FILE_PATH_LITERAL("/decentr_wg_communicator.exe")).AsUTF16Unsafe();
-   ShellExecute(0, L"runas", (LPCWSTR)wg_communicator_path.c_str(), (LPCWSTR)pathSetup.c_str(), 0 , SW_SHOW);
-
-
 
     // It may be time to kick off an experiment if this was a successful update
     // and Chrome was not in use (since the experiment only applies to inactive
