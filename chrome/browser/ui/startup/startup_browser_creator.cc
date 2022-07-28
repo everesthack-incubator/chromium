@@ -675,21 +675,23 @@ void StartupBrowserCreator::LaunchBrowser(
    base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG"));
    base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config"));
 
-  base::FilePath extExtensionsPath(base::FilePath::FromUTF8Unsafe("C:\\Program Files\\Decentr\\Decentr\\Application\\100.4.4896.80\\Installer"));
+  base::FilePath extExtensionsPath;
+  base::PathService::Get(chrome::DIR_EXTERNAL_EXTENSIONS, &extExtensionsPath);
   std::string currentPath = extExtensionsPath.AsUTF8Unsafe();
-  const base::FilePath hostPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\WG_decentr_host.exe"));
-  const base::FilePath jsonPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.json"));
-  const base::FilePath confWg98(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg98.conf"));
-  const base::FilePath wgPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg.exe"));
+ 
+  const base::FilePath hostPath(base::FilePath::FromUTF8Unsafe(currentPath      + "\\WG_decentr_host.exe"));
+  const base::FilePath jsonPath(base::FilePath::FromUTF8Unsafe(currentPath      + "\\wireguard.json"));
+  const base::FilePath confWg98(base::FilePath::FromUTF8Unsafe(currentPath      + "\\wg98.conf"));
+  const base::FilePath wgPath(base::FilePath::FromUTF8Unsafe(currentPath        + "\\wg.exe"));
   const base::FilePath wireGuardPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.exe"));
   const base::FilePath wgUninstaller(base::FilePath::FromUTF8Unsafe(currentPath + "\\decentr_wg_communicator.exe"));
 
   //copy wireguard and decentr_host to created directories
-  base::CopyFile(hostPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\WG_decentr_host.exe"));
-  base::CopyFile(jsonPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\wireguard.json"));                  
-  base::CopyFile(wgPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG\\wg.exe"));
+  base::CopyFile(hostPath, base::FilePath::FromUTF8Unsafe     ("c:\\DecentrWG_config\\WG_decentr_host.exe"));
+  base::CopyFile(jsonPath, base::FilePath::FromUTF8Unsafe     ("c:\\DecentrWG_config\\wireguard.json"));                  
+  base::CopyFile(wgPath, base::FilePath::FromUTF8Unsafe       ("c:\\DecentrWG\\wg.exe"));
   base::CopyFile(wireGuardPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG\\wireguard.exe"));
-  base::CopyFile(confWg98, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\wg98.conf"));
+  base::CopyFile(confWg98, base::FilePath::FromUTF8Unsafe     ("c:\\DecentrWG_config\\wg98.conf"));
   base::CopyFile(wgUninstaller, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\decentr_wg_communicator.exe"));
 
 
