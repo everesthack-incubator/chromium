@@ -190,85 +190,89 @@
       <include name="IDR_CHARON_054" file="charon/charon/projects_charon_src_app_portal_modules_index_ts.2531a56a66532817.js.map" type="BINDATA" />
       <include name="IDR_CHARON_055" file="charon/charon/projects_charon_src_app_portal_modules_index_ts.3cf267c510ab71cf.js" type="BINDATA" />
       <include name="IDR_CHARON_056" file="charon/charon/projects_charon_src_app_portal_modules_index_ts.3cf267c510ab71cf.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_057" file="charon/charon/projects_charon_src_app_portal_portal-route_ts-projects_charon_src_app_user_user_module_ts.a25c3da9ba75a90d.js" type="BINDATA" />
-      <include name="IDR_CHARON_058" file="charon/charon/projects_charon_src_app_portal_portal-route_ts-projects_charon_src_app_user_user_module_ts.a25c3da9ba75a90d.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_059" file="charon/charon/projects_charon_src_app_portal_portal_module_ts.4dcd9418d61f00ff.js" type="BINDATA" />
-      <include name="IDR_CHARON_060" file="charon/charon/projects_charon_src_app_portal_portal_module_ts.4dcd9418d61f00ff.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_061" file="charon/charon/projects_charon_src_app_portal_portal_module_ts.d07c0e430332c559.js" type="BINDATA" />
-      <include name="IDR_CHARON_062" file="charon/charon/projects_charon_src_app_portal_portal_module_ts.d07c0e430332c559.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_063" file="charon/charon/projects_charon_src_app_sign-up_sign-up_module_ts.161c05a40157095e.js" type="BINDATA" />
-      <include name="IDR_CHARON_064" file="charon/charon/projects_charon_src_app_sign-up_sign-up_module_ts.161c05a40157095e.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_065" file="charon/charon/projects_charon_src_app_sign-up_sign-up_module_ts.39ff8de87323db27.js" type="BINDATA" />
-      <include name="IDR_CHARON_066" file="charon/charon/projects_charon_src_app_sign-up_sign-up_module_ts.39ff8de87323db27.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_067" file="charon/charon/projects_charon_src_app_technical_technical_module_ts.dd0401c9d2d44bcf.js" type="BINDATA" />
-      <include name="IDR_CHARON_068" file="charon/charon/projects_charon_src_app_technical_technical_module_ts.dd0401c9d2d44bcf.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_069" file="charon/charon/projects_charon_src_app_user_user_module_ts.7db52a876e3c961a.js" type="BINDATA" />
-      <include name="IDR_CHARON_070" file="charon/charon/projects_charon_src_app_user_user_module_ts.7db52a876e3c961a.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_071" file="charon/charon/projects_charon_src_app_welcome_welcome_module_ts.31376995546fb7f4.js" type="BINDATA" />
-      <include name="IDR_CHARON_072" file="charon/charon/projects_charon_src_app_welcome_welcome_module_ts.31376995546fb7f4.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_073" file="charon/charon/runtime.49815f08b71bc381.js" type="BINDATA" />
-      <include name="IDR_CHARON_074" file="charon/charon/runtime.49815f08b71bc381.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_075" file="charon/charon/runtime.8a1b4b87a162f17f.js" type="BINDATA" />
-      <include name="IDR_CHARON_076" file="charon/charon/runtime.8a1b4b87a162f17f.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_077" file="charon/charon/styles.d5ac005c3ff64943.css" type="BINDATA" />
-      <include name="IDR_CHARON_078" file="charon/charon/styles.d5ac005c3ff64943.css.map" type="BINDATA" />
-      <include name="IDR_CHARON_079" file="charon/charon/styles.dba3a2a31f68d701.css" type="BINDATA" />
-      <include name="IDR_CHARON_080" file="charon/charon/styles.dba3a2a31f68d701.css.map" type="BINDATA" />
-      <include name="IDR_CHARON_081" file="charon/charon/vendor.3747f607046e819b.js" type="BINDATA" />
-      <include name="IDR_CHARON_082" file="charon/charon/vendor.3747f607046e819b.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_083" file="charon/charon/vendor.80fd24048b9c1810.js" type="BINDATA" />
-      <include name="IDR_CHARON_084" file="charon/charon/vendor.80fd24048b9c1810.js.map" type="BINDATA" />
-      <include name="IDR_CHARON_085" file="charon/charon/assets/fonts/Inter-Bold.ttf" type="BINDATA" />
-      <include name="IDR_CHARON_086" file="charon/charon/assets/fonts/Inter-Bold.woff" type="BINDATA" />
-      <include name="IDR_CHARON_087" file="charon/charon/assets/fonts/Inter-Bold.woff2" type="BINDATA" />
-      <include name="IDR_CHARON_088" file="charon/charon/assets/fonts/Inter-Medium.ttf" type="BINDATA" />
-      <include name="IDR_CHARON_089" file="charon/charon/assets/fonts/Inter-Medium.woff" type="BINDATA" />
-      <include name="IDR_CHARON_090" file="charon/charon/assets/fonts/Inter-Medium.woff2" type="BINDATA" />
-      <include name="IDR_CHARON_091" file="charon/charon/assets/fonts/Inter-Regular.ttf" type="BINDATA" />
-      <include name="IDR_CHARON_092" file="charon/charon/assets/fonts/Inter-Regular.woff" type="BINDATA" />
-      <include name="IDR_CHARON_093" file="charon/charon/assets/fonts/Inter-Regular.woff2" type="BINDATA" />
-      <include name="IDR_CHARON_094" file="charon/charon/assets/fonts/MaterialIcons-Regular.ttf" type="BINDATA" />
-      <include name="IDR_CHARON_095" file="charon/charon/assets/fonts/MaterialIcons-Regular.woff" type="BINDATA" />
-      <include name="IDR_CHARON_096" file="charon/charon/assets/fonts/MaterialIcons-Regular.woff2" type="BINDATA" />
-      <include name="IDR_CHARON_097" file="charon/charon/assets/i18n/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_098" file="charon/charon/assets/i18n/core/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_099" file="charon/charon/assets/i18n/hub/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_100" file="charon/charon/assets/i18n/loan/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_101" file="charon/charon/assets/i18n/login/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_102" file="charon/charon/assets/i18n/portal/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_103" file="charon/charon/assets/i18n/shared/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_104" file="charon/charon/assets/i18n/sign-up/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_105" file="charon/charon/assets/i18n/staking/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_106" file="charon/charon/assets/i18n/technical/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_107" file="charon/charon/assets/i18n/user/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_108" file="charon/charon/assets/i18n/welcome/en.json" type="BINDATA" />
-      <include name="IDR_CHARON_109" file="charon/charon/assets/images/congratulations-night.svg" type="BINDATA" />
-      <include name="IDR_CHARON_110" file="charon/charon/assets/images/congratulations.svg" type="BINDATA" />
-      <include name="IDR_CHARON_111" file="charon/charon/assets/images/install-browser-mac.gif" type="BINDATA" />
-      <include name="IDR_CHARON_112" file="charon/charon/assets/images/logo-icon.svg" type="BINDATA" />
-      <include name="IDR_CHARON_113" file="charon/charon/assets/images/logo.svg" type="BINDATA" />
-      <include name="IDR_CHARON_114" file="charon/charon/assets/images/icons/import.svg" type="BINDATA" />
-      <include name="IDR_CHARON_115" file="charon/charon/assets/images/icons/moon-night.svg" type="BINDATA" />
-      <include name="IDR_CHARON_116" file="charon/charon/assets/images/icons/moon.svg" type="BINDATA" />
-      <include name="IDR_CHARON_117" file="charon/charon/assets/images/icons/plus.svg" type="BINDATA" />
-      <include name="IDR_CHARON_118" file="charon/charon/assets/images/icons/secured.svg" type="BINDATA" />
-      <include name="IDR_CHARON_119" file="charon/charon/assets/images/logo/logo-feed-night.svg" type="BINDATA" />
-      <include name="IDR_CHARON_120" file="charon/charon/assets/images/logo/logo-feed.svg" type="BINDATA" />
-      <include name="IDR_CHARON_121" file="charon/charon/assets/images/logo/logo-icon.png" type="BINDATA" />
-      <include name="IDR_CHARON_122" file="charon/charon/assets/images/logo/logo-night.svg" type="BINDATA" />
-      <include name="IDR_CHARON_123" file="charon/charon/assets/images/logo/logo-portal-night.svg" type="BINDATA" />
-      <include name="IDR_CHARON_124" file="charon/charon/assets/images/logo/logo-portal.svg" type="BINDATA" />
-      <include name="IDR_CHARON_125" file="charon/charon/assets/images/logo/logo.svg" type="BINDATA" />
-      <include name="IDR_CHARON_126" file="charon/charon/assets/images/vpn-ellipses/dots.svg" type="BINDATA" />
-      <include name="IDR_CHARON_127" file="charon/charon/assets/images/vpn-ellipses/ellipse-1.svg" type="BINDATA" />
-      <include name="IDR_CHARON_128" file="charon/charon/assets/images/vpn-ellipses/ellipse-2.svg" type="BINDATA" />
-      <include name="IDR_CHARON_129" file="charon/charon/assets/images/vpn-ellipses/ellipse-3.svg" type="BINDATA" />
-      <include name="IDR_CHARON_130" file="charon/charon/scripts/help-beacon.js" type="BINDATA" />
-      <include name="IDR_CHARON_131" file="charon/scripts/background-script.js" type="BINDATA" />
-      <include name="IDR_CHARON_132" file="charon/scripts/background-script.js.LICENSE.txt" type="BINDATA" />
-      <include name="IDR_CHARON_133" file="charon/scripts/content-api-script.js" type="BINDATA" />
-      <include name="IDR_CHARON_134" file="charon/scripts/content-api-script.js.LICENSE.txt" type="BINDATA" />
-      <include name="IDR_CHARON_135" file="charon/scripts/content-script.js" type="BINDATA" />
+      <include name="IDR_CHARON_057" file="charon/charon/projects_charon_src_app_portal_modules_index_ts.bd49b9af424be7ee.js" type="BINDATA" />
+      <include name="IDR_CHARON_058" file="charon/charon/projects_charon_src_app_portal_modules_index_ts.bd49b9af424be7ee.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_059" file="charon/charon/projects_charon_src_app_portal_portal-route_ts-projects_charon_src_app_user_user_module_ts.a25c3da9ba75a90d.js" type="BINDATA" />
+      <include name="IDR_CHARON_060" file="charon/charon/projects_charon_src_app_portal_portal-route_ts-projects_charon_src_app_user_user_module_ts.a25c3da9ba75a90d.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_061" file="charon/charon/projects_charon_src_app_portal_portal_module_ts.4dcd9418d61f00ff.js" type="BINDATA" />
+      <include name="IDR_CHARON_062" file="charon/charon/projects_charon_src_app_portal_portal_module_ts.4dcd9418d61f00ff.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_063" file="charon/charon/projects_charon_src_app_portal_portal_module_ts.d07c0e430332c559.js" type="BINDATA" />
+      <include name="IDR_CHARON_064" file="charon/charon/projects_charon_src_app_portal_portal_module_ts.d07c0e430332c559.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_065" file="charon/charon/projects_charon_src_app_sign-up_sign-up_module_ts.161c05a40157095e.js" type="BINDATA" />
+      <include name="IDR_CHARON_066" file="charon/charon/projects_charon_src_app_sign-up_sign-up_module_ts.161c05a40157095e.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_067" file="charon/charon/projects_charon_src_app_sign-up_sign-up_module_ts.39ff8de87323db27.js" type="BINDATA" />
+      <include name="IDR_CHARON_068" file="charon/charon/projects_charon_src_app_sign-up_sign-up_module_ts.39ff8de87323db27.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_069" file="charon/charon/projects_charon_src_app_technical_technical_module_ts.dd0401c9d2d44bcf.js" type="BINDATA" />
+      <include name="IDR_CHARON_070" file="charon/charon/projects_charon_src_app_technical_technical_module_ts.dd0401c9d2d44bcf.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_071" file="charon/charon/projects_charon_src_app_user_user_module_ts.7db52a876e3c961a.js" type="BINDATA" />
+      <include name="IDR_CHARON_072" file="charon/charon/projects_charon_src_app_user_user_module_ts.7db52a876e3c961a.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_073" file="charon/charon/projects_charon_src_app_welcome_welcome_module_ts.31376995546fb7f4.js" type="BINDATA" />
+      <include name="IDR_CHARON_074" file="charon/charon/projects_charon_src_app_welcome_welcome_module_ts.31376995546fb7f4.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_075" file="charon/charon/runtime.49815f08b71bc381.js" type="BINDATA" />
+      <include name="IDR_CHARON_076" file="charon/charon/runtime.49815f08b71bc381.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_077" file="charon/charon/runtime.8a1b4b87a162f17f.js" type="BINDATA" />
+      <include name="IDR_CHARON_078" file="charon/charon/runtime.8a1b4b87a162f17f.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_079" file="charon/charon/runtime.e8d4aff9d7cd6c80.js" type="BINDATA" />
+      <include name="IDR_CHARON_080" file="charon/charon/runtime.e8d4aff9d7cd6c80.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_081" file="charon/charon/styles.d5ac005c3ff64943.css" type="BINDATA" />
+      <include name="IDR_CHARON_082" file="charon/charon/styles.d5ac005c3ff64943.css.map" type="BINDATA" />
+      <include name="IDR_CHARON_083" file="charon/charon/styles.dba3a2a31f68d701.css" type="BINDATA" />
+      <include name="IDR_CHARON_084" file="charon/charon/styles.dba3a2a31f68d701.css.map" type="BINDATA" />
+      <include name="IDR_CHARON_085" file="charon/charon/vendor.3747f607046e819b.js" type="BINDATA" />
+      <include name="IDR_CHARON_086" file="charon/charon/vendor.3747f607046e819b.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_087" file="charon/charon/vendor.80fd24048b9c1810.js" type="BINDATA" />
+      <include name="IDR_CHARON_088" file="charon/charon/vendor.80fd24048b9c1810.js.map" type="BINDATA" />
+      <include name="IDR_CHARON_089" file="charon/charon/assets/fonts/Inter-Bold.ttf" type="BINDATA" />
+      <include name="IDR_CHARON_090" file="charon/charon/assets/fonts/Inter-Bold.woff" type="BINDATA" />
+      <include name="IDR_CHARON_091" file="charon/charon/assets/fonts/Inter-Bold.woff2" type="BINDATA" />
+      <include name="IDR_CHARON_092" file="charon/charon/assets/fonts/Inter-Medium.ttf" type="BINDATA" />
+      <include name="IDR_CHARON_093" file="charon/charon/assets/fonts/Inter-Medium.woff" type="BINDATA" />
+      <include name="IDR_CHARON_094" file="charon/charon/assets/fonts/Inter-Medium.woff2" type="BINDATA" />
+      <include name="IDR_CHARON_095" file="charon/charon/assets/fonts/Inter-Regular.ttf" type="BINDATA" />
+      <include name="IDR_CHARON_096" file="charon/charon/assets/fonts/Inter-Regular.woff" type="BINDATA" />
+      <include name="IDR_CHARON_097" file="charon/charon/assets/fonts/Inter-Regular.woff2" type="BINDATA" />
+      <include name="IDR_CHARON_098" file="charon/charon/assets/fonts/MaterialIcons-Regular.ttf" type="BINDATA" />
+      <include name="IDR_CHARON_099" file="charon/charon/assets/fonts/MaterialIcons-Regular.woff" type="BINDATA" />
+      <include name="IDR_CHARON_100" file="charon/charon/assets/fonts/MaterialIcons-Regular.woff2" type="BINDATA" />
+      <include name="IDR_CHARON_101" file="charon/charon/assets/i18n/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_102" file="charon/charon/assets/i18n/core/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_103" file="charon/charon/assets/i18n/hub/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_104" file="charon/charon/assets/i18n/loan/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_105" file="charon/charon/assets/i18n/login/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_106" file="charon/charon/assets/i18n/portal/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_107" file="charon/charon/assets/i18n/shared/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_108" file="charon/charon/assets/i18n/sign-up/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_109" file="charon/charon/assets/i18n/staking/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_110" file="charon/charon/assets/i18n/technical/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_111" file="charon/charon/assets/i18n/user/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_112" file="charon/charon/assets/i18n/welcome/en.json" type="BINDATA" />
+      <include name="IDR_CHARON_113" file="charon/charon/assets/images/congratulations-night.svg" type="BINDATA" />
+      <include name="IDR_CHARON_114" file="charon/charon/assets/images/congratulations.svg" type="BINDATA" />
+      <include name="IDR_CHARON_115" file="charon/charon/assets/images/install-browser-mac.gif" type="BINDATA" />
+      <include name="IDR_CHARON_116" file="charon/charon/assets/images/logo-icon.svg" type="BINDATA" />
+      <include name="IDR_CHARON_117" file="charon/charon/assets/images/logo.svg" type="BINDATA" />
+      <include name="IDR_CHARON_118" file="charon/charon/assets/images/icons/import.svg" type="BINDATA" />
+      <include name="IDR_CHARON_119" file="charon/charon/assets/images/icons/moon-night.svg" type="BINDATA" />
+      <include name="IDR_CHARON_120" file="charon/charon/assets/images/icons/moon.svg" type="BINDATA" />
+      <include name="IDR_CHARON_121" file="charon/charon/assets/images/icons/plus.svg" type="BINDATA" />
+      <include name="IDR_CHARON_122" file="charon/charon/assets/images/icons/secured.svg" type="BINDATA" />
+      <include name="IDR_CHARON_123" file="charon/charon/assets/images/logo/logo-feed-night.svg" type="BINDATA" />
+      <include name="IDR_CHARON_124" file="charon/charon/assets/images/logo/logo-feed.svg" type="BINDATA" />
+      <include name="IDR_CHARON_125" file="charon/charon/assets/images/logo/logo-icon.png" type="BINDATA" />
+      <include name="IDR_CHARON_126" file="charon/charon/assets/images/logo/logo-night.svg" type="BINDATA" />
+      <include name="IDR_CHARON_127" file="charon/charon/assets/images/logo/logo-portal-night.svg" type="BINDATA" />
+      <include name="IDR_CHARON_128" file="charon/charon/assets/images/logo/logo-portal.svg" type="BINDATA" />
+      <include name="IDR_CHARON_129" file="charon/charon/assets/images/logo/logo.svg" type="BINDATA" />
+      <include name="IDR_CHARON_130" file="charon/charon/assets/images/vpn-ellipses/dots.svg" type="BINDATA" />
+      <include name="IDR_CHARON_131" file="charon/charon/assets/images/vpn-ellipses/ellipse-1.svg" type="BINDATA" />
+      <include name="IDR_CHARON_132" file="charon/charon/assets/images/vpn-ellipses/ellipse-2.svg" type="BINDATA" />
+      <include name="IDR_CHARON_133" file="charon/charon/assets/images/vpn-ellipses/ellipse-3.svg" type="BINDATA" />
+      <include name="IDR_CHARON_134" file="charon/charon/scripts/help-beacon.js" type="BINDATA" />
+      <include name="IDR_CHARON_135" file="charon/scripts/background-script.js" type="BINDATA" />
+      <include name="IDR_CHARON_136" file="charon/scripts/background-script.js.LICENSE.txt" type="BINDATA" />
+      <include name="IDR_CHARON_137" file="charon/scripts/content-api-script.js" type="BINDATA" />
+      <include name="IDR_CHARON_138" file="charon/scripts/content-api-script.js.LICENSE.txt" type="BINDATA" />
+      <include name="IDR_CHARON_139" file="charon/scripts/content-script.js" type="BINDATA" />
 
 
 
@@ -522,7 +526,6 @@
          <include name="IDR_DBLOCK_213" file="dblock/web_accessible_resources/chartbeat.js" type="BINDATA" />
          <include name="IDR_DBLOCK_214" file="dblock/web_accessible_resources/click2load.html" type="BINDATA" />
          <include name="IDR_DBLOCK_215" file="dblock/web_accessible_resources/doubleclick_instream_ad_status.js" type="BINDATA" />
-		 
          <include name="IDR_DBLOCK_217" file="dblock/web_accessible_resources/epicker-ui.html" type="BINDATA" />
          <include name="IDR_DBLOCK_218" file="dblock/web_accessible_resources/google-analytics_analytics.js" type="BINDATA" />
          <include name="IDR_DBLOCK_219" file="dblock/web_accessible_resources/google-analytics_cx_api.js" type="BINDATA" />
@@ -613,6 +616,7 @@
          <include name="IDR_DBLOCK_304" file="dblock/_locales/vi/messages.json" type="BINDATA" />
          <include name="IDR_DBLOCK_305" file="dblock/_locales/zh_CN/messages.json" type="BINDATA" />
          <include name="IDR_DBLOCK_306" file="dblock/_locales/zh_TW/messages.json" type="BINDATA" />
+		 
          
     </includes>
   </release>
