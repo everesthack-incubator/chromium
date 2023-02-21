@@ -35,10 +35,10 @@ declare_args() {
 assert(is_linux || is_chromeos)
 
 packaging_files_executables = [
-  "$root_out_dir/chrome",
+  "$root_out_dir/decentr",
   "$root_out_dir/chrome_crashpad_handler",
   "$root_out_dir/chrome_management_service",
-  "$root_out_dir/chrome_sandbox",
+  "$root_out_dir/decentr_sandbox",
 ]
 packaging_files_shlibs = []
 
@@ -183,7 +183,7 @@ action("merge_rpm_dependencies") {
 }
 
 strip_binary("strip_chrome_binary") {
-  binary_input = "$root_out_dir/chrome"
+  binary_input = "$root_out_dir/decentr"
   deps = [ "//chrome" ]
 }
 
@@ -198,8 +198,8 @@ strip_binary("strip_chrome_management_service") {
 }
 
 strip_binary("strip_chrome_sandbox") {
-  binary_input = "$root_out_dir/chrome_sandbox"
-  deps = [ "//sandbox/linux:chrome_sandbox" ]
+  binary_input = "$root_out_dir/decentr_sandbox"
+  deps = [ "//sandbox/linux:decentr_sandbox" ]
 }
 
 strip_binary("strip_libEGL_shlib") {
@@ -457,11 +457,7 @@ template("linux_package") {
   assert(defined(invoker.channel))
   channel = invoker.channel
 
-  if (is_chrome_branded) {
-    package = "google-chrome"
-  } else {
-    package = "chromium-browser"
-  }
+  package = "Decentr"
 
   deb_target_name = "${target_name}_deb"
   action(deb_target_name) {
@@ -575,9 +571,7 @@ template("linux_package") {
           "snap/chrome.launcher.in",
           "snap/snapcraft.yaml.in",
         ]
-        if (!is_chrome_branded) {
-          package = "chromium"
-        }
+        package = "decentr"
         if (current_cpu == "x86") {
           snap_arch = "i386"
         } else if (current_cpu == "x64") {

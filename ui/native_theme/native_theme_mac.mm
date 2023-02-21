@@ -32,6 +32,7 @@
 namespace {
 
 bool IsDarkMode() {
+  /*
   if (@available(macOS 10.14, *)) {
     NSAppearanceName appearance =
         [[NSApp effectiveAppearance] bestMatchFromAppearancesWithNames:@[
@@ -39,7 +40,8 @@ bool IsDarkMode() {
         ]];
     return [appearance isEqual:NSAppearanceNameDarkAqua];
   }
-  return false;
+  */
+  return true;
 }
 
 bool IsHighContrast() {
