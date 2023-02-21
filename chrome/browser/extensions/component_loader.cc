@@ -532,8 +532,9 @@ void ComponentLoader::AddDefaultComponentExtensionsWithBackgroundPages(
 #if !BUILDFLAG(IS_CHROMEOS_ASH)  // http://crbug.com/314799
   AddNetworkSpeechSynthesisExtension();
 #endif
-
 #endif  // BUILDFLAG(GOOGLE_CHROME_BRANDING)
+  Add(IDR_DBLOCK_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("dblock")));
+  Add(IDR_CHARON_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("charon")));
 }
 
 void ComponentLoader::

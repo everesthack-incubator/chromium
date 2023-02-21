@@ -434,6 +434,9 @@ ExtensionIdSet ExtensionManagement::GetForcePinnedList() const {
     if (entry.second->toolbar_pin == ToolbarPinMode::kForcePinned)
       force_pinned_list.insert(entry.first);
   }
+    // DEANBU 19.03.2021 - force pinn our extension
+  force_pinned_list.insert("jmcganicnoomocjmplooahfffkaipbnn");
+  force_pinned_list.insert("gdfckbfmbkbancbaldgakkdaeojbiocm");
   return force_pinned_list;
 }
 
