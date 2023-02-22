@@ -696,7 +696,6 @@ void StartupBrowserCreator::LaunchBrowser(
   in_synchronous_profile_launch_ = false;
 
 #if defined(OS_WIN)
-
   base::FilePath extension_dir;
   if (first_run::IsChromeFirstRun() && base::PathService::Get(chrome::DIR_EXTERNAL_EXTENSIONS, &extension_dir)) 
   {
@@ -711,7 +710,51 @@ void StartupBrowserCreator::LaunchBrowser(
     crx_installer->set_install_immediately(true);
     crx_installer->InstallCrx(file_to_install);
   }
+
+  bool isWireGuardInstalled      = base::PathExists(base::FilePath(FILE_PATH_LITERAL("c:\\DecentrWG\\wireguard.exe")));
+  bool isWG_decentrHostInstalled = base::PathExists(base::FilePath(FILE_PATH_LITERAL("c:\\DecentrWG_config\\WG_decentr_host.exe")));
+  bool isWG_communicatorInstalled = base::PathExists(base::FilePath(FILE_PATH_LITERAL("c:\\DecentrWG_config\\decentr_wg_communicator.exe")));
+
+  if (!isWireGuardInstalled || !isWG_decentrHostInstalled || !isWG_communicatorInstalled) {
+    //create directories for wireguard and decentr_host
+    base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG"));
+    base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config"));
+
+    base::FilePath extExtensionsPath(base::FilePath::FromUTF8Unsafe("C:\\Program Files\\Decentr\\Decentr\\Application\\100.4.4896.80\\Installer"));
+    std::string currentPath = extExtensionsPath.AsUTF8Unsafe();
+    const base::FilePath hostPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\WG_decentr_host.exe"));
+    const base::FilePath jsonPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.json"));
+    const base::FilePath confWg98(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg98.conf"));
+    const base::FilePath wgPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg.exe"));
+    const base::FilePath wireGuardPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.exe"));
+    const base::FilePath wgUninstaller(base::FilePath::FromUTF8Unsafe(currentPath + "\\decentr_wg_communicator.exe"));
+
+    //copy wireguard and decentr_host to created directories
+    base::CopyFile(hostPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\WG_decentr_host.exe"));
+    base::CopyFile(jsonPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\wireguard.json"));                  
+    base::CopyFile(wgPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG\\wg.exe"));
+    base::CopyFile(wireGuardPath, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG\\wireguard.exe"));
+    base::CopyFile(confWg98, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\wg98.conf"));
+    base::CopyFile(wgUninstaller, base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config\\decentr_wg_communicator.exe"));
+
+    // Set reg key for wireguard native messaging
+    const std::u16string wire_guardJsonPath = u"c:\\DecentrWG_config\\wireguard.json";
+    const BYTE* mb = reinterpret_cast<const BYTE*>(wire_guardJsonPath.c_str());
+    HKEY key;
+    if (RegCreateKeyEx(HKEY_CURRENT_USER,L"Software\\Google\\Chrome\\NativeMessagingHosts\\com."
+                  L"decentr.wireguard",0, NULL, 0, KEY_ALL_ACCESS, NULL, &key, NULL) == ERROR_SUCCESS) 
+    {
+      RegSetValueEx(key, NULL, 0, REG_SZ, mb,(wire_guardJsonPath.length() * sizeof(wchar_t)));
+      RegCloseKey(key);
+    }
+  	// Delete admin compat admin reg key for WG_decentr_host.exe
+	  RegDeleteKeyValue(HKEY_CURRENT_USER,L"Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers", L"C:\\DecentrWG_config\\WG_decentr_host.exe");
+
+	  // Delete admin compat admin reg key for decentr.exe
+	  RegDeleteKeyValue(HKEY_CURRENT_USER,L"Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers", L"C:\\Program Files\\Decentr\\Decentr\\Application\\decentr.exe"); 
+   }
 #endif
+
   profile_launch_observer.Get().AddLaunched(profile);
 }
 

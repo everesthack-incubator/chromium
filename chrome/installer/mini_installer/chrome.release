@@ -45,6 +45,7 @@ v8_context_snapshot.bin: %(VersionDir)s\
 #
 Extensions\*.*: %(VersionDir)s\Extensions\
 locales\*.pak: %(VersionDir)s\Locales
+wg_install\*.*: %(VersionDir)s\Installer\
 
 #
 # VisualElements sub-dir.
