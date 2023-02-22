@@ -502,7 +502,6 @@ std::string GetProgramClassClass() {
 
 std::string GetIconName() {
   return "Decentr";
-#endif
 }
 
 bool GetExistingShortcutContents(base::Environment* env,
