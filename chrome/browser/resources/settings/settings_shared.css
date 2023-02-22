@@ -376,3 +376,8 @@ iron-list,
   direction: ltr;
   unicode-bidi: embed;
 }
+
+#searchExplanation a,
+#sub-label-text-with-link a {
+  display: none;
+}
