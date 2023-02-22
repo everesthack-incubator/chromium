@@ -395,7 +395,7 @@ if (is_win) {
       "app/chrome_main_delegate.h",
     ]
 
-    output_name = "Decentr"
+    output_name = "chrome"
 
     deps = [
       ":chrome_dll_manifest",
