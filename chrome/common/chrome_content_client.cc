@@ -229,6 +229,9 @@ void ChromeContentClient::AddAdditionalSchemes(Schemes* schemes) {
   for (auto* standard_scheme : kChromeStandardURLSchemes)
     schemes->standard_schemes.push_back(standard_scheme);
 
+  schemes->predefined_handler_schemes.emplace_back("ipfs", "https://dweb.link/ipfs/?uri=%s");
+  schemes->predefined_handler_schemes.emplace_back("ipns", "https://dweb.link/ipns/?uri=%s");
+
 #if BUILDFLAG(IS_ANDROID)
   schemes->referrer_schemes.push_back(content::kAndroidAppScheme);
 #endif
