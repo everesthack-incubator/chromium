@@ -98,6 +98,8 @@ packaging_files = packaging_files_binaries + [
                     "$root_out_dir/locales/en-US.pak",
                     "$root_out_dir/MEIPreload/manifest.json",
                     "$root_out_dir/MEIPreload/preloaded_data.pb",
+                    "$root_out_dir/NativeMessagingHosts/com.decentr.wireguard.json",
+                    "$root_out_dir/NativeMessagingHosts/com.decentr.wireguard",
                   ]
 if (enable_swiftshader) {
   packaging_files += [ "$root_out_dir/vk_swiftshader_icd.json" ]
@@ -394,7 +396,8 @@ group("installer_deps") {
     "//chrome/browser/enterprise/connectors/device_trust/key_management/installer/management_service:chrome_management_service",
     "//chrome/browser/resources/media/mei_preload:component",
     "//components/crash/core/app:chrome_crashpad_handler",
-    "//sandbox/linux:chrome_sandbox",
+    "//sandbox/linux:decentr_sandbox",
+    "//chrome/browser/resources/remoting:component",
   ]
   if (package_nacl) {
     public_deps += [

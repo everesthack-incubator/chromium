@@ -144,7 +144,7 @@ if (!is_android && !is_mac) {
     if (is_win) {
       output_name = "initialexe/Decentr"
     } else {
-      output_name = "Decentr"
+      output_name = "decentr"
     }
 
     # Because the sources list varies so significantly per-platform, generally

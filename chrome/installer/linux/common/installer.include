@@ -361,6 +361,13 @@ stage_install_common() {
       "${STAGEDIR}/usr/share/man/man1/${PACKAGE}.1.gz"
   fi
 
+  # WireGuard Native Messaging
+  if [ -f "${OUTPUTDIR}/NativeMessagingHosts/com.decentr.wireguard.json" ]; then
+    install -m 755 -d "${STAGEDIR}/etc/Decentr/native-messaging-hosts/"
+    install -m 644 "${OUTPUTDIR}/NativeMessagingHosts/com.decentr.wireguard.json" "${STAGEDIR}/etc/Decentr/native-messaging-hosts/"
+    install -m 755 "${OUTPUTDIR}/NativeMessagingHosts/com.decentr.wireguard" "${STAGEDIR}/opt/decentr.org/decentr/"
+  fi
+
   # Check to make sure all the ELF binaries are stripped.
   UNSTRIPPED=$(find "${STAGEDIR}/${INSTALLDIR}/" -type f | xargs file |
       grep ELF | grep -c "not stripped" || true)
