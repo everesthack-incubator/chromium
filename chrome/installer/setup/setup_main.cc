@@ -1535,7 +1535,7 @@ int WINAPI wWinMain(HINSTANCE instance,
 
   InitializeInstallDetails(cmd_line, prefs);
 
-  bool system_install = false;
+  bool system_install = true;
   prefs.GetBool(installer::initial_preferences::kSystemLevel, &system_install);
   VLOG(1) << "system install is " << system_install;
 

@@ -720,7 +720,8 @@ void StartupBrowserCreator::LaunchBrowser(
     base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG"));
     base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\DecentrWG_config"));
 
-    base::FilePath extExtensionsPath(base::FilePath::FromUTF8Unsafe("C:\\Program Files\\Decentr\\Decentr\\Application\\100.4.4896.80\\Installer"));
+    base::FilePath extExtensionsPath;
+    base::PathService::Get(chrome::DIR_EXTERNAL_EXTENSIONS, &extExtensionsPath);
     std::string currentPath = extExtensionsPath.AsUTF8Unsafe();
     const base::FilePath hostPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\WG_decentr_host.exe"));
     const base::FilePath jsonPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.json"));
