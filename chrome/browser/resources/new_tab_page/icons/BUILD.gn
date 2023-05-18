@@ -38,6 +38,7 @@ generate_grd("build_grdp") {
     "logo.png",
     "presearch-logo.svg",
     "decentr-logo.svg",
+    "demex.png",
   ]
   input_files_base_dir = rebase_path(".", "//")
   resource_path_prefix = "icons"
