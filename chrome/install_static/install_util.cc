@@ -899,6 +899,10 @@ DetermineChannelResult DetermineChannel(const InstallConstants& mode,
     case ChannelStrategy::FIXED:
       return {mode.default_channel_name, ChannelOrigin::kInstallMode,
               /*is_extended_stable=*/false};
+    case ChannelStrategy::UNSUPPORTED:
+      return {mode.default_channel_name, ChannelOrigin::kInstallMode,
+      /*is_extended_stable=*/false};
+
   }
 #endif  // !BUILDFLAG(USE_GOOGLE_UPDATE_INTEGRATION)
 }

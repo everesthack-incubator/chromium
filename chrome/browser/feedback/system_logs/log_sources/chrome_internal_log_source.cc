@@ -60,9 +60,7 @@
 
 #if BUILDFLAG(IS_WIN)
 #include "base/win/win_util.h"
-#if BUILDFLAG(GOOGLE_CHROME_BRANDING)
 #include "chrome/browser/google/google_update_win.h"
-#endif
 #include "ui/base/win/hidden_window.h"
 #endif
 
@@ -112,12 +110,10 @@ constexpr char kOsVersionTag[] = "OS VERSION";
 constexpr char kUsbKeyboardDetected[] = "usb_keyboard_detected";
 constexpr char kIsEnrolledToDomain[] = "enrolled_to_domain";
 constexpr char kInstallerBrandCode[] = "installer_brand_code";
-#if BUILDFLAG(GOOGLE_CHROME_BRANDING)
 constexpr char kUpdateErrorCode[] = "update_error_code";
 constexpr char kUpdateHresult[] = "update_hresult";
 constexpr char kInstallResultCode[] = "install_result_code";
 constexpr char kInstallLocation[] = "install_location";
-#endif
 #endif  // BUILDFLAG(IS_WIN)
 
 #if BUILDFLAG(IS_MAC)
@@ -324,7 +320,7 @@ std::string GetChromeVersionString() {
   return browser_version;
 }
 
-#if BUILDFLAG(IS_WIN) && BUILDFLAG(GOOGLE_CHROME_BRANDING)
+#if BUILDFLAG(IS_WIN) 
 // Returns true if the path identified by |key| with the PathService is a parent
 // or ancestor of |child|.
 bool IsParentOf(int key, const base::FilePath& child) {
@@ -354,7 +350,7 @@ std::string DetermineInstallLocation() {
   }
   return "unknown";
 }
-#endif  // BUILDFLAG(IS_WIN) && BUILDFLAG(GOOGLE_CHROME_BRANDING)
+#endif  // BUILDFLAG(IS_WIN) 
 
 #if BUILDFLAG(IS_MAC)
 std::string MacCpuArchAsString() {
@@ -601,7 +597,6 @@ void ChromeInternalLogSource::PopulateInstallerBrandCode(
 
 void ChromeInternalLogSource::PopulateLastUpdateState(
     SystemLogsResponse* response) {
-#if BUILDFLAG(GOOGLE_CHROME_BRANDING)
   const absl::optional<UpdateState> update_state = GetLastUpdateState();
   if (!update_state)
     return;  // There is nothing to include if no update check has completed.
@@ -619,7 +614,6 @@ void ChromeInternalLogSource::PopulateLastUpdateState(
     response->emplace(kInstallResultCode,
                       base::NumberToString(*update_state->installer_exit_code));
   }
-#endif  // BUILDFLAG(GOOGLE_CHROME_BRANDING)
 }
 #endif  // BUILDFLAG(IS_WIN)
 
