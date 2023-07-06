@@ -60,10 +60,10 @@ source_set("google") {
         "google_update_win.h",
         "switches.cc",
         "switches.h",
-      #]
+      ]
 
       deps += [ "//google_update" ]
-    }
+    #}
 
     deps += [
       "//chrome/app:generated_resources_grit",

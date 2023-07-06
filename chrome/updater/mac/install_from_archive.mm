@@ -187,7 +187,10 @@ int RunExecutable(const base::FilePath& existence_checker_path,
              .WaitForExitWithTimeout(timeout, &exit_code))
       return static_cast<int>(InstallErrors::kExecutableWaitForExitFailed);
     if (exit_code != 0)
+    {
+      VLOG(1) << "exit_code " << exit_code;
       return exit_code;
+    }
     ++run_executables;
   }
   return run_executables > 0
@@ -329,7 +332,7 @@ int InstallFromArchive(
       };
   auto handler = handlers.find(file_path.Extension());
   if (handler == handlers.end()) {
-    VLOG(0) << "Install failed: no handler for " << file_path.Extension();
+    VLOG(2) << "Install failed: no handler for " << file_path.Extension();
     return static_cast<int>(InstallErrors::kNotSupportedInstallerType);
   }
   return handler->second(

@@ -32,9 +32,8 @@ namespace {
 
 constexpr int kKeyVersion = 1;
 constexpr char kKeyPubBytesBase64[] =
-    "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE4BdvDE93IW5tHHv6j+narsEEqC9s"
-    "YnvMa+kFiyiK/8g98DM+zcyslK6T9hMas1po6pUfl1Fpup9XvU7C8t2Dmw==";
-
+"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9Kg/Vqmjxhvbct5uWXgRbus7lgGn"
+"AvGHtb8Ztje7VnWWfBtboTlOIlOifAhuTFOAEJSTLsAZSNIoL41utBXU5w==";
 
 // The content type for all protocol requests.
 constexpr char kContentType[] = "application/json";
@@ -45,7 +44,7 @@ const std::string& SelectCupServerProof(
     const std::string& response_cup_server_proof,
     const std::string& response_etag) {
   if (response_cup_server_proof.empty()) {
-    DVLOG(3) << "Using etag as cup server proof.";
+    VLOG(2) << "Using etag as cup server proof.";
     return response_etag;
   }
   return response_cup_server_proof;
@@ -134,7 +133,7 @@ void RequestSender::SendInternalComplete(
   VLOG(2) << "Omaha response received: " << response_body;
 
   if (!error) {
-    if (!use_signing_) {
+    if (use_signing_) {
       base::SingleThreadTaskRunner::GetCurrentDefault()->PostTask(
           FROM_HERE, base::BindOnce(std::move(request_sender_callback_), 0,
                                     response_body, retry_after_sec));
@@ -193,6 +192,12 @@ void RequestSender::OnNetworkFetcherComplete(
     error = response_code_;
   else
     error = net_error;
+
+  VLOG(1) << "Responce code: " << response_code_;
+  VLOG(1) << "error code: " << error;
+  VLOG(1) << "header_etag: " << header_etag;
+  VLOG(1) << "xheader_cup_server_proof: " << xheader_cup_server_proof;
+
 
   int retry_after_sec = -1;
   if (original_url.SchemeIsCryptographic() && error > 0)

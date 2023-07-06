@@ -30,10 +30,10 @@ if (is_chrome_branded) {
   help_center_url = "http://support.google.com/installer/"
   app_logo_url = "https://dl.google.com/update2/installers/icons/"
   keystone_app_name = "DecentrSoftwareUpdate"
-  mac_browser_bundle_identifier = "org.decentr.Decentr"
-  mac_updater_bundle_identifier = "org.Decentr.DecentrUpdater"
+  mac_browser_bundle_identifier = "com.Decentr.Decentr"
+  mac_updater_bundle_identifier = "com.Decentr.DecentrUpdater"
   privileged_helper_bundle_name = "DecentrUpdaterPrivilegedHelper"
-  privileged_helper_name = "org.decentr.Decentr.UpdaterPrivilegedHelper"
+  privileged_helper_name = "com.Decentr.Decentr.UpdaterPrivilegedHelper"
   updater_company_full_name = "Decentr Authors"
   updater_company_short_name = "Decentr"
   updater_copyright =
