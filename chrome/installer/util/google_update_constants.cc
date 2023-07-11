@@ -6,18 +6,18 @@
 
 namespace google_update {
 
-const wchar_t kChromeUpgradeCode[] = L"{8A69D345-D564-463C-AFF1-A69D9E530F96}";
+const wchar_t kChromeUpgradeCode[] = L"{bab2b98d-12f4-4a04-998d-e103a20b79cc}";
 
 const wchar_t kGoogleUpdateUpgradeCode[] =
-    L"{430FD4D0-B729-4F61-AA34-91526481799D}";
+    L"{30b419be-0786-4d59-89a2-6fe72ae2b80d}";
 
-const wchar_t kGoogleUpdateSetupExe[] = L"GoogleUpdateSetup.exe";
+const wchar_t kGoogleUpdateSetupExe[] = L"TomiUpdateSetup.exe";
 
-const wchar_t kRegPathClients[] = L"Software\\Google\\Update\\Clients";
-const wchar_t kRegPathClientState[] = L"Software\\Google\\Update\\ClientState";
+const wchar_t kRegPathClients[] = L"Software\\Tomi\\Update\\Clients";
+const wchar_t kRegPathClientState[] = L"Software\\Tomi\\Update\\ClientState";
 const wchar_t kRegPathClientStateMedium[] =
-    L"Software\\Google\\Update\\ClientStateMedium";
-const wchar_t kRegPathGoogleUpdate[] = L"Software\\Google\\Update";
+    L"Software\\Tomi\\Update\\ClientStateMedium";
+const wchar_t kRegPathGoogleUpdate[] = L"Software\\Tomi\\Update";
 
 const wchar_t kRegCommandsKey[] = L"Commands";
 

@@ -73,9 +73,9 @@ def GetConfigurationForBuild(defines):
         'win_config': {
             'win': {
                 'reg_mandatory_key_name':
-                'Software\\Policies\\Google\\Chrome',
+                'Software\\Policies\\Tomi',
                 'reg_recommended_key_name':
-                'Software\\Policies\\Google\\Chrome\\Recommended',
+                'Software\\Policies\\Tomi\\Recommended',
                 'mandatory_category_path':
                 ['Google:Cat_Google', 'googlechrome'],
                 'recommended_category_path':
@@ -90,9 +90,9 @@ def GetConfigurationForBuild(defines):
             },
             'chrome_os': {
                 'reg_mandatory_key_name':
-                'Software\\Policies\\Google\\ChromeOS',
+                'Software\\Policies\\DecentrOS',
                 'reg_recommended_key_name':
-                'Software\\Policies\\Google\\ChromeOS\\Recommended',
+                'Software\\Policies\\DecentrOS\\Recommended',
                 'mandatory_category_path':
                 ['Google:Cat_Google', 'googlechromeos'],
                 'recommended_category_path':

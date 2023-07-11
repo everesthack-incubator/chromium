@@ -10,7 +10,7 @@
 namespace updater {
 
 // App ids.
-const char kUpdaterAppId[] = "{44FC7FE2-65CE-487C-93F4-EDEE46EEAAAB}";
+const char kUpdaterAppId[] = "{30b419be-0786-4d59-89a2-6fe72ae2b80d}";
 const char kQualificationAppId[] = "{6f0f9a34-a0ab-4a75-a0eb-6eab78d0dc4b}";
 
 const char kNullVersion[] = "0.0.0.0";

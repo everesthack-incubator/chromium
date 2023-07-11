@@ -50,9 +50,9 @@ const wchar_t kDesktopFullName[] = L"WinSta0\\Winlogon";
 const wchar_t kGcpwUpdateClientGuid[] = GCPW_UPDATE_CLIENT_GUID;
 
 const wchar_t kRegUpdaterClientStateAppPath[] =
-    L"SOFTWARE\\Google\\Update\\ClientState\\" GCPW_UPDATE_CLIENT_GUID;
+    L"SOFTWARE\\Tomi\\Update\\ClientState\\" GCPW_UPDATE_CLIENT_GUID;
 const wchar_t kRegUpdaterClientsAppPath[] =
-    L"SOFTWARE\\Google\\Update\\Clients\\" GCPW_UPDATE_CLIENT_GUID;
+    L"SOFTWARE\\Tomi\\Update\\Clients\\" GCPW_UPDATE_CLIENT_GUID;
 const wchar_t kRegUninstallStringField[] = L"UninstallString";
 const wchar_t kRegUninstallArgumentsField[] = L"UninstallArguments";
 const wchar_t kRegUsageStatsName[] = L"usagestats";
@@ -120,9 +120,9 @@ const wchar_t kAllowImportWhenPrimaryAccountExists[] =
     L"allow_import_when_primary_exists";
 
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
-const wchar_t kRegHkcuAccountsPath[] = L"Software\\Google\\Accounts";
+const wchar_t kRegHkcuAccountsPath[] = L"Software\\Tomi\\Accounts";
 #else
-const wchar_t kRegHkcuAccountsPath[] = L"Software\\Chromium\\Accounts";
+const wchar_t kRegHkcuAccountsPath[] = L"Software\\Tomi\\Accounts";
 #endif  // BUILDFLAG(GOOGLE_CHROME_BRANDING)
 
 }  // namespace credential_provider

@@ -155,7 +155,7 @@ bool SwapGoogleUpdate(UpdaterScope scope,
                             WorkItem::ALWAYS);
 
   const std::wstring google_update_appid_key =
-      GetAppClientsKey(L"{430FD4D0-B729-4F61-AA34-91526481799D}");
+      GetAppClientsKey(L"{30b419be-0786-4d59-89a2-6fe72ae2b80d}");
   list->AddCreateRegKeyWorkItem(root, COMPANY_KEY, KEY_WOW64_32KEY);
   list->AddCreateRegKeyWorkItem(root, UPDATER_KEY, KEY_WOW64_32KEY);
   list->AddCreateRegKeyWorkItem(root, CLIENTS_KEY, KEY_WOW64_32KEY);

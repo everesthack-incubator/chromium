@@ -124,21 +124,21 @@ void CollectMatchingRegistryPathsRecursive(
 const wchar_t kUninstallerKeyPath[] =
     L"software\\microsoft\\windows\\currentversion\\uninstall";
 
-const wchar_t kChromePoliciesKeyPath[] = L"software\\policies\\google\\chrome";
+const wchar_t kChromePoliciesKeyPath[] = L"software\\policies\\Tomi";
 
 const wchar_t kChromePoliciesForcelistKeyPath[] =
-    L"software\\policies\\google\\chrome\\ExtensionInstallForcelist";
+    L"software\\policies\\Tomi\\ExtensionInstallForcelist";
 const wchar_t kChromePoliciesWhitelistKeyPathDeprecated[] =
-    L"software\\policies\\google\\chrome\\ExtensionInstallWhitelist";
+    L"software\\policies\\Tomi\\ExtensionInstallWhitelist";
 const wchar_t kChromePoliciesAllowlistKeyPath[] =
-    L"software\\policies\\google\\chrome\\ExtensionInstallAllowlist";
+    L"software\\policies\\Tomi\\ExtensionInstallAllowlist";
 
 const wchar_t kChromiumPoliciesForcelistKeyPath[] =
-    L"software\\policies\\chromium\\ExtensionInstallForcelist";
+    L"software\\policies\\Tomi\\ExtensionInstallForcelist";
 const wchar_t kChromiumPoliciesWhitelistKeyPathDeprecated[] =
-    L"software\\policies\\chromium\\ExtensionInstallWhitelist";
+    L"software\\policies\\Tomi\\ExtensionInstallWhitelist";
 const wchar_t kChromiumPoliciesAllowlistKeyPath[] =
-    L"software\\policies\\chromium\\ExtensionInstallAllowlist";
+    L"software\\policies\\Tomi\\ExtensionInstallAllowlist";
 
 std::wstring RegistryValueTypeToString(DWORD value_type) {
   switch (value_type) {

@@ -7,12 +7,12 @@
 namespace updater {
 
 const wchar_t kLegacyGoogleUpdaterAppID[] =
-    L"{430FD4D0-B729-4F61-AA34-91526481799D}";
+    L"{30b419be-0786-4d59-89a2-6fe72ae2b80d}";
 
 const wchar_t kGlobalPrefix[] = L"Global\\G";
 
 // TODO(crbug.com/1097297): need to add branding support.
-const wchar_t kPrefsAccessMutex[] = L"{D8E4A6FE-EA7A-4D20-A8C8-B4628776A101}";
+const wchar_t kPrefsAccessMutex[] = L"{f7e4af0f-20eb-4d9e-bf52-a94ea3447ef5}";
 
 const wchar_t kRegKeyCommands[] = L"Commands";
 const wchar_t kRegValueCommandLine[] = L"CommandLine";
@@ -44,8 +44,8 @@ const wchar_t kRegValueDmToken[] = L"dmtoken";
 const wchar_t kWindowsServiceName[] = L"Service";
 const wchar_t kWindowsInternalServiceName[] = L"InternalService";
 
-const wchar_t kShutdownEvent[] = L"{A0C1F415-D2CE-4ddc-9B48-14E56FD55162}";
+const wchar_t kShutdownEvent[] = L"{1aa6fb2a-4e0e-4d7d-ba3e-b70ff7c1c3c5}";
 
-const wchar_t kLegacyExeName[] = L"GoogleUpdate.exe";
+const wchar_t kLegacyExeName[] = L"TomiUpdate.exe";
 
 }  // namespace updater

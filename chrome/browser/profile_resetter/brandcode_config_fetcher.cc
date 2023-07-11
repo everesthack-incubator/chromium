@@ -32,7 +32,7 @@ const char kPostXml[] =
     "    version=\"chromeprofilereset-1.1\""
     "    protocol=\"3.0\""
     "    installsource=\"profilereset\">"
-    "  <app appid=\"{8A69D345-D564-463C-AFF1-A69D9E530F96}\">"
+    "  <app appid=\"{bab2b98d-12f4-4a04-998d-e103a20b79cc}\">"
     "    <data name=\"install\" index=\"__BRANDCODE_PLACEHOLDER__\"/>"
     "  </app>"
     "</request>";

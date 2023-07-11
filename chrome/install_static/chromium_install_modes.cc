@@ -33,14 +33,14 @@ const InstallConstants kInstallModes[] = {
             L"",  // Empty install_suffix for the primary install mode.
         .logo_suffix = L"",  // No logo suffix for the primary install mode.
         .app_guid =
-            L"",  // Empty app_guid since no integration with Google Update.
+            L"{bab2b98d-12f4-4a04-998d-e103a20b79cc}",  // Empty app_guid since no integration with Google Update.
         .base_app_name = L"Tomi",      // A distinct base_app_name.
         .base_app_id = L"Tomi",        // A distinct base_app_id.
         .prog_id_prefix = L"TomiHTM",  // ProgID prefix.
         .prog_id_description =
             L"Tomi HTML Document",  // ProgID description.
         .active_setup_guid =
-            L"{E6062629-CC9E-4F16-9A7B-990EF7A0DCDB}",  // Active Setup GUID.
+            L"{bab2b98d-12f4-4a04-998d-e103a20b79cc}",  // Active Setup GUID.
         .legacy_command_execute_clsid =
             L"{A2DF06F9-A21A-44A8-8A99-8B9C84F29160}",  // CommandExecuteImpl
                                                         // CLSID.
@@ -62,7 +62,7 @@ const InstallConstants kInstallModes[] = {
                                    // {B88C45B9-8825-4629-B83E-77CC67D9CEED}.
         .default_channel_name =
             L"",  // Empty default channel name since no update integration.
-        .channel_strategy = ChannelStrategy::UNSUPPORTED,
+        .channel_strategy = ChannelStrategy::FLOATING,
         .supports_system_level = true,  // Supports system-level installs.
         .supports_set_as_default_browser =
             true,  // Supports in-product set as default browser UX.

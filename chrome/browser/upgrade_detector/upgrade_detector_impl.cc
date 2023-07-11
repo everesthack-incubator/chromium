@@ -70,13 +70,9 @@ constexpr auto kOutdatedBuildDetectorPeriod = base::Days(1);
 constexpr auto kOutdatedBuildAge = base::Days(7) * 8;
 
 constexpr bool ShouldDetectOutdatedBuilds() {
-#if BUILDFLAG(ENABLE_UPDATE_NOTIFICATIONS) && !BUILDFLAG(IS_CHROMEOS)
   // Outdated build detection is not relevant on ChromeOS platforms where
   // updates are handled differently than on other desktop platforms.
-  return true;
-#else
   return false;
-#endif
 }
 
 // Check if one of the outdated simulation switches was present on the command
@@ -474,7 +470,6 @@ void UpgradeDetectorImpl::Init() {
     variations_service->AddObserver(this);
   }
 
-#if BUILDFLAG(ENABLE_UPDATE_NOTIFICATIONS)
 
   // On macOS, only enable upgrade notifications if the updater (Keystone) is
   // present.
@@ -494,7 +489,6 @@ void UpgradeDetectorImpl::Init() {
   auto* const build_state = g_browser_process->GetBuildState();
   build_state->AddObserver(this);
   installed_version_poller_.emplace(build_state);
-#endif  // BUILDFLAG(ENABLE_UPDATE_NOTIFICATIONS)
 }
 
 void UpgradeDetectorImpl::Shutdown() {

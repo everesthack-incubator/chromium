@@ -11,7 +11,7 @@ import "ocidl.idl";
 // updater::UpdateServiceInternal.
 
 [
-  uuid(PLACEHOLDER-GUID-D272C794-2ACE-4584-B993-3B90C622BE65),
+  uuid(PLACEHOLDER-GUID-e06e0716-c0e6-4c67-b8d6-cf9beabd150b),
   helpstring("IUpdaterInternalCallback Interface"),
   pointer_default(unique)
 ]
@@ -22,7 +22,7 @@ interface IUpdaterInternalCallback : IUnknown {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-618D9B82-9F51-4490-AF24-BB80489E1537),
+  uuid(PLACEHOLDER-GUID-d078d752-39d7-4829-92e9-27611b68055f),
   helpstring("IUpdaterInternalCallbackUser Interface"),
   pointer_default(unique)
 ]
@@ -32,7 +32,7 @@ interface IUpdaterInternalCallbackUser : IUpdaterInternalCallback {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-7E806C73-B2A4-4BC5-BDAD-2249D87F67FC),
+  uuid(PLACEHOLDER-GUID-4b0bc642-93fc-417e-be91-4b5e8dbf4279),
   helpstring("IUpdaterInternalCallbackSystem Interface"),
   pointer_default(unique)
 ]
@@ -40,7 +40,7 @@ interface IUpdaterInternalCallbackSystem : IUpdaterInternalCallback {
 };
 
 [
-  uuid(PLACEHOLDER-GUID-526DA036-9BD3-4697-865A-DA12D37DFFCA),
+  uuid(PLACEHOLDER-GUID-4fe3d8ec-22b7-4a89-ae39-5ec29fdf244e),
   helpstring("IUpdaterInternal Interface"),
   pointer_default(unique)
 ]
@@ -52,7 +52,7 @@ interface IUpdaterInternal : IUnknown {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-C82AFDA3-CA76-46EE-96E9-474717BFA7BA),
+  uuid(PLACEHOLDER-GUID-1d39542f-c795-4f38-a8f7-456029f5949b),
   helpstring("IUpdaterInternalUser Interface"),
   pointer_default(unique)
 ]
@@ -64,7 +64,7 @@ interface IUpdaterInternalUser : IUnknown {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-E690EB97-6E46-4361-AF8F-90A4F5496475),
+  uuid(PLACEHOLDER-GUID-48b004e4-f8c1-4672-b435-e3339c05d40a),
   helpstring("IUpdaterInternalSystem Interface"),
   pointer_default(unique)
 ]
@@ -74,7 +74,7 @@ interface IUpdaterInternalSystem : IUnknown {
 };
 
 [
-  uuid(PLACEHOLDER-GUID-C6CE92DB-72CA-42EF-8C98-6EE92481B3C9),
+  uuid(PLACEHOLDER-GUID-12778e38-dc6c-4d53-bcba-b78ffe2d25cf),
   version(1.0),
   helpstring("Chromium Updater internal type library.")
 ]
@@ -82,7 +82,7 @@ library UpdaterInternalLib {
   importlib("stdole2.tlb");
 
   [
-    uuid(PLACEHOLDER-GUID-1F87FE2F-D6A9-4711-9D11-8187705F8457),
+    uuid(PLACEHOLDER-GUID-2e437ffb-f921-47a1-a4de-ae318b9411f4),
     helpstring("UpdaterInternal per-user Class")
   ]
   coclass UpdaterInternalUserClass
@@ -91,7 +91,7 @@ library UpdaterInternalLib {
   }
 
   [
-    uuid(PLACEHOLDER-GUID-4556BA55-517E-4F03-8016-331A43C269C9),
+    uuid(PLACEHOLDER-GUID-1bac6195-2f6d-4fe3-bf1e-49bf035f20de),
     helpstring("UpdaterInternal per-system Class")
   ]
   coclass UpdaterInternalSystemClass

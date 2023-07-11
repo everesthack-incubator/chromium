@@ -816,7 +816,7 @@ SystemReportComponent::SystemReportComponent(JsonParserAPI* json_parser,
       shortcut_parser_(shortcut_parser),
       user_data_path_(
           PreFetchedPaths::GetInstance()->GetLocalAppDataFolder().Append(
-              L"Google\\Chrome\\User Data")) {}
+              L"Tomi\\User Data")) {}
 
 void SystemReportComponent::PreScan() {}
 

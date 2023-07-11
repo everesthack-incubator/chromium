@@ -10,7 +10,7 @@ import "ocidl.idl";
 // For documentation, see the similar types defined in updater::UpdateService.
 
 [
-  uuid(PLACEHOLDER-GUID-46ACF70B-AC13-406D-B53B-B2C4BF091FF6),
+  uuid(PLACEHOLDER-GUID-9b510a0d-70d5-40da-a981-d260d84ef01a),
   helpstring("IUpdateState Interface"),
   pointer_default(unique)
 ]
@@ -31,7 +31,7 @@ interface IUpdateState : IUnknown {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-C3485D9F-C684-4C43-B85B-E339EA395C29),
+  uuid(PLACEHOLDER-GUID-9333a95a-6e3c-458d-9ce4-d067bb162e77),
   helpstring("IUpdateStateUser Interface"),
   pointer_default(unique)
 ]
@@ -41,7 +41,7 @@ interface IUpdateStateUser : IUpdateState {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-EA6FDC05-CDC5-4EA4-AB41-CCBD1040A2B5),
+  uuid(PLACEHOLDER-GUID-7c21013c-5100-4199-a42f-f0d2b8600881),
   helpstring("IUpdateStateSystem Interface"),
   pointer_default(unique)
 ]
@@ -49,7 +49,7 @@ interface IUpdateStateSystem : IUpdateState {
 };
 
 [
-  uuid(PLACEHOLDER-GUID-2FCD14AF-B645-4351-8359-E80A0E202A0B),
+  uuid(PLACEHOLDER-GUID-8b49de49-110b-4cdd-9412-39c86322e0b7),
   helpstring("ICompleteStatus Interface"),
   pointer_default(unique)
 ]
@@ -61,7 +61,7 @@ interface ICompleteStatus : IUnknown {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-9AD1A645-5A4B-4D36-BC21-F0059482E6EA),
+  uuid(PLACEHOLDER-GUID-d92e1cb4-3ed8-4a02-9677-e221c94f14cd),
   helpstring("ICompleteStatusUser Interface"),
   pointer_default(unique)
 ]
@@ -71,7 +71,7 @@ interface ICompleteStatusUser : ICompleteStatus {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-E2BD9A6B-0A19-4C89-AE8B-B7E9E51D9A07),
+  uuid(PLACEHOLDER-GUID-c08e5c24-89ed-4817-94a5-cdd88a8209d6),
   helpstring("ICompleteStatusSystem Interface"),
   pointer_default(unique)
 ]
@@ -79,7 +79,7 @@ interface ICompleteStatusSystem : ICompleteStatus {
 };
 
 [
-  uuid(PLACEHOLDER-GUID-7B416CFD-4216-4FD6-BD83-7C586054676E),
+  uuid(PLACEHOLDER-GUID-1a03d10f-afd0-43bc-8c85-d56de52ceb86),
   helpstring("IUpdaterObserver Interface"),
   pointer_default(unique)
 ]
@@ -91,7 +91,7 @@ interface IUpdaterObserver : IUnknown {
 [
   object,
   oleautomation,
-  uuid(PLACEHOLDER-GUID-B54493A0-65B7-408C-B650-06265D2182AC),
+  uuid(PLACEHOLDER-GUID-cd709ed0-ea6c-4ece-8932-14dca609aa96),
   helpstring("IUpdaterObserverUser Interface"),
   pointer_default(unique)
 ]
@@ -103,7 +103,7 @@ interface IUpdaterObserverUser : IUnknown {
 [
   object,
   oleautomation,
-  uuid(PLACEHOLDER-GUID-057B500A-4BA2-496A-B1CD-C5DED3CCC61B),
+  uuid(PLACEHOLDER-GUID-1b5513f0-7548-478e-9fc3-2c756bb71103),
   helpstring("IUpdaterObserverSystem Interface"),
   pointer_default(unique)
 ]
@@ -113,7 +113,7 @@ interface IUpdaterObserverSystem : IUnknown {
 };
 
 [
-  uuid(PLACEHOLDER-GUID-8BAB6F84-AD67-4819-B846-CC890880FD3B),
+  uuid(PLACEHOLDER-GUID-839e2896-d896-479f-b480-8b5d64ccf30d),
   helpstring("IUpdaterCallback Interface"),
   pointer_default(unique)
 ]
@@ -124,7 +124,7 @@ interface IUpdaterCallback : IUnknown {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-34ADC89D-552B-4102-8AE5-D613A691335B),
+  uuid(PLACEHOLDER-GUID-7e3e3c4c-8050-4175-bfaf-136010984395),
   helpstring("IUpdaterCallbackUser Interface"),
   pointer_default(unique)
 ]
@@ -134,7 +134,7 @@ interface IUpdaterCallbackUser : IUpdaterCallback {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-F0D6763A-0182-4136-B1FA-508E334CFFC1),
+  uuid(PLACEHOLDER-GUID-90b6f617-7cbb-4eef-95a9-94db1106c29c),
   helpstring("IUpdaterCallbackSystem Interface"),
   pointer_default(unique)
 ]
@@ -142,7 +142,7 @@ interface IUpdaterCallbackSystem : IUpdaterCallback {
 };
 
 [
-  uuid(PLACEHOLDER-GUID-63B8FFB1-5314-48C9-9C57-93EC8BC6184B),
+  uuid(PLACEHOLDER-GUID-1db3ab34-5dac-4e4d-b52f-8e477229b246),
   helpstring("IUpdater Interface"),
   pointer_default(unique)
 ]
@@ -187,7 +187,7 @@ interface IUpdater : IUnknown {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-02AFCB67-0899-4676-91A9-67D92B3B7918),
+  uuid(PLACEHOLDER-GUID-3371de54-71bc-4731-8a57-aa2e4228c488),
   helpstring("IUpdaterUser Interface"),
   pointer_default(unique)
 ]
@@ -232,7 +232,7 @@ interface IUpdaterUser : IUnknown {
 [
   object,
   dual,
-  uuid(PLACEHOLDER-GUID-FCE335F3-A55C-496E-814F-85971C9FA6F1),
+  uuid(PLACEHOLDER-GUID-36bcf03a-0c27-413d-b7c4-74019be82182),
   helpstring("IUpdaterSystem Interface"),
   pointer_default(unique)
 ]
@@ -275,7 +275,7 @@ interface IUpdaterSystem : IUnknown {
 };
 
 [
-  uuid(PLACEHOLDER-GUID-69464FF0-D9EC-4037-A35F-8AE4358106CC),
+  uuid(PLACEHOLDER-GUID-35db72c7-3d9f-4d0f-a43b-97e555457cee),
   version(1.0),
   helpstring("Chromium Updater type library")
 ]
@@ -283,7 +283,7 @@ library UpdaterLib {
   importlib("stdole2.tlb");
 
   [
-    uuid(PLACEHOLDER-GUID-158428a4-6014-4978-83ba-9fad0dabe791),
+    uuid(PLACEHOLDER-GUID-c8cfd284-3060-4975-80f0-90c5248558c4),
     helpstring("Updater Class for per-user applications")
   ]
   coclass UpdaterUserClass
@@ -292,7 +292,7 @@ library UpdaterLib {
   }
 
   [
-    uuid(PLACEHOLDER-GUID-415FD747-D79E-42D7-93AC-1BA6E5FD4E93),
+    uuid(PLACEHOLDER-GUID-b2f0fe85-36a7-4a99-a586-70beb7a07a56),
     helpstring("Updater Class for per-system applications")
   ]
   coclass UpdaterSystemClass

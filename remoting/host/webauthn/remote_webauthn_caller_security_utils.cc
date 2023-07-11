@@ -67,7 +67,7 @@ constexpr auto kAppsDirectoryEnvVars =
 // Relative to the Program Files directory.
 constexpr auto kAllowedCallerPrograms =
     base::MakeFixedFlatSet<base::FilePath::StringPieceType>({
-        L"Google\\Chrome\\Application\\chrome.exe",
+        L"Tomi\\Application\\chrome.exe",
         L"Google\\Chrome Beta\\Application\\chrome.exe",
         L"Google\\Chrome SxS\\Application\\chrome.exe",
         L"Google\\Chrome Dev\\Application\\chrome.exe",

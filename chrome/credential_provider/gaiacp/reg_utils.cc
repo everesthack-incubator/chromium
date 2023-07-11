@@ -19,9 +19,9 @@ namespace credential_provider {
 
 // Root registry key for GCPW configuration and state.
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
-#define CREDENTIAL_PROVIDER_REGISTRY_KEY L"Software\\Google\\GCPW"
+#define CREDENTIAL_PROVIDER_REGISTRY_KEY L"Software\\Tomi\\GCPW"
 #else
-#define CREDENTIAL_PROVIDER_REGISTRY_KEY L"Software\\Chromium\\GCPW"
+#define CREDENTIAL_PROVIDER_REGISTRY_KEY L"Software\\Tomi\\GCPW"
 #endif  // BUILDFLAG(GOOGLE_CHROME_BRANDING)
 
 const wchar_t kGcpRootKeyName[] = CREDENTIAL_PROVIDER_REGISTRY_KEY;

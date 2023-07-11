@@ -7,7 +7,7 @@
 For example:
 python3 chrome/updater/tools/tag.py --certificate_tag=certificate_tag.exe
     --in_file=UpdaterSetup.signed.exe --out_file=ChromeSetup.exe
-    --tag=appguid={8A69D345-D564-463c-AFF1-A69D9E530F96}
+    --tag=appguid={bab2b98d-12f4-4a04-998d-e103a20b79cc}
 
 The script requires the presence of `certificate_tag.exe` and a signed
 metainstaller. If the --out_file argument is not specified, then the output

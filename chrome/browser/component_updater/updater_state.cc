@@ -43,8 +43,6 @@ UpdaterState::State::~State() = default;
 
 std::unique_ptr<UpdaterState::StateReader> UpdaterState::StateReader::Create(
     bool is_machine) {
-#if BUILDFLAG(GOOGLE_CHROME_BRANDING)
-
 #if BUILDFLAG(IS_MAC) || BUILDFLAG(IS_WIN)
   if (std::unique_ptr<StateReader> state_reader_chromium_updater =
           [is_machine]() -> std::unique_ptr<StateReader> {
@@ -82,9 +80,6 @@ std::unique_ptr<UpdaterState::StateReader> UpdaterState::StateReader::Create(
   return nullptr;
 #endif  // IS_MAC
 
-#else
-  return nullptr;
-#endif  // GOOGLE_CHROME_BRANDING
 }
 
 UpdaterState::StateReaderChromiumUpdater::StateReaderChromiumUpdater(

@@ -60,7 +60,7 @@ class ChromeState:
   """
   _CHANNEL_CONFIGS = {
     'stable': {
-      'guid': '{8A69D345-D564-463c-AFF1-A69D9E530F96}'
+      'guid': '{bab2b98d-12f4-4a04-998d-e103a20b79cc}'
     },
     'beta': {
       'guid': '{8237E44A-0054-442C-B6B6-EA0509993955}'
@@ -72,7 +72,7 @@ class ChromeState:
       'guid': '{4ea16ac7-fd5a-47c3-875b-dbf4a2008c20}'
     },
    }
-  _GOOGLE_UPDATE_PATH = 'Software\\Google\\Update'
+  _GOOGLE_UPDATE_PATH = 'Software\\Tomi\\Update'
   _ACTIVE_SETUP_PATH = 'Software\\Microsoft\\Active Setup\\Installed ' + \
       'Components\\'
   _REG_QWORD = 11  # From winnt.h
