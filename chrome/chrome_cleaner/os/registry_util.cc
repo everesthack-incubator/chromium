@@ -124,14 +124,14 @@ void CollectMatchingRegistryPathsRecursive(
 const wchar_t kUninstallerKeyPath[] =
     L"software\\microsoft\\windows\\currentversion\\uninstall";
 
-const wchar_t kChromePoliciesKeyPath[] = L"software\\policies\\google\\chrome";
+const wchar_t kChromePoliciesKeyPath[] = L"software\\policies\\Decentr";
 
 const wchar_t kChromePoliciesForcelistKeyPath[] =
-    L"software\\policies\\google\\chrome\\ExtensionInstallForcelist";
+    L"software\\policies\\Decentr\\ExtensionInstallForcelist";
 const wchar_t kChromePoliciesWhitelistKeyPathDeprecated[] =
-    L"software\\policies\\google\\chrome\\ExtensionInstallWhitelist";
+    L"software\\policies\\Decentr\\ExtensionInstallWhitelist";
 const wchar_t kChromePoliciesAllowlistKeyPath[] =
-    L"software\\policies\\google\\chrome\\ExtensionInstallAllowlist";
+    L"software\\policies\\Decentr\\ExtensionInstallAllowlist";
 
 const wchar_t kChromiumPoliciesForcelistKeyPath[] =
     L"software\\policies\\chromium\\ExtensionInstallForcelist";

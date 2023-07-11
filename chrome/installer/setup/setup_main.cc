@@ -102,10 +102,7 @@
 #include "third_party/abseil-cpp/absl/types/optional.h"
 #include "url/gurl.h"
 
-#if BUILDFLAG(GOOGLE_CHROME_BRANDING)
 #include "chrome/installer/util/google_update_util.h"
-#endif
-
 using installer::InitialPreferences;
 using installer::InstallationState;
 using installer::InstallerState;
@@ -760,7 +757,6 @@ installer::InstallStatus UninstallProducts(InstallationState& original_state,
   if (!system_level_cmd.GetProgram().empty())
     base::LaunchProcess(system_level_cmd, base::LaunchOptions());
 
-#if BUILDFLAG(GOOGLE_CHROME_BRANDING)
   // Tell Google Update that an uninstall has taken place if this install did
   // not originate from the MSI. Google Update has its own logic relating to
   // MSI-driven uninstalls that conflicts with this. Ignore the return value:
@@ -768,7 +764,6 @@ installer::InstallStatus UninstallProducts(InstallationState& original_state,
   // failure of Chrome's uninstallation.
   if (!installer_state.is_msi())
     google_update::UninstallGoogleUpdate(installer_state.system_install());
-#endif  // BUILDFLAG(GOOGLE_CHROME_BRANDING)
 
   return install_status;
 }
@@ -1183,7 +1178,6 @@ bool HandleNonInstallCmdLineOptions(installer::ModifyParams& modify_params,
 
     *exit_code = OverwriteDisplayVersionsAfterMsiexec(
         std::move(startup_event), registry_product, registry_value);
-#if BUILDFLAG(GOOGLE_CHROME_BRANDING)
   } else if (cmd_line.HasSwitch(installer::switches::kStoreDMToken)) {
     // Write the specified token to the registry, overwriting any already
     // existing value.
@@ -1221,7 +1215,6 @@ bool HandleNonInstallCmdLineOptions(installer::ModifyParams& modify_params,
         *exit_code = installer::ROTATE_DTKEY_FAILED;
         break;
     }
-#endif
   } else if (cmd_line.HasSwitch(installer::switches::kCreateShortcuts)) {
     std::string install_op_arg =
         cmd_line.GetSwitchValueASCII(installer::switches::kCreateShortcuts);
@@ -1535,7 +1528,7 @@ int WINAPI wWinMain(HINSTANCE instance,
 
   InitializeInstallDetails(cmd_line, prefs);
 
-  bool system_install = true;
+  bool system_install = false;
   prefs.GetBool(installer::initial_preferences::kSystemLevel, &system_install);
   VLOG(1) << "system install is " << system_install;
 

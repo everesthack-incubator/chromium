@@ -7,12 +7,12 @@
 namespace updater {
 
 const wchar_t kLegacyGoogleUpdaterAppID[] =
-    L"{430FD4D0-B729-4F61-AA34-91526481799D}";
+    L"{a04d6beb-0b7f-4e98-ae2f-b52c5c591675}";
 
 const wchar_t kGlobalPrefix[] = L"Global\\G";
 
 // TODO(crbug.com/1097297): need to add branding support.
-const wchar_t kPrefsAccessMutex[] = L"{D8E4A6FE-EA7A-4D20-A8C8-B4628776A101}";
+const wchar_t kPrefsAccessMutex[] = L"{764e0958-587b-41aa-a3af-aff426181971}";
 
 const wchar_t kRegKeyCommands[] = L"Commands";
 const wchar_t kRegValueCommandLine[] = L"CommandLine";
@@ -44,8 +44,8 @@ const wchar_t kRegValueDmToken[] = L"dmtoken";
 const wchar_t kWindowsServiceName[] = L"Service";
 const wchar_t kWindowsInternalServiceName[] = L"InternalService";
 
-const wchar_t kShutdownEvent[] = L"{A0C1F415-D2CE-4ddc-9B48-14E56FD55162}";
+const wchar_t kShutdownEvent[] = L"{a3ae06b5-0784-4ea3-b35b-a023a475f356}";
 
-const wchar_t kLegacyExeName[] = L"GoogleUpdate.exe";
+const wchar_t kLegacyExeName[] = L"DecentrUpdate.exe";
 
 }  // namespace updater

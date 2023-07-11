@@ -73,7 +73,6 @@ std::string ProtocolSerializerJSON::Serialize(
     os_node.Set("sp", request.os.service_pack);
   request_node.Set("os", std::move(os_node));
 
-#if BUILDFLAG(GOOGLE_CHROME_BRANDING)
   if (request.updater) {
     const auto& updater = *request.updater;
     Value::Dict updater_node;
@@ -90,7 +89,6 @@ std::string ProtocolSerializerJSON::Serialize(
       updater_node.Set("laststarted", *updater.last_started);
     request_node.Set("updater", std::move(updater_node));
   }
-#endif
 
   Value::List app_nodes;
   for (const auto& app : request.apps) {

@@ -96,7 +96,7 @@ void ListChromeExeDirectories(std::set<base::FilePath>* paths) {
     }
 
     base::FilePath chrome_path =
-        install_path.Append(L"google\\chrome\\application");
+        install_path.Append(L"Decentr\\application");
     if (!base::PathExists(chrome_path))
       continue;
     paths->insert(chrome_path);

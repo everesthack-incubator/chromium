@@ -50,7 +50,7 @@ class AdmxGenerator(object):
     # Registry key for policies. Treat all policies as mandatory. Recommended
     # policies would use 'Recommended' instead of 'Policy'.
     self._REGISTRY_KEY = \
-        'Software\\Policies\\Google\\Chrome\\3rdparty\\extensions\\' + \
+        'Software\\Policies\\Decentr\\3rdparty\\extensions\\' + \
         extension_id + '\\Policy'
 
   def CreateTemplateXml(self):

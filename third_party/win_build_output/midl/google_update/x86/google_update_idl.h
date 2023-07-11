@@ -6756,7 +6756,7 @@ EXTERN_C const CLSID CLSID_PolicyStatusUserClass;
 
 #ifdef __cplusplus
 
-class DECLSPEC_UUID("6DDCE70D-A4AE-4E97-908C-BE7B2DB750AD")
+class DECLSPEC_UUID("b9410c8d-6c42-461f-95c2-0c920e8c63db")
 PolicyStatusUserClass;
 #endif
 

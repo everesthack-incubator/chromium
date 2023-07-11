@@ -651,7 +651,7 @@ EXTERN_C const IID IID_IGoogleUpdate3Web;
 
 #if defined(__cplusplus) && !defined(CINTERFACE)
     
-    MIDL_INTERFACE("A35E1C5E-0A18-4FF1-8C4D-DD8ED07B0BD0")
+    MIDL_INTERFACE("0b0d10c8-d604-406d-96f7-21fe78212c50")
     IGoogleUpdate3Web : public IDispatch
     {
     public:
@@ -1330,7 +1330,7 @@ EXTERN_C const IID IID_IAppCommandWeb;
 
 #if defined(__cplusplus) && !defined(CINTERFACE)
     
-    MIDL_INTERFACE("10A2D03F-8BC7-49DB-A21E-A7D4429D2759")
+    MIDL_INTERFACE("87a649eb-2cc7-46c3-82ea-b674f568b2a4")
     IAppCommandWeb : public IDispatch
     {
     public:
@@ -1757,7 +1757,7 @@ EXTERN_C const IID IID_IPolicyStatusValue;
 
 #if defined(__cplusplus) && !defined(CINTERFACE)
     
-    MIDL_INTERFACE("2A7D2AE7-8EEE-45B4-B17F-31DAAC82CCBB")
+    MIDL_INTERFACE("b5f81657-0809-4dbf-89ba-1e5fb6f28989")
     IPolicyStatusValue : public IDispatch
     {
     public:
@@ -1939,7 +1939,7 @@ EXTERN_C const IID IID_IPolicyStatus2;
 
 #if defined(__cplusplus) && !defined(CINTERFACE)
     
-    MIDL_INTERFACE("06A6AA1E-2680-4076-A7CD-6053722CF454")
+    MIDL_INTERFACE("b591952e-3ef9-4d50-bf39-ef3e79960430")
     IPolicyStatus2 : public IDispatch
     {
     public:
@@ -2781,7 +2781,7 @@ EXTERN_C const CLSID CLSID_GoogleUpdate3WebSystemClass;
 
 #ifdef __cplusplus
 
-class DECLSPEC_UUID("FAC5C548-84EC-474C-A4B3-CD414E09B14C")
+class DECLSPEC_UUID("f4bb2727-3a47-479c-a0b8-7c3ee73cddf7")
 GoogleUpdate3WebSystemClass;
 #endif
 
@@ -2797,7 +2797,7 @@ EXTERN_C const CLSID CLSID_PolicyStatusUserClass;
 
 #ifdef __cplusplus
 
-class DECLSPEC_UUID("E432DCFE-6A32-4C07-B038-9D74AC80D6AB")
+class DECLSPEC_UUID("d48c091a-dea9-41e4-9d36-5ad849a466c5")
 PolicyStatusUserClass;
 #endif
 

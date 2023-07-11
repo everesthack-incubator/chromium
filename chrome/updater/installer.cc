@@ -100,6 +100,8 @@ update_client::CrxComponent Installer::MakeCrxComponent() {
   // |pv| is the version of the registered app, persisted in prefs, and used
   // in the update checks and pings.
   const auto pv = persisted_data_->GetProductVersion(app_id_);
+  VLOG(1) << __func__ << "PV: " << pv << " for " << app_id_;
+
   if (pv.IsValid()) {
     pv_ = pv;
     checker_path_ = persisted_data_->GetExistenceCheckerPath(app_id_);
