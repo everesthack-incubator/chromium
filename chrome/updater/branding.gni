@@ -43,5 +43,5 @@ if (is_chrome_branded) {
 }
 
 # Chrome and Chromium share the same endpoints for now.
-update_check_url = "https://omaha4.omaha-consulting.com/991e588a-6dea-461f-b6ad-90586c763c0b/service/update2/json"
+update_check_url = "https://omaha.mainnet.decentr.xyz/update"
 device_management_server_url = "https://m.google.com/devicemanagement/data/api"
