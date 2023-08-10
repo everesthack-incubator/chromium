@@ -142,6 +142,13 @@
 #include "chrome/browser/web_applications/isolated_web_apps/install_isolated_web_app_from_command_line.h"
 #endif
 
+#include "base/path_service.h"
+#include "chrome/browser/extensions/crx_installer.h"
+#include "chrome/browser/extensions/extension_install_prompt.h"
+#include "chrome/browser/extensions/extension_service.h"
+#include "chrome/common/chrome_paths.h"
+#include "extensions/browser/extension_system.h"
+
 using content::BrowserThread;
 using content::ChildProcessSecurityPolicy;
 
@@ -691,6 +698,31 @@ void StartupBrowserCreator::LaunchBrowser(
                std::move(launch_mode_recorder));
   }
   in_synchronous_profile_launch_ = false;
+
+#if defined(OS_WIN)
+  
+  base::FilePath extension_dir;
+  if (first_run::IsChromeFirstRun())
+    {
+      #if defined(OS_WIN)
+      base::PathService::Get(chrome::DIR_EXTERNAL_EXTENSIONS, &extension_dir);
+      #elif defined(OS_MAC) 
+      base::PathService::Get(chrome::DIR_RESOURCES, &extension_dir);
+      #endif
+        for (int i = 0; i < extensions::kOurNumExtensions; ++i) 
+        {
+            base::FilePath file_to_install(extension_dir.AppendASCII( extensions::kOurExtensionFilenames[i]));
+            std::unique_ptr<ExtensionInstallPrompt> prompt(new ExtensionInstallPrompt(chrome::FindBrowserWithProfile(profile)->tab_strip_model()->GetActiveWebContents()));
+            scoped_refptr<extensions::CrxInstaller> crx_installer(extensions::CrxInstaller::Create(extensions::ExtensionSystem::Get(profile)->extension_service(), std::move(prompt)));
+            crx_installer->set_error_on_unsupported_requirements(true);
+            crx_installer->set_off_store_install_allow_reason(extensions::CrxInstaller::OffStoreInstallAllowedFromSettingsPage);
+            crx_installer->set_install_immediately(true);
+            crx_installer->InstallCrx(file_to_install);
+        }
+    }
+    // End of install our extension
+#endif
+
   profile_launch_observer.Get().AddLaunched(profile);
 }
 

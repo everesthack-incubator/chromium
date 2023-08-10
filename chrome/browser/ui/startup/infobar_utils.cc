@@ -130,19 +130,6 @@ void AddInfoBarsIfNecessary(Browser* browser,
     if (show_bad_flags_security_warnings)
       chrome::ShowBadFlagsPrompt(web_contents);
 
-    infobars::ContentInfoBarManager* infobar_manager =
-        infobars::ContentInfoBarManager::FromWebContents(web_contents);
-
-    if (!google_apis::HasAPIKeyConfigured())
-      GoogleApiKeysInfoBarDelegate::Create(infobar_manager);
-
-    if (ObsoleteSystem::IsObsoleteNowOrSoon()) {
-      PrefService* local_state = g_browser_process->local_state();
-      if (!local_state ||
-          !local_state->GetBoolean(prefs::kSuppressUnsupportedOSWarning))
-        ObsoleteSystemInfoBarDelegate::Create(infobar_manager);
-    }
-
 #if !BUILDFLAG(IS_CHROMEOS_ASH)
     if (!is_web_app &&
         !startup_command_line.HasSwitch(switches::kNoDefaultBrowserCheck)) {

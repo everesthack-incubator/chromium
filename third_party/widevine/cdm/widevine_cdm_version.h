@@ -8,6 +8,7 @@
 #ifndef WIDEVINE_CDM_VERSION_H_
 #define WIDEVINE_CDM_VERSION_H_
 
+#define WIDEVINE_CDM_VERSION_STRING "4.10.2449.0"
 // If the Widevine CDM is available define the following:
 //  - WIDEVINE_CDM_VERSION_STRING (with the version of the CDM that's available
 //    as a string, e.g., "1.0.123.456").

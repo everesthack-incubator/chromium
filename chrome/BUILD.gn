@@ -78,10 +78,10 @@ if (is_win) {
 
     # See comment in chrome_dll.gypi in the hardlink_to_output
     # target for why this cannot be 'initial' like the DLL.
-    inputs = [ "$root_out_dir/initialexe/chrome.exe" ]
+    inputs = [ "$root_out_dir/initialexe/Decentr.exe" ]
     outputs = [
-      "$root_out_dir/chrome.exe",
-      "$root_out_dir/chrome.exe.pdb",
+      "$root_out_dir/Decentr.exe",
+      "$root_out_dir/Decentr.exe.pdb",
     ]
     args = [
       "-i",
@@ -157,9 +157,9 @@ if (!is_android && !is_mac) {
       configs -= [ "//build/config/compiler:thinlto_optimize_default" ]
       configs += [ "//build/config/compiler:thinlto_optimize_max" ]
       if (is_win) {
-        output_name = "initialexe/chrome"
+        output_name = "initialexe/Decentr"
       } else {
-        output_name = "chrome"
+        output_name = "Decentr"
       }
 
       # Because the sources list varies so significantly per-platform, generally
@@ -178,7 +178,7 @@ if (!is_android && !is_mac) {
       if (is_chromeos_ash) {
         data_deps += [
           "//components/variations/cros:evaluate_seed",
-          "//sandbox/linux:chrome_sandbox",
+          "//sandbox/linux:Decentr_sandbox",
         ]
         deps += [
           "//components/exo/wayland:ui_controls_protocol_stub",
@@ -433,7 +433,7 @@ if (is_win) {
       "app/chrome_main_delegate.h",
     ]
 
-    output_name = "chrome"
+    output_name = "Decentr"
 
     deps = [
       ":chrome_dll_manifest",
@@ -1760,7 +1760,7 @@ if (is_linux || is_chromeos) {
       }
     }
     extract_symbols("chrome_symbols") {
-      binary = "$root_out_dir/chrome"
+      binary = "$root_out_dir/Decentr"
 
       if (current_cpu == "x86") {
         # GYP used "ia32" so keep that naming for back-compat.
@@ -1888,9 +1888,9 @@ if (is_chromeos_lacros && is_official_build) {
 
   # This will strip chrome binary and produce chrome.debug with symbols.
   strip_binary("strip_chrome_binary") {
-    binary_input = "$root_out_dir/chrome"
-    symbol_output = "$root_out_dir/chrome.debug"
-    stripped_binary_output = "$root_out_dir/chrome.stripped"
+    binary_input = "$root_out_dir/Decentr"
+    symbol_output = "$root_out_dir/Decentr.debug"
+    stripped_binary_output = "$root_out_dir/Decentr.stripped"
     deps = [ ":chrome" ]
   }
   strip_binary("strip_chrome_crashpad_handler") {

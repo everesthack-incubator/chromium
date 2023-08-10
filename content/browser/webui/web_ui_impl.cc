@@ -78,7 +78,7 @@ std::u16string WebUI::GetJavascriptCall(base::StringPiece function_name,
 
 WebUIImpl::WebUIImpl(WebContents* web_contents)
     : bindings_(BINDINGS_POLICY_WEB_UI),
-      requestable_schemes_({kChromeUIScheme, url::kFileScheme}),
+      requestable_schemes_({kChromeUIScheme, url::kFileScheme, kBrandedUIScheme}),
       web_contents_(web_contents),
       web_contents_observer_(new WebUIMainFrameObserver(this, web_contents_)) {
   DCHECK(web_contents_);

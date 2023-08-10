@@ -263,6 +263,13 @@ bool InstallVerifier::MustRemainDisabled(const Extension* extension,
     return false;
   if (Manifest::IsUnpackedLocation(extension->location()))
     return false;
+  // do not disable our extensions:
+  
+  for (int i = 0; i < extensions::kOurNumExtensions; ++i) {
+    if (extension->id() == extensions::kOurExtensionIds[i]) {
+        return false;
+    }
+  }
   if (extension->location() == mojom::ManifestLocation::kComponent)
     return false;
   if (AllowedByEnterprisePolicy(extension->id()))

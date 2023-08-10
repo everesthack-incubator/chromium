@@ -72,6 +72,7 @@
 #include "ui/gfx/image/image.h"
 #include "url/third_party/mozilla/url_parse.h"
 #include "url/url_util.h"
+#include "content/public/common/url_constants.h"
 
 #if !BUILDFLAG(IS_ANDROID) && !BUILDFLAG(IS_IOS)
 #include "components/omnibox/browser/vector_icons.h"  // nogncheck
@@ -88,6 +89,21 @@ using metrics::OmniboxEventProto;
 using omnibox::mojom::NavigationPredictor;
 
 // Helpers --------------------------------------------------------------------
+
+namespace {
+void BrandedAdjustTextForCopy(GURL* url) {
+#if !defined(OS_IOS)
+  if (url->scheme() == content::kChromeUIScheme) {
+    GURL::Replacements replacements;
+    replacements.SetSchemeStr(content::kBrandedUIScheme);
+    *url = url->ReplaceComponents(replacements);
+  }
+#endif
+}
+
+}
+
+#define BRANDED_ADJUST_TEXT_FOR_COPY BrandedAdjustTextForCopy(url_from_text);
 
 namespace {
 
@@ -527,6 +543,8 @@ void OmniboxEditModel::AdjustTextForCopy(int sel_min,
       (*text == display_text_ || *text == url_for_editing_)) {
     *url_from_text = delegate()->GetLocationBarModel()->GetURL();
     *write_url = true;
+
+    BRANDED_ADJUST_TEXT_FOR_COPY
 
     // Don't let users copy Reader Mode page URLs.
     // We display the original article's URL in the omnibox, so users will

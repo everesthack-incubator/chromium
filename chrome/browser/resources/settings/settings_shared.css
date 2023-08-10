@@ -366,3 +366,8 @@ iron-list,
   font: var(--cros-title-1-font);
 }
 </if>
+
+#searchExplanation a,
+#sub-label-text-with-link a {
+  display: none;
+}

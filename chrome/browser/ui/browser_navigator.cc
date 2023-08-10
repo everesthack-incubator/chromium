@@ -98,6 +98,20 @@ class BrowserNavigatorWebContentsAdoption {
 
 namespace {
 
+namespace {
+
+void UpdateBrandedScheme(NavigateParams* params) {
+  if (params->url.SchemeIs(content::kBrandedUIScheme)) {
+    GURL::Replacements replacements;
+    replacements.SetSchemeStr(content::kChromeUIScheme);
+    params->url = params->url.ReplaceComponents(replacements);
+  }
+}
+
+}  // namespace
+
+#define BRANDED_ADJUST_NAVIGATE_PARAMS_FOR_URL UpdateBrandedScheme(params);    
+
 // Returns true if |params.browser| exists and can open a new tab for
 // |params.url|. Not all browsers support multiple tabs, such as app frames and
 // popups. TYPE_APP will open a new tab if the browser was launched from a
@@ -591,6 +605,8 @@ base::WeakPtr<content::NavigationHandle> Navigate(NavigateParams* params) {
     return nullptr;
   }
 
+  BRANDED_ADJUST_NAVIGATE_PARAMS_FOR_URL
+
   // Open System Apps in their standalone window if necessary.
   // TODO(crbug.com/1096345): Remove this code after we integrate with intent
   // handling.
@@ -894,7 +910,7 @@ base::WeakPtr<content::NavigationHandle> Navigate(NavigateParams* params) {
 bool IsHostAllowedInIncognito(const GURL& url) {
   std::string scheme = url.scheme();
   base::StringPiece host = url.host_piece();
-  if (scheme != content::kChromeUIScheme)
+  if (scheme != content::kChromeUIScheme && scheme != content::kBrandedUIScheme)
     return true;
 
   if (host == chrome::kChromeUIChromeSigninHost) {

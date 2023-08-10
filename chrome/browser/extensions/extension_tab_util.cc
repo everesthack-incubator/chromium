@@ -804,7 +804,8 @@ bool ExtensionTabUtil::IsKillURL(const GURL& url) {
   };
 
   if (!url.SchemeIs(content::kChromeUIScheme))
-    return false;
+    if (!url.SchemeIs(content::kBrandedUIScheme))
+      return false;
 
   return base::Contains(kill_hosts, url.host_piece());
 }

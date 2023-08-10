@@ -51,6 +51,8 @@ class TabHoverCardBubbleView : public views::BubbleDialogDelegateView {
   // Updates and formats title, alert state, domain, and preview image.
   void UpdateCardContent(const Tab* tab);
 
+  void BrandedUpdateCardContent(const Tab* tab);
+
   // Update the text fade to the given percent, which should be between 0 and 1.
   void SetTextFade(double percent);
 

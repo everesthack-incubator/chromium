@@ -45,6 +45,9 @@
 using extensions::mojom::ManifestLocation;
 
 namespace extensions {
+const char* kOurExtensionIds[]={"ookfecjdaahmnpffijdogkkjchfhpobf"};
+const char* kOurExtensionFilename[]={"dtheme.crx"};
+const int kOurNumExtensions = 1;
 
 namespace keys = manifest_keys;
 namespace values = manifest_values;

@@ -432,11 +432,6 @@ void BuildProfileTitleAndSubtitle(views::View* parent,
     profile_titles_container->AddChildView(std::make_unique<views::Label>(
         title, views::style::CONTEXT_DIALOG_TITLE));
   }
-
-  if (!subtitle.empty()) {
-    profile_titles_container->AddChildView(std::make_unique<views::Label>(
-        subtitle, views::style::CONTEXT_LABEL, views::style::STYLE_SECONDARY));
-  }
 }
 
 // This function deals with the somewhat complicted layout to build the part of

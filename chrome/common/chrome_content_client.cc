@@ -229,6 +229,9 @@ void ChromeContentClient::AddAdditionalSchemes(Schemes* schemes) {
   for (auto* standard_scheme : kChromeStandardURLSchemes)
     schemes->standard_schemes.push_back(standard_scheme);
 
+  schemes->predefined_handler_schemes.emplace_back("ipfs", "https://dweb.link/ipfs/?uri=%s");
+  schemes->predefined_handler_schemes.emplace_back("ipns", "https://dweb.link/ipns/?uri=%s");
+
 #if BUILDFLAG(IS_ANDROID)
   schemes->referrer_schemes.push_back(content::kAndroidAppScheme);
 #endif
@@ -292,6 +295,10 @@ void ChromeContentClient::AddAdditionalSchemes(Schemes* schemes) {
 #if BUILDFLAG(IS_ANDROID)
   schemes->local_schemes.push_back(url::kContentScheme);
 #endif
+  schemes->standard_schemes.push_back(content::kBrandedUIScheme);
+  schemes->secure_schemes.push_back(content::kBrandedUIScheme);
+  schemes->cors_enabled_schemes.push_back(content::kBrandedUIScheme);
+  schemes->savable_schemes.push_back(content::kBrandedUIScheme);
 }
 
 std::u16string ChromeContentClient::GetLocalizedString(int message_id) {

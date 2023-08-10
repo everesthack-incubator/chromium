@@ -957,6 +957,11 @@ void RenderThreadImpl::InitializeRenderer(
 }
 
 void RenderThreadImpl::RegisterSchemes() {
+  // branded:
+  WebString branded_scheme(WebString::FromASCII(kBrandedUIScheme));
+  WebSecurityPolicy::RegisterURLSchemeAsDisplayIsolated(branded_scheme);
+  WebSecurityPolicy::RegisterURLSchemeAsNotAllowingJavascriptURLs(branded_scheme);
+  WebSecurityPolicy::RegisterURLSchemeAsWebUI(branded_scheme);
   // chrome:
   WebString chrome_scheme(WebString::FromASCII(kChromeUIScheme));
   WebSecurityPolicy::RegisterURLSchemeAsDisplayIsolated(chrome_scheme);

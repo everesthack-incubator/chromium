@@ -59,6 +59,8 @@
 #include "ui/views/style/typography.h"
 #include "ui/views/view_class_properties.h"
 #include "ui/views/widget/widget.h"
+#include "content/public/common/url_constants.h"
+#include "base/strings/strcat.h"
 
 namespace {
 
@@ -581,6 +583,23 @@ void TabHoverCardBubbleView::UpdateCardContent(const Tab* tab) {
       }
       thumbnail_view_->SetRoundedCorners(corners, corner_radius_);
     }
+  }
+  BrandedUpdateCardContent(tab);
+}
+
+void TabHoverCardBubbleView::BrandedUpdateCardContent(const Tab* tab){
+  const std::u16string& domain = domain_label_->GetText();
+  const std::u16string kChromeUISchemeU16 =
+      base::ASCIIToUTF16(base::StrCat({content::kChromeUIScheme, "://"}));
+  // Since this is purely in the UI we can
+  // just do a sub-string replacement instead of parsing into GURL.
+  if (base::StartsWith(domain, kChromeUISchemeU16,
+                       base::CompareCase::INSENSITIVE_ASCII)) {
+    std::u16string new_domain = domain;
+    base::ReplaceFirstSubstringAfterOffset(
+        &new_domain, 0ul, kChromeUISchemeU16,
+        base::ASCIIToUTF16(base::StrCat({content::kBrandedUIScheme, "://"})));
+    domain_label_->SetData({new_domain, /*is_filename*/ false});
   }
 }
 

@@ -55,7 +55,7 @@ const base::FilePath::CharType kFilepathSinglePrefExtensions[] =
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
     FILE_PATH_LITERAL("/usr/share/google-chrome/extensions");
 #else
-    FILE_PATH_LITERAL("/usr/share/chromium/extensions");
+    FILE_PATH_LITERAL("/usr/share/Decentr/extensions");
 #endif  // BUILDFLAG(GOOGLE_CHROME_BRANDING)
 
 #endif  // BUILDFLAG(IS_LINUX) || BUILDFLAG(IS_CHROMEOS)
@@ -423,7 +423,7 @@ bool PathProvider(int key, base::FilePath* result) {
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
       cur = base::FilePath(FILE_PATH_LITERAL("/etc/opt/chrome/policies"));
 #else
-      cur = base::FilePath(FILE_PATH_LITERAL("/etc/chromium/policies"));
+      cur = base::FilePath(FILE_PATH_LITERAL("/etc/Decentr/policies"));
 #endif
       break;
     }
@@ -456,8 +456,7 @@ bool PathProvider(int key, base::FilePath* result) {
       if (!chrome::GetGlobalApplicationSupportDirectory(&cur))
         return false;
 
-      cur = cur.Append(FILE_PATH_LITERAL("Google"))
-               .Append(FILE_PATH_LITERAL("Chrome"))
+      cur = cur.Append(FILE_PATH_LITERAL("Decentr"))
                .Append(FILE_PATH_LITERAL("External Extensions"));
 #else
       if (!base::PathService::Get(base::DIR_MODULE, &cur))
@@ -490,18 +489,18 @@ bool PathProvider(int key, base::FilePath* result) {
 #if BUILDFLAG(IS_MAC)
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
       cur = base::FilePath(FILE_PATH_LITERAL(
-           "/Library/Google/Chrome/NativeMessagingHosts"));
+           "/Library/Google/Decentr/NativeMessagingHosts"));
 #else
       cur = base::FilePath(FILE_PATH_LITERAL(
-          "/Library/Application Support/Chromium/NativeMessagingHosts"));
+          "/Library/Application Support/Decentr/NativeMessagingHosts"));
 #endif
 #else  // BUILDFLAG(IS_MAC)
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
       cur = base::FilePath(FILE_PATH_LITERAL(
-          "/etc/opt/chrome/native-messaging-hosts"));
+          "/etc/opt/Decentr/native-messaging-hosts"));
 #else
       cur = base::FilePath(FILE_PATH_LITERAL(
-          "/etc/chromium/native-messaging-hosts"));
+          "/etc/Decentr/native-messaging-hosts"));
 #endif
 #endif  // !BUILDFLAG(IS_MAC)
       break;
