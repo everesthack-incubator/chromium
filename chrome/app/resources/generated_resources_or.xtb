@@ -1028,7 +1028,7 @@
 <translation id="186594096341696655">ରେଟ କମାନ୍ତୁ</translation>
 <translation id="186612162884103683">ଯାଞ୍ଚ କରାଯାଇଥିବା ଲୋକେସନ୍‌ଗୁଡ଼ିକରେ "<ph name="EXTENSION" />", ଛବି, ଭିଡିଓ ଓ ସାଉଣ୍ଡ ଫାଇଲ୍‌ଗୁଡ଼ିକୁ ପଢ଼ିପାରିବ ଓ ଲେଖିପାରିବ।</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> ଆପଣଙ୍କର ଇନ୍‍ଷ୍ଟଲେସନ୍ ପ୍ରକ୍ରିୟା ସମ୍ପୂର୍ଣ୍ଣ କରିବାକୁ ପ୍ରସ୍ତୁତ ଅଛି</translation>
-<translation id="1868553836791672080">Chromiumରେ ପାସୱାର୍ଡ ଯାଞ୍ଚ ଉପଲବ୍ଧ ନାହିଁ</translation>
+<translation id="1868553836791672080">Decentrରେ ପାସୱାର୍ଡ ଯାଞ୍ଚ ଉପଲବ୍ଧ ନାହିଁ</translation>
 <translation id="1868617395637139709">Android ଆପ ଏବଂ ସେବାଗୁଡ଼ିକ ପାଇଁ ଲୋକେସନ ବ୍ୟବହାର କରନ୍ତୁ।</translation>
 <translation id="1869433484041798909">ବୁକମାର୍କ ବଟନ୍</translation>
 <translation id="1871098866036088250">Chrome ବ୍ରାଉଜରରେ ଖୋଲନ୍ତୁ</translation>
@@ -1270,7 +1270,7 @@
 <translation id="2088564884469682888">ବିଲ୍ଟ-ଇନ TrackPoint</translation>
 <translation id="2089090684895656482">କମ୍</translation>
 <translation id="208928984520943006">ଯେ କୌଣସି ସମୟରେ ମୂଳସ୍କ୍ରିନକୁ ଯିବା ପାଇଁ ତଳୁ ଉପରକୁ ସ୍ୱାଇପ୍ କରନ୍ତୁ।</translation>
-<translation id="2089566709556890888">Google Chrome ସହ ସୁରକ୍ଷିତ ଭାବେ ବ୍ରାଉଜ୍ କରନ୍ତୁ</translation>
+<translation id="2089566709556890888">Decentr ସହ ସୁରକ୍ଷିତ ଭାବେ ବ୍ରାଉଜ୍ କରନ୍ତୁ</translation>
 <translation id="2089925163047119068">କିମ୍ବା</translation>
 <translation id="2090165459409185032">ଆପଣଙ୍କର ଆକାଉଣ୍ଟ ସୂଚନା ପୁନରୁଦ୍ଧାର କରିବାକୁ, ଏଠାକୁ ଯାଆନ୍ତୁ: google.com/accounts/recovery</translation>
 <translation id="2090507354966565596">ଆପଣ ଲଗ୍ ଇନ୍ କଲେ ସ୍ୱଚାଳିତ ଭାବେ ସଂଯୋଗ ହୁଏ</translation>
@@ -1711,7 +1711,7 @@
 <translation id="2434449159125086437">ପ୍ରିଣ୍ଟର୍ ସେଟ୍ ଅପ୍ କରିବାକୁ ଅକ୍ଷମ। ଦୟାକରି କନ୍‌ଫିଗ୍‌ରେସନ୍ ଯାଞ୍ଚ କରନ୍ତୁ ଏବଂ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</translation>
 <translation id="2434758125294431199">ଆପଣଙ୍କ ସହ କିଏ ସେୟାର୍ କରିପାରିବେ, ତାହା ଚୟନ କରନ୍ତୁ</translation>
 <translation id="2434915728183570229">ଆପଣ ବର୍ତ୍ତମାନ ଆପଣଙ୍କ ଫୋନରେ ଥିବା ଆପ୍ସକୁ ଦେଖିପାରିବେ</translation>
-<translation id="2435137177546457207">Google Chrome ଏବଂ ChromeOS Flexର ଅତିରିକ୍ତ ସର୍ତ୍ତାବଳୀ</translation>
+<translation id="2435137177546457207">Decentr ଏବଂ ChromeOS Flexର ଅତିରିକ୍ତ ସର୍ତ୍ତାବଳୀ</translation>
 <translation id="2435248616906486374">ନେଟ୍‍ୱର୍କ ବିଚ୍ଛିନ୍ନ ହୋ‍ଇଯାଇଛି।</translation>
 <translation id="2435457462613246316">ପାସୱାର୍ଡ ଦେଖାନ୍ତୁ</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> ଲୋଡ ହେଉଛି</translation>
@@ -3170,7 +3170,7 @@
 <translation id="3719310907809321183"><ph name="CARD_IDENTIFIER" /> ପୂରଣ କରାଯାଇଛି।</translation>
 <translation id="3719826155360621982">ମୂଳ ପୃଷ୍ଠା</translation>
 <translation id="372062398998492895">CUPS</translation>
-<translation id="3721119614952978349">ଆପଣ ଏବଂ Google</translation>
+<translation id="3721119614952978349">ଆପଣ ଏବଂ Decentr</translation>
 <translation id="3722108462506185496">ଭର୍ଚୁଆଲ୍ ମେସିନ୍ ସେବା ଆରମ୍ଭ କରିବାରେ ତ୍ରୁଟି। ଦୟାକରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</translation>
 <translation id="3722624153992426516"><ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" /> ନିର୍ଦ୍ଦେଶ ପ୍ରାପ୍ତ କରାଯାଇଛି</translation>
 <translation id="3726965532284929944">QT</translation>
@@ -3271,7 +3271,7 @@
 <translation id="3798632811625902122">ବ୍ଲୁଟୁଥ ଡିଭାଇସ <ph name="DEVICE" /> ପେୟାର କରିବାକୁ ଅନୁମତି ଚାହୁଁଛି।</translation>
 <translation id="3798670284305777884">ସ୍ପିକର୍ (ଇଣ୍ଟର୍ନଲ୍)</translation>
 <translation id="3799128412641261490">ଆକ୍ସେସ୍ ସେଟିଂସକୁ ସ୍ୱିଚ୍ କରନ୍ତୁ</translation>
-<translation id="3800828618615365228">Google Chrome ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସର୍ତ୍ତାବଳୀ</translation>
+<translation id="3800828618615365228">Decentr ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସର୍ତ୍ତାବଳୀ</translation>
 <translation id="3802486193901166966">ଏହି ଏକ୍ସଟେନସନ ପାଇଁ କୌଣସି ବିଶେଷ ଅନୁମତିର ଆବଶ୍ୟକତା ନାହିଁ ଏବଂ ଏହାର କୌଣସି ଅତିରିକ୍ତ ସାଇଟ ଆକ୍ସେସ ନାହିଁ</translation>
 <translation id="380329542618494757">ନାମ</translation>
 <translation id="3803345858388753269">ଭିଡିଓ ଗୁଣବତ୍ତା</translation>
@@ -3290,7 +3290,7 @@
 <translation id="3810973564298564668">ପରିଚାଳନା</translation>
 <translation id="381202950560906753">ଆଉ ଗୋଟିଏ ଯୋଗ କରନ୍ତୁ</translation>
 <translation id="3812525830114410218">ଖରାପ ସାର୍ଟିଫିକେଟ୍</translation>
-<translation id="3813296892522778813">ଯାହା ଆପଣ ଖୋଜୁଛନ୍ତି ଯଦି ତାହା ପାଆନ୍ତି ନାହିଁ, ତେବେ <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome ସହାୟତା<ph name="END_LINK_CHROMIUM" />କୁ ଯାଆନ୍ତୁ।</translation>
+<translation id="3813296892522778813">ଯାହା ଆପଣ ଖୋଜୁଛନ୍ତି ଯଦି ତାହା ପାଆନ୍ତି ନାହିଁ, ତେବେ <ph name="BEGIN_LINK_CHROMIUM" />Decentr ସହାୟତା<ph name="END_LINK_CHROMIUM" />କୁ ଯାଆନ୍ତୁ।</translation>
 <translation id="3813358687923336574">ପୃଷ୍ଠାଗୁଡ଼ିକର ଅନୁବାଦ କରିବା ଏବଂ କ୍ୱିକ୍ ଉତ୍ତରଗୁଡ଼ିକ ପାଇଁ ବ୍ୟବହାର କରାଯାଇଥିବା ଭାଷା</translation>
 <translation id="3813458570141926987">ଆପଣଙ୍କ ବର୍ତ୍ତମାନର ବ୍ରାଉଜିଂ ଇତିହାସ ଆଧାରରେ Chrome ଦ୍ୱାରା ଅନୁମାନିତ ବିଷୟବସ୍ତୁଗୁଡ଼ିକର ତାଲିକା</translation>
 <translation id="3814529970604306954">ସ୍କୁଲ ଆକାଉଣ୍ଟ</translation>
@@ -3663,7 +3663,7 @@
 <translation id="4132969033912447558"><ph name="FILE_NAME" />କୁ ଡାଉନଲୋଡ କରିବା ପୁଣି ଆରମ୍ଭ କରନ୍ତୁ</translation>
 <translation id="4133076602192971179">ଆପଣଙ୍କ ପାସୱାର୍ଡ ପରିବର୍ତ୍ତନ କରିବାକୁ ଆପଟି ଖୋଲନ୍ତୁ</translation>
 <translation id="4134818201340504801">ସେଟଅପ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ଯଥେଷ୍ଟ ଷ୍ଟୋରେଜ ଉପଲବ୍ଧ ନାହିଁ। ଦୟାକରି ଷ୍ଟୋରେଜ ଖାଲି କରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</translation>
-<translation id="4135746311382563554">Google Chrome ଏବଂ ChromeOS ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ</translation>
+<translation id="4135746311382563554">Decentr ଏବଂ ChromeOS ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ</translation>
 <translation id="4136203100490971508">ସୂର୍ଯ୍ୟୋଦୟ ସମୟରେ ନାଇଟ୍‍ ଲାଇଟ୍‍ ସ୍ୱଚାଳିତ ଭାବେ ବନ୍ଦ ହୋଇଯିବ</translation>
 <translation id="41365691917097717">ଜାରି ରଖିବା ଦ୍ୱାରା ADB ଡିବଗିଂକୁ Android ଆପ୍‌ଗୁଡ଼ିକ ତିଆରି କରିବା ଏବଂ ପରୀକ୍ଷା କରିବା ପାଇଁ ସକ୍ଷମ କରିବ। ଧ୍ୟାନ ଦିଅନ୍ତୁ ଯେ ଏହି କାର୍ଯ୍ୟ Google ଦ୍ୱାରା ଯାଞ୍ଚ କରାଯାଇନଥିବା Android ଆପ୍ସର ଇନ୍‍ଷ୍ଟଲେସନ୍‍କୁ ଅନୁମତି ଦିଏ ଏବଂ ଅକ୍ଷମ କରିବା ପାଇଁ ଏକ ଫ୍ୟାକ୍ଟୋରୀ ରିସେଟ୍ ଆବଶ୍ୟକ କରେ।</translation>
 <translation id="4137923333452716643">ଆପଣ ରିଡିଂ ମୋଡରେ ଖୋଲିବାକୁ ଚାହୁଁଥିବା ଟେକ୍ସଟକୁ ହାଇଲାଇଟ କରନ୍ତୁ</translation>
@@ -3886,7 +3886,7 @@
 <translation id="4348766275249686434">ତ୍ରୁଟିଗୁଡ଼ିକ ସଂଗ୍ରହ କରନ୍ତୁ</translation>
 <translation id="4349828822184870497">ସାହାଯ୍ୟକାରୀ</translation>
 <translation id="4350230709416545141">ଆପଣଙ୍କ ଲୋକେସନ୍ ଆକ୍ସେସ୍ କରିବାରୁ <ph name="HOST" />କୁ ସର୍ବଦା ବ୍ଲକ୍ କରନ୍ତୁ</translation>
-<translation id="4350782034419308508">Hey Google</translation>
+<translation id="4350782034419308508">Hey Decentr</translation>
 <translation id="4351770750390404505"><ph name="BEGIN_PARAGRAPH1" />ସର୍ବୋତ୍ତମ ଅନୁଭୂତି ପ୍ରଦାନ କରିବାକୁ, <ph name="DEVICE_OS" /> ଡିଭାଇସଗୁଡ଼ିକ ବିଷୟରେ ହାର୍ଡୱେର ଡାଟା ସଂଗ୍ରହ କରେ ଏବଂ କେଉଁ ଅପଡେଟଗୁଡ଼ିକୁ ଡେଲିଭର କରିବା ଉଚିତ ତାହା ସ୍ଥିର କରିବା ପାଇଁ ଏହାକୁ Google ସହ ସେୟାର କରେ। ବୈକଳ୍ପିକ ଭାବେ, <ph name="DEVICE_OS" />ର ଅନୁଭୂତି ଏବଂ ସେବାରେ ସହାୟତା ଓ ଉନ୍ନତି କରିବା ପରି ଅତିରିକ୍ତ ଉଦ୍ଦେଶ୍ୟରେ ଏହି ଡାଟାକୁ ବ୍ୟବହାର କରିବା ପାଇଁ ଆପଣ Googleକୁ ଅନୁମତି ଦେଇପାରିବେ।<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />ଫିଲ୍ଟର ଅପଡେଟ କରିବା ଏବଂ Google ସହ ଡାଟା ସେୟାର କରିବାକୁ ଆପଣ ବାଛିଥିବା ଅନ୍ୟ ଇନଷ୍ଟାନ୍ସଗୁଡ଼ିକ ପାଇଁ Googleକୁ ପଠାଯାଇଥିବା ଡାଟା ଦେଖିବାକୁ ଆପଣ ଏହି ଡିଭାଇସରେ ଲଗ ଇନ କରି chrome://systemରେ ଥିବା CHROMEOSFLEX_HARDWARE_INFO ବିଭାଗକୁ ଭିଜିଟ କରିପାରିବେ।<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" />Google ସହ କେଉଁ ଡାଟାକୁ <ph name="DEVICE_OS" /> ସେୟାର କରିପାରେ ଏବଂ ଏହାକୁ କିପରି ବ୍ୟବହାର କରାଯାଏ ସେ ବିଷୟରେ ଅଧିକ ବିବରଣୀ ପାଇଁ g.co/flex/HWDataCollectionକୁ ଭିଜିଟ କରନ୍ତୁ।<ph name="END_PARAGRAPH3" /></translation>
@@ -4119,7 +4119,7 @@
 <translation id="4544174279960331769">ଡିଫଲ୍ଟ ନୀଳ ଅବତାର</translation>
 <translation id="4545028762441890696">ଏହାକୁ ପୁନଃ-ସକ୍ଷମ କରିବାକୁ, ନୂତନ ଅନୁମତିଗୁଡ଼ିକୁ ସ୍ୱୀକାର କରନ୍ତୁ:</translation>
 <translation id="4545759655004063573">ପର୍ଯ୍ୟାପ୍ତ ଅନୁମତି ନଥିବାରୁ ସେଭ୍ କରାଯାଇପାରିବ ନାହିଁ। ଦୟାକରି ଅନ୍ୟ ଗୋଟିଏ ଲୋକେସନ୍‍‍ରେ ସେଭ୍ କରନ୍ତୁ।</translation>
-<translation id="4546308221697447294">Google Chrome ସହ ଦ୍ରୁତତର ବ୍ରାଉଜ୍ କରନ୍ତୁ</translation>
+<translation id="4546308221697447294">Decentr ସହ ଦ୍ରୁତତର ବ୍ରାଉଜ୍ କରନ୍ତୁ</translation>
 <translation id="4546345569117159016">ଡାହାଣପଟ ବଟନ୍</translation>
 <translation id="4546509872654834602"><ph name="SUPERVISED_USER_NAME" /> ଏହି ଏକ୍ସଟେନସନ ବ୍ୟବହର କରିବାକୁ ଚାହେଁ:</translation>
 <translation id="4546692474302123343">Google Assistant ଭଏସ୍ ଇନପୁଟ୍</translation>
@@ -6311,7 +6311,7 @@
 <translation id="6511827214781912955"><ph name="FILENAME" />କୁ ଡିଲିଟ କରିବା ପାଇଁ ବିଚାର କରନ୍ତୁ, ଯାହା ଫଳରେ ଏହି ଡିଭାଇସ ବ୍ୟବହାର କରୁଥିବା ଅନ୍ୟମାନେ ଆପଣଙ୍କ ପାସୱାର୍ଡଗୁଡ଼ିକୁ ଦେଖିପାରିବେ ନାହିଁ</translation>
 <translation id="6512808201725371249">ଏହି ଆକାଉଣ୍ଟ ପାଇଁ ଏକ ପାସୱାର୍ଡ ପୂର୍ବରୁ ଆପଣଙ୍କ Google Password Manager (<ph name="USER_EMAIL" />)ରେ ସେଭ କରାଯାଇଛି</translation>
 <translation id="6513247462497316522">ଆପଣ ଯଦି କୌଣସି ଅନ୍ୟ ନେଟ୍‌ୱାର୍କରେ ସଂଯୁକ୍ତ ନାହାଁନ୍ତି, ତେବେ
-Google Chrome ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡାଟା ବ୍ୟବହାର କରିବ।</translation>
+Decentr ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡାଟା ବ୍ୟବହାର କରିବ।</translation>
 <translation id="6514010653036109809">ଉପଲବ୍ଧ ଡିଭାଇସ୍:</translation>
 <translation id="6514565641373682518">ଏହି ପୃଷ୍ଠା ଆପଣଙ୍କ ମାଉସ୍‍ର କର୍ସର୍‌କୁ ଅକ୍ଷମ କରିଛି।</translation>
 <translation id="6517709704288360414">ଆପଣଙ୍କ ଡିଭାଇସ ଆଉ ସଠିକ୍ ଭାବେ କାମ କରିନପାରେ ଏବଂ ଆପଣ ସୁରକ୍ଷା ଓ ପରଫରମାନ୍ସ ସମସ୍ୟାଗୁଡ଼ିକର ସମ୍ମୁଖୀନ ହୋଇପାରନ୍ତି। ଅପଡେଟଗୁଡ଼ିକୁ ବନ୍ଦ କରିବା ଫଳରେ ଏହା ଆପଣ କୌଣସି ସମସ୍ୟାର ସମ୍ମୁଖୀନ ହେଲେ ଆଇନଗତ ଦାବି କରିବାର ଆପଣଙ୍କ ଅଧିକାରକୁ ମଧ୍ୟ ପ୍ରଭାବିତ କରିପାରେ।</translation>
@@ -6798,7 +6798,7 @@ Voice Match ଆପଣଙ୍କ Assistantକୁ ଆପଣଙ୍କୁ ଚିହ�
 <translation id="6923633482430812883">ସେୟାର୍ ମାଉଣ୍ଟ କରିବାରେ ତ୍ରୁଟି ହୋଇଛି। ଦୟାକରି ଯାଞ୍ଚ କରନ୍ତୁ ଯେ ଆପଣ ଯେଉଁ ଫାଇଲ୍ ସର୍ଭର୍ ସହ ସଂଯୋଗ କରୁଛନ୍ତି ତାହା SMBv2 କିମ୍ବା ପରବର୍ତ୍ତୀ ସଂସ୍କରଣକୁ ସମର୍ଥନ କରୁଛି।</translation>
 <translation id="6925127338315966709">ଆପଣ ଏହି ବ୍ରାଉଜରରେ ଏକ ପରିଚାଳିତ ହେଉଥିବା ପ୍ରୋଫାଇଲ୍ ଯୋଗ କରୁଛନ୍ତି। ଆପଣଙ୍କ ଆଡମିନିଷ୍ଟ୍ରେଟରଙ୍କ ପାଖରେ ଏହି ପ୍ରୋଫାଇଲର ନିୟନ୍ତ୍ରଣ ଅଛି ଏବଂ ସେ ଏହାର ଡାଟାକୁ ଆକ୍ସେସ୍ କରିପାରିବେ। ବୁକମାର୍କ୍, ଇତିହାସ, ପାସୱାର୍ଡ ଓ ଅନ୍ୟ ସେଟିଂଗୁଡ଼ିକୁ ଆପଣଙ୍କ ଆକାଉଣ୍ଟରେ ସିଙ୍କ କରାଯାଇପାରିବ ଏବଂ ଆପଣଙ୍କ ଆଡମିନିଷ୍ଟ୍ରେଟରଙ୍କ ଦ୍ୱାରା ପରିଚାଳିତ ହୋଇପାରିବ।</translation>
 <translation id="6929126689972602640">ବାପାମାଙ୍କ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ ସ୍କୁଲ ଆକାଉଣ୍ଟଗୁଡ଼ିକ ପାଇଁ ସମର୍ଥିତ ନୁହେଁ। ଘରେ ସ୍କୁଲକାର୍ଯ୍ୟ ପାଇଁ Google Classroom ଏବଂ ଅନ୍ୟ ୱେବସାଇଟଗୁଡ଼ିକୁ ଆକ୍ସେସ୍ କରିବାକୁ ଏକ ସ୍କୁଲ ଆକାଉଣ୍ଟ ଯୋଗ କରିବା ନିମନ୍ତେ, ପ୍ରଥମେ ପିଲାର ବ୍ୟକ୍ତିଗତ ଆକାଉଣ୍ଟ ସହିତ ସାଇନ୍ ଇନ୍ କରନ୍ତୁ। ଆପଣ ପରେ ସେଟଅପରେ ସ୍କୁଲ ଆକାଉଣ୍ଟ ଯୋଗ କରିପାରିବେ।</translation>
-<translation id="6929760895658557216">Okay Google</translation>
+<translation id="6929760895658557216">Okay Decentr</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{ଏକ ଏକ୍ସଟେନସନ୍ ଅଗ୍ରାହ୍ୟ କରାଯାଇଛି}other{#ଟି ଏକ୍ସଟେନସନ୍ ଅଗ୍ରାହ୍ୟ କରାଯାଇଛି}}</translation>
 <translation id="6931690462168617033">କ୍ଲିକର କ୍ଷମତା</translation>
 <translation id="6935286146439255109">ଏକ ପେପର୍ ଟ୍ରେ ଉପଲବ୍ଧ ନାହିଁ</translation>
@@ -8681,7 +8681,7 @@ Voice Match ଆପଣଙ୍କ Assistantକୁ ଆପଣଙ୍କୁ ଚିହ�
 <translation id="8554899698005018844">କୌଣସି ଭାଷା ନାହିଁ</translation>
 <translation id="855604308879080518">ଏହି Chromebookରେ ଥିବା USB ଡିଭାଇସଗୁଡ଼ିକୁ ଆକ୍ସେସ କରିବାକୁ Android ଆପଗୁଡ଼ିକୁ ଅନୁମତି ଦିଅନ୍ତୁ। ଆପଣ ଏକ USB ଡିଭାଇସରେ ପ୍ଲଗ ଇନ କଲେ ପ୍ରତ୍ୟେକ ଥର ଅନୁମତି ପାଇଁ ଅନୁରୋଧ କରାଯିବ। ବ୍ୟକ୍ତିଗତ Android ଆପଗୁଡ଼ିକ ଅତିରିକ୍ତ ଅନୁମତି ପାଇଁ ଅନୁରୋଧ କରିବ।</translation>
 <translation id="8557022314818157177">ଆପଣଙ୍କର ଟିପଚିହ୍ନ କ୍ୟାପଚର୍ ନହେବା ପର୍ଯ୍ୟନ୍ତ ଆପଣଙ୍କ ସୁରକ୍ଷା କୀକୁ ସ୍ପର୍ଶ କରି ଧରି ରଖନ୍ତୁ</translation>
-<translation id="8557180006508471423">ଆପଣଙ୍କ Macରେ ଥିବା ଲୋକେସନ୍ ସମ୍ପର୍କିତ ସେବାଗୁଡ଼ିକରେ "Google Chrome"କୁ ଚାଲୁ କରନ୍ତୁ</translation>
+<translation id="8557180006508471423">ଆପଣଙ୍କ Macରେ ଥିବା ଲୋକେସନ୍ ସମ୍ପର୍କିତ ସେବାଗୁଡ଼ିକରେ "Decentr"କୁ ଚାଲୁ କରନ୍ତୁ</translation>
 <translation id="8557856025359704738">ପରବର୍ତ୍ତୀ ଡାଉନଲୋଡ <ph name="NEXT_DATE_DOWNLOAD" />ରେ ଅଛି।</translation>
 <translation id="8559858985063901027">ପାସକୀଗୁଡ଼ିକ</translation>
 <translation id="8559961053328923750">ବିଜ୍ଞାପନ ପରଫରମାନ୍ସ ମାପିବା ପାଇଁ ବ୍ରାଉଜର ମାଧ୍ୟମରେ ସାଇଟଗୁଡ଼ିକ ସେୟାର କରିପାରୁଥିବା ଡାଟାର ମୋଟ ପରିମାଣକୁ Chrome ସୀମିତ କରେ</translation>

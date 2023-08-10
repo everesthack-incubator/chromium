@@ -5,7 +5,7 @@
 <translation id="1002085272681738789">ផ្ទាំងសកម្មឡើងវិញ</translation>
 <translation id="1003088604756913841">បើក​តំណ​នៅក្នុងវិនដូ <ph name="APP" /> ថ្មី</translation>
 <translation id="100323615638474026">ឧបករណ៍ USB (<ph name="VENDOR_ID" />:<ph name="PRODUCT_ID" />)</translation>
-<translation id="1003355351496161312">ការរុករក​ដោយសុវត្ថិភាព​នៅលើ Google</translation>
+<translation id="1003355351496161312">ការរុករក​ដោយសុវត្ថិភាព​នៅលើ Decentr</translation>
 <translation id="1004218526896219317">សិទ្ធិចូលប្រើ​គេហទំព័រ</translation>
 <translation id="1005274289863221750">ប្រើម៉ៃក្រូហ្វូន និងកាមេរ៉ារបស់អ្នក</translation>
 <translation id="1005333234656240382">បើក​ការជួសជុល ADB ឬ?</translation>
@@ -28,7 +28,7 @@
 <translation id="1016566241875885511">ព័ត៌មានបន្ថែម (ស្រេចចិត្ត)</translation>
 <translation id="1017280919048282932">បន្ថែមទៅថតឯកសារ</translation>
 <translation id="1018656279737460067">បានបោះបង់</translation>
-<translation id="1022489261739821355">កំពុងបង្ហាញ​ពាក្យសម្ងាត់​ពី<ph name="BEGIN_LINK" />គណនី Google<ph name="END_LINK" /> របស់អ្នក</translation>
+<translation id="1022489261739821355">កំពុងបង្ហាញ​ពាក្យសម្ងាត់​ពី<ph name="BEGIN_LINK" />គណនី Decentr<ph name="END_LINK" /> របស់អ្នក</translation>
 <translation id="1022669824195822609">ឧបករណ៍​របស់អ្នកស្ថិតក្រោមការគ្រប់គ្រង​របស់ <ph name="DOMAIN" />។ អ្នកគ្រប់គ្រងអាចចូលប្រើប្រាស់ទិន្នន័យនៅក្នុងកម្រងព័ត៌មានណាមួយលើឧបករណ៍នេះ។</translation>
 <translation id="1026655690966755180">បញ្ចូលច្រក</translation>
 <translation id="1026822031284433028">ដំណើរការរូបភាព</translation>
@@ -189,7 +189,7 @@
 <translation id="1150565364351027703">វ៉ែនតា​ការពារពន្លឺព្រះអាទិត្យ</translation>
 <translation id="1151917987301063366">អនុញ្ញាត <ph name="HOST" /> ឱ្យ​ចូលប្រើ​ឧបករណ៍​ចាប់សញ្ញា​ជានិច្ច</translation>
 <translation id="1152346050262092795">បញ្ចូលពាក្យសម្ងាត់របស់អ្នកម្ដងទៀត ដើម្បីផ្ទៀងផ្ទាត់គណនីរបស់អ្នក។</translation>
-<translation id="1153636665119721804">កម្មវិធី​ការពារ​កម្រិតខ្ពស់​របស់ Google</translation>
+<translation id="1153636665119721804">កម្មវិធី​ការពារ​កម្រិតខ្ពស់​របស់ Decentr</translation>
 <translation id="1155545602507378023">ទេ សម្រាប់តែឧបករណ៍នេះប៉ុណ្ណោះ</translation>
 <translation id="1155816283571436363">កំពុងភ្ជាប់​ជាមួយទូរសព្ទ​របស់អ្នក</translation>
 <translation id="1158080958325422608">កំណត់ជាអក្សរធំ</translation>
@@ -1043,7 +1043,7 @@
 <translation id="186594096341696655">បន្ថយ​អត្រា</translation>
 <translation id="186612162884103683">"<ph name="EXTENSION" />" អាចអាន និងសរសេររូបភាព វីដេអូ និងឯកសារសម្លេងនៅក្នុងទីតាំងដែលបានពិនិត្យ។</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> រួចរាល់ក្នុងការបញ្ចប់ការតំឡើងរបស់អ្នក</translation>
-<translation id="1868553836791672080">មិនអាចប្រើ​ការពិនិត្យពាក្យសម្ងាត់​នៅក្នុង Chromium បានទេ</translation>
+<translation id="1868553836791672080">មិនអាចប្រើ​ការពិនិត្យពាក្យសម្ងាត់​នៅក្នុង Decentr បានទេ</translation>
 <translation id="1868617395637139709">ប្រើទីតាំង​សម្រាប់​សេវាកម្ម និងកម្មវិធី Android។</translation>
 <translation id="1869433484041798909">ប៊ូតុង​ចំណាំ</translation>
 <translation id="1871098866036088250">បើកនៅក្នុង​កម្មវិធីរុករក​តាមអ៊ីនធឺណិត Chrome</translation>
@@ -1285,7 +1285,7 @@
 <translation id="2088564884469682888">TrackPoint ដែល​ភ្ជាប់មក​ជា​មួយ​ស្រាប់</translation>
 <translation id="2089090684895656482">តិច</translation>
 <translation id="208928984520943006">ដើម្បី​ចូលទៅ​អេក្រង់ដើម​បានគ្រប់ពេល សូមអូស​ពីក្រោម​ឡើងលើ។</translation>
-<translation id="2089566709556890888">រុករក​ដោយសុវត្ថិភាពជាមួយ Google Chrome</translation>
+<translation id="2089566709556890888">រុករក​ដោយសុវត្ថិភាពជាមួយ Decentr</translation>
 <translation id="2089925163047119068">ឬ</translation>
 <translation id="2090165459409185032">ដើម្បីសង្គ្រោះទិន្នន័យគណនីរបស់អ្នក សូមចូលទៅកាន់៖ google.com/accounts/recovery</translation>
 <translation id="2090507354966565596">ភ្ជាប់​ដោយស្វ័យប្រវត្តិ នៅពេលដែល​អ្នកចូល</translation>
@@ -1474,7 +1474,7 @@
 <translation id="2233502537820838181">ព័ត៌មានច្រើនទៀត</translation>
 <translation id="223356358902285214">សកម្មភាពកម្មវិធី និងគេហទំព័រ</translation>
 <translation id="2234827758954819389">ការណែនាំ​អំពី​ឯកជនភាព</translation>
-<translation id="2234876718134438132">សមកាលកម្ម និងសេវាកម្ម Google</translation>
+<translation id="2234876718134438132">សមកាលកម្ម និងសេវាកម្ម Decentr</translation>
 <translation id="2235344399760031203">បាន​ទប់ស្កាត់ខូគី​ភាគី​ទីបី</translation>
 <translation id="2238379619048995541">ទិន្នន័យស្ថានភាពប្រេកង់</translation>
 <translation id="2241053333139545397">អាន និងប្តូរទិន្នន័យរបស់អ្នកនៅលើគេហទំព័រមួយចំនួន</translation>
@@ -1728,7 +1728,7 @@
 <translation id="2434449159125086437">មិនអាច​រៀបចំ​ម៉ាស៊ីនបោះពុម្ព​បានទេ។ សូមពិនិត្យមើល​ការកំណត់រចនាសម្ព័ន្ធ រួចព្យាយាម​ម្តងទៀត។</translation>
 <translation id="2434758125294431199">ជ្រើសរើសអ្នកដែលអាចចែករំលែកជាមួយអ្នក</translation>
 <translation id="2434915728183570229">ឥឡូវនេះ អ្នក​អាច​មើល​កម្មវិធី​លើ​ទូរសព្ទ​របស់អ្នក​បាន​ហើយ</translation>
-<translation id="2435137177546457207">លក្ខខណ្ឌបន្ថែម​របស់ Google Chrome និង ChromeOS Flex</translation>
+<translation id="2435137177546457207">លក្ខខណ្ឌបន្ថែម​របស់ Decentr និង ChromeOS Flex</translation>
 <translation id="2435248616906486374">បណ្តាញត្រូវបានផ្តាច់</translation>
 <translation id="2435457462613246316">បង្ហាញពាក្យសម្ងាត់</translation>
 <translation id="2439626940657133600">កំពុង​ផ្ទុក <ph name="WINDOW_TITLE" /></translation>
@@ -1838,7 +1838,7 @@
 <translation id="2519517390894391510">ឈ្មោះ​កម្រងព័ត៌មាន​វិញ្ញាបនបត្រ</translation>
 <translation id="2520644704042891903">កំពុងរង់ចាំរន្ធភ្ជាប់ដែលមាន...</translation>
 <translation id="2521854691574443804">កំពុងពិនិត្យ <ph name="FILE_NAME" /> ដោយប្រើគោលការណ៍សុវត្ថិភាពរបស់ស្ថាប័នអ្នក...</translation>
-<translation id="2523184218357549926">ផ្ញើ​ URL នៃ​ទំព័រ​ដែលអ្នក​ចូល​មើលទៅ Google</translation>
+<translation id="2523184218357549926">ផ្ញើ​ URL នៃ​ទំព័រ​ដែលអ្នក​ចូល​មើលទៅ Decentr</translation>
 <translation id="252418934079508528">ដំឡើង <ph name="DEVICE_OS" /></translation>
 <translation id="2526590354069164005">ដេស៍ថប</translation>
 <translation id="2526619973349913024">រក​មើល​កំណែ​ថ្មី</translation>
@@ -2021,7 +2021,7 @@
 <translation id="2684004000387153598">ដើម្បី​បន្ត សូម​ចុចយល់ព្រម បន្ទាប់​មកចុច​បញ្ចូល​មនុស្ស​ ដើម្បី​បង្កើត​កម្រង​ព័ត៌មាន​ថ្មីសម្រាប់​អាសយដ្ឋាន​អ៊ីមែល​របស់អ្នក។</translation>
 <translation id="2685193395980129388">បានអនុញ្ញាត – <ph name="PERMISSION_DETAILS" /></translation>
 <translation id="2687403674020088961">ទប់ស្កាត់ខូគីទាំងអស់ (មិនណែនាំ)</translation>
-<translation id="2687407218262674387">លក្ខខណ្ឌប្រើប្រាស់ Google</translation>
+<translation id="2687407218262674387">លក្ខខណ្ឌប្រើប្រាស់ Decentr</translation>
 <translation id="2687621393791886981">សួរខ្ញុំនៅពេលក្រោយ</translation>
 <translation id="2688196195245426394">កំហុសឆ្គងនៅពេលចុះឈ្មោះឧបករណ៍ជាមួយម៉ាស៊ីនមេ៖ <ph name="CLIENT_ERROR" />។</translation>
 <translation id="2688734475209947648">អ្នកនឹង​មិនចាំបាច់​ចងចាំ​ពាក្យសម្ងាត់​នេះទេ។ ពាក្យសម្ងាត់នេះ​នឹងត្រូវបានរក្សាទុក​ទៅក្នុងកម្មវិធីគ្រប់គ្រង​ពាក្យសម្ងាត់ Google សម្រាប់ <ph name="ACCOUNT" />។</translation>
@@ -2379,7 +2379,7 @@
 <translation id="2989474696604907455">មិនត្រូវបានភ្ជាប់ទេ</translation>
 <translation id="2989786307324390836">គោលពីរ Der-ដែលបានបម្លែង, វិញ្ញាបនប័ត្រទោល</translation>
 <translation id="2989805286512600854">បើកនៅក្នុងផ្ទាំងថ្មី</translation>
-<translation id="2990313168615879645">បញ្ចូល​គណនី Google</translation>
+<translation id="2990313168615879645">បញ្ចូល​គណនី Decentr</translation>
 <translation id="2990583317361835189">មិនអនុញ្ញាតឱ្យ​គេហទំព័រ​ប្រើឧបករណ៍​ចាប់ចលនាទេ</translation>
 <translation id="2992931425024192067">បង្ហាញខ្លឹមសារនៃការ​ជូនដំណឹង​ទាំងអស់</translation>
 <translation id="2993517869960930405">ព័ត៌មានកម្មវិធី</translation>
@@ -2529,7 +2529,7 @@
 <translation id="311394601889664316">មិនអនុញ្ញាតឱ្យ​គេហទំព័រ​កែឯកសារ ឬថត​នៅក្នុងឧបករណ៍​របស់អ្នកទេ</translation>
 <translation id="3115147772012638511">កំពុងរង់ចាំឃ្លាំងសម្ងាត់...</translation>
 <translation id="3115580024857770654">បង្រួម​ទាំងអស់</translation>
-<translation id="3115743155098198207">គ្រប់គ្រង​ភាសា​គណនី Google</translation>
+<translation id="3115743155098198207">គ្រប់គ្រង​ភាសា​គណនី Decentr</translation>
 <translation id="3117138513108032865">ប្ដូរ​ការរុករក​ទៅជា HTTPS និងប្រាប់ឱ្យ​អ្នកប្រុងប្រយ័ត្ន មុនពេលផ្ទុក​គេហទំព័រ​ដែលមិនស្គាល់ HTTPS។ អ្នកមិនអាចផ្លាស់ប្ដូរការ​កំណត់នេះបានទេ ដោយសារអ្នកបានបើកការ​ការពារ​កម្រិតខ្ពស់។</translation>
 <translation id="3117362587799608430">ឧបករណ៍ភ្ជាប់​មិនត្រូវគ្នាទាំងស្រុងទេ</translation>
 <translation id="3117791853215125017">{COUNT,plural, =1{មិន​អាច​ផ្ញើ​ <ph name="ATTACHMENTS" /> ទៅ <ph name="DEVICE_NAME" /> បានទេ}other{មិន​អាច​ផ្ញើ​ <ph name="ATTACHMENTS" /> ទៅ <ph name="DEVICE_NAME" /> បានទេ}}</translation>
@@ -2659,7 +2659,7 @@
 <translation id="3259723213051400722">សូមព្យាយាមម្ដងទៀត។</translation>
 <translation id="3261090393424563833">បង្កើន​អត្រា</translation>
 <translation id="3261268979727295785">សម្រាប់កូនធំៗ អ្នកអាចបញ្ចូល​ការគ្រប់គ្រងដោយមាតាបិតា បន្ទាប់ពីអ្នក​បញ្ចប់ការរៀបចំ។ អ្នកនឹងឃើញព័ត៌មាន​នៅលើការគ្រប់គ្រងដោយមាតាបិតា​នៅក្នុងកម្មវិធីរុករក។</translation>
-<translation id="3262336253311870293">ដោយសារ​គណនី​នេះ​ស្ថិតក្រោមការគ្រប់គ្រង​របស់ <ph name="DOMAIN" /> អ្នក​នឹង​មិនត្រូវបាននាំ​ចេញ​ពី​គណនី Google របស់​អ្នកទេ។ ចំណាំ ប្រវត្តិ ពាក្យសម្ងាត់ និង​ការកំណត់​ផ្សេងទៀត​របស់​អ្នក​នឹង​លែង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ទៀត​ហើយ។ ទោះ​ជា​យ៉ាង​ណា​ក៏​ដោយ ទិន្នន័យ​ដែល​បាន​ធ្វើ​សមកាលកម្ម​ពីមុន​របស់​អ្នក​នឹង​នៅ​តែ​ត្រូវ​បានរក្សាទុក​នៅក្នុង​គណនី Google របស់​អ្នក​ដដែល ព្រមទាំង​អាច​ត្រូវ​បាន​គ្រប់គ្រង​នៅលើ<ph name="BEGIN_LINK" />ផ្ទាំង​គ្រប់គ្រង Google<ph name="END_LINK" />។</translation>
+<translation id="3262336253311870293">ដោយសារ​គណនី​នេះ​ស្ថិតក្រោមការគ្រប់គ្រង​របស់ <ph name="DOMAIN" /> អ្នក​នឹង​មិនត្រូវបាននាំ​ចេញ​ពី​គណនី Google របស់​អ្នកទេ។ ចំណាំ ប្រវត្តិ ពាក្យសម្ងាត់ និង​ការកំណត់​ផ្សេងទៀត​របស់​អ្នក​នឹង​លែង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ទៀត​ហើយ។ ទោះ​ជា​យ៉ាង​ណា​ក៏​ដោយ ទិន្នន័យ​ដែល​បាន​ធ្វើ​សមកាលកម្ម​ពីមុន​របស់​អ្នក​នឹង​នៅ​តែ​ត្រូវ​បានរក្សាទុក​នៅក្នុង​គណនី Google របស់​អ្នក​ដដែល ព្រមទាំង​អាច​ត្រូវ​បាន​គ្រប់គ្រង​នៅលើ<ph name="BEGIN_LINK" />ផ្ទាំង​គ្រប់គ្រង Decentr<ph name="END_LINK" />។</translation>
 <translation id="3262986719682892278">ធំពេក</translation>
 <translation id="3264544094376351444">ពុម្ពអក្សរ Sans-serif</translation>
 <translation id="3264582393905923483">បរិបទ</translation>
@@ -2704,7 +2704,7 @@
 <translation id="3294686910656423119">ស្ថិតិ​ប្រើប្រាស់ និងរបាយការណ៍អំពីការគាំង</translation>
 <translation id="3295241308788901889">កំពុងភ្ជាប់​ផ្ទាំង​</translation>
 <translation id="3297105622164376095">អនុញ្ញាតឱ្យបង្ហាញសារចូលគណនីដោយភាគីទីបី</translation>
-<translation id="3297536526040732495">ភ្ជាប់​ទិន្នន័យនេះ​ជាមួយ​គណនី Google របស់អ្នក​ជាបណ្ដោះអាសន្ន នៅពេលអ្នក​ចូលគណនី ដើម្បី​ការពារអ្នក​នៅលើ​កម្មវិធីរបស់ Google</translation>
+<translation id="3297536526040732495">ភ្ជាប់​ទិន្នន័យនេះ​ជាមួយ​គណនី Google របស់អ្នក​ជាបណ្ដោះអាសន្ន នៅពេលអ្នក​ចូលគណនី ដើម្បី​ការពារអ្នក​នៅលើ​កម្មវិធីរបស់ Decentr</translation>
 <translation id="329838636886466101">ជួសជុល</translation>
 <translation id="3298789223962368867">URL គ្មានសុពលភាពត្រូវបានបញ្ចូល។</translation>
 <translation id="32991397311664836">ឧបករណ៍៖</translation>
@@ -3068,7 +3068,7 @@
 <translation id="3621807901162200696">ជួយ​កែលម្អ​មុខងារ និង​ប្រតិបត្តិការ​របស់ ChromeOS</translation>
 <translation id="362266093274784978">{COUNT,plural, =1{កម្មវិធីមួយ}other{កម្មវិធី #}}</translation>
 <translation id="362333465072914957">កំពុង​រង់ចាំឱ្យ CA ចេញ​វិញ្ញាបនបត្រ</translation>
-<translation id="3624567683873126087">ដោះសោ​ឧបករណ៍ និង​ចូលគណនី Google</translation>
+<translation id="3624567683873126087">ដោះសោ​ឧបករណ៍ និង​ចូលគណនី Decentr</translation>
 <translation id="3624583033347146597">ជ្រើសរើសចំណូលចិត្តខូគី​ភាគី​ទីបីរបស់អ្នក</translation>
 <translation id="3625481642044239431">បានជ្រើសរើស​ឯកសារ​មិនត្រឹមត្រូវ។ សូមព្យាយាម​ម្ដងទៀត។</translation>
 <translation id="3626296069957678981">ដើម្បី​សាកថ្ម Chromebook នេះ សូម​ប្រើ​ថ្ម Dell ដែលត្រូវគ្នា។</translation>
@@ -3082,7 +3082,7 @@
 <translation id="3630995161997703415">បញ្ចូល​ទំព័រនេះ​ទៅ​ធ្នើរ​របស់អ្នក​ ដើម្បី​ប្រើ​វាបាន​គ្រប់ពេល</translation>
 <translation id="3634652306074934350">សំណើសុំការអនុញ្ញាតបានផុតកំណត់ហើយ</translation>
 <translation id="3635199270495525546">បានរកឃើញម៉ូឌុលប្រព័ន្ធដែលទុកចិត្ត (TPM)</translation>
-<translation id="3635353578505343390">ផ្ញើ​មតិ​កែលម្អ​ទៅ Google</translation>
+<translation id="3635353578505343390">ផ្ញើ​មតិ​កែលម្អ​ទៅ Decentr</translation>
 <translation id="3635960017746711110">ចំណូលចិត្ត USB របស់ Crostini</translation>
 <translation id="3636766455281737684"><ph name="PERCENTAGE" />% - នៅសល់ <ph name="TIME" /></translation>
 <translation id="3636940436873918441">ភាសា​ដែលចង់ប្រើ</translation>
@@ -3187,7 +3187,7 @@
 <translation id="3719310907809321183">បានបំពេញ <ph name="CARD_IDENTIFIER" />​។</translation>
 <translation id="3719826155360621982">ទំព័រដើម</translation>
 <translation id="372062398998492895">CUPS</translation>
-<translation id="3721119614952978349">អ្នក និង Google</translation>
+<translation id="3721119614952978349">អ្នក និង Decentr</translation>
 <translation id="3722108462506185496">មានបញ្ហា​ក្នុងការ​ចាប់ផ្ដើម​សេវាកម្ម​ម៉ាស៊ីននិម្មិត។ សូម​ព្យាយាម​ម្តង​ទៀត។</translation>
 <translation id="3722624153992426516">បាន​ទទួល​ការ​ណែនាំ <ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" /></translation>
 <translation id="3726965532284929944">QT</translation>
@@ -3250,7 +3250,7 @@
 <translation id="3771290962915251154">ការកំណត់នេះ​ត្រូវបានបិទ ដោយសារ​បើកការគ្រប់គ្រងដោយមាតាបិតា</translation>
 <translation id="3771294271822695279">ឯកសារវីដេអូ</translation>
 <translation id="3771851622616482156">អ្នក​នឹង​ត្រូវនាំចេញ​ពី​គេហទំព័រ​នេះ រួមទាំង​នៅក្នុង​ផ្ទាំង​បើក​ផងដែរ</translation>
-<translation id="3772046291955677288">ខ្ញុំបានអាន និងយល់ព្រម​តាម<ph name="BEGIN_LINK1" />លក្ខខណ្ឌប្រើប្រាស់ Google<ph name="END_LINK1" /> និង<ph name="BEGIN_LINK2" />លក្ខខណ្ឌប្រើប្រាស់​បន្ថែមរបស់ Chrome និង ChromeOS<ph name="END_LINK2" />។</translation>
+<translation id="3772046291955677288">ខ្ញុំបានអាន និងយល់ព្រម​តាម<ph name="BEGIN_LINK1" />លក្ខខណ្ឌប្រើប្រាស់ Decentr<ph name="END_LINK1" /> និង<ph name="BEGIN_LINK2" />លក្ខខណ្ឌប្រើប្រាស់​បន្ថែមរបស់ Chrome និង ChromeOS<ph name="END_LINK2" />។</translation>
 <translation id="3774166835015494435">រូបថត និងការជូនដំណឹងថ្មីៗ</translation>
 <translation id="3775432569830822555">វិញ្ញាបនប័ត្រម៉ាស៊ីនមេ SSL</translation>
 <translation id="3775705724665058594">ផ្ញើ​ទៅ​ឧបករណ៍​របស់អ្នក</translation>
@@ -3288,7 +3288,7 @@
 <translation id="3798632811625902122">ឧបករណ៍​ប៊្លូធូស <ph name="DEVICE" /> ចង់បាន​ការអនុញ្ញាតក្នុង​ការផ្គូផ្គង។</translation>
 <translation id="3798670284305777884">ឧបករណ៍បំពងសំឡេង (ខាងក្នុង)</translation>
 <translation id="3799128412641261490">ការកំណត់​ការប្រើប៊ូតុងចុច</translation>
-<translation id="3800828618615365228">លក្ខខណ្ឌបន្ថែម​របស់ Google Chrome និង ChromeOS</translation>
+<translation id="3800828618615365228">លក្ខខណ្ឌបន្ថែម​របស់ Decentr និង ChromeOS</translation>
 <translation id="3802486193901166966">កម្មវិធីបន្ថែមនេះ​មិនតម្រូវឱ្យមាន​ការអនុញ្ញាត​ពិសេស និង​មិនមាន​សិទ្ធិចូលប្រើ​គេហទំព័រ​បន្ថែមទេ</translation>
 <translation id="380329542618494757">ឈ្មោះ</translation>
 <translation id="3803345858388753269">គុណភាពវីដេអូ</translation>
@@ -3307,7 +3307,7 @@
 <translation id="3810973564298564668">គ្រប់គ្រង</translation>
 <translation id="381202950560906753">បញ្ចូលស្នាមម្រាមដៃផ្សេងទៀត</translation>
 <translation id="3812525830114410218">វិញ្ញាបនប័ត្រមិនល្អ</translation>
-<translation id="3813296892522778813">សូមចូលទៅកាន់<ph name="BEGIN_LINK_CHROMIUM" />ជំនួយ Google Chrome<ph name="END_LINK_CHROMIUM" /> ប្រសិនបើអ្នកមិនអាចរកឃើញអ្វីដែលអ្នកកំពុងរក</translation>
+<translation id="3813296892522778813">សូមចូលទៅកាន់<ph name="BEGIN_LINK_CHROMIUM" />ជំនួយ Decentr<ph name="END_LINK_CHROMIUM" /> ប្រសិនបើអ្នកមិនអាចរកឃើញអ្វីដែលអ្នកកំពុងរក</translation>
 <translation id="3813358687923336574">ភាសាដែលប្រើ​សម្រាប់បកប្រែទំព័រ និងចម្លើយរហ័ស</translation>
 <translation id="3813458570141926987">បញ្ជី​ប្រធានបទ​ដែល​បានប៉ាន់ស្មាន​ដោយ Chrome ដោយ​ផ្អែក​លើ​ប្រវត្តិ​រុករក​តាមអ៊ីនធឺណិត​របស់​អ្នកក្នុងពេលថ្មីៗនេះ</translation>
 <translation id="3814529970604306954">គណនី​សាលារៀន</translation>
@@ -3332,7 +3332,7 @@
 <translation id="3826440694796503677">អ្នកគ្រប់គ្រង​របស់អ្នក​បានបិទ​ការបញ្ចូល​គណនី Google បន្ថែម</translation>
 <translation id="3827774300009121996">ពេញអេក្រង់</translation>
 <translation id="3828029223314399057">ស្វែងរកចំណាំ</translation>
-<translation id="3828953470056652895">ខ្ញុំបានអាន និងយល់ព្រម​តាម<ph name="BEGIN_LINK1" />លក្ខខណ្ឌប្រើប្រាស់ Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />លក្ខខណ្ឌប្រើប្រាស់បន្ថែម​របស់ Chrome និង ChromeOS<ph name="END_LINK2" /> និង<ph name="BEGIN_LINK3" />លក្ខខណ្ឌ​ប្រើប្រាស់ Play<ph name="END_LINK3" />។</translation>
+<translation id="3828953470056652895">ខ្ញុំបានអាន និងយល់ព្រម​តាម<ph name="BEGIN_LINK1" />លក្ខខណ្ឌប្រើប្រាស់ Decentr<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />លក្ខខណ្ឌប្រើប្រាស់បន្ថែម​របស់ Chrome និង ChromeOS<ph name="END_LINK2" /> និង<ph name="BEGIN_LINK3" />លក្ខខណ្ឌ​ប្រើប្រាស់ Play<ph name="END_LINK3" />។</translation>
 <translation id="3829765597456725595">ការចែករំលែក​ឯកសារ SMB</translation>
 <translation id="3830654885961023588">{NUM_EXTENSIONS,plural, =1{អ្នកគ្រប់គ្រង​របស់អ្នក​បានបើក​កម្មវិធី​បន្ថែមដែលអាច​បង្កគ្រោះថ្នាក់ 1 ឡើងវិញ}other{អ្នកគ្រប់គ្រង​របស់អ្នក​បានបើក​កម្មវិធី​បន្ថែម​ដែលអាច​បង្កគ្រោះថ្នាក់ {NUM_EXTENSIONS} ឡើងវិញ}}</translation>
 <translation id="3834728400518755610">ការផ្លាស់ប្ដូរ​នៅក្នុង​ការកំណត់​មីក្រូហ្វូន​តម្រូវឱ្យបិទ Linux។ បិទ Linux ដើម្បី​បន្ត។</translation>
@@ -3432,7 +3432,7 @@
 <translation id="3916233823027929090">ការពិនិត្យ​សុវត្ថិភាពបានបញ្ចប់ហើយ</translation>
 <translation id="3916445069167113093">ឯកសារប្រភេទនេះអាចប៉ះពាល់ដល់កុំព្យូទ័ររបស់អ្នក។ តើអ្នកនៅចង់ទុក <ph name="FILE_NAME" /> ដែរទេ?</translation>
 <translation id="3917184139185490151">កុំព្យូទ័ររបស់អ្នកមានម៉ូឌុលសុវត្ថិភាព ដែលត្រូវបានប្រើដើម្បីប្រតិបត្តិការមុខងារសុវត្ថិភាពសំខាន់ៗជាច្រើននៅក្នុង ChromeOS។ សូមចូលទៅកាន់មជ្ឈមណ្ឌលជំនួយ Chromebook ដើម្បីស្វែងយល់បន្ថែម៖ https://support.google.com/chromebook/?p=sm</translation>
-<translation id="3918972485393593704">រាយការណ៍ព័ត៌មានលម្អិតទៅ Google</translation>
+<translation id="3918972485393593704">រាយការណ៍ព័ត៌មានលម្អិតទៅ Decentr</translation>
 <translation id="3919145445993746351">សូមបើក​សមកាលកម្ម ដើម្បី​ទាញយក​កម្មវិធីបន្ថែម​របស់អ្នក​នៅលើ​កុំព្យូទ័រ​ទាំងអស់​របស់អ្នក</translation>
 <translation id="3919229493046408863">បិទការជូនដំណឹង នៅពេលឧបករណ៍នៅជិត</translation>
 <translation id="3919262972282962508">បន្ទាប់ពី​ខែធ្នូ ឆ្នាំ 2022 កំណែ​ចាស់ៗ​នៃកម្មវិធី Chrome នឹង​មិន​បើក​បាន​នៅលើ​ឧបករណ៍ Mac ទេ។ សូមទាក់ទង​ទៅ​អ្នក​គ្រប់គ្រង​របស់អ្នក ដើម្បី​ដំឡើង​ទៅ​កំណែ​ថ្មី ឬ​លុប​កម្មវិធី​នេះ​ចេញ។</translation>
@@ -3638,7 +3638,7 @@
 <translation id="4096797685681362305">បានមើលកាលពី​សប្ដាហ៍មុន</translation>
 <translation id="4097406557126260163">កម្មវិធី និង​កម្មវិធីបន្ថែម</translation>
 <translation id="409742781329613461">គន្លឹះ​សម្រាប់ Chrome</translation>
-<translation id="4097560579602855702">ស្វែងរក​នៅលើ Google</translation>
+<translation id="4097560579602855702">ស្វែងរក​នៅលើ Decentr</translation>
 <translation id="4098667039111970300">ឧបករណ៍​របស់ប៊ិក​នៅក្នុង​របារឧបករណ៍</translation>
 <translation id="4099060993766194518">ស្តារម៉ាស៊ីនស្វែងរកលំនាំដើម?</translation>
 <translation id="4099874310852108874">​បណ្ដាញមានបញ្ហា។</translation>
@@ -3681,7 +3681,7 @@
 <translation id="4132969033912447558">បន្ត <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">បើក​កម្មវិធី ដើម្បី​ប្ដូរ​ពាក្យសម្ងាត់​របស់អ្នក</translation>
 <translation id="4134818201340504801">មិនមាន​ទំហំផ្ទុក​ទំនេរ​គ្រប់គ្រាន់ ដើម្បីបញ្ចប់​ការដំឡើងទេ។ សូមសម្អាតឱ្យសល់ទំហំផ្ទុក រួចព្យាយាមម្ដងទៀត</translation>
-<translation id="4135746311382563554">លក្ខខណ្ឌប្រើប្រាស់​បន្ថែមសម្រាប់ Google Chrome និង ChromeOS</translation>
+<translation id="4135746311382563554">លក្ខខណ្ឌប្រើប្រាស់​បន្ថែមសម្រាប់ Decentr និង ChromeOS</translation>
 <translation id="4136203100490971508">ពន្លឺ​ពេល​យប់នឹងបិទដោយស្វ័យប្រវត្តិពេលថ្ងៃរះ</translation>
 <translation id="41365691917097717">ការបន្តនឹង​បើក​ការជួសជុល ADB សម្រាប់​បង្កើត និងធ្វើតេស្ត​កម្មវិធី Android។ សូម​ចំណាំថា សកម្មភាពនេះ​អនុញ្ញាត​ការដំឡើង​កម្មវិធី Android ដែល​មិនមាន​ការផ្ទៀងផ្ទាត់ពី Google និង​តម្រូវឱ្យ​កំណត់​ដូចចេញ​ពីរោងចក្រ ដើម្បី​បិទ។</translation>
 <translation id="4137923333452716643">រំលេច​អក្សរ​ដែលអ្នក​ចង់បើក​នៅក្នុង​មុខងារ​អាន</translation>
@@ -3904,7 +3904,7 @@
 <translation id="4348766275249686434">ប្រមូលកំហុសឆ្គង</translation>
 <translation id="4349828822184870497">មានប្រយោជន៍</translation>
 <translation id="4350230709416545141">ទប់ស្កាត់ <ph name="HOST" /> មិនឱ្យចូលប្រើទីតាំងរបស់អ្នកជានិច្ច</translation>
-<translation id="4350782034419308508">Ok Google</translation>
+<translation id="4350782034419308508">Ok Decentr</translation>
 <translation id="4351770750390404505"><ph name="BEGIN_PARAGRAPH1" />ដើម្បីផ្ដល់នូវ​បទពិសោធន៍ប្រើប្រាស់​ដ៏ល្អបំផុត <ph name="DEVICE_OS" /> ប្រមូលទិន្នន័យហាតវែរ​អំពីឧបករណ៍ ហើយចែករំលែកទិន្នន័យនោះជាមួយ Google ដើម្បីកំណត់ថាតើ​កំណែថ្មីៗ​ណាខ្លះ​ដែលគួរផ្ដល់ជូន។ ជាជម្រើស អ្នកអាច​អនុញ្ញាតឱ្យ Google ប្រើទិន្នន័យនេះ​សម្រាប់គោលបំណងបន្ថែម​ដូចជា ជំនួយ និងការកែលម្អ​សេវាកម្មនិងបទពិសោធន៍​ប្រើប្រាស់ <ph name="DEVICE_OS" />។<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />អ្នកអាច​ចូល​នៅលើ​ឧបករណ៍នេះ និងចូលទៅកាន់​ផ្នែក CHROMEOSFLEX_HARDWARE_INFO នៅក្នុង chrome://system ដើម្បីមើលទិន្នន័យ​ដែល​ផ្ញើទៅ Google សម្រាប់​ត្រងកំណែថ្មី ក៏ដូចជា​ករណី​ផ្សេងទៀត​ដែលអ្នកជ្រើសរើស​ចែករំលែក​ទិន្នន័យ​ជាមួយ Google ផងដែរ។<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" />ដើម្បីទទួលបាន​ព័ត៌មានលម្អិតបន្ថែម​ពាក់ព័ន្ធនឹង​ទិន្នន័យ​ដែល <ph name="DEVICE_OS" /> អាចចែករំលែក​ជាមួយ Google និងរបៀបដែលវាត្រូវបាន​ប្រើប្រាស់ សូមចូល​ទៅកាន់ g.co/flex/HWDataCollection។<ph name="END_PARAGRAPH3" /></translation>
@@ -4137,7 +4137,7 @@
 <translation id="4544174279960331769">រូបតំណាងពណ៌ខៀវលំនាំដើម</translation>
 <translation id="4545028762441890696">ដើម្បី​បើក​វាឡើងវិញ សូម​ទទួលយក​ការអនុញ្ញាតថ្មី៖</translation>
 <translation id="4545759655004063573">មិនអាចរក្សាទុកទេដោយសារមិនមានការអនុញ្ញាតគ្រប់គ្រាន់។ សូមរក្សាទុកទៅទីតាំងដ៏ទៃទៀត។</translation>
-<translation id="4546308221697447294">រុករក​បានរហ័ស​ជាមួយ Google Chrome</translation>
+<translation id="4546308221697447294">រុករក​បានរហ័ស​ជាមួយ Decentr</translation>
 <translation id="4546345569117159016">ប៊ូតុងស្ដាំ</translation>
 <translation id="4546509872654834602"><ph name="SUPERVISED_USER_NAME" /> ចង់​ប្រើ​កម្មវិធីបន្ថែម​​នេះ៖</translation>
 <translation id="4546692474302123343">ការ​បញ្ចូល​ដោយប្រើសំឡេងរបស់ Google ជំនួយការ</translation>
@@ -4470,7 +4470,7 @@
 <translation id="4844333629810439236">ក្តារចុចផ្សេងទៀត</translation>
 <translation id="4844347226195896707">មើលពាក្យសម្ងាត់របស់អ្នក សូម្បីនៅពេលអ្នកមិនកំពុងប្រើ Chrome ឬ Android ក៏ដោយ ដោយចូលទៅកាន់ &lt;a target='_blank' href='<ph name="LINK" />'&gt;passwords.google.com&lt;/a&gt;</translation>
 <translation id="484462545196658690">ស្វ័យប្រវត្តិ</translation>
-<translation id="4844633725025837809">សម្រាប់​សុវត្ថិភាពបន្ថែម សូមអ៊ីនគ្រីប​ពាក្យសម្ងាត់នៅលើ​ឧបករណ៍​របស់អ្នក មុនពេលរក្សាទុក​ពាក្យសម្ងាត់​ទាំងនោះទៅ​កម្មវិធីគ្រប់គ្រង​ពាក្យសម្ងាត់ Google</translation>
+<translation id="4844633725025837809">សម្រាប់​សុវត្ថិភាពបន្ថែម សូមអ៊ីនគ្រីប​ពាក្យសម្ងាត់នៅលើ​ឧបករណ៍​របស់អ្នក មុនពេលរក្សាទុក​ពាក្យសម្ងាត់​ទាំងនោះទៅ​កម្មវិធីគ្រប់គ្រង​ពាក្យសម្ងាត់ Decentr</translation>
 <translation id="4846628405149428620">ជ្រើសរើស​កន្លែង​ដែល​គេហទំព័រ​នេះ​អាច​រក្សាទុក​ការផ្លាស់ប្ដូរ</translation>
 <translation id="4846680374085650406">អ្នកកំពុងធ្វើតាមការណែនាំរបស់អ្នកគ្រប់គ្រងសម្រាប់ការកំណត់នេះ។</translation>
 <translation id="4848191975108266266">Google ជំនួយការ​ "Ok Google"</translation>
@@ -4661,7 +4661,7 @@
 <translation id="5020651427400641814">បើក​ការធ្វើ​កំណត់ហេតុ​ការនិយាយ</translation>
 <translation id="5021750053540820849">មិនទាន់​បានធ្វើបច្ចុប្បន្នភាព​នៅឡើយទេ</translation>
 <translation id="5024511550058813796">អ្នកនឹងមានប្រវត្តិ​របស់អ្នកនៅលើឧបករណ៍​ដែលបានធ្វើ​សមកាលកម្ម​ទាំងអស់របស់អ្នក ដើម្បីអាចឱ្យអ្នក​បន្តអ្វីដែលអ្នកបានធ្វើ</translation>
-<translation id="5026492829171796515">ចូល​ដើម្បីបញ្ចូល​គណនី Google</translation>
+<translation id="5026492829171796515">ចូល​ដើម្បីបញ្ចូល​គណនី Decentr</translation>
 <translation id="5026806129670917316">បើក Wi-Fi</translation>
 <translation id="5026874946691314267">កុំបង្ហាញម្តងទៀត</translation>
 <translation id="5027550639139316293">វិញ្ញាបនប័ត្រអ៊ីម៉ែល</translation>
@@ -4972,7 +4972,7 @@
 <translation id="529986401483187205">បាន​បិទ</translation>
 <translation id="5300426565656326054">ការកំណត់​ការផ្សាយពាណិជ្ជកម្ម​ឱ្យស្របតាមបុគ្គល​ដោយផ្អែកលើ​កម្មវិធីរុករក​តាមអ៊ីនធឺណិត</translation>
 <translation id="5300589172476337783">បង្ហាញ</translation>
-<translation id="5300719150368506519">ផ្ញើ URL នៃ​ទំព័រ​ដែលអ្នក​ចូល​មើលទៅ Google</translation>
+<translation id="5300719150368506519">ផ្ញើ URL នៃ​ទំព័រ​ដែលអ្នក​ចូល​មើលទៅ Decentr</translation>
 <translation id="5301751748813680278">ការចូលជាភ្ញៀវ។</translation>
 <translation id="5301954838959518834">យល់ព្រម ខ្ញុំយល់ហើយ</translation>
 <translation id="5302048478445481009">ភាសា</translation>
@@ -5200,7 +5200,7 @@
 <translation id="5507756662695126555">ការមិនបដិសេធ</translation>
 <translation id="5509693895992845810">រក្សាទុកជា...</translation>
 <translation id="5509914365760201064">អ្នកចេញផ្សាយ៖ <ph name="CERTIFICATE_AUTHORITY" /></translation>
-<translation id="5510775624736435856">ទាញយក​ការពណ៌នា​​រូបភាពពី Google</translation>
+<translation id="5510775624736435856">ទាញយក​ការពណ៌នា​​រូបភាពពី Decentr</translation>
 <translation id="5511379779384092781">តូច​​ជាង​ធម្មតា</translation>
 <translation id="5511823366942919280">តើអ្នកប្រាកដថាចង់តំឡើងឧបករណ៍នេះជា "ត្រីឆ្លាម" ឬ?</translation>
 <translation id="5512739112435045339">សូមបង្កើន​ទំហំផ្ទុក​នៅលើ​ឧបករណ៍​របស់អ្នក។ បន្ទាប់មក ព្យាយាម​ទាញយក​ម្ដងទៀត</translation>
@@ -5366,7 +5366,7 @@
 <translation id="5653154844073528838">អ្នក​មាន​ម៉ាស៊ីន​បោះពុម្ព​ដែលបាន​រក្សាទុក <ph name="PRINTER_COUNT" />។</translation>
 <translation id="565515993087783098">តាមរយៈ​ការ​បំភ្លេច​បណ្ដាញ​នេះ អ្នក​ក៏​នឹង​លុប​ការ​ជាវ Passpoint និង​បណ្ដាញ​ពាក់ព័ន្ធរបស់​វាចេញ​ផងដែរ។</translation>
 <translation id="5655296450510165335">ការចុះឈ្មោះឧបករណ៍</translation>
-<translation id="5656845498778518563">ផ្ញើមតិ​កែលម្អទៅ Google</translation>
+<translation id="5656845498778518563">ផ្ញើមតិ​កែលម្អទៅ Decentr</translation>
 <translation id="5657156137487675418">អនុញ្ញាតខូគីទាំងអស់</translation>
 <translation id="5657667036353380798">កម្មវិធីបន្ថែមខាងក្រៅតម្រូវឲ្យតំឡើងកំណែ chrome <ph name="MINIMUM_CHROME_VERSION" /> ឬថ្មីជាងនេះ។</translation>
 <translation id="5659593005791499971">អ៊ីម៉េល</translation>
@@ -5466,7 +5466,7 @@
 <translation id="5756163054456765343">មជ្ឈមណ្ឌលជំនួយ</translation>
 <translation id="5758631781033351321">អ្នក​នឹង​ឃើញ​បញ្ជីអាន​របស់អ្នក​នៅទីនេះ</translation>
 <translation id="5759728514498647443">ឯកសារដែលអ្នកផ្ញើដើម្បីបោះពុម្ពតាមរយៈ <ph name="APP_NAME" /> អាចត្រូវបានអានដោយ <ph name="APP_NAME" />។</translation>
-<translation id="5762787084360227629">បញ្ចូល​ព័ត៌មាន​អំពី​គណនី Google</translation>
+<translation id="5762787084360227629">បញ្ចូល​ព័ត៌មាន​អំពី​គណនី Decentr</translation>
 <translation id="5763751966069581670">រកមិនឃើញឧបករណ៍ USB ទេ</translation>
 <translation id="5764483294734785780">រក្សាសម្លេងជា...</translation>
 <translation id="57646104491463491">កាលបរិច្ឆេទបានកែសម្រួល</translation>
@@ -5655,7 +5655,7 @@
 <translation id="5909379458939060601">លុបកម្រង​ព័ត៌មាននេះ និងទិន្នន័យ​រុករកឬ?</translation>
 <translation id="5910363049092958439">រក្សាទុករូបភាពជា...</translation>
 <translation id="5910726859585389579"><ph name="DEVICE_TYPE" /> គ្មានអ៊ីនធឺណិតទេ</translation>
-<translation id="5911030830365207728">កម្មវិធីបកប្រែ Google</translation>
+<translation id="5911030830365207728">កម្មវិធីបកប្រែ Decentr</translation>
 <translation id="5911533659001334206">កម្មវិធីមើល​ផ្លូវកាត់</translation>
 <translation id="5911545422157959623">មិនមានចំណាំ​នៅ​ក្នុង​មុខងារភ្ញៀវទេ</translation>
 <translation id="5914724413750400082">បរិមាណវាស់វែង (<ph name="MODULUS_NUM_BITS" /> ប៊ីត):
@@ -5885,7 +5885,7 @@
 <translation id="6101226222197207147">កម្មវិធីថ្មីបានបន្ថែម (<ph name="EXTENSION_NAME" />)</translation>
 <translation id="6102043788063419338">ឯកសារ​នេះ​ត្រូវបានទប់ស្កាត់​ដោយ​ការការពារ​កម្រិតខ្ពស់។</translation>
 <translation id="6103681770816982672">ការព្រមាន៖ អ្នកកំពុងឆ្លាស់ទៅបណ្តាញអ្នកអភិវឌ្ឍន៍</translation>
-<translation id="6104068876731806426">គណនី Google</translation>
+<translation id="6104068876731806426">គណនី Decentr</translation>
 <translation id="6104311680260824317">មិនអាច​ភ្ជាប់ឧបករណ៍​ទៅដែន​បានទេ។ ម៉ាសីុនមេ​មិនអាច​ប្រើប្រភេទ​អ៊ីនគ្រីប Kerberos ដែលបានបញ្ជាក់​ទេ។ សូម​ពិនិត្យមើល "ជម្រើស​ច្រើនទៀត" សម្រាប់​ការកំណត់​ការអ៊ីនគ្រីប។</translation>
 <translation id="6104796831253957966">ជួរ​ម៉ាស៊ីនបោះពុម្ព​ពេញហើយ</translation>
 <translation id="6104929924898022309">ប្រើ​ប៊ូតុងស្វែងរក ដើម្បីប្ដូរ​សកម្មភាព​គ្រាប់ចុច Function</translation>
@@ -6046,7 +6046,7 @@
 <translation id="6243774244933267674">ម៉ាស៊ីនមេមិនមានទេ។</translation>
 <translation id="6244245036423700521">នាំចូល​ឯកសារ ONC</translation>
 <translation id="6246790815526961700">បង្ហោះ​ពី​ឧបករណ៍</translation>
-<translation id="6247557882553405851">កម្មវិធីគ្រប់គ្រង​ពាក្យសម្ងាត់ Google</translation>
+<translation id="6247557882553405851">កម្មវិធីគ្រប់គ្រង​ពាក្យសម្ងាត់ Decentr</translation>
 <translation id="6247620186971210352">រកមិនឃើញកម្មវិធីទេ</translation>
 <translation id="6247708409970142803"><ph name="PERCENTAGE" />%</translation>
 <translation id="6247802389331535091">ប្រព័ន្ធ៖ <ph name="ARC_PROCESS_NAME" /></translation>
@@ -6332,7 +6332,7 @@
 <translation id="6511279028091289182">កំណត់របៀបភ្ជាប់​ទៅគេហទំព័រ​តាមរការតភ្ជាប់ដែលមានសុវត្ថិភាព។ វាប្រើ​ក្រុមហ៊ុនផ្ដល់សេវា​ដែល​ស្ថិតក្រោមការគ្រប់គ្រង​នៅ <ph name="DNS_SERVER_TEMPLATE_WITH_IDENTIFIER" /></translation>
 <translation id="6511827214781912955">ពិចារណា​លុប <ph name="FILENAME" /> ដើម្បីកុំឱ្យ​អ្នក​ផ្សេងទៀត​ដែល​ប្រើប្រាស់​ឧបករណ៍នេះ​មើលឃើញ​ពាក្យសម្ងាត់​របស់អ្នក</translation>
 <translation id="6512808201725371249">ពាក្យសម្ងាត់​សម្រាប់​គណនី​នេះ​ត្រូវ​បាន​រក្សាទុក​ទៅ​ក្នុង​កម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់របស់​អ្នក (<ph name="USER_EMAIL" />) រួច​ហើយ</translation>
-<translation id="6513247462497316522">Google Chrome នឹងប្រើទិន្នន័យទូរស័ព្ទ ប្រសិនបើអ្នកមិនភ្ជាប់ទៅបណ្តាញដ៏ទៃទេ។</translation>
+<translation id="6513247462497316522">Decentr នឹងប្រើទិន្នន័យទូរស័ព្ទ ប្រសិនបើអ្នកមិនភ្ជាប់ទៅបណ្តាញដ៏ទៃទេ។</translation>
 <translation id="6514010653036109809">ឧបករណ៍​ដែលអាច​ភ្ជាប់បាន៖</translation>
 <translation id="6514565641373682518">ទំព័រនេះបានបិទដំណើរការព្រួញកណ្តុររបស់អ្នក។</translation>
 <translation id="6517709704288360414">ឧបករណ៍របស់អ្នកប្រហែលជាមិនដំណើរការត្រឹមត្រូវទៀតទេ ហើយអ្នកប្រហែលជាជួបបញ្ហាពាក់ព័ន្ធនឹងសុវត្ថិភាព និងប្រតិបត្តិការ។ ប្រសិនបើអ្នកជួបបញ្ហាណាមួយ ការបិទការដំឡើងកំណែក៏អាចប៉ះពាល់ដល់សិទ្ធិក្នុងការទាមទារស្របច្បាប់​របស់​អ្នក​ផងដែរ។</translation>
@@ -6343,7 +6343,7 @@
         <ph name="FILE_INFO" />
         <ph name="EVENT_NAME" /></translation>
 <translation id="6519689855001245063">កំពុង​ពិនិត្យ​មើលសិទ្ធិប្រើប្រាស់</translation>
-<translation id="6520087076882753524">អ្នកអាចមើល និងគ្រប់គ្រង​ពាក្យសម្ងាត់ដែលបានរក្សាទុក​នៅក្នុងកម្មវិធីគ្រប់គ្រង​ពាក្យសម្ងាត់ Google</translation>
+<translation id="6520087076882753524">អ្នកអាចមើល និងគ្រប់គ្រង​ពាក្យសម្ងាត់ដែលបានរក្សាទុក​នៅក្នុងកម្មវិធីគ្រប់គ្រង​ពាក្យសម្ងាត់ Decentr</translation>
 <translation id="6520876759015997832">លទ្ធផលស្វែងរក <ph name="LIST_POSITION" /> នៃ <ph name="LIST_SIZE" />៖ <ph name="SEARCH_RESULT_TEXT" />។ ចុច Enter ដើម្បីចូលទៅកាន់ផ្នែក។</translation>
 <translation id="6521214596282732365">ជាធម្មតា គេហទំព័រប្រើពុម្ព​អក្សរ​របស់អ្នក ដើម្បីអាចឱ្យអ្នកបង្កើតខ្លឹមសារគុណភាពខ្ពស់ដោយប្រើកម្មវិធីក្រាហ្វិក និងរចនានៅលើអ៊ីនធឺណិត</translation>
 <translation id="6523303810310758032">នៅពេលដែលអ្នក​លុបប្រវត្តិ​រុករកតាម​អ៊ីនធឺណិត​របស់អ្នក មិនថាលុប​ប្រវត្តិទាំងអស់ ឬ​ប្រវត្តិសម្រាប់គេហទំព័រ​ជាក់លាក់នោះទេ អ្នកក៏លុប​ព័ត៌មានអំពី​ការវាស់ស្ទង់​ដែលពាក់ព័ន្ធ​ផងដែរ។ សូមមើល<ph name="BEGIN_LINK" />ប្រវត្តិ​រុករក​តាមអ៊ីនធឺណិត<ph name="END_LINK" />របស់អ្នក</translation>
@@ -6600,7 +6600,7 @@
 <translation id="674632704103926902">បើកដំណើរការការអូសប៉ះ</translation>
 <translation id="67465227497040338">បង្ហាញ​ពាក្យសម្ងាត់​សម្រាប់ <ph name="DOMAIN" /></translation>
 <translation id="6748465660675848252">អ្នកអាចបន្តបាន ប៉ុន្តែមានតែទិន្នន័យ និងការកំណត់ដែលអ្នកបានធ្វើសមកាលកម្មប៉ុណ្ណោះនឹងត្រូវស្តារឡើងវិញ។ រាល់ទិន្នន័យមូលដ្ឋានទាំងអស់នឹងបាត់បង់។</translation>
-<translation id="6748980958975836188">ខ្ញុំបានអាន និងយល់ព្រមតាម<ph name="BEGIN_LINK1" />លក្ខខណ្ឌប្រើប្រាស់ Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />លក្ខខណ្ឌប្រើប្រាស់បន្ថែមរបស់ Chrome និង ChromeOS<ph name="END_LINK2" />។</translation>
+<translation id="6748980958975836188">ខ្ញុំបានអាន និងយល់ព្រមតាម<ph name="BEGIN_LINK1" />លក្ខខណ្ឌប្រើប្រាស់ Decentr<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />លក្ខខណ្ឌប្រើប្រាស់បន្ថែមរបស់ Chrome និង ChromeOS<ph name="END_LINK2" />។</translation>
 <translation id="6749473226660745022">រូបថត</translation>
 <translation id="6750757184909117990">បិទ​បណ្ដាញ​ចល័ត</translation>
 <translation id="6751344591405861699"><ph name="WINDOW_TITLE" /> (អនាមិក)</translation>
@@ -6706,7 +6706,7 @@
 <translation id="6828182567531805778">បញ្ចូល​ឃ្លាសម្ងាត់​របស់អ្នក ដើម្បី​ធ្វើសមកាលកម្ម​ទិន្នន័យ​របស់អ្នក</translation>
 <translation id="682871081149631693">QuickFix</translation>
 <translation id="6828860976882136098">បានបរាជ័យក្នុងការកំណត់ការអាប់ដេតដោយស្វ័យប្រវត្តិសម្រាប់អ្នកប្រើទាំងអស់ (មានកំហុសក្នុងការប្រតិបត្តិការ preflight៖ <ph name="ERROR_NUMBER" />)</translation>
-<translation id="682971198310367122">គោលការណ៍ឯកជនភាព Google</translation>
+<translation id="682971198310367122">គោលការណ៍ឯកជនភាព Decentr</translation>
 <translation id="6830200424658853449">បើក​នៅ​ក្នុង​កម្មវិធី​កែ​ដោយ​គ្មាន​អ៊ីនធឺណិត</translation>
 <translation id="6831043979455480757">បកប្រែ</translation>
 <translation id="6832218595502288407">តម្រឹម​ឆ្វេង</translation>
@@ -6818,7 +6818,7 @@
 <translation id="6923633482430812883">មានបញ្ហា​ក្នុងការ​ភ្ជាប់ការចែករំលែក។ សូមពិនិត្យមើលថា​ម៉ាស៊ីនមេ​ឯកសារ​ដែលអ្នកកំពុងភ្ជាប់ អាចប្រើ SMBv2 ឬកំណែថ្មីជាងនេះឬអត់។</translation>
 <translation id="6925127338315966709">អ្នកកំពុងបញ្ចូលកម្រងព័ត៌មានដែលស្ថិតក្រោមការគ្រប់គ្រងទៅក្នុងកម្មវិធីរុករកតាមអ៊ីនធឺណិតនេះ។ អ្នកគ្រប់គ្រង​របស់អ្នកមានសិទ្ធិគ្រប់គ្រងកម្រងព័ត៌មាននេះ និងអាចចូលប្រើទិន្នន័យរបស់វាបាន។ ចំណាំ​ ប្រវត្តិ ពាក្យសម្ងាត់ និង​ការ​កំណត់​ផ្សេង​ទៀតអាច​ត្រូវបាន​ធ្វើសមកាលកម្ម​ទៅក្នុង​គណនីរបស់អ្នក និងស្ថិតក្រោមការគ្រប់គ្រងរបស់អ្នកគ្រប់គ្រងរបស់អ្នក។</translation>
 <translation id="6929126689972602640">មិនអាចប្រើការគ្រប់គ្រងដោយមាតាបិតាជាមួយគណនីសាលារៀនបានទេ។ ដើម្បីបញ្ចូលគណនីសាលារៀនសម្រាប់ចូល Google ថ្នាក់រៀន និងគេហទំព័រផ្សេងទៀត ដើម្បីធ្វើកិច្ចការសាលានៅផ្ទះ សូមចូលដោយប្រើគណនីផ្ទាល់ខ្លួនរបស់កុមារជាមុនសិន។ អ្នកអាចបញ្ចូលគណនីសាលារៀននៅពេលក្រោយក្នុងការរៀបចំ។</translation>
-<translation id="6929760895658557216">Okay Google</translation>
+<translation id="6929760895658557216">Okay Decentr</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{កម្មវិធីបន្ថែមមួយ​ត្រូវបានច្រានចោល}other{កម្មវិធីបន្ថែម # ត្រូវបានច្រានចោល}}</translation>
 <translation id="6931690462168617033">កម្លាំងចុច</translation>
 <translation id="6935286146439255109">​បានបាត់ថាសក្រដាស</translation>
@@ -6839,7 +6839,7 @@
 <translation id="6949089178006131285">អាន​ព័ត៌មានអំពី​បណ្ដាញ ChromeOS Flex</translation>
 <translation id="6949434160682548041">ពាក្យ​សម្ងាត់ (ជាជម្រើស)</translation>
 <translation id="6950627417367801484">ស្ដារ​កម្មវិធី</translation>
-<translation id="6952242901357037157">អ្នក​ក៏អាច​បង្ហាញ​ពាក្យសម្ងាត់​ពី<ph name="BEGIN_LINK" />គណនី Google<ph name="END_LINK" /> របស់អ្នក​នៅទីនេះ​បានផងដែរ</translation>
+<translation id="6952242901357037157">អ្នក​ក៏អាច​បង្ហាញ​ពាក្យសម្ងាត់​ពី<ph name="BEGIN_LINK" />គណនី Decentr<ph name="END_LINK" /> របស់អ្នក​នៅទីនេះ​បានផងដែរ</translation>
 <translation id="6954910832698269894">បើក​សមកាលកម្ម​ឧបករណ៍ ដើម្បីស្ដារ​កម្មវិធី, ការកំណត់, បណ្ដាញ Wi-Fi និង​ផ្ទាំងរូបភាព​របស់អ្នក​ពី Chromebook មុន​របស់អ្នក។ ធ្វើការផ្លាស់ប្ដូរ​បានគ្រប់ពេល​នៅក្នុងការកំណត់ &gt; គណនី។</translation>
 <translation id="6954936693361896459">ភ្ជាប់​ផ្ទាំង​នេះ​ជំនួស​វិញ</translation>
 <translation id="6955446738988643816">តាមដានការលេចឡើង</translation>
@@ -7894,7 +7894,7 @@
 <translation id="7858328180167661092"><ph name="APP_NAME" /> (Windows)</translation>
 <translation id="786073089922909430">សេវាកម្ម៖ <ph name="ARC_PROCESS_NAME" /></translation>
 <translation id="7861215335140947162">ទាញយក</translation>
-<translation id="7861846108263890455">ភាសា​គណនី Google</translation>
+<translation id="7861846108263890455">ភាសា​គណនី Decentr</translation>
 <translation id="7864539943188674973">បិទដំណើរការប៊្លូធូស</translation>
 <translation id="7865127013871431856">ជម្រើស​បកប្រែ</translation>
 <translation id="7866941897628979955">សន្សំសំចៃ​បាន <ph name="MEMORY_SAVINGS" /></translation>
@@ -8001,7 +8001,7 @@
 <translation id="7947964080535614577">ជាធម្មតា គេហទំព័រ​បង្ហាញ​ការផ្សាយពាណិជ្ជកម្ម ដើម្បីអាចឱ្យ​ពួកគេ​ផ្ដល់ខ្លឹមសារ ឬសេវាកម្ម​ដោយឥតគិតថ្លៃ។ ប៉ុន្តែគេហទំព័រមួយចំនួនត្រូវបានគេស្គាល់ថា បង្ហាញ​ការផ្សាយពាណិជ្ជកម្ម​នាំឱ្យយល់ច្រឡំ ឬរំខាន។</translation>
 <translation id="7948407723851303488">ទំព័រទាំងអស់នៃ <ph name="DOMAIN_NAME" /></translation>
 <translation id="7950629216186736592">មូលហេតុ៖ LBS ស្គាល់តែ http://, https:// និង file:// URLs ប៉ុណ្ណោះ។</translation>
-<translation id="7951265006188088697">ដើម្បី​បញ្ចូល ឬ​គ្រប់គ្រង​វិធីបង់ប្រាក់ Google Pay សូមចូល​ទៅកាន់<ph name="BEGIN_LINK" />គណនី Google<ph name="END_LINK" /> របស់អ្នក</translation>
+<translation id="7951265006188088697">ដើម្បី​បញ្ចូល ឬ​គ្រប់គ្រង​វិធីបង់ប្រាក់ Google Pay សូមចូល​ទៅកាន់<ph name="BEGIN_LINK" />គណនី Decentr<ph name="END_LINK" /> របស់អ្នក</translation>
 <translation id="795130320946928025">បិទកាតនិម្មិត</translation>
 <translation id="795240231873601803">ប្រើការចុះឈ្មោះ​សហគ្រាសសម្រាប់គណនីការងារ និងសាលារៀន</translation>
 <translation id="7952708427581814389">គេហទំព័រអាចស្នើសុំមើលអត្ថបទ និងរូបភាពនៅក្នុងឃ្លីបបតរបស់អ្នក</translation>
@@ -8106,12 +8106,12 @@
 <translation id="8041089156583427627">ផ្ញើមតិ</translation>
 <translation id="8041267120753677077">បញ្ចាំងកម្មវិធីរបស់ទូរសព្ទអ្នក</translation>
 <translation id="8042142357103597104">ភាព​ស្រអាប់​អក្សរ</translation>
-<translation id="8042331986490021244">ពាក្យសម្ងាត់​របស់អ្នក​ត្រូវបាន​អ៊ីនគ្រីប​នៅលើ​ឧបករណ៍​របស់អ្នក មុនពេលរក្សាទុក​ពាក្យសម្ងាត់​ទាំងនោះទៅ​កម្មវិធីគ្រប់គ្រង​ពាក្យសម្ងាត់ Google</translation>
+<translation id="8042331986490021244">ពាក្យសម្ងាត់​របស់អ្នក​ត្រូវបាន​អ៊ីនគ្រីប​នៅលើ​ឧបករណ៍​របស់អ្នក មុនពេលរក្សាទុក​ពាក្យសម្ងាត់​ទាំងនោះទៅ​កម្មវិធីគ្រប់គ្រង​ពាក្យសម្ងាត់ Decentr</translation>
 <translation id="8044262338717486897"><ph name="LINUX_APP_NAME" /> មិន​ដំណើរការ​ទេ។</translation>
 <translation id="8044899503464538266">យឺត</translation>
 <translation id="8045253504249021590">សមកាលកម្មត្រូវបានបិទតាមរយៈ Google ផ្ទាំងគ្រប់គ្រង។</translation>
 <translation id="8045923671629973368">បញ្ចូលលេខសម្គាល់កម្មវិធី ឬ URL របស់​ webstore</translation>
-<translation id="8047242494569930800">ផ្លាស់ទី​ទៅ​គណនី Google</translation>
+<translation id="8047242494569930800">ផ្លាស់ទី​ទៅ​គណនី Decentr</translation>
 <translation id="804786196054284061">កិច្ចព្រមព្រៀង​អាជ្ញាបណ្ណ​របស់​អ្នកប្រើប្រាស់​ចុងក្រោយ</translation>
 <translation id="8048728378294435881">បម្រុង​ទុក​ទិន្នន័យ​របស់​អ្នក ហើយ​ប្រើ​​វា​នៅ​លើ​ឧបករណ៍​ណា​ក៏បាន</translation>
 <translation id="8048977114738515028">បង្កើតផ្លូវកាត់​អេក្រង់ដើមនៅលើ​ឧបករណ៍របស់អ្នក ដើម្បីចូលប្រើ​កម្រងព័ត៌មាន​នេះដោយផ្ទាល់</translation>
@@ -8498,7 +8498,7 @@
 <translation id="8376137163494131156">សូមប្រាប់យើងថាកំពុងមានបញ្ហាអ្វីពាក់ព័ន្ធនឹង Google Cast។</translation>
 <translation id="8376384591331888629">រួមទាំងខូគីភាគីទីបី​នៅលើគេហទំព័រនេះ</translation>
 <translation id="8376451933628734023">ប្រសិនបើ​កម្មវិធីលើ​អ៊ីនធឺណិតនេះ​កំពុងព្យាយាម​បោកបញ្ឆោតអ្នកឱ្យគិតថា វាគឺជាកម្មវិធីផ្សេង សូមលុប​វាចេញ។</translation>
-<translation id="8376752431516546391">ផ្ទាំង​ចំហៀងនៃ​ម៉ាស៊ីនស្វែងរក​នៅលើ Google</translation>
+<translation id="8376752431516546391">ផ្ទាំង​ចំហៀងនៃ​ម៉ាស៊ីនស្វែងរក​នៅលើ Decentr</translation>
 <translation id="8377625247046155446">កូដសម្ងាត់​នេះ​នឹង​ត្រូ​វបាន​រក្សាទុក​តែ​នៅលើ​ឧបករណ៍​នេះ​ប៉ុណ្ណោះ។ វានឹង​នៅតែ​មាន​នៅ​លើ​ឧបករណ៍​នេះ បន្ទាប់​ពី​អ្នក​បិទ​ផ្ទាំងឯកជន​ទាំងអស់។</translation>
 <translation id="8378714024927312812">គ្រប់គ្រងដោយ​ស្ថាប័ន​របស់អ្នក</translation>
 <translation id="8379878387931047019">ឧបករណ៍នេះ​មិនស្គាល់​ប្រភេទសោសុវត្ថិភាព​ដែលបានស្នើសុំ​ដោយគេហទំព័រ​នេះទេ</translation>
@@ -8703,7 +8703,7 @@
 <translation id="8554899698005018844">គ្មាន​ភាសាទេ</translation>
 <translation id="855604308879080518">អនុញ្ញាត​ឱ្យកម្មវិធី Android ចូលប្រើឧបករណ៍ USB នៅលើ Chromebook នេះ។ នឹងស្នើសុំការអនុញ្ញាតរាល់ពេលដែលអ្នកដោតឧបករណ៍ USB។ កម្មវិធី Android នីមួយៗនឹងស្នើសុំការអនុញ្ញាតបន្ថែម។</translation>
 <translation id="8557022314818157177">បន្ត​ចុច​សោសុវត្ថិភាព​ រហូតទាល់តែ​ថតបាន​ស្នាមម្រាមដៃ​របស់អ្នក</translation>
-<translation id="8557180006508471423">បើក "Google Chrome" នៅក្នុង​សេវាកម្មទីតាំងនៅលើ Mac របស់អ្នក</translation>
+<translation id="8557180006508471423">បើក "Decentr" នៅក្នុង​សេវាកម្មទីតាំងនៅលើ Mac របស់អ្នក</translation>
 <translation id="8557856025359704738">ការទាញយក​បន្ទាប់គឺនៅ <ph name="NEXT_DATE_DOWNLOAD" />។</translation>
 <translation id="8559858985063901027">កូដសម្ងាត់</translation>
 <translation id="8559961053328923750">Chrome ដាក់កំហិត​លើចំនួន​ទិន្នន័យ​សរុប​ដែល​គេហទំព័រ​អាច​ចែករំលែក​តាមរយៈ​កម្មវិធីរុករកតាមអ៊ីនធឺណិត ដើម្បី​វាស់ស្ទង់​ប្រតិបត្តិការ​នៃ​ការ​ផ្សាយ​ពាណិជ្ជកម្ម</translation>
@@ -8967,7 +8967,7 @@
 <translation id="8778393144535275552">សម្អាត​ទិន្នន័យ​ដែលបាន​បង្ហាញ</translation>
 <translation id="877985182522063539">A4</translation>
 <translation id="8779944680596936487">គេហទំព័រអាចប្រើខូគី ដើម្បីមើលសកម្មភាពរុករកតាមអ៊ីនធឺណិតរបស់អ្នកនៅលើគេហទំព័ររបស់ពួកគេតែប៉ុណ្ណោះ</translation>
-<translation id="8780123805589053431">ទាញយក​ការពណ៌នា​អំពី​រូបភាពពី Google</translation>
+<translation id="8780123805589053431">ទាញយក​ការពណ៌នា​អំពី​រូបភាពពី Decentr</translation>
 <translation id="8780443667474968681">ការស្វែង​រកតាម​សំឡេង​ត្រូវបាន​បិទ។</translation>
 <translation id="8781834595282316166">ផ្ទាំងថ្មី​នៅក្នុងក្រុម</translation>
 <translation id="8781980678064919987">បិទ​នៅពេល​គម្របបិទ</translation>
@@ -9116,7 +9116,7 @@
 <translation id="8909833622202089127">ទំព័រ​កំពុងតាមដាន​ទីតាំង​របស់អ្នក</translation>
 <translation id="8910222113987937043">ការផ្លាស់ប្តូរនៅលើចំណាំ ប្រវត្តិ ពាក្យសម្ងាត់ និងការកំណត់ផ្សេងទៀតរបស់អ្នក នឹងមិនអាចធ្វើសមកាលកម្មទៅគណនី Google របស់អ្នកបានទៀតទេ។ ទោះបីជាយ៉ាងណាក៏ដោយ ទិន្នន័យដែលមានស្រាប់របស់អ្នកនៅតែផ្ទុកក្នុងគណនី Google ដដែល ហើយអ្នកអាចគ្រប់គ្រងវានៅលើ <ph name="BEGIN_LINK" />Google ផ្ទាំងគ្រប់គ្រង<ph name="END_LINK" />។</translation>
 <translation id="8910987510378294980">លាក់បញ្ជី​ឧបករណ៍</translation>
-<translation id="8912362522468806198">គណនី Google</translation>
+<translation id="8912362522468806198">គណនី Decentr</translation>
 <translation id="8912810933860534797">បើក​ការស្កេនស្វ័យប្រវត្តិ</translation>
 <translation id="8915307125957890427">ចុចកណ្ដុរខាងស្ដាំលើផ្ទាំងណាមួយ រួចជ្រើសរើស "បញ្ចូលផ្ទាំងទៅក្រុម"​ រួច​ហើយ​ជ្រើសរើស "ក្រុមថ្មី"</translation>
 <translation id="8915370057835397490">កំពុងដំណើរការការផ្តល់យោបល់</translation>
@@ -9277,7 +9277,7 @@
 <translation id="9043264199499366189">ជាវ​ព្រឹត្តិការណ៍​ប្រព័ន្ធ ChromeOS Flex</translation>
 <translation id="9044646465488564462">បានបរាជ័យក្នុងការភ្ជាប់ទៅបណ្តាញ៖ <ph name="DETAILS" /></translation>
 <translation id="9045160989383249058">បញ្ជីអានរបស់អ្នក​បានផ្លាស់ទីទៅ​ផ្ទាំងចំហៀងថ្មី។ សូមសាកល្បង​ប្រើវា​នៅទីនេះ។</translation>
-<translation id="9045430190527754450">ផ្ញើ​អាសយដ្ឋាន​ទំព័រនៃ​ទំព័រ​ដែល​កំពុង​ព្យាយាម​ចូល ទៅកាន់ Google</translation>
+<translation id="9045430190527754450">ផ្ញើ​អាសយដ្ឋាន​ទំព័រនៃ​ទំព័រ​ដែល​កំពុង​ព្យាយាម​ចូល ទៅកាន់ Decentr</translation>
 <translation id="9048745018038487540">ជ្រើសរើសពុម្ព​អក្សរ​ទាំងអស់</translation>
 <translation id="9050666287014529139">ឃ្លាសម្ងាត់</translation>
 <translation id="9052404922357793350">បន្ត​ទប់ស្កាត់</translation>

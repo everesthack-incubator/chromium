@@ -5,7 +5,7 @@
 <translation id="1002085272681738789">Karta je znova aktívna</translation>
 <translation id="1003088604756913841">Otvoriť odkaz v novom okne aplikácie <ph name="APP" /></translation>
 <translation id="100323615638474026">Zariadenie USB (<ph name="VENDOR_ID" />:<ph name="PRODUCT_ID" />)</translation>
-<translation id="1003355351496161312">Bezpečné prehliadanie Google</translation>
+<translation id="1003355351496161312">Bezpečné prehliadanie Decentr</translation>
 <translation id="1004218526896219317">Prístup k webom</translation>
 <translation id="1005274289863221750">Používať mikrofón a kameru</translation>
 <translation id="1005333234656240382">Chcete aktivovať ladenie ADB?</translation>
@@ -28,7 +28,7 @@
 <translation id="1016566241875885511">Ďalšie informácie (nepovinné)</translation>
 <translation id="1017280919048282932">Prid&amp;ať do slovníka</translation>
 <translation id="1018656279737460067">Zrušené</translation>
-<translation id="1022489261739821355">Zobrazujú sa heslá z vášho <ph name="BEGIN_LINK" />účtu Google<ph name="END_LINK" /></translation>
+<translation id="1022489261739821355">Zobrazujú sa heslá z vášho <ph name="BEGIN_LINK" />účtu Decentr<ph name="END_LINK" /></translation>
 <translation id="1022669824195822609">Vaše zariadenie spravuje <ph name="DOMAIN" />. Správcovia majú prístup k údajom vo všetkých profiloch tohto zariadenia.</translation>
 <translation id="1026655690966755180">Pridať port</translation>
 <translation id="1026822031284433028">Načítať obrázok</translation>
@@ -140,7 +140,7 @@ Heslá si môžete kedykoľvek skontrolovať v službe <ph name="GOOGLE_PASSWOR
 <translation id="1112998165730922436">Prenos je pozastavený</translation>
 <translation id="1114102982691049955"><ph name="PRINTER_MANUFACTURER" /> <ph name="PRINTER_MODEL" /> (USB)</translation>
 <translation id="1114202307280046356">Káro</translation>
-<translation id="1114427165525619358">Heslá v tomto zariadení a vašom účte Google</translation>
+<translation id="1114427165525619358">Heslá v tomto zariadení a vašom účte Decentr</translation>
 <translation id="1114525161406758033">Pri zavretí krytu aktivovať režim spánku</translation>
 <translation id="1116639326869298217">Vašu identitu sa nepodarilo overiť</translation>
 <translation id="1116694919640316211">Informácie</translation>
@@ -187,7 +187,7 @@ Heslá si môžete kedykoľvek skontrolovať v službe <ph name="GOOGLE_PASSWOR
 <translation id="1150565364351027703">Slnečné okuliare</translation>
 <translation id="1151917987301063366">Vždy povoliť webu <ph name="HOST" /> prístup k senzorom</translation>
 <translation id="1152346050262092795">Overte svoj účet opätovným zadaním hesla.</translation>
-<translation id="1153636665119721804">Program rozšírenej ochrany Google</translation>
+<translation id="1153636665119721804">Program rozšírenej ochrany Decentr</translation>
 <translation id="1155545602507378023">Nie, iba v tomto zariadení</translation>
 <translation id="1155816283571436363">Pripája sa k vášmu telefónu</translation>
 <translation id="1158080958325422608">Zmeniť na veľké písmená</translation>
@@ -343,7 +343,7 @@ Heslá si môžete kedykoľvek skontrolovať v službe <ph name="GOOGLE_PASSWOR
 <translation id="1282465000333679776">Zdieľať zvuk systému</translation>
 <translation id="1284277788676816155">Nepovoliť ukladať údaje</translation>
 <translation id="1285320974508926690">Nikdy neprekladať tieto webové stránky</translation>
-<translation id="1285484354230578868">Ukladať údaje v účte na Disku Google</translation>
+<translation id="1285484354230578868">Ukladať údaje v účte na Disku Decentr</translation>
 <translation id="1285625592773741684">Aktuálne nastavenie spotreby dát: mobilné dáta</translation>
 <translation id="1285815028662278915">Vaše mobilné dáta nemusia podporovať hotspot. <ph name="BEGIN_LINK_LEARN_MORE" />Ďalšie informácie<ph name="END_LINK_LEARN_MORE" /></translation>
 <translation id="1288037062697528143">Nočný režim sa automaticky zapne pri západe slnka</translation>
@@ -750,10 +750,10 @@ Povolenia, ktoré ste už udelili aplikáciám, sa môžu vzťahovať na tento �
 <translation id="1629451755632656601">Chcete povoliť Googlu vyhľadávať prispôsobené zľavy na obsah vašich košíkov?</translation>
 <translation id="163072119192489970">Môže dokončiť odosielanie a prijímanie údajov</translation>
 <translation id="1630768113285622200">Reštartovať a pokračovať</translation>
-<translation id="1632082166874334883">Heslo uložené vo vašom účte Google</translation>
+<translation id="1632082166874334883">Heslo uložené vo vašom účte Decentr</translation>
 <translation id="1632756664321977232">Nástroj na orezanie</translation>
 <translation id="163309982320328737">Úvodná šírka znaku: plná</translation>
-<translation id="1633947793238301227">Zakázať Asistenta Google</translation>
+<translation id="1633947793238301227">Zakázať Asistenta Decentr</translation>
 <translation id="1634224622052500893">Bola nájdená sieť Wi‑Fi</translation>
 <translation id="1634783886312010422">Už ste zmenili toto heslo na webe <ph name="WEBSITE" />?</translation>
 <translation id="1636212173818785548">OK</translation>
@@ -1033,7 +1033,7 @@ Povolenia, ktoré ste už udelili aplikáciám, sa môžu vzťahovať na tento �
 <translation id="186594096341696655">Znížiť frekvenciu</translation>
 <translation id="186612162884103683"><ph name="EXTENSION" /> môže čítať a zapisovať obrázky, video a zvukové súbory vo vybratých umiestneniach.</translation>
 <translation id="1867780286110144690">Aplikácia <ph name="PRODUCT_NAME" /> je pripravená dokončiť inštaláciu</translation>
-<translation id="1868553836791672080">Kontrola hesla nie je v prehliadači Chromium k dispozícii</translation>
+<translation id="1868553836791672080">Kontrola hesla nie je v prehliadači Decentr k dispozícii</translation>
 <translation id="1868617395637139709">Používajte polohu pre aplikácie a služby pre Android.</translation>
 <translation id="1869433484041798909">Tlačidlo Záložka</translation>
 <translation id="1871098866036088250">Otvárať v prehliadači Chrome</translation>
@@ -1076,7 +1076,7 @@ Povolenia, ktoré ste už udelili aplikáciám, sa môžu vzťahovať na tento �
 <translation id="1901213235765457754">Požiadajte správcu o aktualizáciu tejto aplikácie</translation>
 <translation id="1901303067676059328">Vybrať &amp;všetko</translation>
 <translation id="1903995858055162096">Zariadenie nie je vaše? Použite <ph name="BEGIN_LINK" />hosťovský režim<ph name="END_LINK" />.</translation>
-<translation id="1904580727789512086">Webové adresy, ktoré navštívite, sa uložia do vášho účtu Google</translation>
+<translation id="1904580727789512086">Webové adresy, ktoré navštívite, sa uložia do vášho účtu Decentr</translation>
 <translation id="1905375423839394163">Názov zariadenia Chromebook</translation>
 <translation id="1906181697255754968">Weby zvyčajne získavajú prístup k súborom a priečinkom vo vašom zariadení, aby mohli poskytovať funkcie, ako je automatické ukladanie vašej práce</translation>
 <translation id="1907044622262489040">Zadávajte text hlasom. Stlačte Hľadať + D a začnite hovoriť.</translation>
@@ -1110,7 +1110,7 @@ Povolenia, ktoré ste už udelili aplikáciám, sa môžu vzťahovať na tento �
 <translation id="1929186283613845153">Prebieha kontrola tohto súboru.</translation>
 <translation id="1929343511231420085">Ľubovoľný sériový port</translation>
 <translation id="1929546189971853037">Čítať históriu prehliadania na všetkých prihlásených zariadeniach</translation>
-<translation id="1930879306590754738">Heslo bolo odstránené z tohto zariadenia aj vášho účtu Google</translation>
+<translation id="1930879306590754738">Heslo bolo odstránené z tohto zariadenia aj vášho účtu Decentr</translation>
 <translation id="1931152874660185993">Nie sú nainštalované žiadne komponenty.</translation>
 <translation id="1931410639376954712">Inštaluje sa <ph name="DEVICE_OS" /></translation>
 <translation id="1932098463447129402">Nie pred</translation>
@@ -1207,7 +1207,7 @@ Povolenia, ktoré ste už udelili aplikáciám, sa môžu vzťahovať na tento �
 <translation id="202918510990975568">Ak chcete konfigurovať zabezpečenie a prihlásenie, zadajte heslo</translation>
 <translation id="2030455719695904263">Trackpad</translation>
 <translation id="2030803782168502207">Odstránenie odberu zo zariadenia</translation>
-<translation id="2031639749079821948">Heslo máte uložené v účte Google</translation>
+<translation id="2031639749079821948">Heslo máte uložené v účte Decentr</translation>
 <translation id="2031914984822377766">Pridajte preferované <ph name="LINK_BEGIN" />jazyky webu<ph name="LINK_END" />. Pri prekladoch sa použije prvý jazyk zoznamu.</translation>
 <translation id="2033758234986231162">Pripojenie s vaším telefónom sa nedá udržať. Uistite sa, že telefón máte nablízku, odomknutý a so zapnutým rozhraním Bluetooth a pripojením Wi‑Fi.</translation>
 <translation id="2034346955588403444">Pridať inú sieť Wi‑Fi</translation>
@@ -1241,7 +1241,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2053105195397337973">Skúmame spôsoby, ako obmedziť sledovanie a zároveň umožniť webom bojovať proti reklamnému spamu a podvodom.</translation>
 <translation id="2053312383184521053">Údaje stavu nečinnosti</translation>
 <translation id="2054240652864153171">Chcete vymazať dáta webu pre <ph name="SITE_NAME" /> segmentované na <ph name="PARTITION_SITE_NAME" />?</translation>
-<translation id="205560151218727633">Logo asistenta Google</translation>
+<translation id="205560151218727633">Logo asistenta Decentr</translation>
 <translation id="2058456167109518507">Bolo rozpoznané zariadenie</translation>
 <translation id="2058581283817163201">Overiť týmto telefónom</translation>
 <translation id="2059913712424898428">Časové pásmo</translation>
@@ -1275,7 +1275,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2088564884469682888">Integrované zariadenie TrackPoint</translation>
 <translation id="2089090684895656482">Menej</translation>
 <translation id="208928984520943006">Na domovskú obrazovku môžete kedykoľvek prejsť potiahnutím zdola nahor.</translation>
-<translation id="2089566709556890888">Prehliadajte v bezpečí pomocou prehliadača Google Chrome</translation>
+<translation id="2089566709556890888">Prehliadajte v bezpečí pomocou prehliadača Decentr</translation>
 <translation id="2089925163047119068">ALEBO</translation>
 <translation id="2090165459409185032">Ak chcete obnoviť informácie o svojom účte, prejdite na stránku google.com/accounts/recovery</translation>
 <translation id="2090507354966565596">Automaticky sa pripojí, keď sa prihlásite</translation>
@@ -1441,7 +1441,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2214893006758804920">{LINE_COUNT,plural, =1{&lt;nie je zobrazený 1 riadok&gt;}few{&lt;nie sú zobrazené <ph name="NUMBER_OF_LINES" /> riadky&gt;}many{&lt;<ph name="NUMBER_OF_LINES" /> lines not shown&gt;}other{&lt;nie je zobrazených <ph name="NUMBER_OF_LINES" /> riadkov&gt;}}</translation>
 <translation id="2218019600945559112">Myš a touchpad</translation>
 <translation id="2218515861914035131">Prilepiť ako čistý text</translation>
-<translation id="2220409419896228519">Pridajte si záložky na obľúbené aplikácie Google</translation>
+<translation id="2220409419896228519">Pridajte si záložky na obľúbené aplikácie Decentr</translation>
 <translation id="2220529011494928058">Nahlásiť problém</translation>
 <translation id="2220572644011485463">PIN alebo heslo</translation>
 <translation id="222115440608612541">Prepínajte motívy pri východe a západe slnka</translation>
@@ -1666,7 +1666,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2391419135980381625">Štandardné písmo</translation>
 <translation id="2392369802118427583">Aktivovať</translation>
 <translation id="2393136602862631930">Nastavte aplikáciu <ph name="APP_NAME" /> vo svojom Chromebooku</translation>
-<translation id="2393313392064891208">Obsah zmluvných podmienok systému Google Chrome OS Flex</translation>
+<translation id="2393313392064891208">Obsah zmluvných podmienok systému Decentr OS Flex</translation>
 <translation id="2395616325548404795">Zariadenie <ph name="DEVICE_TYPE" /> bolo úspešne zaregistrované na podnikovú správu. Nepodarilo sa však odoslať informácie o obsahu a polohe. Zadajte tieto informácie ručne v Správcovskej konzole pre toto zariadenie.</translation>
 <translation id="2396783860772170191">Zadajte štvorciferný PIN (0000 – 9999)</translation>
 <translation id="2398546389094871088">Obnovením zariadenia pomocou funkcie Powerwash neodstránite profily eSIM karty. Ak chcete tieto profily odstrániť ručne, prejdite do <ph name="LINK_BEGIN" />Nastavení mobilného zariadenia<ph name="LINK_END" />.</translation>
@@ -1715,7 +1715,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2434449159125086437">Tlačiareň sa nepodarilo nastaviť. Skontrolujte konfiguráciu a skúste to znova.</translation>
 <translation id="2434758125294431199">Vyberte, kto s vami môže zdieľať obsah</translation>
 <translation id="2434915728183570229">Teraz si môžete zobraziť aplikácie svojho telefónu</translation>
-<translation id="2435137177546457207">Dodatočné zmluvné podmienky prehliadača Google Chrome a systému Chrome OS Flex</translation>
+<translation id="2435137177546457207">Dodatočné zmluvné podmienky prehliadača Decentr a systému Chrome OS Flex</translation>
 <translation id="2435248616906486374">Sieť je odpojená</translation>
 <translation id="2435457462613246316">Zobraziť heslo</translation>
 <translation id="2439626940657133600">Načíta sa <ph name="WINDOW_TITLE" /></translation>
@@ -1933,7 +1933,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2620215283731032047"><ph name="FILE_NAME" /> nie je možné bezpečne stiahnuť.</translation>
 <translation id="2620245777360407679">Zariadenia momentálne pripojené k hotspotu</translation>
 <translation id="2620436844016719705">Systém</translation>
-<translation id="262154978979441594">Natrénovať hlasový model Asistenta Google</translation>
+<translation id="262154978979441594">Natrénovať hlasový model Asistenta Decentr</translation>
 <translation id="26224892172169984">Nepovoliť žiadnym stránkam obsluhovať protokoly</translation>
 <translation id="262373406453641243">Colemak</translation>
 <translation id="2624142942574147739">Táto stránka má prístup k vašej kamere a mikrofónu.</translation>
@@ -2008,7 +2008,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2684004000387153598">Ak chcete pokračovať, kliknite na OK a potom kliknutím na možnosť Pridať osobu vytvorte nový profil pre svoju e-mailovú adresu.</translation>
 <translation id="2685193395980129388">Povolené – <ph name="PERMISSION_DETAILS" /></translation>
 <translation id="2687403674020088961">Blokovať všetky súbory cookie (neodporúča sa)</translation>
-<translation id="2687407218262674387">Zmluvné podmienky spoločnosti Google</translation>
+<translation id="2687407218262674387">Zmluvné podmienky spoločnosti Decentr</translation>
 <translation id="2687621393791886981">Spýtať sa neskôr</translation>
 <translation id="2688196195245426394">Pri registrácii zariadenia na serveri <ph name="CLIENT_ERROR" /> sa vyskytla chyba.</translation>
 <translation id="2688734475209947648">Toto heslo si nebudete musieť pamätať. Uloží sa do Správcu hesiel Google v účte <ph name="ACCOUNT" />.</translation>
@@ -2366,7 +2366,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2989474696604907455">nepripojené</translation>
 <translation id="2989786307324390836">Binárny súbor s kódovaním DER, jeden certifikát</translation>
 <translation id="2989805286512600854">Otvoriť na novej karte</translation>
-<translation id="2990313168615879645">Pridať účet Google</translation>
+<translation id="2990313168615879645">Pridať účet Decentr</translation>
 <translation id="2990583317361835189">Nepovoliť webom používať senzory pohybu</translation>
 <translation id="2992931425024192067">Zobrazovať všetok obsah upozornení</translation>
 <translation id="2993517869960930405">Informácie o aplikácii</translation>
@@ -2516,7 +2516,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="311394601889664316">Nepovoliť webom upravovať súbory alebo priečinky v zariadení</translation>
 <translation id="3115147772012638511">Čakanie na vyrovnávaciu pamäť...</translation>
 <translation id="3115580024857770654">Zbaliť všetko</translation>
-<translation id="3115743155098198207">Spravovať jazyk účtu Google</translation>
+<translation id="3115743155098198207">Spravovať jazyk účtu Decentr</translation>
 <translation id="3117138513108032865">Inovujte navigácie na protokol HTTPS a dostávajte upozornenia pred načítaním webov, ktoré ho nepodporujú. Toto nastavenie nemôžete zmeniť, pretože máte povolenú rozšírenú ochranu.</translation>
 <translation id="3117362587799608430">Dok nie je úplne kompatibilný</translation>
 <translation id="3117791853215125017">{COUNT,plural, =1{Do zariadenia <ph name="DEVICE_NAME" /> sa nepodarilo odoslať prílohy (<ph name="ATTACHMENTS" />)}few{Do zariadenia <ph name="DEVICE_NAME" /> sa nepodarilo odoslať prílohy (<ph name="ATTACHMENTS" />)}many{Do zariadenia <ph name="DEVICE_NAME" /> sa nepodarilo odoslať prílohy (<ph name="ATTACHMENTS" />)}other{Do zariadenia <ph name="DEVICE_NAME" /> sa nepodarilo odoslať prílohy (<ph name="ATTACHMENTS" />)}}</translation>
@@ -2852,7 +2852,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3443744348829035122"><ph name="BRAND" /> vypršal</translation>
 <translation id="3443754338602062261">Heslá týchto účtov už v službe <ph name="BRAND" /> máte. Ak importujete jedno z hesiel uvedených nižšie, nahradí existujúce.</translation>
 <translation id="3444726579402183581"><ph name="ORIGIN" /> bude môcť čítať súbor <ph name="FILENAME" /></translation>
-<translation id="3445047461171030979">Rýchle odpovede Asistenta Google</translation>
+<translation id="3445047461171030979">Rýchle odpovede Asistenta Decentr</translation>
 <translation id="3445288400492335833"><ph name="MINUTES" /> min</translation>
 <translation id="344537926140058498">Vaša organizácia tento súbor zablokovala, pretože má citlivý alebo nebezpečný obsah. Požiadajte vlastníka o nápravu.</translation>
 <translation id="3445925074670675829">Zariadenie USB-C</translation>
@@ -2920,7 +2920,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3493486281776271508">Vyžaduje sa internetové pripojenie</translation>
 <translation id="3493881266323043047">Platnosť</translation>
 <translation id="3495496470825196617">Výkon pri nečinnosti počas nabíjania</translation>
-<translation id="3495660573538963482">Nastavenia Asistenta Google</translation>
+<translation id="3495660573538963482">Nastavenia Asistenta Decentr</translation>
 <translation id="3495675993466884458">Váš správca systému povolil aplikácii <ph name="APP_ORIGIN" /> nahrávať vašu obrazovku</translation>
 <translation id="3496213124478423963">Oddialiť</translation>
 <translation id="3496238553815913323"><ph name="LANGUAGE" /> (nie je vybraný)</translation>
@@ -3055,7 +3055,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3621807901162200696">Pomáhať zlepšovať funkcie a výkonnosť systému Chrome OS</translation>
 <translation id="362266093274784978">{COUNT,plural, =1{aplikáciu}few{# aplikácie}many{# apps}other{# aplikácií}}</translation>
 <translation id="362333465072914957">Čaká sa, kým certifikačná autorita vydá certifikát</translation>
-<translation id="3624567683873126087">Odomknúť zariadenie a prihlásiť sa do účtu Google</translation>
+<translation id="3624567683873126087">Odomknúť zariadenie a prihlásiť sa do účtu Decentr</translation>
 <translation id="3624583033347146597">Vyberte predvoľby súborov cookie tretích strán</translation>
 <translation id="3625481642044239431">Bol vybraný neplatný súbor. Skúste to znova.</translation>
 <translation id="3626296069957678981">Ak chcete nabiť tento Chromebook, použite kompatibilnú batériu od spoločnosti Dell.</translation>
@@ -3190,7 +3190,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3730076362938942381">Aplikácia písania dotykovým perom</translation>
 <translation id="3732078975418297900">Chyba v riadku <ph name="ERROR_LINE" /></translation>
 <translation id="3732530910372558017">PIN môže mať najviac 63 znakov</translation>
-<translation id="3732857534841813090">Informácie súvisiace s Asistentom Google</translation>
+<translation id="3732857534841813090">Informácie súvisiace s Asistentom Decentr</translation>
 <translation id="3733296813637058299">Dané aplikácie pre vás nainštalujeme. Ďalšie aplikácie pre svoje zariadenie <ph name="DEVICE_TYPE" /> nájdete v Obchode Play.</translation>
 <translation id="3735039640698208086">Pri prehrávaní zvuku…</translation>
 <translation id="3735740477244556633">Zoradiť podľa</translation>
@@ -3237,7 +3237,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3771290962915251154">Toto nastavenie je deaktivované, pretože je zapnutá rodičovská kontrola</translation>
 <translation id="3771294271822695279">Súbory videa</translation>
 <translation id="3771851622616482156">Systém vás odhlási z tohto webu (aj v otvorených kartách)</translation>
-<translation id="3772046291955677288">Prečítal(a) som si <ph name="BEGIN_LINK1" />zmluvné podmienky spoločnosti Google<ph name="END_LINK1" /> aj <ph name="BEGIN_LINK2" />dodatočné zmluvné podmienky prehliadača Chrome a systému Chrome OS<ph name="END_LINK2" /> a súhlasím s nimi.</translation>
+<translation id="3772046291955677288">Prečítal(a) som si <ph name="BEGIN_LINK1" />zmluvné podmienky spoločnosti Decentr<ph name="END_LINK1" /> aj <ph name="BEGIN_LINK2" />dodatočné zmluvné podmienky prehliadača Chrome a systému Chrome OS<ph name="END_LINK2" /> a súhlasím s nimi.</translation>
 <translation id="3774166835015494435">Najnovšie fotky a upozornenia</translation>
 <translation id="3775432569830822555">Certifikát servera SSL</translation>
 <translation id="3775705724665058594">Odoslanie do zariadení</translation>
@@ -3275,7 +3275,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3798632811625902122">Zariadenie s rozhraním Bluetooth <ph name="DEVICE" /> žiada o povolenie párovať.</translation>
 <translation id="3798670284305777884">Reproduktor (vnútorný)</translation>
 <translation id="3799128412641261490">Nastavenia ovládania prepínačmi</translation>
-<translation id="3800828618615365228">Dodatočné zmluvné podmienky prehliadača Google Chrome a systému Chrome OS</translation>
+<translation id="3800828618615365228">Dodatočné zmluvné podmienky prehliadača Decentr a systému Chrome OS</translation>
 <translation id="3802486193901166966">Toto rozšírenie nevyžaduje žiadne špeciálne povolenia ani nemá žiadny ďalší prístup k webu</translation>
 <translation id="380329542618494757">Meno</translation>
 <translation id="3803345858388753269">Kvalita videa</translation>
@@ -3294,7 +3294,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3810973564298564668">Spravovať</translation>
 <translation id="381202950560906753">Pridať ďalší</translation>
 <translation id="3812525830114410218">Nesprávny certifikát</translation>
-<translation id="3813296892522778813">Ak neviete nájsť požadovaný obsah, prejdite do <ph name="BEGIN_LINK_CHROMIUM" />pomocníka Google Chrome<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Ak neviete nájsť požadovaný obsah, prejdite do <ph name="BEGIN_LINK_CHROMIUM" />pomocníka Decentr<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Jazyk, do ktorého boli preložené stránky a rýchle odpovede</translation>
 <translation id="3813458570141926987">Zoznam tém odhadnutých Chromom na základe vašej nedávnej histórie prehliadania</translation>
 <translation id="3814529970604306954">Školský účet</translation>
@@ -3316,10 +3316,10 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3825041664272812989">{FILE_TYPE_COUNT,plural, =1{Zapamätať môj výber pre tento typ súboru: <ph name="FILE_TYPES" />}few{Zapamätať môj výber pre tieto typy súborov: <ph name="FILE_TYPES" />}many{Remember my choice for these file types: <ph name="FILE_TYPES" />}other{Zapamätať môj výber pre tieto typy súborov: <ph name="FILE_TYPES" />}}</translation>
 <translation id="3825635794653163640">Zobrazujte si na ikone aplikácie bodku označujúcu upozornenia aplikácie</translation>
 <translation id="3826071569074535339">Môže používať senzory pohybu</translation>
-<translation id="3826440694796503677">Váš správca zakázal pridávanie ďalších účtov Google</translation>
+<translation id="3826440694796503677">Váš správca zakázal pridávanie ďalších účtov Decentr</translation>
 <translation id="3827774300009121996">&amp;Celá obrazovka</translation>
 <translation id="3828029223314399057">Prehľadať záložky</translation>
-<translation id="3828953470056652895">Prečítal(a) som si <ph name="BEGIN_LINK1" />zmluvné podmienky spoločnosti Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />dodatočné zmluvné podmienky prehliadača Chrome a systému Chrome OS<ph name="END_LINK2" /> aj <ph name="BEGIN_LINK3" />zmluvné podmienky služby Play<ph name="END_LINK3" /> a súhlasím s nimi.</translation>
+<translation id="3828953470056652895">Prečítal(a) som si <ph name="BEGIN_LINK1" />zmluvné podmienky spoločnosti Decentr<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />dodatočné zmluvné podmienky prehliadača Chrome a systému Chrome OS<ph name="END_LINK2" /> aj <ph name="BEGIN_LINK3" />zmluvné podmienky služby Play<ph name="END_LINK3" /> a súhlasím s nimi.</translation>
 <translation id="3829765597456725595">Zdieľané úložisko SMB</translation>
 <translation id="3830654885961023588">{NUM_EXTENSIONS,plural, =1{Váš správca znova zapol 1 potenciálne škodlivé rozšírenie}few{Váš správca znova zapol {NUM_EXTENSIONS} potenciálne škodlivé rozšírenia}many{Your administrator turned {NUM_EXTENSIONS} potentially harmful extensions back on}other{Váš správca znova zapol {NUM_EXTENSIONS} potenciálnych škodlivých rozšírení}}</translation>
 <translation id="3834728400518755610">Zmena nastavenia mikrofónu vyžaduje vypnutie systému Linux. Pokračujte vypnutím systému Linux.</translation>
@@ -3370,7 +3370,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3873315167136380065">Zapnite toto nastavenie, <ph name="BEGIN_LINK" />resetujte synchronizáciu<ph name="END_LINK" /> a odstráňte tak prístupovú frázu synchronizácie</translation>
 <translation id="3873423927483480833">Zobraziť kódy PIN</translation>
 <translation id="3873915545594852654">Vyskytol sa problém s ARC++.</translation>
-<translation id="3874164307099183178">Zapnúť Asistenta Google</translation>
+<translation id="3874164307099183178">Zapnúť Asistenta Decentr</translation>
 <translation id="3875815154304214043">Je nastavené, aby sa aplikácia <ph name="APP_NAME" /> otvárala na novej karte prehliadača. Podporované odkazy sa budú tiež otvárať v prehliadači. <ph name="BEGIN_LINK_LEARN_MORE" />Ďalšie informácie<ph name="END_LINK_LEARN_MORE" /></translation>
 <translation id="3877075909000773256">Nastavenia Zdieľania nablízku v zariadení používateľa <ph name="USER_EMAIL" />, obsah sa zdieľa ako <ph name="USER_NAME" />.</translation>
 <translation id="3879748587602334249">Správca sťahovania</translation>
@@ -3668,7 +3668,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4132969033912447558">Pokračovať v sťahovaní súboru <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">Otvoriť aplikáciu a zmeniť heslo</translation>
 <translation id="4134818201340504801">Na dokončenie nastavenia nie je k dispozícii dostatok priestoru. Uvoľnite priestor a skúste to znova.</translation>
-<translation id="4135746311382563554">Dodatočné zmluvné podmienky prehliadača Google Chrome a systému Chrome OS</translation>
+<translation id="4135746311382563554">Dodatočné zmluvné podmienky prehliadača Decentr a systému Chrome OS</translation>
 <translation id="4136203100490971508">Nočný režim sa automaticky vypne pri východe slnka</translation>
 <translation id="41365691917097717">Pokračovaním aktivujete ladenie ADB na vytváranie a testovanie aplikácií pre Android. Upozorňujeme, že touto akciou umožníte inštalácie aplikácií pre Android, ktoré Google neoveril, a deaktivácia vyžaduje obnovenie výrobných nastavení.</translation>
 <translation id="4137923333452716643">Zvýraznite text, ktorý chcete zobraziť v režime čítania</translation>
@@ -3696,7 +3696,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4159501637165962616"><ph name="BEGIN_PARAGRAPH1" />Ak povolíte zariadeniam ChromeOS odosielať automatické reporty, pomôžete nám tým určiť, čo treba v systéme ChromeOS prioritne opraviť a zlepšiť. Tieto reporty môžu obsahovať rôzne údaje, napríklad kedy ChromeOS padá, aké používate funkcie, koľko pamäte zvyčajne využívate, ako aj údaje o diagnostike a využití aplikácií pre Android. Niektoré súhrnné dáta pomôžu aj aplikáciám a partnerom Googlu, napríklad vývojárom pre Android. Ak bude povolená synchronizácia aplikácie, budú zhromažďované ďalšie údaje o diagnostike a využití aplikácie vrátane informácií pre Android a webové aplikácie.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />Tieto reporty môžete kedykoľvek začať alebo prestať povoľovať v nastaveniach svojho zariadenia ChromeOS. Ak ste správcom domény, toto nastavenie môžete zmeniť v správcovskej konzole.<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" />Ak pre svoj účet Google zapnete nastavenie Aktivita na internete a v aplikáciách, údaje Androidu sa môžu ukladať do vášho účtu Google. Môžete ich zobraziť a odstrániť na account.google.com, kde tiež môžete zmeniť nastavenia účtu.<ph name="END_PARAGRAPH3" /></translation>
-<translation id="4161601078867475601">&amp;Správca hesiel Google</translation>
+<translation id="4161601078867475601">&amp;Správca hesiel Decentr</translation>
 <translation id="4163560723127662357">Neznáma klávesnica</translation>
 <translation id="4165942112764990069"><ph name="USER_EMAIL" /> nepatrí platnej organizácii. Kontaktujte svojho správcu. Ak ste správca, môžete nastaviť organizáciu na g.co/ChromeEnterpriseAccount</translation>
 <translation id="4165986682804962316">Nastavenia webu</translation>
@@ -3764,7 +3764,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4232375817808480934">Konfigurácia protokolu Kerberos</translation>
 <translation id="4233739489690259993">Váš Chromebook už nedostáva bezpečnostné aktualizácie ani aktualizácie softvéru. Inovujte zariadenie, aby ste mali k dispozícii najnovšie zabezpečenie a nové funkcie. Platia zmluvné podmienky ponuky.</translation>
 <translation id="4235965441080806197">Zrušiť prihlasovanie</translation>
-<translation id="4237282663517880406">Zobraziť návrhy Disku Google</translation>
+<translation id="4237282663517880406">Zobraziť návrhy Disku Decentr</translation>
 <translation id="4241182343707213132">Reštartovaním aktualizujte aplikácie organizácie</translation>
 <translation id="4242145785130247982">Nie je podporovaných viacero certifikátov klienta</translation>
 <translation id="4242533952199664413">Otvoriť nastavenia</translation>
@@ -3891,7 +3891,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4348766275249686434">Zhromažďovanie chýb</translation>
 <translation id="4349828822184870497">Užitočné</translation>
 <translation id="4350230709416545141">Vždy blokovať prístup webu <ph name="HOST" /> k polohe</translation>
-<translation id="4350782034419308508">Hey Google</translation>
+<translation id="4350782034419308508">Hey Decentr</translation>
 <translation id="4351770750390404505"><ph name="BEGIN_PARAGRAPH1" /><ph name="DEVICE_OS" /> zaisťuje to najlepšie prostredie zhromažďovaním údajov o hardvéri zariadení a ich zdieľaním s Googlom, aby bolo možné určiť, ktoré aktualizácie majú byť doručené. Voliteľne môžete Googlu povoliť používať tieto údajov na ďalšie účely, napríklad na podporu a zlepšovanie prostredia a služieb systému <ph name="DEVICE_OS" />.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />V tomto zariadení sa môžete prihlásiť a prejsť do sekcie CHROMEOSFLEX_HARDWARE_INFO na chrome://system, kde nájdete údaje odoslané Googlu na filtrovanie aktualizácií, ako aj ďalšie prípady, kedy ste povolili zdieľanie údajov s Googlom.<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" />Viac o údajoch, ktoré systém <ph name="DEVICE_OS" /> môže zdieľať s Googlom, a o tom, ako sú používané, nájdete na g.co/flex/HWDataCollection.<ph name="END_PARAGRAPH3" /></translation>
@@ -3978,7 +3978,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4414648713167199100">Používa mobilné dáta Chromebooku a operátor môže účtovať ďalšie poplatky. Spotreba batérie sa môže zvýšiť. <ph name="BEGIN_LINK_LEARN_MORE" />Ďalšie informácie<ph name="END_LINK_LEARN_MORE" /></translation>
 <translation id="4415213869328311284">Teraz môžete začať používať svoje zariadenie <ph name="DEVICE_TYPE" />.</translation>
 <translation id="4415245286584082850">Nenašli sa žiadne zariadenia. Otvorte článok centra pomoci na novej karte.</translation>
-<translation id="4415276339145661267">Spravovať účet Google</translation>
+<translation id="4415276339145661267">Spravovať účet Decentr</translation>
 <translation id="4415748029120993980">Eliptická krivka SECG secp384r1 (známa tiež ako NIST P-384)</translation>
 <translation id="4415815425191869676">Vždy nechať tieto weby aktívne</translation>
 <translation id="4416450511678320850">Pre tento obsah nie sú k dispozícii žiadne aplikácie</translation>
@@ -4018,7 +4018,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4449996769074858870">Táto karta prehráva zvuk.</translation>
 <translation id="4450974146388585462">Diagnostikovať</translation>
 <translation id="445099924538929605">Operačný systém <ph name="DEVICE_OS" /> rozpoznal aktívny modul TPM, ktorý môže ukladať vaše údaje bezpečnejšie.</translation>
-<translation id="4451479197788154834">Heslo máte uložené v tomto zariadení aj účte Google</translation>
+<translation id="4451479197788154834">Heslo máte uložené v tomto zariadení aj účte Decentr</translation>
 <translation id="4452898361839215358">alebo vyberte súbor PPD. <ph name="LINK_BEGIN" />Ďalšie informácie<ph name="LINK_END" /></translation>
 <translation id="4453430595102511050">Dotknite sa senzora odtlačkov prstov v pravom hornom rohu klávesnice. Údaje odtlačkov prstov sa bezpečne uložia a nikdy neopustia vaše zariadenie (<ph name="DEVICE_TYPE" />).</translation>
 <translation id="4453946976636652378">Vyhľadajte v službe <ph name="SEARCH_ENGINE_NAME" /> alebo zadajte webovú adresu</translation>
@@ -4056,7 +4056,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4488257340342212116">Môže používať vašu kameru</translation>
 <translation id="4488502501195719518">Chcete vymazať všetky dáta?</translation>
 <translation id="4490086832405043258">Použiť pre tento profil nastavenia proxy servera v systéme Chrome OS</translation>
-<translation id="449126573531210296">Šifrovať synchronizované heslá pomocou účtu Google</translation>
+<translation id="449126573531210296">Šifrovať synchronizované heslá pomocou účtu Decentr</translation>
 <translation id="449232563137139956">Weby zvyčajne zobrazujú obrázky, aby poskytli názornú ukážku, napríklad fotku internetových obchodov alebo spravodajských článkov</translation>
 <translation id="4492698018379445570">Nájdite položky, ktoré ste pridali do nákupných košíkov, a keď budete chcieť, prejdite k plateniu</translation>
 <translation id="4493167769966437077">Odstrániť jazyk <ph name="LANGUAGE_NAME" /> z jazykov, pri ktorých sa nikdy neponúka preklad</translation>
@@ -4123,10 +4123,10 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4544174279960331769">Predvolený modrý avatar</translation>
 <translation id="4545028762441890696">Ak ju chcete znova povoliť, prijmite nové povolenia:</translation>
 <translation id="4545759655004063573">Uloženie nie je možné z dôvodu nedostatočných oprávnení. Uložte položku inde.</translation>
-<translation id="4546308221697447294">Prehliadajte rýchlejšie pomocou prehliadača Google Chrome</translation>
+<translation id="4546308221697447294">Prehliadajte rýchlejšie pomocou prehliadača Decentr</translation>
 <translation id="4546345569117159016">Pravé tlačidlo</translation>
 <translation id="4546509872654834602"><ph name="SUPERVISED_USER_NAME" /> chce použiť toto rozšírenie:</translation>
-<translation id="4546692474302123343">Hlasový vstup Asistenta Google</translation>
+<translation id="4546692474302123343">Hlasový vstup Asistenta Decentr</translation>
 <translation id="4547659257713117923">Žiadne karty z iných zariadení</translation>
 <translation id="4547672827276975204">Nastaviť automaticky</translation>
 <translation id="4549791035683739768">V bezpečnostnom kľúči nie sú uložené žiadne odtlačky prstov</translation>
@@ -4165,7 +4165,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4579453506923101210">Odstrániť pripojený telefón</translation>
 <translation id="4579581181964204535">Nie je možné prenášať hostiteľskú službu <ph name="HOST_NAME" />.</translation>
 <translation id="4579876313423027742">Ak chcete upraviť upozornenia prehliadača, prejdite do <ph name="LINK_BEGIN" />nastavení prehliadača Chrome<ph name="LINK_END" /></translation>
-<translation id="4580587929153007251">Znova sa prihláste do Správcu hesiel Google</translation>
+<translation id="4580587929153007251">Znova sa prihláste do Správcu hesiel Decentr</translation>
 <translation id="4580596421317071374">Heslá sa ukladajú do služby <ph name="GOOGLE_PASSWORD_MANAGER" /> v tomto zariadení.</translation>
 <translation id="4581774856936278355">Chyba pri obnovovaní systému Linux</translation>
 <translation id="4582297591746054421">Weby zvyčajne čítajú vašu schránku, aby mohli poskytovať funkcie, ako je ponechanie formátu kopírovaného textu</translation>
@@ -4422,7 +4422,7 @@ Ak chcete zobrazenie oddialiť, stlačte Ctrl + Alt + zníženie jasu.</translat
 <translation id="4816336393325437908">{COUNT,plural, =1{Bola odstránená 1 záložka}few{Boli odstránené {COUNT} záložky}many{{COUNT} bookmarks deleted}other{Bolo odstránených {COUNT} záložiek}}</translation>
 <translation id="4816900689218414104">Vytvorte v telefóne alebo tablete prístupový kľúč</translation>
 <translation id="4819323978093861656">{0,plural, =0{Zatvárajú sa.}=1{Zavrú sa o 1 sekundu}few{Zavrú sa o # sekundy}many{Zavrú sa o # sekundy}other{Zavrú sa o # sekúnd}}</translation>
-<translation id="4819607494758673676">Upozornenia Asistenta Google</translation>
+<translation id="4819607494758673676">Upozornenia Asistenta Decentr</translation>
 <translation id="4820236583224459650">Nastaviť ako aktívny tiket</translation>
 <translation id="4820795723433418303">Používať funkčné klávesy ako klávesy horného radu</translation>
 <translation id="4821935166599369261">&amp;Profilovanie povolené</translation>
@@ -4459,7 +4459,7 @@ Ak chcete zobrazenie oddialiť, stlačte Ctrl + Alt + zníženie jasu.</translat
 <translation id="4844633725025837809">Šifrujte heslá v zariadení ešte pred ich uložením do správcu hesiel Google, čím zvýšite zabezpečenie</translation>
 <translation id="4846628405149428620">Vyberte, kam tento web môže ukladať zmeny</translation>
 <translation id="4846680374085650406">V prípade tohto nastavenia dodržiavate odporúčania správcu.</translation>
-<translation id="4848191975108266266">„Ok Google“ v Asistentovi Google</translation>
+<translation id="4848191975108266266">„Ok Google“ v Asistentovi Decentr</translation>
 <translation id="4849286518551984791">Univerzálny koordinovaný čas (UTC/GMT)</translation>
 <translation id="4849517651082200438">Neinštalovať</translation>
 <translation id="485053257961878904">Nepodarilo sa nastaviť synchronizáciu upozornení</translation>
@@ -4663,7 +4663,7 @@ Ak chcete zobrazenie oddialiť, stlačte Ctrl + Alt + zníženie jasu.</translat
 <translation id="5037676449506322593">Vybrať všetko</translation>
 <translation id="5038818366306248416">V minulosti ste nepovolili žiadne rozšírenie na <ph name="ORIGIN" /></translation>
 <translation id="5039071832298038564">Informácie o sieti zariadenia</translation>
-<translation id="5039696241953571917">Zobrazenie a správa hesiel uložených v účte Google</translation>
+<translation id="5039696241953571917">Zobrazenie a správa hesiel uložených v účte Decentr</translation>
 <translation id="5039804452771397117">Povoliť</translation>
 <translation id="5040262127954254034">Ochrana súkromia</translation>
 <translation id="5040823038948176460">Ďalšie nastavenia obsahu</translation>
@@ -4878,7 +4878,7 @@ Ak chcete zobrazenie oddialiť, stlačte Ctrl + Alt + zníženie jasu.</translat
 <translation id="5235050375939235066">Odinštalovať aplikáciu?</translation>
 <translation id="523505283826916779">Nastavenia zjednodušenia prístupu</translation>
 <translation id="5235750401727657667">Nahradiť stránku, ktorá sa zobrazí pri otvorení novej karty</translation>
-<translation id="5236374273162681467">Ak ich chcete ľahko používať vo všetkých svojich zariadeniach, môžete si ich presunúť do účtu Google</translation>
+<translation id="5236374273162681467">Ak ich chcete ľahko používať vo všetkých svojich zariadeniach, môžete si ich presunúť do účtu Decentr</translation>
 <translation id="523862956770478816">Povolenia webu</translation>
 <translation id="5239752869099890912">Ak chcete na tomto webe používať pre tieto rozšírenia aktualizované nastavenia, znova načítajte túto stránku</translation>
 <translation id="5240931875940563122">Prihlásiť sa telefónom s Androidom</translation>
@@ -4968,7 +4968,7 @@ Ak chcete zobrazenie oddialiť, stlačte Ctrl + Alt + zníženie jasu.</translat
 <translation id="5307386115243749078">Spárovať prepínač Bluetooth</translation>
 <translation id="5307958609248661362">Čas Správcu hesiel Google vypršal</translation>
 <translation id="5308380583665731573">Pripojiť</translation>
-<translation id="5309418307557605830">Tu funguje aj Asistent Google</translation>
+<translation id="5309418307557605830">Tu funguje aj Asistent Decentr</translation>
 <translation id="5311304534597152726">Prebieha prihlasovanie ako</translation>
 <translation id="5313967007315987356">Pridať web</translation>
 <translation id="5315738755890845852">Nadbytočná zložená zátvorka: <ph name="ERROR_LINE" /></translation>
@@ -5004,7 +5004,7 @@ Ak chcete zobrazenie oddialiť, stlačte Ctrl + Alt + zníženie jasu.</translat
 <translation id="5344128444027639014"><ph name="BATTERY_PERCENTAGE" /> % (pravé)</translation>
 <translation id="534449933710420173">Priečinok bez názvu</translation>
 <translation id="5345916423802287046">Spustiť aplikáciu pri prihlásení</translation>
-<translation id="5350293332385664455">Vypnúť Asistenta Google</translation>
+<translation id="5350293332385664455">Vypnúť Asistenta Decentr</translation>
 <translation id="535123479159372765">Text bol skopírovaný z iného zariadenia</translation>
 <translation id="5352033265844765294">Časová pečiatka</translation>
 <translation id="5352257124367865087">Spravovať povolenia webu</translation>
@@ -5064,7 +5064,7 @@ Tejto akcii môžete prideliť viacero prepínačov.</translation>
 <translation id="5405146885510277940">Resetovať nastavenia</translation>
 <translation id="5407167491482639988">Nezrozumiteľný zvuk</translation>
 <translation id="5408750356094797285">Lupa: <ph name="PERCENT" /></translation>
-<translation id="5409044712155737325">Z vášho účtu Google</translation>
+<translation id="5409044712155737325">Z vášho účtu Decentr</translation>
 <translation id="5411022484772257615">Zápis do školy sa nepodarilo dokončiť</translation>
 <translation id="5411856344659127989">Ak chcete pridať účet niekoho iného, pridajte si do zariadenia <ph name="DEVICE_TYPE" /> <ph name="LINK_BEGIN" />novú osobu<ph name="LINK_END" />.
 
@@ -5099,7 +5099,7 @@ Na tento účet sa môžu vzťahovať povolenia, ktoré ste už udelili webom a�
 <translation id="5435779377906857208">Vždy povoliť webu <ph name="HOST" /> prístup k polohe</translation>
 <translation id="5436492226391861498">Čaká sa na tunelové prepojenie servera proxy...</translation>
 <translation id="5436510242972373446">Prehľadať webovú stránku <ph name="SITE_NAME" />:</translation>
-<translation id="5436575196282187764">Spomienky z Fotiek Google</translation>
+<translation id="5436575196282187764">Spomienky z Fotiek Decentr</translation>
 <translation id="5439680044267106777">Preskočiť a zriadiť nový profil</translation>
 <translation id="544083962418256601">Vytvoriť odkazy na pracovnej ploche...</translation>
 <translation id="5441133529460183413">Webová aplikácia nainštalovaná v prehliadači Chrome</translation>
@@ -5447,11 +5447,11 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="5747809636523347288">Prilepiť a prejsť na <ph name="URL" /></translation>
 <translation id="5748137879145720682">Zapnúť, keď je počítač odpojený</translation>
 <translation id="5751345516399502412">Kontrola pripravenosti na zdieľanie dátového pripojenia</translation>
-<translation id="5755022574660047665">spomienky z Fotiek Google</translation>
+<translation id="5755022574660047665">spomienky z Fotiek Decentr</translation>
 <translation id="5756163054456765343">Centrum pomoci</translation>
 <translation id="5758631781033351321">Tu nájdete svoj čitateľský zoznam</translation>
 <translation id="5759728514498647443">Dokumenty odoslané na tlač prostredníctvom aplikácie <ph name="APP_NAME" /> môžete čítať pomocou aplikácie <ph name="APP_NAME" />.</translation>
-<translation id="5762787084360227629">Zadať informácie o účte Google</translation>
+<translation id="5762787084360227629">Zadať informácie o účte Decentr</translation>
 <translation id="5763751966069581670">Nenašli sa žiadne zariadenia USB</translation>
 <translation id="5764483294734785780">Uložiť &amp;audio ako...</translation>
 <translation id="57646104491463491">Dátum úpravy</translation>
@@ -5625,7 +5625,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="5896436821193322561">Nepovoliť</translation>
 <translation id="5899860758576822363">Pri hlasovej odozve ChromeVox znížiť hlasitosť prehrávania</translation>
 <translation id="5900243355162006650">Konfigurácia zdieľania dátového pripojenia:</translation>
-<translation id="5900302528761731119">Fotografia profilu Google</translation>
+<translation id="5900302528761731119">Fotografia profilu Decentr</translation>
 <translation id="590036993063074298">Podrobnosti o kvalite zrkadlenia</translation>
 <translation id="5901069264981746702">Údaje odtlačkov prstov sú uložené bezpečne a nikdy sa nedostanú mimo zariadenia <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Ďalšie informácie<ph name="LINK_END" /></translation>
 <translation id="5901089233978050985">Prepnúť na zaznamenávanú kartu</translation>
@@ -5640,7 +5640,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="5909379458939060601">Chcete odstrániť tento profil a dáta prehliadania?</translation>
 <translation id="5910363049092958439">Uložiť &amp;obrázok ako...</translation>
 <translation id="5910726859585389579"><ph name="DEVICE_TYPE" /> je offline</translation>
-<translation id="5911030830365207728">Prekladač Google</translation>
+<translation id="5911030830365207728">Prekladač Decentr</translation>
 <translation id="5911533659001334206">Zobrazovač skratiek</translation>
 <translation id="5911545422157959623">Záložky nie sú k dispozícii v režime pre hostí</translation>
 <translation id="5914724413750400082">Modul (<ph name="MODULUS_NUM_BITS" /> bitov):
@@ -5746,7 +5746,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="6001839398155993679">Poďme na to</translation>
 <translation id="6002122790816966947">Vaše zariadenia</translation>
 <translation id="6002210667729577411">Presunúť skupinu do nového okna</translation>
-<translation id="6002452033851752583">Heslo bolo odstránené z vášho účtu Google</translation>
+<translation id="6002452033851752583">Heslo bolo odstránené z vášho účtu Decentr</translation>
 <translation id="6002458620803359783">Preferované hlasy</translation>
 <translation id="6003143259071779217">Odstrániť mobilnú sieť eSIM</translation>
 <translation id="6003479444341796444">Panel s názvom sa teraz zobrazuje</translation>
@@ -5821,7 +5821,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="6065145031947216733">Chcete oddeliť svoje prehliadanie?</translation>
 <translation id="6065289257230303064">Atribúty adresára subjektu certifikátu</translation>
 <translation id="6066794465984119824">Hodnota hash obrázka nie je nastavená</translation>
-<translation id="6069464830445383022">Do Chromebooku sa prihlasujete svojím účtom Google</translation>
+<translation id="6069464830445383022">Do Chromebooku sa prihlasujete svojím účtom Decentr</translation>
 <translation id="6070311415473175157">Vyberte časť obrázka na vyhľadávanie</translation>
 <translation id="6071181508177083058">potvrdenie hesla</translation>
 <translation id="6071576563962215370">Systému sa nepodarilo nastaviť v zariadení zámku atribútov z inštalácie.</translation>
@@ -5870,12 +5870,12 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="6101226222197207147">Bola pridaná nová aplikácia (<ph name="EXTENSION_NAME" />)</translation>
 <translation id="6102043788063419338">Tento súbor zablokovala rozšírená ochrana.</translation>
 <translation id="6103681770816982672">Upozornenie: prechádzate na verziu pre vývojárov</translation>
-<translation id="6104068876731806426">Účty Google</translation>
+<translation id="6104068876731806426">Účty Decentr</translation>
 <translation id="6104311680260824317">Zariadenie sa nepodarilo pripojiť k doméne. Server nepodporuje stanovené typy šifrovania Kerberos. Skontrolujte nastavenia šifrovania v časti Ďalšie možnosti.</translation>
 <translation id="6104796831253957966">Zoznam tlačových úloh je plný</translation>
 <translation id="6104929924898022309">Klávesom vyhľadávania meniť správanie funkčných klávesov</translation>
 <translation id="6106167152849320869">Ak ste sa v predchádzajúcom kroku rozhodli odosielať aj diagnostické údaje a údaje o využití, tieto údaje sa budú zhromažďovať pre nainštalované aplikácie.</translation>
-<translation id="6111972606040028426">Aktivovať Asistenta Google</translation>
+<translation id="6111972606040028426">Aktivovať Asistenta Decentr</translation>
 <translation id="6112294629795967147">Klepnutím zmeníte veľkosť</translation>
 <translation id="6112727384379533756">Pridať ticket</translation>
 <translation id="6112931163620622315">Skontrolujte telefón</translation>
@@ -6031,7 +6031,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="6243774244933267674">Server je nedostupný</translation>
 <translation id="6244245036423700521">Importovať súbor ONC</translation>
 <translation id="6246790815526961700">Nahrať zo zariadenia</translation>
-<translation id="6247557882553405851">Správca hesiel Google</translation>
+<translation id="6247557882553405851">Správca hesiel Decentr</translation>
 <translation id="6247620186971210352">Nenašli sa žiadne aplikácie</translation>
 <translation id="6247708409970142803"><ph name="PERCENTAGE" /> %</translation>
 <translation id="6247802389331535091">Systém: <ph name="ARC_PROCESS_NAME" /></translation>
@@ -6109,7 +6109,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="6314819609899340042">Na tomto zariadení <ph name="IDS_SHORT_PRODUCT_NAME" /> ste úspešne aktivovali funkcie ladenia.</translation>
 <translation id="6315170314923504164">Hlas</translation>
 <translation id="6315493146179903667">Zobraziť všetko navrchu</translation>
-<translation id="6316432269411143858">Obsah zmluvných podmienok systému Google Chrome OS</translation>
+<translation id="6316432269411143858">Obsah zmluvných podmienok systému Decentr OS</translation>
 <translation id="6317369057005134371">Čaká sa na okno aplikácie...</translation>
 <translation id="6318125393809743217">Zahŕňať súbor policies.json s konfiguráciami pravidiel</translation>
 <translation id="6318407754858604988">Sťahovanie sa začalo</translation>
@@ -6208,7 +6208,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="6415816101512323589">Chcete zapnúť obnovovanie miestnych údajov a chrániť tak svoje údaje?</translation>
 <translation id="6415900369006735853">Pripojte sa k internetu cez telefón</translation>
 <translation id="6416743254476733475">Povoľte alebo zablokujte vo svojom počítači.</translation>
-<translation id="6417265370957905582">Asistent Google</translation>
+<translation id="6417265370957905582">Asistent Decentr</translation>
 <translation id="6417468503703810114">Predvolené správanie</translation>
 <translation id="6418160186546245112">Prebieha vrátenie späť na predchádzajúcu nainštalovanú verziu produktu <ph name="IDS_SHORT_PRODUCT_NAME" /></translation>
 <translation id="6418481728190846787">Natrvalo odstrániť prístup pre všetky aplikácie</translation>
@@ -6281,7 +6281,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="6472893788822429178">Zobraziť tlačidlo Domovskej stránky</translation>
 <translation id="6474352027343282094">{COUNT,plural, =1{{COUNT} heslo je uložené iba v tomto zariadení. Ak ho chcete používať aj v iných zariadeniach, &lt;a target='_blank' href='chrome://password-manager/'&gt;uložte si ho do účtu Google&lt;/a&gt;.}few{{COUNT} heslá sú uložené iba v tomto zariadení. Ak ich chcete používať aj v iných zariadeniach, &lt;a target='_blank' href='chrome://password-manager/'&gt;uložte si ich do účtu Google&lt;/a&gt;.}many{{COUNT} passwords are saved only to this device. To use them on your other devices, &lt;a target='_blank' href='chrome://password-manager/'&gt;save them in your Google Account&lt;/a&gt;.}other{{COUNT} hesiel je uložených iba v tomto zariadení. Ak ich chcete používať aj v iných zariadeniach, &lt;a target='_blank' href='chrome://password-manager/'&gt;uložte si ich do účtu Google&lt;/a&gt;.}}</translation>
 <translation id="6474498546677193336">Zdieľanie sa nepodarilo zrušiť, pretože tento priečinok používa nejaká aplikácia. Jeho zdieľanie bude zrušené po ďalšom vypnutí systému Linux.</translation>
-<translation id="6474884162850599008">Odpojiť účet služby Disk Google</translation>
+<translation id="6474884162850599008">Odpojiť účet služby Disk Decentr</translation>
 <translation id="6475294023568239942">Uvoľnite na disku miesto alebo v Nastaveniach zmeňte veľkosť disku systému Linux</translation>
 <translation id="6476482583633999078">Rýchlosť reči</translation>
 <translation id="6477822444490674459">Synchronizácia upozornení nie je podporovaná v pracovnom profile v telefóne. <ph name="LINK_BEGIN" />Ďalšie informácie<ph name="LINK_END" /></translation>
@@ -6317,7 +6317,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="6511279028091289182">Určuje, ako sa pripojiť k webom prostredníctvom zabezpečeného pripojenia. Používa spravovaného poskytovateľa služieb na <ph name="DNS_SERVER_TEMPLATE_WITH_IDENTIFIER" />.</translation>
 <translation id="6511827214781912955">Zvážte odstránenie súboru <ph name="FILENAME" />, aby si ostatní používatelia tohto zariadenia nemohli zobraziť vaše heslá</translation>
 <translation id="6512808201725371249">Heslo tohto účtu je už uložené v Správcovi hesiel Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Ak nebudete mať pripojenie k inej sieti, prehliadač Google Chrome použije mobilné dáta.</translation>
+<translation id="6513247462497316522">Ak nebudete mať pripojenie k inej sieti, prehliadač Decentr použije mobilné dáta.</translation>
 <translation id="6514010653036109809">Dostupné zariadenie:</translation>
 <translation id="6514565641373682518">Táto stránka zakázala kurzor myši.</translation>
 <translation id="6517709704288360414">Vaše zariadenie už nemusí fungovať správne a môže dochádzať k problémom so zabezpečením a výkonnosťou. Vypnutie aktualizácií môže mať vplyv aj na vaše právo podávať v prípade problémov právne nároky.</translation>
@@ -6328,7 +6328,7 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
         <ph name="FILE_INFO" />
         <ph name="EVENT_NAME" /></translation>
 <translation id="6519689855001245063">Kontroluje sa oprávnenosť</translation>
-<translation id="6520087076882753524">Uložené heslá si môžete zobraziť a spravovať v správcovi hesiel Google</translation>
+<translation id="6520087076882753524">Uložené heslá si môžete zobraziť a spravovať v správcovi hesiel Decentr</translation>
 <translation id="6520876759015997832"><ph name="LIST_POSITION" />. výsledok vyhľadávania z <ph name="LIST_SIZE" />: <ph name="SEARCH_RESULT_TEXT" />. Stlačením klávesa Enter prejdite na príslušnú sekciu.</translation>
 <translation id="6521214596282732365">Weby zvyčajne používajú vaše písma, takže môžete online návrhárskymi a grafickými nástrojmi vytvoriť obsah s vysokou presnosťou</translation>
 <translation id="6523303810310758032">Keď odstránite históriu prehliadania (buď celú, alebo pre konkrétny web), odstránite aj spojené údaje merania. <ph name="BEGIN_LINK" />Zobraziť históriu prehliadania<ph name="END_LINK" /></translation>
@@ -6340,12 +6340,12 @@ Môžete ho odoslať Googlu, ktorý skontroluje, či je bezpečný. Kontrola zvy
 <translation id="652948702951888897">História Chromu</translation>
 <translation id="6530186581263215931">Tieto nastavenia sú vynútené správcom</translation>
 <translation id="6531282281159901044">Ponechať nebezpečný súbor</translation>
-<translation id="6532101170117367231">Uložiť do služby Disk Google</translation>
+<translation id="6532101170117367231">Uložiť do služby Disk Decentr</translation>
 <translation id="6532106788206463496">Uložiť zmeny</translation>
 <translation id="6532206849875187177">Zabezpečenie a prihlásenie</translation>
 <translation id="6532527800157340614">Prihlásenie zlyhalo, pretože sa nepodarilo načítať prístupový token. Skontrolujte pripojenie k sieti a skúste to znova.</translation>
 <translation id="6532663472409656417">Zaregistrované v rámci podniku</translation>
-<translation id="6533315466883598769">Používať Prekladač Google</translation>
+<translation id="6533315466883598769">Používať Prekladač Decentr</translation>
 <translation id="6535331821390304775">Vždy povoliť zdroju <ph name="ORIGIN" /> otvárať odkazy tohto typu v pridruženej aplikácii</translation>
 <translation id="653659894138286600">Skenovanie dokumentov a obrázkov</translation>
 <translation id="6537613839935722475">Názov môže obsahovať písmená, čísla a spojovníky (-)</translation>
@@ -6589,7 +6589,7 @@ Máte ešte # ďalších. Správca hesiel Google odporúča okamžite dané hes
 <translation id="674632704103926902">Povoliť presunutie klepnutím</translation>
 <translation id="67465227497040338">Zobraziť heslo domény <ph name="DOMAIN" /></translation>
 <translation id="6748465660675848252">Môžete pokračovať, ale obnovia sa iba vaše synchronizované údaje a nastavenia. Všetky miestne údaje stratíte.</translation>
-<translation id="6748980958975836188">Prečítal(a) som si <ph name="BEGIN_LINK1" />zmluvné podmienky spoločnosti Google<ph name="END_LINK1" /> aj <ph name="BEGIN_LINK2" />dodatočné zmluvné podmienky prehliadača Chrome a systému Chrome OS<ph name="END_LINK2" /> a súhlasím s nimi.</translation>
+<translation id="6748980958975836188">Prečítal(a) som si <ph name="BEGIN_LINK1" />zmluvné podmienky spoločnosti Decentr<ph name="END_LINK1" /> aj <ph name="BEGIN_LINK2" />dodatočné zmluvné podmienky prehliadača Chrome a systému Chrome OS<ph name="END_LINK2" /> a súhlasím s nimi.</translation>
 <translation id="6749473226660745022">Fotky</translation>
 <translation id="6750757184909117990">Zakázať mobilnú sieť</translation>
 <translation id="6751344591405861699"><ph name="WINDOW_TITLE" /> (Inkognito)</translation>
@@ -6695,7 +6695,7 @@ Máte ešte # ďalších. Správca hesiel Google odporúča okamžite dané hes
 <translation id="6828182567531805778">Ak chcete synchronizovať svoje údaje, zadajte prístupovú frázu</translation>
 <translation id="682871081149631693">QuickFix</translation>
 <translation id="6828860976882136098">Nepodarilo sa nastaviť automatické aktualizácie pre všetkých používateľov (chyba pri vykonávaní predbežnej kontroly: <ph name="ERROR_NUMBER" />)</translation>
-<translation id="682971198310367122">Pravidlá ochrany súkromia Google</translation>
+<translation id="682971198310367122">Pravidlá ochrany súkromia Decentr</translation>
 <translation id="6830200424658853449">Otvoriť v offline editore</translation>
 <translation id="6831043979455480757">Preložiť</translation>
 <translation id="6832218595502288407">Zarovnať doľava</translation>
@@ -6807,7 +6807,7 @@ Máte ešte # ďalších. Správca hesiel Google odporúča okamžite dané hes
 <translation id="6923633482430812883">Pri pripájaní zdieľaného súboru sa vyskytla chyba. Skontrolujte, či server, ku ktorému sa pripájate, podporuje protokol SMBv2 alebo novší.</translation>
 <translation id="6925127338315966709">Do tohto prehliadača pridávate spravovaný profil. Ovláda ho správca, ktorý má tiež prístup k jeho údajom. Záložky, história, heslá a ďalšie nastavenia budú synchronizované do vášho účtu a ovládané vaším správcom.</translation>
 <translation id="6929126689972602640">Rodičovská kontrola nie je podporovaná v prípade školských účtov. Ak chcete pridať školský účet, aby ste mali doma prístup k Učebni Google a ďalším webom s domácimi úlohami, prihláste sa najprv osobným účtom dieťaťa. Školský účet môžete pridať neskôr v nastaveniach.</translation>
-<translation id="6929760895658557216">Ok Google</translation>
+<translation id="6929760895658557216">Ok Decentr</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{Rozšírenie bolo odmietnuté}few{# rozšírenia boli odmietnuté}many{# extensions have been rejected}other{# rozšírení bolo odmietnutých}}</translation>
 <translation id="6931690462168617033">Sila kliknutia</translation>
 <translation id="6935286146439255109">Chýba zásobník na papier</translation>
@@ -6828,7 +6828,7 @@ Máte ešte # ďalších. Správca hesiel Google odporúča okamžite dané hes
 <translation id="6949089178006131285">Čítať informácie o sieťach v systéme ChromeOS Flex</translation>
 <translation id="6949434160682548041">Heslo (nepovinné)</translation>
 <translation id="6950627417367801484">Obnoviť aplikácie</translation>
-<translation id="6952242901357037157">Môžete si tu zobraziť aj heslá zo svojho <ph name="BEGIN_LINK" />účtu Google<ph name="END_LINK" /></translation>
+<translation id="6952242901357037157">Môžete si tu zobraziť aj heslá zo svojho <ph name="BEGIN_LINK" />účtu Decentr<ph name="END_LINK" /></translation>
 <translation id="6954910832698269894">Zapnite synchronizáciu zariadenia a obnovte tak svoje aplikácie, nastavenia, siete Wi‑Fi a tapetu z predchádzajúceho Chromebooku. Zmeny môžete kedykoľvek vykonať v sekcii Nastavenia &gt; Účty.</translation>
 <translation id="6954936693361896459">Prenášať radšej túto kartu</translation>
 <translation id="6955446738988643816">Preskúmať kontextové okná</translation>
@@ -7379,8 +7379,8 @@ Máte ešte # ďalších. Správca hesiel Google odporúča okamžite dané hes
 <translation id="7441830548568730290">Ostatní používatelia</translation>
 <translation id="744341768939279100">Vytvoriť nový profil</translation>
 <translation id="744366959743242014">Načítavajú sa údaje. Môže to niekoľko sekúnd trvať.</translation>
-<translation id="7443806024147773267">Získajte prístup k svojim heslám, keď sa prihlásite do účtu Google</translation>
-<translation id="7444970023873202833">Preskúmajte viac svojich spomienok vo Fotkách Google</translation>
+<translation id="7443806024147773267">Získajte prístup k svojim heslám, keď sa prihlásite do účtu Decentr</translation>
+<translation id="7444970023873202833">Preskúmajte viac svojich spomienok vo Fotkách Decentr</translation>
 <translation id="7444983668544353857">Zakázať zariadenie <ph name="NETWORKDEVICE" /></translation>
 <translation id="7448430327655618736">Inštalujte aplikácie automaticky</translation>
 <translation id="7448664748118305024">Odstrániť dáta webov uložené v zariadení po zavretí všetkých okien</translation>
@@ -7789,7 +7789,7 @@ Odstráňte ju stlačením prideleného prepínača alebo klávesa.</translation
 <translation id="7776701556330691704">Nenašli sa žiadne hlasy</translation>
 <translation id="7777624210360383048">Odkaz <ph name="SHORTCUT" /> na rozšírenie <ph name="EXTENSION_NAME" /></translation>
 <translation id="7781335840981796660">Všetky používateľské účty a miestne údaje budú odstránené.</translation>
-<translation id="7782102568078991263">Žiadne ďalšie návrhy od spoločnosti Google</translation>
+<translation id="7782102568078991263">Žiadne ďalšie návrhy od spoločnosti Decentr</translation>
 <translation id="7782717250816686129">Uchovávať trvalé údaje na prihlasovacej obrazovke a vkladať prihlasovacie údaje do relácie.</translation>
 <translation id="778330624322499012">Doplnok <ph name="PLUGIN_NAME" /> sa nepodarilo načítať</translation>
 <translation id="7784067724422331729">Tento súbor je blokovaný nastaveniami zabezpečenia počítača.</translation>
@@ -7882,7 +7882,7 @@ Odstráňte ju stlačením prideleného prepínača alebo klávesa.</translation
 <translation id="7858328180167661092"><ph name="APP_NAME" /> (Windows)</translation>
 <translation id="786073089922909430">Služba: <ph name="ARC_PROCESS_NAME" /></translation>
 <translation id="7861215335140947162">&amp;Stiahnuté</translation>
-<translation id="7861846108263890455">Jazyk účtu Google</translation>
+<translation id="7861846108263890455">Jazyk účtu Decentr</translation>
 <translation id="7864539943188674973">Zakázať rozhranie Bluetooth</translation>
 <translation id="7865127013871431856">Možnosti prekladu</translation>
 <translation id="7866941897628979955">Ušetrili ste <ph name="MEMORY_SAVINGS" /></translation>
@@ -7989,7 +7989,7 @@ Odstráňte ju stlačením prideleného prepínača alebo klávesa.</translation
 <translation id="7947964080535614577">Weby zvyčajne zobrazujú reklamy, aby mohli poskytovať obsah či služby bez peňažného poplatku. Niektoré weby sú však známe tým, že zobrazujú obťažujúce alebo zavádzajúce reklamy.</translation>
 <translation id="7948407723851303488">Všetky stránky domény <ph name="DOMAIN_NAME" /></translation>
 <translation id="7950629216186736592">Dôvod: PSP podporuje iba webové adresy http://, https:// a file://.</translation>
-<translation id="7951265006188088697">Ak chcete pridať alebo spravovať spôsoby platby Google Pay, prejdite do svojho <ph name="BEGIN_LINK" />účtu Google<ph name="END_LINK" />.</translation>
+<translation id="7951265006188088697">Ak chcete pridať alebo spravovať spôsoby platby Google Pay, prejdite do svojho <ph name="BEGIN_LINK" />účtu Decentr<ph name="END_LINK" />.</translation>
 <translation id="795130320946928025">Vypnúť virtuálnu kartu</translation>
 <translation id="795240231873601803">Pre pracovné a školské účty je potrebné použiť podnikovú registráciu</translation>
 <translation id="7952708427581814389">Weby môžu žiadať o zobrazenie textu a obrázkov vo vašej schránke</translation>
@@ -8095,12 +8095,12 @@ Súbor kľúča uložte na bezpečné miesto. Budete ho potrebovať na vytvoreni
 <translation id="8041089156583427627">Odoslať spätnú väzbu</translation>
 <translation id="8041267120753677077">Streamovať aplikácie vášho telefónu</translation>
 <translation id="8042142357103597104">Nepriehľadnosť textu</translation>
-<translation id="8042331986490021244">Heslá sú šifrované v zariadení ešte pred ich uložením do správcu hesiel Google</translation>
+<translation id="8042331986490021244">Heslá sú šifrované v zariadení ešte pred ich uložením do správcu hesiel Decentr</translation>
 <translation id="8044262338717486897"><ph name="LINUX_APP_NAME" /> nereaguje.</translation>
 <translation id="8044899503464538266">Pomalé</translation>
 <translation id="8045253504249021590">Synchronizácia bola zastavená prostredníctvom Informačného panela Google.</translation>
 <translation id="8045923671629973368">Zadajte ID aplikácie alebo adresu webového obchodu</translation>
-<translation id="8047242494569930800">Presunúť do účtu Google</translation>
+<translation id="8047242494569930800">Presunúť do účtu Decentr</translation>
 <translation id="804786196054284061">Licenčná zmluva koncového používateľa</translation>
 <translation id="8048728378294435881">Zálohujte svoj obsah a používajte ho v ľubovoľnom zariadení</translation>
 <translation id="8048977114738515028">Vytvorte si v zariadení odkaz na pracovnej ploche, aby ste získali priamy prístup k tomuto profilu</translation>
@@ -8186,7 +8186,7 @@ Súbor kľúča uložte na bezpečné miesto. Budete ho potrebovať na vytvoreni
 <translation id="8110393529211831722">Odber je nainštalovaný iba v tomto zariadení a nesynchronizuje sa s inými zariadeniami vo vašom účte. <ph name="LINK_BEGIN" />Ďalšie informácie<ph name="LINK_END" /></translation>
 <translation id="8110489095782891123">Sťahuje sa zoznam kontaktov…</translation>
 <translation id="8113476325385351118">Pokračovať v blokovaní prístupu tohto webu k úplnému ovládaniu zariadení MIDI</translation>
-<translation id="8115139559594092084">Z vášho Disku Google</translation>
+<translation id="8115139559594092084">Z vášho Disku Decentr</translation>
 <translation id="8116972784401310538">&amp;Správca záložiek</translation>
 <translation id="8118276691321086429"><ph name="PASSWORD_MANAGER_BRAND" /> si zapamätá, ako ste sa prihlásili, a ak je to možné, automaticky vás prihlási. Keď je táto možnosť vypnutá, výzva na potvrdenie sa vám zobrazí vždy.</translation>
 <translation id="8118362518458010043">Zakázané Chromom. Toto rozšírenie môže byť nebezpečné.</translation>
@@ -8209,7 +8209,7 @@ Súbor kľúča uložte na bezpečné miesto. Budete ho potrebovať na vytvoreni
 <translation id="8137559199583651773">Spravovať rozšírenia</translation>
 <translation id="8138217203226449454">Chcete zmeniť svojho poskytovateľa vyhľadávania?</translation>
 <translation id="8138997515734480534">Stav virtuálneho počítača <ph name="VM_NAME" /></translation>
-<translation id="8139447493436036221">Súbory na Disku Google</translation>
+<translation id="8139447493436036221">Súbory na Disku Decentr</translation>
 <translation id="8140070492745508800"><ph name="FIRST_DEVICE" />, <ph name="SECOND_DEVICE" /></translation>
 <translation id="8141418916163800697">Ďalšie funkcie môžete nakonfigurovať v nastaveniach Telefónneho centra</translation>
 <translation id="8141584439523427891">Otvára sa alternatívny prehliadač</translation>
@@ -8469,7 +8469,7 @@ Súbor kľúča uložte na bezpečné miesto. Budete ho potrebovať na vytvoreni
 <translation id="8357591920094529889">Tento sprievodca vám pomôže porozumieť, aké dôležité možnosti máte k dispozícii pri používaní Chromu. Pomôže vám s ich výberom tak, aby Chrome fungoval podľa vašich predstáv.</translation>
 <translation id="8358685469073206162">Obnoviť stránky?</translation>
 <translation id="8358912028636606457">Prenos zvuku karty nie je v tomto zariadení podporovaný.</translation>
-<translation id="835951711479681002">Uložiť vo vašom účte Google</translation>
+<translation id="835951711479681002">Uložiť vo vašom účte Decentr</translation>
 <translation id="8360140320636871023">Prispôsobte si motív obrazovky</translation>
 <translation id="8360267485906769442">Tlačidlo Odoslať spätnú väzbu</translation>
 <translation id="8362914115861174987">Preklad do jazyka</translation>
@@ -8487,7 +8487,7 @@ Súbor kľúča uložte na bezpečné miesto. Budete ho potrebovať na vytvoreni
 <translation id="8376137163494131156">Informujte nás, čo sa deje so zariadením Google Cast.</translation>
 <translation id="8376384591331888629">Vrátane súborov cookie tretích strán na tomto webe</translation>
 <translation id="8376451933628734023">Ak sa vás táto webová aplikácia snaží presvedčiť, že nie je tá, za ktorú ju pokladáte, odinštalujte ju.</translation>
-<translation id="8376752431516546391">Bočný panel Vyhľadávania Google</translation>
+<translation id="8376752431516546391">Bočný panel Vyhľadávania Decentr</translation>
 <translation id="8377625247046155446">Tento prístupový kľúč bude uložený iba v tomto zariadení. Po zavretí všetkých okien inkognito zostane v tomto zariadení.</translation>
 <translation id="8378714024927312812">Spravované vašou organizáciou</translation>
 <translation id="8379878387931047019">Toto zariadenie nepodporuje typ bezpečnostného kľúča požadovaného týmto webom</translation>
@@ -8606,7 +8606,7 @@ Ak sa rozhodnete signály nezdieľať, tento profil bude uzavretý.</translation
 <translation id="8472623782143987204">hardvérová záloha</translation>
 <translation id="8473540203671727883">Čítať text pod kurzorom myši</translation>
 <translation id="8473863474539038330">Adresy a ďalšie údaje</translation>
-<translation id="8474733733775441349">Zobrazenie hesiel z účtu Google</translation>
+<translation id="8474733733775441349">Zobrazenie hesiel z účtu Decentr</translation>
 <translation id="8475313423285172237">Iný program v počítači pridal rozšírenie, ktoré môže zmeniť spôsob fungovania prehliadača Chrome.</translation>
 <translation id="8476408756881832830">Pri hlasovej odozve ChromeVox pozastaviť prehrávanie</translation>
 <translation id="8476491056950015181"><ph name="BEGIN_PARAGRAPH1" />Ak povolíte zariadeniam so systémom ChromeOS odosielať automatické hlásenia, pomôžete nám tým určiť, čo treba v systéme ChromeOS prioritne opraviť a zlepšiť. Tieto hlásenia môžu obsahovať informácie, napríklad kedy ChromeOS padá, aké sa používajú funkcie, koľko pamäte zvyčajne využívate, diagnostiky a údaje o používaní aplikácií pre Android. Niektoré súhrnné dáta pomôžu aj aplikáciám a partnerom Googlu, ako sú vývojári pre Android.<ph name="END_PARAGRAPH1" />
@@ -8655,7 +8655,7 @@ Ak sa rozhodnete signály nezdieľať, tento profil bude uzavretý.</translation
 <translation id="851991974800416566">Rýchlo používajte silné heslo</translation>
 <translation id="8523493869875972733">Zachovať zmeny</translation>
 <translation id="8523849605371521713">Pridané pravidlom</translation>
-<translation id="8524783101666974011">Uloženie kariet do účtu Google</translation>
+<translation id="8524783101666974011">Uloženie kariet do účtu Decentr</translation>
 <translation id="8525306231823319788">Celá obrazovka</translation>
 <translation id="8526813720153458066">SSH</translation>
 <translation id="8527228059738193856">Reproduktory</translation>
@@ -8691,7 +8691,7 @@ Ak sa rozhodnete signály nezdieľať, tento profil bude uzavretý.</translation
 <translation id="8554899698005018844">Žiadny jazyk</translation>
 <translation id="855604308879080518">Povoľte aplikáciám pre Android prístup k zariadeniam USB v tomto Chromebooku. Povolenie sa bude požadovať pri každom pripojení zariadenia USB. Jednotlivé aplikácie pre Android budú požadovať ďalšie povolenia.</translation>
 <translation id="8557022314818157177">Klepte na bezpečnostný kľúč, dokým sa odtlačok prsta nenasníma</translation>
-<translation id="8557180006508471423">V sekcii Lokalizačné služby v Macu zapnite Google Chrome</translation>
+<translation id="8557180006508471423">V sekcii Lokalizačné služby v Macu zapnite Decentr</translation>
 <translation id="8557856025359704738">Ďalšie stiahnutie nastane o <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Prístupové kľúče</translation>
 <translation id="8559961053328923750">Chrome obmedzuje celkové množstvo údajov na meranie výkonnosti reklám, ktoré môžu weby zdieľať prostredníctvom prehliadača</translation>
@@ -9059,7 +9059,7 @@ Ak sa rozhodnete signály nezdieľať, tento profil bude uzavretý.</translation
 <translation id="8868333925931032127">Spustenie ukážkového režimu</translation>
 <translation id="8868626022555786497">Využité miesto</translation>
 <translation id="8868838761037459823">Podrobnosti o mobilnej sieti</translation>
-<translation id="8868964574897075186">Heslá boli presunuté do účtu Google</translation>
+<translation id="8868964574897075186">Heslá boli presunuté do účtu Decentr</translation>
 <translation id="8870413625673593573">Nedávno zatvorené</translation>
 <translation id="8871043459130124414">Spúšťa sa až po kliknutí na rozšírenie</translation>
 <translation id="8871551568777368300">Pripnuté správcom</translation>
@@ -9106,7 +9106,7 @@ Ak sa rozhodnete signály nezdieľať, tento profil bude uzavretý.</translation
 <translation id="8909833622202089127">Web sleduje vašu polohu</translation>
 <translation id="8910222113987937043">Záložky, história, heslá a ďalšie nastavenia sa už nebudú ďalej synchronizovať do vášho účtu Google. Vaše existujúce údaje však zostanú uložené v účte Google a môžete ich spravovať pomocou panela <ph name="BEGIN_LINK" />Google Dashboard<ph name="END_LINK" />.</translation>
 <translation id="8910987510378294980">Skryť zoznam zariadení</translation>
-<translation id="8912362522468806198">účtu Google</translation>
+<translation id="8912362522468806198">účtu Decentr</translation>
 <translation id="8912810933860534797">Aktivovať automatické prehľadávanie</translation>
 <translation id="8915307125957890427">Pravým tlačidlom kliknite na kartu a vyberte Pridať kartu do skupiny. Potom vyberte položku Nová skupina.</translation>
 <translation id="8915370057835397490">Načítavajú sa návrhy</translation>
@@ -9131,7 +9131,7 @@ Ak sa rozhodnete signály nezdieľať, tento profil bude uzavretý.</translation
 <translation id="8934732568177537184">Pokračovať</translation>
 <translation id="8938800817013097409">Zariadenie USB-C (pravý port vzadu)</translation>
 <translation id="8940081510938872932">Počítač momentálne vykonáva priveľa úloh.  Skúste to neskôr.</translation>
-<translation id="8940381019874223173">Z vašich Fotiek Google</translation>
+<translation id="8940381019874223173">Z vašich Fotiek Decentr</translation>
 <translation id="8941173171815156065">Odvolať povolenie „<ph name="PERMISSION" />“</translation>
 <translation id="8941688920560496412">Zariadenie <ph name="DEVICE_NAME" /> je vypnuté</translation>
 <translation id="894191600409472540">Vytvárajte si silné heslá</translation>
@@ -9220,7 +9220,7 @@ Na tento účet sa môžu vzťahovať povolenia, ktoré ste už udelili webom a�
 <translation id="9012122671773859802">Posúvať obrazovku plynule s pohybom myši</translation>
 <translation id="9013037634206938463">Na inštaláciu systému Linux sa vyžaduje minimálne <ph name="INSTALL_SIZE" /> voľného priestoru. Uvoľníte ho odstránením súborov zo zariadenia.</translation>
 <translation id="9014206344398081366">Návod pre čítačku ChromeVox</translation>
-<translation id="901668144954885282">Záloha na Disku Google</translation>
+<translation id="901668144954885282">Záloha na Disku Decentr</translation>
 <translation id="90181708067259747">Dátum vypršania: <ph name="CARD" /></translation>
 <translation id="9018218886431812662">Inštalácia bola dokončená</translation>
 <translation id="9019062154811256702">Čítať a meniť nastavenia automatického dopĺňania</translation>

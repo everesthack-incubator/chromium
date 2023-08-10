@@ -10,7 +10,7 @@
 [\fIOPTION\fR] [\fIPATH\fR|\fIURL\fR]
 
 .SH DESCRIPTION
-See the Google Chrome help center for help on using the browser.
+See the Decentr help center for help on using the browser.
 .IP
 <https://support.google.com/chrome/>
 .PP
@@ -162,4 +162,4 @@ Be sure to do your search within "All Issues" before reporting bugs,
 and be sure to pick the "Defect on Linux" template when filing a new one.
 
 .SH AUTHOR
-The Chromium team \- <http://www.chromium.org>
+The Decentr team \- <http://www.chromium.org>

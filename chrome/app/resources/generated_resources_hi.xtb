@@ -1286,7 +1286,7 @@
 <translation id="2088564884469682888">पहले से मौजूद TrackPoint</translation>
 <translation id="2089090684895656482">कम</translation>
 <translation id="208928984520943006">किसी भी समय होम स्क्रीन पर जाने के लिए, स्क्रीन के सबसे निचले हिस्से से ऊपर की ओर स्वाइप करें.</translation>
-<translation id="2089566709556890888">Google Chrome के ज़रिए सुरक्षित रूप से ब्राउज़ करें</translation>
+<translation id="2089566709556890888">Decentr के ज़रिए सुरक्षित रूप से ब्राउज़ करें</translation>
 <translation id="2089925163047119068">या</translation>
 <translation id="2090165459409185032">अपनी खाता जानकारी पुनर्प्राप्‍त करने के लिए, यहां जाएं: google.com/accounts/recovery</translation>
 <translation id="2090507354966565596">आपके लॉग इन करने पर अपने-आप कनेक्ट हो जाता है</translation>
@@ -1729,7 +1729,7 @@
 <translation id="2434449159125086437">प्रिंटर सेट अप नहीं किया जा सका. कृपया कॉन्फ़िगरेशन की जाँच करें और फिर से कोशिश करें.</translation>
 <translation id="2434758125294431199">चुनें कि आपके डिवाइस के साथ कौन फ़ाइलें शेयर कर सकता है</translation>
 <translation id="2434915728183570229">अब आपके पास अपने फ़ोन में मौजूद ऐप्लिकेशन देखने का विकल्प है</translation>
-<translation id="2435137177546457207">Google Chrome और ChromeOS Flex की अन्य शर्तें</translation>
+<translation id="2435137177546457207">Decentr और ChromeOS Flex की अन्य शर्तें</translation>
 <translation id="2435248616906486374">नेटवर्क डिस्‍कनेक्‍ट है</translation>
 <translation id="2435457462613246316">पासवर्ड दिखाएं</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> लोड हो रहा है</translation>
@@ -3188,7 +3188,7 @@
 <translation id="3719310907809321183"><ph name="CARD_IDENTIFIER" /> का फ़ॉर्म भरा गया.</translation>
 <translation id="3719826155360621982">होमपेज</translation>
 <translation id="372062398998492895">CUPS प्रिंटर</translation>
-<translation id="3721119614952978349">आप और Google</translation>
+<translation id="3721119614952978349">आप और Decentr</translation>
 <translation id="3722108462506185496">वर्चुअल मशीन सेवा शुरू करने में गड़बड़ी हुई. कृपया फिर से कोशिश करें.</translation>
 <translation id="3722624153992426516"><ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" /> निर्देश मिला</translation>
 <translation id="3726965532284929944">QT</translation>
@@ -3289,7 +3289,7 @@
 <translation id="3798632811625902122">ब्लूटूथ डिवाइस <ph name="DEVICE" /> दूसरे डिवाइस से जुड़ने की अनुमति चाहता है.</translation>
 <translation id="3798670284305777884">स्पीकर (आंतरिक)</translation>
 <translation id="3799128412641261490">ऐक्सेस करने का तरीका बदलने की सेटिंग</translation>
-<translation id="3800828618615365228">Google Chrome और ChromeOS की दूसरी शर्तें</translation>
+<translation id="3800828618615365228">Decentr और ChromeOS की दूसरी शर्तें</translation>
 <translation id="3802486193901166966">इस एक्सटेंशन के लिए खास अनुमतियों की ज़रूरत नहीं है. साथ ही, इसमें किसी दूसरी साइट का ऐक्सेस भी नहीं है.</translation>
 <translation id="380329542618494757">नाम</translation>
 <translation id="3803345858388753269">वीडियो की क्वालिटी</translation>
@@ -3308,7 +3308,7 @@
 <translation id="3810973564298564668">प्रबंधित करें</translation>
 <translation id="381202950560906753">दूसरा जोड़ें</translation>
 <translation id="3812525830114410218">गलत प्रमाणपत्र</translation>
-<translation id="3813296892522778813">अगर आपको वह चीज़ नहीं मिल रही है जिसे आप खोज रहे हैं, तो <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome सहायता<ph name="END_LINK_CHROMIUM" /> पर जाएं</translation>
+<translation id="3813296892522778813">अगर आपको वह चीज़ नहीं मिल रही है जिसे आप खोज रहे हैं, तो <ph name="BEGIN_LINK_CHROMIUM" />Decentr सहायता<ph name="END_LINK_CHROMIUM" /> पर जाएं</translation>
 <translation id="3813358687923336574">पेजों का अनुवाद करने और हाज़िर जवाबों के लिए इस्तेमाल हुई भाषा</translation>
 <translation id="3813458570141926987">आपके हाल के ब्राउज़िंग इतिहास के आधार पर, उन विषयों की सूची जिनका अनुमान Chrome ने लगाया है</translation>
 <translation id="3814529970604306954">स्कूल वाला खाता</translation>
@@ -3681,7 +3681,7 @@
 <translation id="4132969033912447558"><ph name="FILE_NAME" /> के डाउनलोड को फिर से शुरू करें</translation>
 <translation id="4133076602192971179">पासवर्ड बदलने के लिए ऐप्लिकेशन खोलें</translation>
 <translation id="4134818201340504801">सेटअप पूरा करने के लिए, फ़ोन में स्टोरेज कम है. कृपया फ़ोन का स्टोरेज खाली करें और फिर से कोशिश करें</translation>
-<translation id="4135746311382563554">Google Chrome और ChromeOS की सेवा की अन्य शर्तें</translation>
+<translation id="4135746311382563554">Decentr और ChromeOS की सेवा की अन्य शर्तें</translation>
 <translation id="4136203100490971508">सूर्योदय होने पर नाइट लाइट अपने आप बंद हो जाएगी</translation>
 <translation id="41365691917097717">अगर आप जारी रखते हैं, तो Android ऐप्लिकेशन बनाने और उनकी जांच करने के लिए ADB डीबग करने की सुविधा चालू हो जाएगी. ध्यान दें कि यह कार्रवाई उन Android ऐप्लिकेशन को इंस्टॉल करने की अनुमति देती है जिनकी पुष्टि Google ने नहीं की है. साथ ही, फ़ैक्ट्री रीसेट को बंद करना ज़रूरी है.</translation>
 <translation id="4137923333452716643">रीडिंग मोड में जिस टेक्स्ट को खोलना है उसे हाइलाइट करें</translation>
@@ -3904,7 +3904,7 @@
 <translation id="4348766275249686434">त्रुटियां एकत्रित करें</translation>
 <translation id="4349828822184870497">मददगार</translation>
 <translation id="4350230709416545141"><ph name="HOST" /> को कभी भी अपनी जगह की जानकारी ऐक्सेस न करने दें</translation>
-<translation id="4350782034419308508">Ok Google</translation>
+<translation id="4350782034419308508">Ok Decentr</translation>
 <translation id="4351770750390404505"><ph name="BEGIN_PARAGRAPH1" />सबसे बेहतर अनुभव देने के लिए, <ph name="DEVICE_OS" /> डिवाइसों के हार्डवेयर का डेटा इकट्ठा करता है और उसे Google के साथ शेयर करता है. इससे, यह तय करने में मदद मिलती है कि डिवाइसों के हिसाब से कौनसा अपडेट डिलीवर करना चाहिए और कौनसा नहीं. इसके अलावा, Google को यह डेटा इस्तेमाल करने की अनुमति, <ph name="DEVICE_OS" /> को बेहतर बनाने और उसमें सुधार करने जैसे दूसरे कामों के लिए भी दी जा सकती है.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />इस डिवाइस पर लॉग इन करके और chrome://system के CHROMEOSFLEX_HARDWARE_INFO सेक्शन में जाकर, वह डेटा देखा जा सकता है जो डिवाइसों के हिसाब से अपडेट डिलीवर करने के लिए Google को भेजा जाता है. इसके अलावा, उन सभी कामों के बारे में भी जाना जा सकता है जिनके लिए आपने Google के साथ डेटा शेयर किया है.<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" /><ph name="DEVICE_OS" />, Google के साथ कौनसा डेटा शेयर कर सकता है और उस डेटा का इस्तेमाल कैसे किया जाता है, इस बारे में ज़्यादा जानने के लिए g.co/flex/HWDataCollection पर जाएं.<ph name="END_PARAGRAPH3" /></translation>
@@ -4137,7 +4137,7 @@
 <translation id="4544174279960331769">डिफ़ॉल्ट नीला अवतार</translation>
 <translation id="4545028762441890696">उसे फिर से चालू करने के लिए, नई अनुमतियां स्वीकार करें:</translation>
 <translation id="4545759655004063573">कम अनुमतियां होने की वजह से सेव नहीं कर सकते. कृपया किसी दूसरी जगह पर सेव करें.</translation>
-<translation id="4546308221697447294">Google Chrome के ज़रिए तेज़ी से ब्राउज़़ करें</translation>
+<translation id="4546308221697447294">Decentr के ज़रिए तेज़ी से ब्राउज़़ करें</translation>
 <translation id="4546345569117159016">दायां बटन</translation>
 <translation id="4546509872654834602"><ph name="SUPERVISED_USER_NAME" /> को इस एक्सटेंशन का इस्तेमाल करना है:</translation>
 <translation id="4546692474302123343">Google Assistant में बोलकर लिखने की सुविधा</translation>
@@ -6331,7 +6331,7 @@
 <translation id="6511279028091289182">यह वेबसाइटों से सुरक्षित कनेक्शन की मदद से जुड़ने का तरीका तय करता है. यह <ph name="DNS_SERVER_TEMPLATE_WITH_IDENTIFIER" /> पर मौजूद, मैनेज की जा रही सेवा देने वाली कंपनी का इस्तेमाल करता है</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> को मिटाएं, ताकि इस डिवाइस का इस्तेमाल करने वाले अन्य लोग, आपके पासवर्ड न देख सकें</translation>
 <translation id="6512808201725371249">इस खाते का पासवर्ड, पहले से ही आपके Google Password Manager (<ph name="USER_EMAIL" />) में सेव है</translation>
-<translation id="6513247462497316522">अगर आप कि‍सी अन्‍य नेटवर्क से कनेक्‍ट न हों तो Google Chrome मोबाइल डेटा का उपयोग करेगा.</translation>
+<translation id="6513247462497316522">अगर आप कि‍सी अन्‍य नेटवर्क से कनेक्‍ट न हों तो Decentr मोबाइल डेटा का उपयोग करेगा.</translation>
 <translation id="6514010653036109809">उपलब्ध डिवाइस:</translation>
 <translation id="6514565641373682518">इस पेज ने आपका माउस कर्सर अक्षम कर दिया है.</translation>
 <translation id="6517709704288360414">हो सकता है कि आपका डिवाइस ठीक से काम न करे. इसके अलावा, आपको सुरक्षा और परफ़ॉर्मेंस से जुड़ी समस्याएं आ सकती हैं. किसी गड़बड़ी का सामना करने पर, उपयोगकर्ताओं के पास कानूनी दावा करने का अधिकार होता है. हालांकि, अपडेट की सुविधा बंद करने पर, हो सकता है कि आप ऐसा न कर पाएं.</translation>
@@ -6819,7 +6819,7 @@
 <translation id="6923633482430812883">शेयर माउंट करने में गड़बड़ी. कृपया जाँचें कि आप जिस फ़ाइल सर्वर से कनेक्ट कर रहे हैं वह SMBv2 या उसके बाद के वर्शन पर काम करता है.</translation>
 <translation id="6925127338315966709">आप इस ब्राउज़र पर, एक मैनेज की जा रही प्रोफ़ाइल जोड़ रहे हैं. इस प्रोफ़ाइल को आपका एडमिन कंट्रोल करता है और इसका डेटा ऐक्सेस कर सकता है. बुकमार्क, इतिहास, पासवर्ड, और अन्य सेटिंग आपके खाते में सिंक की जा सकती हैं. साथ ही, इन्हें आपका एडमिन मैनेज कर सकता है.</translation>
 <translation id="6929126689972602640">माता-पिता के कंट्रोल की सुविधा आपके स्कूल वाले खाते पर काम नहीं करती है. घर पर स्कूल का काम करने में मदद करने वाले Google Classroom और अन्य वेबसाइटों का ऐक्सेस पाने के लिए, स्कूल वाला खाता जोड़ना होगा. इसके लिए पहले अपने बच्चे के निजी खाते से साइन इन करें. आप बाद में, सेट अप में स्कूल वाला खाता जोड़ सकते हैं.</translation>
-<translation id="6929760895658557216">Okay Google</translation>
+<translation id="6929760895658557216">Okay Decentr</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{एक्सटेंशन अस्वीकार कर दिया गया}one{# एक्सटेंशन अस्वीकार कर दिए गए}other{# एक्सटेंशन अस्वीकार कर दिए गए}}</translation>
 <translation id="6931690462168617033">क्लिक की क्षमता</translation>
 <translation id="6935286146439255109">पेपर ट्रे नहीं है</translation>
@@ -8702,7 +8702,7 @@
 <translation id="8554899698005018844">कोई भाषा नहीं</translation>
 <translation id="855604308879080518">Android ऐप्लिकेशन को इस Chromebook में यूएसबी डिवाइसों को ऐक्सेस करने की अनुमति दें. यूएसबी डिवाइस को प्लग-इन किए जाने पर, हर बार अनुमति मांगी जाएगी. Android का हर ऐप्लिकेशन कुछ और भी अनुमतियां मांगेगा.</translation>
 <translation id="8557022314818157177">अपनी सुरक्षा कुंजी को तब तक छूते रहें, जब तक फ़िंगरप्रिंट कैप्चर न हाे जाए</translation>
-<translation id="8557180006508471423">अपने Mac पर, जगह की जानकारी में "Google Chrome" चालू करें</translation>
+<translation id="8557180006508471423">अपने Mac पर, जगह की जानकारी में "Decentr" चालू करें</translation>
 <translation id="8557856025359704738">अगली बार <ph name="NEXT_DATE_DOWNLOAD" /> को डाउनलोड होंगी.</translation>
 <translation id="8559858985063901027">पासवर्ड</translation>
 <translation id="8559961053328923750">Chrome, विज्ञापन की परफ़ॉर्मेंस को मापने के लिए, ब्राउज़र की मदद से शेयर किए जा सकने वाले कुल डेटा को सीमित करता है</translation>

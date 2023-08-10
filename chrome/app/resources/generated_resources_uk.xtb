@@ -5,7 +5,7 @@
 <translation id="1002085272681738789">Вкладка знову активна</translation>
 <translation id="1003088604756913841">Відкрити посилання в новому вікні додатка <ph name="APP" /></translation>
 <translation id="100323615638474026">Пристрій USB (<ph name="VENDOR_ID" />:<ph name="PRODUCT_ID" />)</translation>
-<translation id="1003355351496161312">Безпечний перегляд Google</translation>
+<translation id="1003355351496161312">Безпечний перегляд Decentr</translation>
 <translation id="1004218526896219317">Доступ до сайту</translation>
 <translation id="1005274289863221750">Використовувати ваш мікрофон і камеру</translation>
 <translation id="1005333234656240382">Увімкнути налагодження ADB?</translation>
@@ -28,7 +28,7 @@
 <translation id="1016566241875885511">Додаткова інформація (необов’язково)</translation>
 <translation id="1017280919048282932">&amp;Додати до словника</translation>
 <translation id="1018656279737460067">Скасовано</translation>
-<translation id="1022489261739821355">Показано паролі, збережені у <ph name="BEGIN_LINK" />вашому обліковому записі Google<ph name="END_LINK" /></translation>
+<translation id="1022489261739821355">Показано паролі, збережені у <ph name="BEGIN_LINK" />вашому обліковому записі Decentr<ph name="END_LINK" /></translation>
 <translation id="1022669824195822609">Вашим пристроєм керує домен <ph name="DOMAIN" />. Адміністратори мають доступ до даних у всіх профілях на цьому пристрої.</translation>
 <translation id="1026655690966755180">Додати порт</translation>
 <translation id="1026822031284433028">Завантажити зображення</translation>
@@ -82,8 +82,8 @@
 <translation id="1062628064301375934">Допоможіть нам розробити технології для кращої конфіденційності в мережі</translation>
 <translation id="1066964438793906105">Сканувати на наявність зловмисного програмного забезпечення</translation>
 <translation id="1067048845568873861">Створено</translation>
-<translation id="1067661089446014701">Для додаткового захисту ви можете шифрувати паролі на пристрої, перш ніж вони збережуться в обліковому записі Google</translation>
-<translation id="1067922213147265141">Інші сервіси Google</translation>
+<translation id="1067661089446014701">Для додаткового захисту ви можете шифрувати паролі на пристрої, перш ніж вони збережуться в обліковому записі Decentr</translation>
+<translation id="1067922213147265141">Інші сервіси Decentr</translation>
 <translation id="106814709658156573">Щоб налаштувати відбиток пальця, дитина має торкнутися сканера в нижньому лівому куті клавіатури. <ph name="DEVICE_TYPE" /> надійно зберігає дані про відбиток і нікуди не надсилає їх.</translation>
 <translation id="1069104208554708737">Ключ доступу буде збережено лише на цьому пристрої</translation>
 <translation id="1069355737714877171">Видалити профіль eSIM-карти під назвою "<ph name="PROFILE_NAME" />"</translation>
@@ -142,10 +142,10 @@
 <translation id="1112998165730922436">Трансляцію призупинено</translation>
 <translation id="1114102982691049955"><ph name="PRINTER_MANUFACTURER" /> <ph name="PRINTER_MODEL" /> (USB)</translation>
 <translation id="1114202307280046356">Ромб</translation>
-<translation id="1114427165525619358">Паролі на цьому пристрої та в обліковому записі Google</translation>
+<translation id="1114427165525619358">Паролі на цьому пристрої та в обліковому записі Decentr</translation>
 <translation id="1114525161406758033">Переходити в режим сну, коли кришка закрита</translation>
 <translation id="1116639326869298217">Не вдалося підтвердити вашу особу</translation>
-<translation id="1116694919640316211">Про Google Chrome</translation>
+<translation id="1116694919640316211">Про Decentr</translation>
 <translation id="1116779635164066733">Цей параметр встановлюється розширенням "<ph name="NAME" />".</translation>
 <translation id="1118428905044642028">Паролі й автозаповнення</translation>
 <translation id="1118738876271697201">Системі не вдалося визначити модель і серійний номер пристрою.</translation>
@@ -189,7 +189,7 @@
 <translation id="1150565364351027703">Сонцезахисні окуляри</translation>
 <translation id="1151917987301063366">Завжди дозволяти хосту <ph name="HOST" /> доступ до датчиків</translation>
 <translation id="1152346050262092795">Щоб підтвердити обліковий запис, введіть свій пароль ще раз.</translation>
-<translation id="1153636665119721804">Програма додаткового захисту Google</translation>
+<translation id="1153636665119721804">Програма додаткового захисту Decentr</translation>
 <translation id="1155545602507378023">Ні, лише цей пристрій</translation>
 <translation id="1155816283571436363">Підключення до телефона</translation>
 <translation id="1158080958325422608">Застосувати верхній регістр</translation>
@@ -441,7 +441,7 @@
 <translation id="1378613616312864539">Цим налаштуванням керує <ph name="NAME" /></translation>
 <translation id="1378848228640136848">{NUM_COMPROMISED,plural, =0{Немає зламаних паролів}=1{1 зламаний пароль}one{{NUM_COMPROMISED} зламаний пароль}few{{NUM_COMPROMISED} зламані паролі}many{{NUM_COMPROMISED} зламаних паролів}other{{NUM_COMPROMISED} зламаного пароля}}</translation>
 <translation id="1380028686461971526">Автопідключення до мережі</translation>
-<translation id="1381567580865186407">Мовлення (<ph name="LANGUAGE" />) надсилається для обробки на сервери Google</translation>
+<translation id="1381567580865186407">Мовлення (<ph name="LANGUAGE" />) надсилається для обробки на сервери Decentr</translation>
 <translation id="1383381142702995121">Керувати цим розширенням</translation>
 <translation id="1383597849754832576">Не вдалося завантажити файли живих субтитрів. Повторіть спробу пізніше.</translation>
 <translation id="1383861834909034572">Відкривати, коли завершено</translation>
@@ -665,7 +665,7 @@
 <translation id="1567387640189251553">Після останнього введення пароля було під’єднано іншу клавіатуру. Можливо, це спроба викрасти введені символи.</translation>
 <translation id="156793199942386351">Клавіші "<ph name="CURRENTKEY" />" уже призначено дію "<ph name="ACTION" />". Щоб <ph name="RESPONSE" />, натисніть будь-яку клавішу.</translation>
 <translation id="1567993339577891801">Консоль JavaScript</translation>
-<translation id="1569466257325986920">Наступного разу, коли ви зміните пароль облікового запису Google, ваші локальні дані буде відновлено автоматично після входу в цей обліковий запис Google</translation>
+<translation id="1569466257325986920">Наступного разу, коли ви зміните пароль облікового запису Google, ваші локальні дані буде відновлено автоматично після входу в цей обліковий запис Decentr</translation>
 <translation id="1570604804919108255">Увімкнути звук сповіщень</translation>
 <translation id="1570990174567554976">Створено папку закладок "<ph name="BOOKMARK_TITLE" />".</translation>
 <translation id="1571304935088121812">Копіювати ім’я користувача</translation>
@@ -754,7 +754,7 @@
 <translation id="1629451755632656601">Дозволити Google знаходити персоналізовані знижки для ваших кошиків?</translation>
 <translation id="163072119192489970">Дозволено завершувати надсилання й отримання даних</translation>
 <translation id="1630768113285622200">Перезапустити й продовжити</translation>
-<translation id="1632082166874334883">Пароль збережено у вашому обліковому записі Google</translation>
+<translation id="1632082166874334883">Пароль збережено у вашому обліковому записі Decentr</translation>
 <translation id="1632756664321977232">Інструмент обрізування</translation>
 <translation id="163309982320328737">Початкова ширина символів – повна</translation>
 <translation id="1633947793238301227">Вимкнути Google Асистента</translation>
@@ -788,7 +788,7 @@
 <translation id="1652326691684645429">Увімкнути функцію "Передавання поблизу"</translation>
 <translation id="1654580009054503925">Заборонено показувати запити</translation>
 <translation id="1656528038316521561">Прозорість фону</translation>
-<translation id="1657406563541664238">Допоможіть покращити <ph name="PRODUCT_NAME" />, автоматично надсилаючи статистику використання та звіти про аварійне завершення роботи в Google</translation>
+<translation id="1657406563541664238">Допоможіть покращити <ph name="PRODUCT_NAME" />, автоматично надсилаючи статистику використання та звіти про аварійне завершення роботи в Decentr</translation>
 <translation id="1657937299377480641">Щоб знову ввійти в обліковий запис для доступу до навчальних ресурсів, попроси батьків надати дозвіл</translation>
 <translation id="1658424621194652532">Ця сторінка має доступ до вашого мікрофона.</translation>
 <translation id="1660763353352708040">Проблема з адаптером живлення</translation>
@@ -1046,7 +1046,7 @@
 <translation id="186594096341696655">Зменшити частоту</translation>
 <translation id="186612162884103683">Розширення "<ph name="EXTENSION" />" має доступ до читання й записування зображень, відео та звукових файлів у вибраних розташуваннях.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> готовий виконати інсталяцію</translation>
-<translation id="1868553836791672080">Перевірка паролів недоступна в Chromium</translation>
+<translation id="1868553836791672080">Перевірка паролів недоступна в Decentr</translation>
 <translation id="1868617395637139709">Використовуйте геодані для додатків і сервісів Android</translation>
 <translation id="1869433484041798909">Кнопка "Закладка"</translation>
 <translation id="1871098866036088250">Відкривати у веб-переглядачі Chrome</translation>
@@ -1089,7 +1089,7 @@
 <translation id="1901213235765457754">Попросіть адміністратора оновити цей додаток</translation>
 <translation id="1901303067676059328">Вибрати &amp;всі</translation>
 <translation id="1903995858055162096">Це не ваш пристрій? Перейдіть у <ph name="BEGIN_LINK" />режим гостя<ph name="END_LINK" />.</translation>
-<translation id="1904580727789512086">URL-адреси, на які ви переходите, зберігаються в обліковому записі Google</translation>
+<translation id="1904580727789512086">URL-адреси, на які ви переходите, зберігаються в обліковому записі Decentr</translation>
 <translation id="1905375423839394163">Назва пристрою Chromebook</translation>
 <translation id="1906181697255754968">Сайти зазвичай отримують доступ до файлів і папок на пристрої для роботи таких функцій, як автоматичне зберігання вашої роботи</translation>
 <translation id="1907044622262489040">Вводьте текст голосом. Натисніть клавішу пошуку + D, а тоді почніть говорити.</translation>
@@ -1123,7 +1123,7 @@
 <translation id="1929186283613845153">Виконується сканування цього файлу.</translation>
 <translation id="1929343511231420085">Усі послідовні порти</translation>
 <translation id="1929546189971853037">Переглядати історію веб-перегляду на всіх пристроях, на яких ви ввійшли в обліковий запис</translation>
-<translation id="1930879306590754738">Пароль видалено з цього пристрою й облікового запису Google</translation>
+<translation id="1930879306590754738">Пароль видалено з цього пристрою й облікового запису Decentr</translation>
 <translation id="1931152874660185993">Немає встановлених компонентів.</translation>
 <translation id="1931410639376954712">Встановлення додатка <ph name="DEVICE_OS" /></translation>
 <translation id="1932098463447129402">Не раніше</translation>
@@ -1220,7 +1220,7 @@
 <translation id="202918510990975568">Введіть пароль, щоб налаштувати параметри безпеки та входу</translation>
 <translation id="2030455719695904263">Сенсорна панель</translation>
 <translation id="2030803782168502207">Вилучити підписку з пристрою</translation>
-<translation id="2031639749079821948">Ваш пароль збережено в обліковому записі Google</translation>
+<translation id="2031639749079821948">Ваш пароль збережено в обліковому записі Decentr</translation>
 <translation id="2031914984822377766">Додайте <ph name="LINK_BEGIN" />мови для веб-сайту<ph name="LINK_END" />. Текст перекладатиметься на першу мову зі списку.</translation>
 <translation id="2033758234986231162">Пристрій не може підтримувати зв’язок із телефоном. Переконайтеся, що ваш телефон поблизу й розблокований, а Bluetooth і Wi-Fi увімкнено.</translation>
 <translation id="2034346955588403444">Додати іншу мережу Wi-Fi</translation>
@@ -1288,7 +1288,7 @@
 <translation id="2088564884469682888">Вбудований джойстик TrackPoint</translation>
 <translation id="2089090684895656482">Менше</translation>
 <translation id="208928984520943006">Щоб будь-коли повернутися на головний екран, проведіть пальцем знизу вгору.</translation>
-<translation id="2089566709556890888">Безпечний перегляд сайтів у Google Chrome</translation>
+<translation id="2089566709556890888">Безпечний перегляд сайтів у Decentr</translation>
 <translation id="2089925163047119068">АБО</translation>
 <translation id="2090165459409185032">Щоб відновити дані облікового запису, перейдіть на сторінку google.com/accounts/recovery</translation>
 <translation id="2090507354966565596">Мережа автоматично підключатиметься, коли ви входитимете в обліковий запис</translation>
@@ -1442,7 +1442,7 @@
 <translation id="2200094388063410062">Електронна пошта</translation>
 <translation id="2203088913459920044">Назва може складатися з літер, цифр і спеціальних символів</translation>
 <translation id="220321590587754225">Не вдалося підключитися. Повторіть спробу.</translation>
-<translation id="2203903197029773650"><ph name="BRAND" /> зможе перевірити ваші паролі, коли ви ввійдете у свій обліковий запис Google</translation>
+<translation id="2203903197029773650"><ph name="BRAND" /> зможе перевірити ваші паролі, коли ви ввійдете у свій обліковий запис Decentr</translation>
 <translation id="2204020417499639567">Електронну адресу заповнено.</translation>
 <translation id="2204034823255629767">Читати й змінювати весь введений вами текст</translation>
 <translation id="2204387456724731099">Не вдалося перекласти вибраний текст</translation>
@@ -1454,7 +1454,7 @@
 <translation id="2214893006758804920">{LINE_COUNT,plural, =1{&lt;Не показано 1 рядок&gt;}one{&lt;Не показано <ph name="NUMBER_OF_LINES" /> рядок&gt;}few{&lt;Не показано <ph name="NUMBER_OF_LINES" /> рядки&gt;}many{&lt;Не показано <ph name="NUMBER_OF_LINES" /> рядків&gt;}other{&lt;Не показано <ph name="NUMBER_OF_LINES" /> рядка&gt;}}</translation>
 <translation id="2218019600945559112">Миша й сенсорна панель</translation>
 <translation id="2218515861914035131">Вставити як звичайний текст</translation>
-<translation id="2220409419896228519">Додавайте закладки до улюблених додатків Google</translation>
+<translation id="2220409419896228519">Додавайте закладки до улюблених додатків Decentr</translation>
 <translation id="2220529011494928058">Повідомити про проблему</translation>
 <translation id="2220572644011485463">PIN-код або пароль</translation>
 <translation id="222115440608612541">Міняє теми відповідно до часу доби</translation>
@@ -1477,7 +1477,7 @@
 <translation id="2233502537820838181">&amp;Докладніше</translation>
 <translation id="223356358902285214">Історія додатків і веб-пошуку</translation>
 <translation id="2234827758954819389">Посібник із конфіденційності</translation>
-<translation id="2234876718134438132">Синхронізація і сервіси Google</translation>
+<translation id="2234876718134438132">Синхронізація і сервіси Decentr</translation>
 <translation id="2235344399760031203">Сторонні файли cookie блокуються</translation>
 <translation id="2238379619048995541">Дані про стан частоти</translation>
 <translation id="2241053333139545397">Читати та змінювати свої дані на декількох веб-сайтах</translation>
@@ -1682,7 +1682,7 @@
 <translation id="2391419135980381625">Стандартний шрифт</translation>
 <translation id="2392369802118427583">Активувати</translation>
 <translation id="2393136602862631930">Налаштуйте додаток "<ph name="APP_NAME" />" на Chromebook</translation>
-<translation id="2393313392064891208">Зміст Умов використання ОС Google Chrome Flex</translation>
+<translation id="2393313392064891208">Зміст Умов використання ОС Decentr Flex</translation>
 <translation id="2395616325548404795">Ваш пристрій <ph name="DEVICE_TYPE" /> зареєстровано для корпоративного керування, однак ми не отримали інформацію про його об’єкти та місцезнаходження. Введіть ці дані вручну на Консолі адміністратора.</translation>
 <translation id="2396783860772170191">Введіть 4-значний PIN-код (0000–9999)</translation>
 <translation id="2398546389094871088">Під час виконання Powerwash на пристрої профілі eSIM-карти не видаляються. Це можна зробити вручну в розділі <ph name="LINK_BEGIN" />налаштування мобільних пристроїв<ph name="LINK_END" />.</translation>
@@ -1731,7 +1731,7 @@
 <translation id="2434449159125086437">Не вдалося налаштувати принтер. Перевірте конфігурацію й повторіть спробу.</translation>
 <translation id="2434758125294431199">Виберіть, хто може надсилати вам дані</translation>
 <translation id="2434915728183570229">Тепер ви можете переглядати додатки з телефона</translation>
-<translation id="2435137177546457207">Додаткові умови використання Google Chrome і ОС Chrome Flex</translation>
+<translation id="2435137177546457207">Додаткові умови використання Decentr і ОС Chrome Flex</translation>
 <translation id="2435248616906486374">Немає з’єднання з мережею</translation>
 <translation id="2435457462613246316">Показати пароль</translation>
 <translation id="2439626940657133600">Завантажується сервіс <ph name="WINDOW_TITLE" /></translation>
@@ -2024,7 +2024,7 @@
 <translation id="2684004000387153598">Натисніть OK і виберіть "Додати користувача", щоб створити новий профіль для своєї електронної адреси.</translation>
 <translation id="2685193395980129388">Дозволено (<ph name="PERMISSION_DETAILS" />)</translation>
 <translation id="2687403674020088961">Блокувати всі файли cookie (не рекомендовано)</translation>
-<translation id="2687407218262674387">Загальні положення та умови Google</translation>
+<translation id="2687407218262674387">Загальні положення та умови Decentr</translation>
 <translation id="2687621393791886981">Запитати пізніше</translation>
 <translation id="2688196195245426394">Помилка під час реєстрації пристрою на сервері: <ph name="CLIENT_ERROR" />.</translation>
 <translation id="2688734475209947648">Вам не доведеться запам’ятовувати пароль. Його буде збережено в Google Менеджері паролів облікового запису <ph name="ACCOUNT" />.</translation>
@@ -2277,7 +2277,7 @@
 <translation id="2891922230654533301">Увійти в додаток <ph name="APP_NAME" /> за допомогою пристрою?</translation>
 <translation id="2893013536106749396">Виберіть картки, з яких ви дізнаватиметеся важливі новини</translation>
 <translation id="2893168226686371498">Веб-переглядач за умовчанням</translation>
-<translation id="2893180576842394309">Google може використовувати вашу історію, щоб персоналізувати Пошук та інші сервіси Google</translation>
+<translation id="2893180576842394309">Google може використовувати вашу історію, щоб персоналізувати Пошук та інші сервіси Decentr</translation>
 <translation id="2894757982205307093">Нова вкладка в групі</translation>
 <translation id="289695669188700754">Ідентифікатор ключа: <ph name="KEY_ID" /></translation>
 <translation id="2897713966423243833">Це спеціальне налаштування буде вилучено, коли ви закриєте всі вікна в режимі анонімного перегляду</translation>
@@ -2382,7 +2382,7 @@
 <translation id="2989474696604907455">не підключено</translation>
 <translation id="2989786307324390836">DER-кодування у двійковій формі, єдиний сертифікат</translation>
 <translation id="2989805286512600854">Відкрити в новій вкладці</translation>
-<translation id="2990313168615879645">Додати обліковий запис Google</translation>
+<translation id="2990313168615879645">Додати обліковий запис Decentr</translation>
 <translation id="2990583317361835189">Заборонити сайтам використовувати датчики руху</translation>
 <translation id="2992931425024192067">Показувати весь вміст сповіщень</translation>
 <translation id="2993517869960930405">Про додаток</translation>
@@ -2532,7 +2532,7 @@
 <translation id="311394601889664316">Заборонити сайтам змінювати файли чи папки на пристрої</translation>
 <translation id="3115147772012638511">...</translation>
 <translation id="3115580024857770654">Згорнути всі</translation>
-<translation id="3115743155098198207">Керувати мовою облікового запису Google</translation>
+<translation id="3115743155098198207">Керувати мовою облікового запису Decentr</translation>
 <translation id="3117138513108032865">Увесь трафік переходить на HTTPS, а ви отримуєте сповіщення перед завантаженням сайтів, які не підтримують цей протокол. Ви не можете змінити це налаштування, оскільки ввімкнули Додатковий захист.</translation>
 <translation id="3117362587799608430">Док-станція не повністю сумісна</translation>
 <translation id="3117791853215125017">{COUNT,plural, =1{Не вдалося надіслати <ph name="ATTACHMENTS" /> на пристрій <ph name="DEVICE_NAME" />}one{Не вдалося надіслати <ph name="ATTACHMENTS" /> на пристрій <ph name="DEVICE_NAME" />}few{Не вдалося надіслати <ph name="ATTACHMENTS" /> на пристрій <ph name="DEVICE_NAME" />}many{Не вдалося надіслати <ph name="ATTACHMENTS" /> на пристрій <ph name="DEVICE_NAME" />}other{Не вдалося надіслати <ph name="ATTACHMENTS" /> на пристрій <ph name="DEVICE_NAME" />}}</translation>
@@ -2662,7 +2662,7 @@
 <translation id="3259723213051400722">Повторіть спробу.</translation>
 <translation id="3261090393424563833">Збільшити частоту</translation>
 <translation id="3261268979727295785">Ви зможете ввімкнути батьківський контроль для старших дітей, коли завершите налаштування. Інформація про цю функцію доступна в додатку Можливості.</translation>
-<translation id="3262336253311870293">Оскільки цим обліковим записом керує домен <ph name="DOMAIN" />, ви не вийдете з облікового запису Google. Закладки, історія, паролі й інші налаштування більше не синхронізуватимуться. Однак раніше синхронізовані дані зберігатимуться у вашому обліковому записі Google, і ви зможете керувати ними в <ph name="BEGIN_LINK" />Особистому кабінеті Google<ph name="END_LINK" />.</translation>
+<translation id="3262336253311870293">Оскільки цим обліковим записом керує домен <ph name="DOMAIN" />, ви не вийдете з облікового запису Google. Закладки, історія, паролі й інші налаштування більше не синхронізуватимуться. Однак раніше синхронізовані дані зберігатимуться у вашому обліковому записі Google, і ви зможете керувати ними в <ph name="BEGIN_LINK" />Особистому кабінеті Decentr<ph name="END_LINK" />.</translation>
 <translation id="3262986719682892278">Завеликий</translation>
 <translation id="3264544094376351444">Шрифт Sans-serif</translation>
 <translation id="3264582393905923483">Контекст</translation>
@@ -2683,7 +2683,7 @@
 <translation id="3275778913554317645">Відкрити вікно</translation>
 <translation id="3277214528693754078">Навігація за допомогою текстового курсора (режим активного курсора)</translation>
 <translation id="3277594800340743211">Велика тінь</translation>
-<translation id="3278001907972365362">Імовірна проблема з обліковим записом Google</translation>
+<translation id="3278001907972365362">Імовірна проблема з обліковим записом Decentr</translation>
 <translation id="3279092821516760512">Вибрані контакти можуть надсилати вам дані, коли перебувають неподалік. Передача інформації розпочнеться, лише коли ви приймете запит.</translation>
 <translation id="3279230909244266691">Це може тривати кілька хвилин. Запускається віртуальна машина.</translation>
 <translation id="3280237271814976245">Зберегти &amp;як...</translation>
@@ -2707,7 +2707,7 @@
 <translation id="3294686910656423119">Статистика використання та звіти про аварійне завершення роботи</translation>
 <translation id="3295241308788901889">Трансляція вкладки</translation>
 <translation id="3297105622164376095">Дозволено показувати підказки щодо входу через сторонні сервіси</translation>
-<translation id="3297536526040732495">Тимчасово зв’язує ці дані з обліковим записом Google, у який ви ввійшли, щоб захищати вас у всіх додатках Google</translation>
+<translation id="3297536526040732495">Тимчасово зв’язує ці дані з обліковим записом Google, у який ви ввійшли, щоб захищати вас у всіх додатках Decentr</translation>
 <translation id="329838636886466101">Полагодити</translation>
 <translation id="3298789223962368867">Введено недійсну URL-адресу.</translation>
 <translation id="32991397311664836">Пристрої:</translation>
@@ -3071,7 +3071,7 @@
 <translation id="3621807901162200696">Сприяти покращенню функцій і підвищенню продуктивності ОС Chrome</translation>
 <translation id="362266093274784978">{COUNT,plural, =1{додаток}one{# додаток}few{# додатки}many{# додатків}other{# додатка}}</translation>
 <translation id="362333465072914957">Очікуємо на сертифікат від центру сертифікації</translation>
-<translation id="3624567683873126087">Розблоковуйте пристрій і входьте в обліковий запис Google</translation>
+<translation id="3624567683873126087">Розблоковуйте пристрій і входьте в обліковий запис Decentr</translation>
 <translation id="3624583033347146597">Виберіть параметри для сторонніх файлів cookie</translation>
 <translation id="3625481642044239431">Вибрано недійсний файл. Повторіть спробу.</translation>
 <translation id="3626296069957678981">Щоб заряджати цей комп'ютер Chromebook, використовуйте сумісний акумулятор Dell.</translation>
@@ -3085,7 +3085,7 @@
 <translation id="3630995161997703415">Додайте цей сайт на полицю, щоб завжди мати його під рукою</translation>
 <translation id="3634652306074934350">Термін дії запиту на дозвіл закінчився</translation>
 <translation id="3635199270495525546">Виявлено модуль Trusted Platform Module (TPM)</translation>
-<translation id="3635353578505343390">Надіслати відгук у Google</translation>
+<translation id="3635353578505343390">Надіслати відгук у Decentr</translation>
 <translation id="3635960017746711110">Налаштування USB в Crostini</translation>
 <translation id="3636766455281737684"><ph name="PERCENTAGE" />% – залишилося <ph name="TIME" /></translation>
 <translation id="3636940436873918441">Вибрані мови</translation>
@@ -3190,7 +3190,7 @@
 <translation id="3719310907809321183">Дані картки <ph name="CARD_IDENTIFIER" /> заповнено.</translation>
 <translation id="3719826155360621982">Головна сторінка</translation>
 <translation id="372062398998492895">CUPS</translation>
-<translation id="3721119614952978349">Ви й Google</translation>
+<translation id="3721119614952978349">Ви й Decentr</translation>
 <translation id="3722108462506185496">Не вдалося запустити віртуальну машину. Спробуйте пізніше.</translation>
 <translation id="3722624153992426516">Отримано вказівку "<ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" />"</translation>
 <translation id="3726965532284929944">QT</translation>
@@ -3253,7 +3253,7 @@
 <translation id="3771290962915251154">Цей параметр вимкнено, оскільки ввімкнено батьківський контроль</translation>
 <translation id="3771294271822695279">Відеофайли</translation>
 <translation id="3771851622616482156">Ви вийдете з облікового запису на цьому сайті, зокрема у відкритих вкладках</translation>
-<translation id="3772046291955677288">Я приймаю <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Додаткові умови використання Chrome і ОС Chrome<ph name="END_LINK2" />.</translation>
+<translation id="3772046291955677288">Я приймаю <ph name="BEGIN_LINK1" />Загальні положення та умови Decentr<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Додаткові умови використання Chrome і ОС Chrome<ph name="END_LINK2" />.</translation>
 <translation id="3774166835015494435">Нещодавні фотографії та сповіщення</translation>
 <translation id="3775432569830822555">Сертифікат SSL-сервера</translation>
 <translation id="3775705724665058594">Надіслати на пристрої</translation>
@@ -3291,7 +3291,7 @@
 <translation id="3798632811625902122">Пристрою з Bluetooth "<ph name="DEVICE" />" потрібен дозвіл на підключення.</translation>
 <translation id="3798670284305777884">Динамік (внутрішній)</translation>
 <translation id="3799128412641261490">Налаштування кнопкового доступу</translation>
-<translation id="3800828618615365228">Додаткові умови використання Google Chrome і ОС Chrome</translation>
+<translation id="3800828618615365228">Додаткові умови використання Decentr і ОС Chrome</translation>
 <translation id="3802486193901166966">Для цього розширення не потрібні спеціальні дозволи, і воно не має додаткового доступу до сайтів</translation>
 <translation id="380329542618494757">Повне ім’я</translation>
 <translation id="3803345858388753269">Якість відео</translation>
@@ -3310,7 +3310,7 @@
 <translation id="3810973564298564668">Керувати</translation>
 <translation id="381202950560906753">Додати ще</translation>
 <translation id="3812525830114410218">Недійсний сертифікат</translation>
-<translation id="3813296892522778813">Якщо не вдається знайти потрібний вміст, перейдіть на сторінку <ph name="BEGIN_LINK_CHROMIUM" />довідки Google Chrome<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Якщо не вдається знайти потрібний вміст, перейдіть на сторінку <ph name="BEGIN_LINK_CHROMIUM" />довідки Decentr<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Мова для перекладу сторінок і швидких відповідей</translation>
 <translation id="3813458570141926987">Список тем, визначених Chrome на основі вашої нещодавньої історії веб-перегляду</translation>
 <translation id="3814529970604306954">Обліковий запис закладу освіти</translation>
@@ -3332,10 +3332,10 @@
 <translation id="3825041664272812989">{FILE_TYPE_COUNT,plural, =1{Запам’ятати мій вибір для цього типу файлу: <ph name="FILE_TYPES" />}one{Запам’ятати мій вибір для цих типів файлів: <ph name="FILE_TYPES" />}few{Запам’ятати мій вибір для цих типів файлів: <ph name="FILE_TYPES" />}many{Запам’ятати мій вибір для цих типів файлів: <ph name="FILE_TYPES" />}other{Запам’ятати мій вибір для цих типів файлів: <ph name="FILE_TYPES" />}}</translation>
 <translation id="3825635794653163640">Показувати крапку на значку додатка, щоб повідомляти про сповіщення</translation>
 <translation id="3826071569074535339">Дозволено використовувати датчики руху</translation>
-<translation id="3826440694796503677">Адміністратор заборонив додавати інші облікові записи Google</translation>
+<translation id="3826440694796503677">Адміністратор заборонив додавати інші облікові записи Decentr</translation>
 <translation id="3827774300009121996">&amp;На весь екран</translation>
 <translation id="3828029223314399057">Пошук закладок</translation>
-<translation id="3828953470056652895">Я приймаю <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Додаткові умови використання Chrome і ОС Chrome<ph name="END_LINK2" />, а також <ph name="BEGIN_LINK3" />Умови використання Play<ph name="END_LINK3" />.</translation>
+<translation id="3828953470056652895">Я приймаю <ph name="BEGIN_LINK1" />Загальні положення та умови Decentr<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Додаткові умови використання Chrome і ОС Chrome<ph name="END_LINK2" />, а також <ph name="BEGIN_LINK3" />Умови використання Play<ph name="END_LINK3" />.</translation>
 <translation id="3829765597456725595">Файлообмінник SMB</translation>
 <translation id="3830654885961023588">{NUM_EXTENSIONS,plural, =1{Адміністратор знову ввімкнув 1 потенційно шкідливе розширення}one{Адміністратор знову ввімкнув {NUM_EXTENSIONS} потенційно шкідливе розширення}few{Адміністратор знову ввімкнув {NUM_EXTENSIONS} потенційно шкідливі розширення}many{Адміністратор знову ввімкнув {NUM_EXTENSIONS} потенційно шкідливих розширень}other{Адміністратор знову ввімкнув {NUM_EXTENSIONS} потенційно шкідливого розширення}}</translation>
 <translation id="3834728400518755610">Щоб зміни в доступах до мікрофона почали діяти, потрібно завершити роботу Linux. Зробіть це, щоб продовжити.</translation>
@@ -3641,7 +3641,7 @@
 <translation id="4096797685681362305">Переглянуто минулого тижня</translation>
 <translation id="4097406557126260163">Додатки та розширення</translation>
 <translation id="409742781329613461">Поради для Chrome</translation>
-<translation id="4097560579602855702">Пошук Google</translation>
+<translation id="4097560579602855702">Пошук Decentr</translation>
 <translation id="4098667039111970300">Інструменти стилуса на панелі інструментів</translation>
 <translation id="4099060993766194518">Відновити пошукову систему за умовчанням?</translation>
 <translation id="4099874310852108874">Сталася помилка мережі.</translation>
@@ -3684,7 +3684,7 @@
 <translation id="4132969033912447558">Відновити завантаження файлу "<ph name="FILE_NAME" />"</translation>
 <translation id="4133076602192971179">Щоб змінити пароль, відкрийте додаток</translation>
 <translation id="4134818201340504801">Недостатньо вільного місця, щоб завершити налаштування. Звільніть місце та повторіть спробу.</translation>
-<translation id="4135746311382563554">Додаткові умови використання Google Chrome і ОС Chrome</translation>
+<translation id="4135746311382563554">Додаткові умови використання Decentr і ОС Chrome</translation>
 <translation id="4136203100490971508">Нічний екран вимкнеться автоматично на світанку</translation>
 <translation id="41365691917097717">Якщо продовжити, буде ввімкнено налагодження ADB для створення й тестування додатків для Android. Зауважте, що цією дією ви дозволяєте встановлювати додатки для Android, які не були перевірені Google. Щоб вимкнути цю функцію, доведеться скинути налаштування.</translation>
 <translation id="4137923333452716643">Виділіть текст, який хочете відкрити в режимі читання</translation>
@@ -3907,7 +3907,7 @@
 <translation id="4348766275249686434">Збирати повідомлення про помилки</translation>
 <translation id="4349828822184870497">Корисно</translation>
 <translation id="4350230709416545141">Завжди забороняти сайту <ph name="HOST" /> доступ до ваших геоданих</translation>
-<translation id="4350782034419308508">Ok Google</translation>
+<translation id="4350782034419308508">Ok Decentr</translation>
 <translation id="4351770750390404505"><ph name="BEGIN_PARAGRAPH1" />Щоб забезпечити найвищу якість роботи, ОС <ph name="DEVICE_OS" /> збирає дані про апаратне забезпечення пристроїв і передає їх компанії Google, щоб визначати потрібні оновлення. Також ви можете дозволити нам використовувати такі відомості для інших цілей, зокрема щоб покращувати роботу й обслуговування <ph name="DEVICE_OS" /> і надавати підтримку.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />Щоб побачити, які дані ви надсилаєте для оновлення пристрою, а також якщо виникнуть інші запитання, пов’язані з наданням доступу до своїх даних компанії Google, перейдіть у розділ CHROMEOSFLEX_HARDWARE_INFO на сторінці chrome://system.<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" />Щоб дізнатися більше про те, які дані ОС <ph name="DEVICE_OS" /> може надавати компанії Google і як вони використовуються, перейдіть на сторінку g.co/CR2/HWDataCollection.<ph name="END_PARAGRAPH3" /></translation>
@@ -3994,7 +3994,7 @@
 <translation id="4414648713167199100">Використовує мобільний трафік пристрою Chromebook. Ваш оператор може стягувати додаткову плату. Також може збільшитися використання заряду акумулятора. <ph name="BEGIN_LINK_LEARN_MORE" />Докладніше<ph name="END_LINK_LEARN_MORE" /></translation>
 <translation id="4415213869328311284">Тепер ви можете користуватися пристроєм <ph name="DEVICE_TYPE" />.</translation>
 <translation id="4415245286584082850">Пристроїв не знайдено. Відкрийте довідкову статтю в новій вкладці.</translation>
-<translation id="4415276339145661267">Керувати обліковим записом Google</translation>
+<translation id="4415276339145661267">Керувати обліковим записом Decentr</translation>
 <translation id="4415748029120993980">Еліптична крива SECG secp384r1 (також відома як NIST P-384)</translation>
 <translation id="4415815425191869676">Ніколи не деактивувати ці сайти</translation>
 <translation id="4416450511678320850">Немає доступних додатків</translation>
@@ -4034,7 +4034,7 @@
 <translation id="4449996769074858870">На цій вкладці відтворюється аудіофайл.</translation>
 <translation id="4450974146388585462">Діагностувати</translation>
 <translation id="445099924538929605">ОС <ph name="DEVICE_OS" /> виявила активний модуль TPM, який дозволяє надійніше зберігати ваші дані.</translation>
-<translation id="4451479197788154834">Ваш пароль збережено на цьому пристрої та в обліковому записі Google</translation>
+<translation id="4451479197788154834">Ваш пароль збережено на цьому пристрої та в обліковому записі Decentr</translation>
 <translation id="4452898361839215358">або виберіть файл PPD. <ph name="LINK_BEGIN" />Докладніше<ph name="LINK_END" /></translation>
 <translation id="4453430595102511050">Торкніться сканера відбитків пальців у верхньому правому куті клавіатури. <ph name="DEVICE_TYPE" /> надійно зберігає дані про відбиток і нікуди не надсилає їх.</translation>
 <translation id="4453946976636652378">Шукайте в <ph name="SEARCH_ENGINE_NAME" /> або введіть URL-адресу</translation>
@@ -4072,7 +4072,7 @@
 <translation id="4488257340342212116">Дозволено використовувати камеру</translation>
 <translation id="4488502501195719518">Видалити всі дані?</translation>
 <translation id="4490086832405043258">Використовувати налаштування проксі-сервера ОС Chrome для цього профілю.</translation>
-<translation id="449126573531210296">Шифрувати синхронізовані паролі за допомогою облікових даних Google</translation>
+<translation id="449126573531210296">Шифрувати синхронізовані паролі за допомогою облікових даних Decentr</translation>
 <translation id="449232563137139956">Сайти зазвичай показують зображення, щоб ілюструвати дані (наприклад, фотографії для онлайн-магазинів або статей новин)</translation>
 <translation id="4492698018379445570">Перегляньте товари, які ви додали в кошики для покупок, і оплатіть, коли будете готові</translation>
 <translation id="4493167769966437077">Вилучити мову (<ph name="LANGUAGE_NAME" />) зі списку мов, з яких ніколи не потрібно пропонувати переклад</translation>
@@ -4140,7 +4140,7 @@
 <translation id="4544174279960331769">Стандартний синій аватар</translation>
 <translation id="4545028762441890696">Щоб увімкнути знову, прийміть нові дозволи:</translation>
 <translation id="4545759655004063573">Неможливо зберегти через недостатні дозволи. Збережіть в іншому місці.</translation>
-<translation id="4546308221697447294">Швидке завантаження сайтів у Google Chrome</translation>
+<translation id="4546308221697447294">Швидке завантаження сайтів у Decentr</translation>
 <translation id="4546345569117159016">Права кнопка</translation>
 <translation id="4546509872654834602"><ph name="SUPERVISED_USER_NAME" /> хоче використовувати це розширення:</translation>
 <translation id="4546692474302123343">Голосовий ввід через Google Асистента</translation>
@@ -4182,7 +4182,7 @@
 <translation id="4579453506923101210">Від'єднати підключені пристрої</translation>
 <translation id="4579581181964204535">Не вдається транслювати з <ph name="HOST_NAME" />.</translation>
 <translation id="4579876313423027742">Щоб переглянути сповіщення веб-переглядача, перейдіть у <ph name="LINK_BEGIN" />налаштування Chrome<ph name="LINK_END" /></translation>
-<translation id="4580587929153007251">Знову ввійдіть у Менеджер паролів Google</translation>
+<translation id="4580587929153007251">Знову ввійдіть у Менеджер паролів Decentr</translation>
 <translation id="4580596421317071374">Паролі зберігаються в сервісі <ph name="GOOGLE_PASSWORD_MANAGER" /> на цьому пристрої.</translation>
 <translation id="4581774856936278355">Сталася помилка під час відновлення Linux</translation>
 <translation id="4582297591746054421">Сайти зазвичай переглядають буфер обміну для роботи таких функцій, як зберігання форматування скопійованого тексту</translation>
@@ -4473,7 +4473,7 @@
 <translation id="4844333629810439236">Інші клавіатури</translation>
 <translation id="4844347226195896707">Увійдіть в обліковий запис на сторінці &lt;a target='_blank' href='<ph name="LINK" />'&gt;passwords.google.com&lt;/a&gt;, щоб переглядати свої паролі, навіть якщо не користуєтеся Chrome або пристроєм Android</translation>
 <translation id="484462545196658690">Автоматично</translation>
-<translation id="4844633725025837809">З міркувань додаткового захисту шифруйте паролі на пристрої, перш ніж вони збережуться в Менеджері паролів Google</translation>
+<translation id="4844633725025837809">З міркувань додаткового захисту шифруйте паролі на пристрої, перш ніж вони збережуться в Менеджері паролів Decentr</translation>
 <translation id="4846628405149428620">Виберіть, де сайт може зберігати зміни</translation>
 <translation id="4846680374085650406">Ви дотримуєтеся рекомендації адміністратора щодо цього налаштування.</translation>
 <translation id="4848191975108266266">Команда "Ok Google" у Google Асистенті</translation>
@@ -4556,7 +4556,7 @@
 <translation id="4907129260985716018">Виберіть, коли це розширення може переглядати й змінювати дані сайтів</translation>
 <translation id="4907161631261076876">Цей файл рідко завантажують. Він може бути небезпечним.</translation>
 <translation id="4908811072292128752">Щоб одночасно переглядати два сайти, відкрийте нову вкладку</translation>
-<translation id="4909038193460299775">Оскільки цей обліковий запис зареєстровано в домені <ph name="DOMAIN" />, з цього пристрою буде видалено ваші закладки, історію, паролі й інші налаштування. Однак вони й надалі зберігатимуться в обліковому записі Google. Ними можна керувати на <ph name="BEGIN_LINK" />Інформаційній панелі Google<ph name="END_LINK" />.</translation>
+<translation id="4909038193460299775">Оскільки цей обліковий запис зареєстровано в домені <ph name="DOMAIN" />, з цього пристрою буде видалено ваші закладки, історію, паролі й інші налаштування. Однак вони й надалі зберігатимуться в обліковому записі Google. Ними можна керувати на <ph name="BEGIN_LINK" />Інформаційній панелі Decentr<ph name="END_LINK" />.</translation>
 <translation id="4912643508233590958">Вихід зі стану неактивності</translation>
 <translation id="4915961947098019832">Дозволено показувати зображення</translation>
 <translation id="4916542008280060967">Дозволити сайту змінювати файл "<ph name="FILE_NAME" />"?</translation>
@@ -4664,7 +4664,7 @@
 <translation id="5020651427400641814">Увімкнути реєстрацію мовлення</translation>
 <translation id="5021750053540820849">Ще не оновлено</translation>
 <translation id="5024511550058813796">Історія зберігатиметься на всіх синхронізованих пристроях, щоб ви могли продовжувати робити те, на чому зупинилися</translation>
-<translation id="5026492829171796515">Увійдіть, щоб додати обліковий запис Google</translation>
+<translation id="5026492829171796515">Увійдіть, щоб додати обліковий запис Decentr</translation>
 <translation id="5026806129670917316">Увімкнути Wi-Fi</translation>
 <translation id="5026874946691314267">Більше не показувати це</translation>
 <translation id="5027550639139316293">Сертифікат електронної пошти</translation>
@@ -4680,7 +4680,7 @@
 <translation id="5037676449506322593">Вибрати всі</translation>
 <translation id="5038818366306248416">Раніше ви вирішили заборонити всі розширення на сторінці <ph name="ORIGIN" /></translation>
 <translation id="5039071832298038564">Інформація про мережу пристрою</translation>
-<translation id="5039696241953571917">Переглядайте збережені паролі й керуйте ними в обліковому записі Google</translation>
+<translation id="5039696241953571917">Переглядайте збережені паролі й керуйте ними в обліковому записі Decentr</translation>
 <translation id="5039804452771397117">Дозволити</translation>
 <translation id="5040262127954254034">Конфіденційність</translation>
 <translation id="5040823038948176460">Додаткові налаштування контенту</translation>
@@ -4895,7 +4895,7 @@
 <translation id="5235050375939235066">Видалити додаток?</translation>
 <translation id="523505283826916779">Налаштування доступності</translation>
 <translation id="5235750401727657667">Відкривати нову вкладку на місці поточної сторінки</translation>
-<translation id="5236374273162681467">Щоб користуватися паролями на всіх своїх пристроях, перенесіть їх в обліковий запис Google</translation>
+<translation id="5236374273162681467">Щоб користуватися паролями на всіх своїх пристроях, перенесіть їх в обліковий запис Decentr</translation>
 <translation id="523862956770478816">Дозволи на доступ до сайтів</translation>
 <translation id="5239752869099890912">Щоб застосувати оновлені налаштування на цьому сайті для вибраних розширень, оновіть сторінку</translation>
 <translation id="5240931875940563122">Увійти на телефоні Android</translation>
@@ -5081,7 +5081,7 @@
 <translation id="5405146885510277940">Скинути налаштування</translation>
 <translation id="5407167491482639988">Звуки нерозбірливі</translation>
 <translation id="5408750356094797285">Масштаб: <ph name="PERCENT" /></translation>
-<translation id="5409044712155737325">З вашого облікового запису Google</translation>
+<translation id="5409044712155737325">З вашого облікового запису Decentr</translation>
 <translation id="5411022484772257615">Не вдалося зареєструвати пристрій для використання в закладі освіти</translation>
 <translation id="5411856344659127989">Якщо ви хочете додати обліковий запис для іншого користувача, <ph name="LINK_BEGIN" />зробіть це<ph name="LINK_END" /> на пристрої <ph name="DEVICE_TYPE" />.
 
@@ -5203,7 +5203,7 @@
 <translation id="5507756662695126555">Неспростовність</translation>
 <translation id="5509693895992845810">Зберегти &amp;як...</translation>
 <translation id="5509914365760201064">Видавець: <ph name="CERTIFICATE_AUTHORITY" /></translation>
-<translation id="5510775624736435856">Отримувати описи зображень від Google</translation>
+<translation id="5510775624736435856">Отримувати описи зображень від Decentr</translation>
 <translation id="5511379779384092781">Дуже мало</translation>
 <translation id="5511823366942919280">Налаштувати цей пристрій як "Shark"?</translation>
 <translation id="5512739112435045339">Звільніть місце на пристрої, а потім спробуйте завантажити знову</translation>
@@ -5227,7 +5227,7 @@
 <translation id="5532223876348815659">Загальні</translation>
 <translation id="5533001281916885985"><ph name="SITE_NAME" /> хоче</translation>
 <translation id="5537725057119320332">Трансляція</translation>
-<translation id="5539070192556911367">Не вдалося підключитися до серверів Google</translation>
+<translation id="5539070192556911367">Не вдалося підключитися до серверів Decentr</translation>
 <translation id="5539221284352502426">Сервер відхилив введений вами пароль. Можливі причини: пароль закороткий; пароль має містити цифри або символи; пароль має відрізнятися від попередніх.</translation>
 <translation id="5541694225089836610">Адміністратор вимкнув цю дію</translation>
 <translation id="5542132724887566711">Профіль</translation>
@@ -5366,7 +5366,7 @@
 <translation id="5653154844073528838">Збережених принтерів: <ph name="PRINTER_COUNT" />.</translation>
 <translation id="565515993087783098">Якщо видалити цю мережу, буде також вилучено підписку Passpoint і доступ до пов’язаних мереж.</translation>
 <translation id="5655296450510165335">Реєстрація пристрою</translation>
-<translation id="5656845498778518563">Надіслати відгук у Google</translation>
+<translation id="5656845498778518563">Надіслати відгук у Decentr</translation>
 <translation id="5657156137487675418">Дозволити всі файли cookie</translation>
 <translation id="5657667036353380798">Для зовнішнього розширення потрібна версія Chrome <ph name="MINIMUM_CHROME_VERSION" /> або новіша.</translation>
 <translation id="5659593005791499971">Ел. пошта</translation>
@@ -5466,7 +5466,7 @@
 <translation id="5756163054456765343">Довідковий центр</translation>
 <translation id="5758631781033351321">Тут відображатиметься ваш список читання</translation>
 <translation id="5759728514498647443">Документи, які ви друкуєте через додаток <ph name="APP_NAME" />, може переглядати додаток <ph name="APP_NAME" />.</translation>
-<translation id="5762787084360227629">Ввести дані облікового запису Google</translation>
+<translation id="5762787084360227629">Ввести дані облікового запису Decentr</translation>
 <translation id="5763751966069581670">Пристроїв USB не знайдено</translation>
 <translation id="5764483294734785780">Збере&amp;гти аудіо як...</translation>
 <translation id="57646104491463491">Дата змінення</translation>
@@ -5600,7 +5600,7 @@
 <translation id="5864754048328252126">Що робити, коли пристрій неактивний і заряджається</translation>
 <translation id="5865508026715185451">Додаток <ph name="APP_NAME" /> невдовзі буде призупинено</translation>
 <translation id="586567932979200359"><ph name="PRODUCT_NAME" /> працює, використовуючи своє зображення диска. Встановлення веб-переглядача на комп'ютер дозволить працювати без використання зображення диска та гарантуватиме його постійне оновлення.</translation>
-<translation id="5865733239029070421">Автоматично надсилає статистику використання та звіти про аварійне завершення роботи в Google</translation>
+<translation id="5865733239029070421">Автоматично надсилає статистику використання та звіти про аварійне завершення роботи в Decentr</translation>
 <translation id="5867841422488265304">Введіть пошуковий запит чи веб-адресу</translation>
 <translation id="5867855474018538405">Щоб зісканувати QR-код, дотримуйтеся вказівок на телефоні. Переконайтеся, що на ньому ввімкнено Bluetooth і Wi-Fi.
     <ph name="BR" />
@@ -5640,7 +5640,7 @@
 <translation id="5896436821193322561">Не дозволяти</translation>
 <translation id="5899860758576822363">Відтворювати тихіше, коли ChromeVox зчитує з екрана</translation>
 <translation id="5900243355162006650">Конфігурація точки доступу:</translation>
-<translation id="5900302528761731119">Фото профілю Google</translation>
+<translation id="5900302528761731119">Фото профілю Decentr</translation>
 <translation id="590036993063074298">Відомості про якість трансляції</translation>
 <translation id="5901069264981746702"><ph name="DEVICE_TYPE" /> надійно зберігатиме дані про відбиток пальця та нікуди не надсилатиме їх. <ph name="LINK_BEGIN" />Докладніше<ph name="LINK_END" /></translation>
 <translation id="5901089233978050985">Перейти на вкладку, яка записує</translation>
@@ -5760,7 +5760,7 @@
 <translation id="6001839398155993679">Почати</translation>
 <translation id="6002122790816966947">Ваші пристрої</translation>
 <translation id="6002210667729577411">Перенести групу в нове вікно</translation>
-<translation id="6002452033851752583">Пароль видалено з облікового запису Google</translation>
+<translation id="6002452033851752583">Пароль видалено з облікового запису Decentr</translation>
 <translation id="6002458620803359783">Рекомендовані голоси</translation>
 <translation id="6003143259071779217">Видалити мобільну мережу eSIM-карти</translation>
 <translation id="6003479444341796444">Рядок заголовка показано</translation>
@@ -5884,7 +5884,7 @@
 <translation id="6101226222197207147">Додано нову програму (<ph name="EXTENSION_NAME" />)</translation>
 <translation id="6102043788063419338">Цей файл заблоковано Додатковим захистом.</translation>
 <translation id="6103681770816982672">Застереження. Ви переходите на версію для розробників</translation>
-<translation id="6104068876731806426">Облікові записи Google</translation>
+<translation id="6104068876731806426">Облікові записи Decentr</translation>
 <translation id="6104311680260824317">Не вдається приєднати пристрій до домену. Сервер не підтримує вказані типи шифрування Kerberos. Перегляньте розділ "Більше опцій", щоб налаштувати шифрування.</translation>
 <translation id="6104796831253957966">Черга принтера заповнена</translation>
 <translation id="6104929924898022309">Використовувати клавішу пошуку, щоб змінювати призначення функціональних клавіш</translation>
@@ -6045,7 +6045,7 @@
 <translation id="6243774244933267674">Сервер недоступний</translation>
 <translation id="6244245036423700521">Імпортувати файл ONC</translation>
 <translation id="6246790815526961700">Завантажити з пристрою</translation>
-<translation id="6247557882553405851">Менеджер паролів Google</translation>
+<translation id="6247557882553405851">Менеджер паролів Decentr</translation>
 <translation id="6247620186971210352">Немає додатків</translation>
 <translation id="6247708409970142803"><ph name="PERCENTAGE" />%</translation>
 <translation id="6247802389331535091">Система: <ph name="ARC_PROCESS_NAME" /></translation>
@@ -6123,7 +6123,7 @@
 <translation id="6314819609899340042">Функції налагодження ввімкнено на цьому пристрої <ph name="IDS_SHORT_PRODUCT_NAME" />.</translation>
 <translation id="6315170314923504164">Голос</translation>
 <translation id="6315493146179903667">Перемістити все на передній план</translation>
-<translation id="6316432269411143858">Умови використання ОС Google Chrome</translation>
+<translation id="6316432269411143858">Умови використання ОС Decentr</translation>
 <translation id="6317369057005134371">Очікування вікна програми…</translation>
 <translation id="6318125393809743217">Включити файл policies.json із налаштуваннями правила.</translation>
 <translation id="6318407754858604988">Завантаження розпочато</translation>
@@ -6331,7 +6331,7 @@
 <translation id="6511279028091289182">Визначає, як безпечно підключатися до веб-сайтів. Для цього використовується керований постачальник послуг (<ph name="DNS_SERVER_TEMPLATE_WITH_IDENTIFIER" />).</translation>
 <translation id="6511827214781912955">Радимо видалити файл "<ph name="FILENAME" />", щоб інші користувачі цього пристрою не бачили ваші паролі</translation>
 <translation id="6512808201725371249">Пароль для цього облікового запису вже збережено в Google Менеджері паролів (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Chrome використовуватиме мобільне передавання даних, якщо ви не підключені до іншої мережі.</translation>
+<translation id="6513247462497316522">Decentr використовуватиме мобільне передавання даних, якщо ви не підключені до іншої мережі.</translation>
 <translation id="6514010653036109809">Доступний пристрій:</translation>
 <translation id="6514565641373682518">Ця сторінка вимкнула курсор миші.</translation>
 <translation id="6517709704288360414">Ваш пристрій може працювати неналежним чином, і у вас можуть виникати проблеми з безпекою та продуктивністю. Якщо вимкнути оновлення, ви також можете втратити право подавати судові позови в разі виникнення проблем.</translation>
@@ -6605,7 +6605,7 @@
 <translation id="674632704103926902">Увімкнути перетягування дотиком</translation>
 <translation id="67465227497040338">Показати пароль для <ph name="DOMAIN" /></translation>
 <translation id="6748465660675848252">Ви можете продовжити, однак буде відновлено лише синхронізовані дані та налаштування. Усі локальні дані буде втрачено.</translation>
-<translation id="6748980958975836188">Я приймаю <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Додаткові умови використання Chrome і ОС Chrome<ph name="END_LINK2" />.</translation>
+<translation id="6748980958975836188">Я приймаю <ph name="BEGIN_LINK1" />Загальні положення та умови Decentr<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Додаткові умови використання Chrome і ОС Chrome<ph name="END_LINK2" />.</translation>
 <translation id="6749473226660745022">Фото</translation>
 <translation id="6750757184909117990">Вимкнути мобільну мережу</translation>
 <translation id="6751344591405861699"><ph name="WINDOW_TITLE" /> (Анонімний перегляд)</translation>
@@ -6650,7 +6650,7 @@
 <translation id="6788210894632713004">розширення</translation>
 <translation id="678939393857169499">Вмикає новий дизайн робочого столу.</translation>
 <translation id="6789592661892473991">Розділити горизонтально</translation>
-<translation id="6789834167207639931">Щоб завершити відновлення, на наступному екрані знову введіть пароль облікового запису Google</translation>
+<translation id="6789834167207639931">Щоб завершити відновлення, на наступному екрані знову введіть пароль облікового запису Decentr</translation>
 <translation id="6790428901817661496">Відтворити</translation>
 <translation id="6790497603648687708">Розширення <ph name="EXTENSION_NAME" /> додано віддалено</translation>
 <translation id="6790820461102226165">Додати користувача…</translation>
@@ -6711,7 +6711,7 @@
 <translation id="6828182567531805778">Щоб синхронізувати дані, введіть парольну фразу</translation>
 <translation id="682871081149631693">QuickFix</translation>
 <translation id="6828860976882136098">Не вдалося налаштувати автоматичні оновлення для всіх користувачів (помилка виконання: <ph name="ERROR_NUMBER" />)</translation>
-<translation id="682971198310367122">Політика конфіденційності Google</translation>
+<translation id="682971198310367122">Політика конфіденційності Decentr</translation>
 <translation id="6830200424658853449">Відкрити в офлайновому редакторі</translation>
 <translation id="6831043979455480757">Перекласти</translation>
 <translation id="6832218595502288407">Вирівняти за лівим краєм</translation>
@@ -6823,7 +6823,7 @@
 <translation id="6923633482430812883">Помилка підключення спільного доступу. Перевірте, чи файловий сервер, до якого ви підключаєтеся, підтримує SMBv2 або новіших версій.</translation>
 <translation id="6925127338315966709">Ви додаєте в цей веб-переглядач керований профіль. Адміністратор зможе контролювати його й отримувати доступ до даних. Закладки, історію, паролі та інші налаштування можна синхронізувати з обліковим записом. Адміністратор зможе керувати ними.</translation>
 <translation id="6929126689972602640">Батьківський контроль не можна налаштувати для облікових записів закладу освіти. Щоб додати обліковий запис закладу освіти, через який можна входити в Google Клас і на інших веб-сайтах удома, спершу ввійдіть в особистий обліковий запис дитини. Ви зможете додати обліковий запис закладу освіти пізніше в налаштуваннях.</translation>
-<translation id="6929760895658557216">Оk Google</translation>
+<translation id="6929760895658557216">Оk Decentr</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{Розширення відхилено}one{# розширення відхилено}few{# розширення відхилено}many{# розширень відхилено}other{# розширення відхилено}}</translation>
 <translation id="6931690462168617033">Сила натиску</translation>
 <translation id="6935286146439255109">Немає лотка для паперу</translation>
@@ -6844,7 +6844,7 @@
 <translation id="6949089178006131285">Переглядати інформацію про мережу ChromeOS Flex</translation>
 <translation id="6949434160682548041">Пароль (необов’язково)</translation>
 <translation id="6950627417367801484">Відновити додатки</translation>
-<translation id="6952242901357037157">Ви також можете переглядати тут паролі, збережені у вашому <ph name="BEGIN_LINK" />обліковому записі Google<ph name="END_LINK" /></translation>
+<translation id="6952242901357037157">Ви також можете переглядати тут паролі, збережені у вашому <ph name="BEGIN_LINK" />обліковому записі Decentr<ph name="END_LINK" /></translation>
 <translation id="6954910832698269894">Увімкніть синхронізацію пристроїв, щоб відновити додатки, налаштування, мережі Wi-Fi і фоновий малюнок із попереднього пристрою Chromebook. Змінити це можна будь-коли в меню "Налаштування &gt; Облікові записи".</translation>
 <translation id="6954936693361896459">Натомість транслювати поточну вкладку</translation>
 <translation id="6955446738988643816">Перевірити спливаюче вікно</translation>
@@ -6959,7 +6959,7 @@
 <translation id="7036706669646341689">Для Linux потрібно <ph name="DISK_SIZE" /> вільного місця. Щоб звільнити місце, видаліть файли з пристрою.</translation>
 <translation id="7037509989619051237">Текст для попереднього прослуховування</translation>
 <translation id="7038632520572155338">Кнопковий доступ</translation>
-<translation id="7038710352229712897"><ph name="USER_NAME" />: додати новий обліковий запис Google</translation>
+<translation id="7038710352229712897"><ph name="USER_NAME" />: додати новий обліковий запис Decentr</translation>
 <translation id="7039326228527141150">Отримувати доступ до пристроїв USB від постачальника <ph name="VENDOR_NAME" /></translation>
 <translation id="7039912931802252762">Вхід за допомогою смарт-картки Microsoft</translation>
 <translation id="7039951224110875196">Створити обліковий запис Google для дитини</translation>
@@ -7395,7 +7395,7 @@
 <translation id="7441830548568730290">Інші користувачі</translation>
 <translation id="744341768939279100">Створити новий профіль</translation>
 <translation id="744366959743242014">Завантажуються дані. Це може зайняти кілька секунд.</translation>
-<translation id="7443806024147773267">Отримуйте доступ до своїх паролів після входу в обліковий запис Google</translation>
+<translation id="7443806024147773267">Отримуйте доступ до своїх паролів після входу в обліковий запис Decentr</translation>
 <translation id="7444970023873202833">Перегляньте більше спогадів у Google Фото</translation>
 <translation id="7444983668544353857">Вимкнути <ph name="NETWORKDEVICE" /></translation>
 <translation id="7448430327655618736">Автоматично встановлювати додатки</translation>
@@ -7805,7 +7805,7 @@
 <translation id="7776701556330691704">Голосів не знайдено</translation>
 <translation id="7777624210360383048">Комбінація клавіш <ph name="SHORTCUT" /> для розширення <ph name="EXTENSION_NAME" /></translation>
 <translation id="7781335840981796660">Усі облікові записи користувачів і локальні дані буде видалено.</translation>
-<translation id="7782102568078991263">Більше немає пропозицій від Google</translation>
+<translation id="7782102568078991263">Більше немає пропозицій від Decentr</translation>
 <translation id="7782717250816686129">Зберігати постійні дані на екрані входу та вводити облікові дані для сеансу.</translation>
 <translation id="778330624322499012">Не вдалося завантажити плагін <ph name="PLUGIN_NAME" /></translation>
 <translation id="7784067724422331729">Цей файл заблоковано налаштуваннями безпеки на вашому комп’ютері.</translation>
@@ -7888,7 +7888,7 @@
 <translation id="7851457902707056880">Вхід дозволено лише для облікового запису власника. Перезавантажте комп’ютер та увійдіть, використовуючи дані облікового запису власника. Автоматичне перезавантаження відбудеться за 30 секунд.</translation>
 <translation id="7851716364080026749">Завжди блокувати доступ до камери та мікрофона</translation>
 <translation id="7851720427268294554">Синтаксичний аналізатор IPP</translation>
-<translation id="78526636422538552">Не можна додавати інші облікові записи Google</translation>
+<translation id="78526636422538552">Не можна додавати інші облікові записи Decentr</translation>
 <translation id="7853747251428735">Інші інструменти</translation>
 <translation id="7853999103056713222">Використовуйте надійніший пароль</translation>
 <translation id="7855678561139483478">Перемістити вкладку в нове вікно</translation>
@@ -7898,7 +7898,7 @@
 <translation id="7858328180167661092"><ph name="APP_NAME" /> (Windows)</translation>
 <translation id="786073089922909430">Сервіс: <ph name="ARC_PROCESS_NAME" /></translation>
 <translation id="7861215335140947162">&amp;Завантаження</translation>
-<translation id="7861846108263890455">Мова облікового запису Google</translation>
+<translation id="7861846108263890455">Мова облікового запису Decentr</translation>
 <translation id="7864539943188674973">Вимкнути Bluetooth</translation>
 <translation id="7865127013871431856">Параметри перекладу</translation>
 <translation id="7866941897628979955">Збережено <ph name="MEMORY_SAVINGS" /></translation>
@@ -8005,7 +8005,7 @@
 <translation id="7947964080535614577">Сайти зазвичай показують рекламу, щоб пропонувати контент або послуги без оплати. Однак деякі сайти показують нав’язливі чи оманливі оголошення.</translation>
 <translation id="7948407723851303488">Усі сторінки <ph name="DOMAIN_NAME" /></translation>
 <translation id="7950629216186736592">Причина: підтримка застарілих веб-переглядачів працює лише з URL-адресами http://, https:// і file://.</translation>
-<translation id="7951265006188088697">Щоб додати способи оплати Google Pay або керувати ними, перейдіть в <ph name="BEGIN_LINK" />обліковий запис Google<ph name="END_LINK" /></translation>
+<translation id="7951265006188088697">Щоб додати способи оплати Google Pay або керувати ними, перейдіть в <ph name="BEGIN_LINK" />обліковий запис Decentr<ph name="END_LINK" /></translation>
 <translation id="795130320946928025">Вимкнути віртуальну картку</translation>
 <translation id="795240231873601803">Виконайте корпоративну реєстрацію для облікових записів організацій і закладів освіти</translation>
 <translation id="7952708427581814389">Сайти можуть запитувати дозвіл на перегляд тексту й зображень у буфері обміну</translation>
@@ -8111,12 +8111,12 @@
 <translation id="8041089156583427627">Надіслати відгук</translation>
 <translation id="8041267120753677077">Транслювати контент із додатків на вашому телефоні</translation>
 <translation id="8042142357103597104">Прозорість тексту</translation>
-<translation id="8042331986490021244">Ваші паролі шифруються на пристрої, а потім зберігаються в Менеджері паролів Google</translation>
+<translation id="8042331986490021244">Ваші паролі шифруються на пристрої, а потім зберігаються в Менеджері паролів Decentr</translation>
 <translation id="8044262338717486897">Додаток <ph name="LINUX_APP_NAME" /> не відповідає.</translation>
 <translation id="8044899503464538266">Повільна</translation>
 <translation id="8045253504249021590">Синхронізацію припинено за допомогою Інформаційної панелі Google.</translation>
 <translation id="8045923671629973368">Введіть ідентифікатор додатка або URL-адресу веб-магазину</translation>
-<translation id="8047242494569930800">Перемістити в обліковий запис Google</translation>
+<translation id="8047242494569930800">Перемістити в обліковий запис Decentr</translation>
 <translation id="804786196054284061">Ліцензійна угода кінцевого користувача</translation>
 <translation id="8048728378294435881">Створюйте резервні копії даних і використовуйте їх на будь-якому пристрої</translation>
 <translation id="8048977114738515028">Створити ярлик на робочому столі, щоб відразу переходити до цього профілю</translation>
@@ -8485,7 +8485,7 @@
 <translation id="8357591920094529889">За допомогою цього посібника ви дізнаєтеся про важливі рішення, які потрібно прийняти під час використання Chrome. У ньому також наведено інформацію, яка допоможе приймати такі рішення, щоб Chrome працював належним чином.</translation>
 <translation id="8358685469073206162">Відновити сторінки?</translation>
 <translation id="8358912028636606457">Цей пристрій не підтримує трансляцію звуку вкладки.</translation>
-<translation id="835951711479681002">Зберегти в обліковому записі Google</translation>
+<translation id="835951711479681002">Зберегти в обліковому записі Decentr</translation>
 <translation id="8360140320636871023">Персоналізуйте тему для екрана</translation>
 <translation id="8360267485906769442">Кнопка "Надіслати відгук"</translation>
 <translation id="8362914115861174987">Перекласти такою мовою:</translation>
@@ -8503,7 +8503,7 @@
 <translation id="8376137163494131156">Надішліть відгук про Google Cast.</translation>
 <translation id="8376384591331888629">Зокрема файли cookie третіх сторін на цьому сайті</translation>
 <translation id="8376451933628734023">Якщо цей веб-додаток намагається видати себе за інший, видаліть його.</translation>
-<translation id="8376752431516546391">Бічна панель Пошуку Google</translation>
+<translation id="8376752431516546391">Бічна панель Пошуку Decentr</translation>
 <translation id="8377625247046155446">Ключ доступу буде збережено лише на цьому пристрої й залишиться на ньому після того, як ви закриєте всі вікна в режимі анонімного перегляду.</translation>
 <translation id="8378714024927312812">Профілем керує ваша організація</translation>
 <translation id="8379878387931047019">Пристрій не підтримує тип ключа безпеки, потрібний для цього веб-сайту</translation>
@@ -8622,7 +8622,7 @@
 <translation id="8472623782143987204">з апаратною підтримкою</translation>
 <translation id="8473540203671727883">Озвучити текст під мишею</translation>
 <translation id="8473863474539038330">Адреси й інше</translation>
-<translation id="8474733733775441349">Показувати паролі, збережені в обліковому записі Google</translation>
+<translation id="8474733733775441349">Показувати паролі, збережені в обліковому записі Decentr</translation>
 <translation id="8475313423285172237">Інша програма на вашому комп’ютері додала розширення, яке може змінити роботу Chrome.</translation>
 <translation id="8476408756881832830">Призупиняти відтворення, коли ChromeVox зчитує з екрана</translation>
 <translation id="8476491056950015181"><ph name="BEGIN_PARAGRAPH1" />Дозволивши пристроям із ChromeOS автоматично надсилати звіти, ви допомагаєте нам визначити найважливіші проблеми та напрямки покращення операційної системи. Ці звіти можуть містити дані про збої ChromeOS, застосовані функції, обсяг використаної пам’яті, а також відомості про діагностику та використання додатків для Android. Крім того, деякі зведені дані корисні для додатків і партнерів Google, наприклад розробників Android.<ph name="END_PARAGRAPH1" />
@@ -8671,7 +8671,7 @@
 <translation id="851991974800416566">Використовуйте надійний пароль</translation>
 <translation id="8523493869875972733">Залишити зміни</translation>
 <translation id="8523849605371521713">Додано політикою</translation>
-<translation id="8524783101666974011">Збережіть картки в обліковому записі Google</translation>
+<translation id="8524783101666974011">Збережіть картки в обліковому записі Decentr</translation>
 <translation id="8525306231823319788">На весь екран</translation>
 <translation id="8526813720153458066">SSH</translation>
 <translation id="8527228059738193856">Колонки</translation>
@@ -8707,7 +8707,7 @@
 <translation id="8554899698005018844">Мову не вибрано</translation>
 <translation id="855604308879080518">Надайте додаткам для Android доступ до пристроїв USB в цьому Chromebook. Ви отримуватимете запит на дозвіл щоразу, коли підключатимете пристрій USB. Окремі додатки для Android запитуватимуть додаткові дозволи.</translation>
 <translation id="8557022314818157177">Торкайтеся ключа безпеки, поки відбиток пальця не відсканується</translation>
-<translation id="8557180006508471423">Увімкніть параметр "Google Chrome" у Службах локації на пристрої Mac</translation>
+<translation id="8557180006508471423">Увімкніть параметр "Decentr" у Службах локації на пристрої Mac</translation>
 <translation id="8557856025359704738">Наступне завантаження: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Ключі доступу</translation>
 <translation id="8559961053328923750">Chrome обмежує загальний обсяг даних, якими сайти можуть обмінюватися через веб-переглядач, щоб оцінювати ефективність своїх оголошень.</translation>
@@ -8974,7 +8974,7 @@
 <translation id="8778393144535275552">Очистити дані показаних сайтів</translation>
 <translation id="877985182522063539">A4</translation>
 <translation id="8779944680596936487">Сайти можуть використовувати файли cookie лише для перегляду ваших дій у веб-переглядачі на самих цих сайтах</translation>
-<translation id="8780123805589053431">Отримати описи зображень від Google</translation>
+<translation id="8780123805589053431">Отримати описи зображень від Decentr</translation>
 <translation id="8780443667474968681">Голосовий пошук вимкнено.</translation>
 <translation id="8781834595282316166">Нова вкладка в групі</translation>
 <translation id="8781980678064919987">Завершувати роботу, коли кришка закрита</translation>
@@ -9076,7 +9076,7 @@
 <translation id="8868333925931032127">Запускається демоверсія</translation>
 <translation id="8868626022555786497">Використовується</translation>
 <translation id="8868838761037459823">Дані про мобільну мережу</translation>
-<translation id="8868964574897075186">Паролі перенесено в обліковий запис Google</translation>
+<translation id="8868964574897075186">Паролі перенесено в обліковий запис Decentr</translation>
 <translation id="8870413625673593573">Нещодавно закриті</translation>
 <translation id="8871043459130124414">Запускається, лише коли ви натискаєте розширення</translation>
 <translation id="8871551568777368300">Закріплено адміністратором</translation>
@@ -9121,9 +9121,9 @@
 <translation id="8907701755790961703">Виберіть країну</translation>
 <translation id="8909298138148012791">Додаток <ph name="APP_NAME" /> видалено</translation>
 <translation id="8909833622202089127">Сайт відстежує місцезнаходження</translation>
-<translation id="8910222113987937043">Зміни в закладках, історії, паролях та інших налаштуваннях більше не синхронізуватимуться з вашим обліковим записом Google. Дані, які зберігаються в обліковому записі Google, не буде видалено. Ними можна керувати на <ph name="BEGIN_LINK" />Інформаційній панелі Google<ph name="END_LINK" />.</translation>
+<translation id="8910222113987937043">Зміни в закладках, історії, паролях та інших налаштуваннях більше не синхронізуватимуться з вашим обліковим записом Google. Дані, які зберігаються в обліковому записі Google, не буде видалено. Ними можна керувати на <ph name="BEGIN_LINK" />Інформаційній панелі Decentr<ph name="END_LINK" />.</translation>
 <translation id="8910987510378294980">Сховати список пристроїв</translation>
-<translation id="8912362522468806198">Обліковий запис Google</translation>
+<translation id="8912362522468806198">Обліковий запис Decentr</translation>
 <translation id="8912810933860534797">Увімкнути автоматичне сканування</translation>
 <translation id="8915307125957890427">Натисніть правою кнопкою миші на вкладку й виберіть "Додати вкладку в групу", а потім – "Нова група"</translation>
 <translation id="8915370057835397490">Завантаження пропозиції</translation>
@@ -9206,7 +9206,7 @@
 <translation id="8985264973231822211">У мережі <ph name="DEVICE_LAST_ACTIVATED_TIME" /> дн. тому</translation>
 <translation id="8985661493893822002">Щоб увійти на пристрої <ph name="DEVICE_TYPE" />, підключіться до Інтернету.</translation>
 <translation id="8986362086234534611">Забути</translation>
-<translation id="8986494364107987395">Автоматично надсилати статистику використання та звіти про аварійне завершення роботи в Google</translation>
+<translation id="8986494364107987395">Автоматично надсилати статистику використання та звіти про аварійне завершення роботи в Decentr</translation>
 <translation id="8987927404178983737">Місяць</translation>
 <translation id="8989359959810288806">Оновити статус точки доступу</translation>
 <translation id="8991520179165052608">Сайт може використовувати мікрофон</translation>

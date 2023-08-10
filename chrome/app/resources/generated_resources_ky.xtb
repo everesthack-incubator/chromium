@@ -1043,7 +1043,7 @@
 <translation id="186594096341696655">Көрсөткүчтү азайтуу</translation>
 <translation id="186612162884103683">"<ph name="EXTENSION" />" белгиленген жерлердеги сүрөттөрдү, видеону жана үн файлдарын жазып жана окуй алат.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> орнотууңузду бүтүргөнгө даяр</translation>
-<translation id="1868553836791672080">Chromium'да сырсөздү текшерүүгө болбойт</translation>
+<translation id="1868553836791672080">Decentr'да сырсөздү текшерүүгө болбойт</translation>
 <translation id="1868617395637139709">Android колдонмолору жана кызматтарынын жайгашкан жерди аныктоо функциясын колдонуу.</translation>
 <translation id="1869433484041798909">Кыстарма баскычы</translation>
 <translation id="1871098866036088250">Chrome серепчисинде ачуу</translation>
@@ -1285,7 +1285,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="2088564884469682888">Кыстарылган TrackPoint</translation>
 <translation id="2089090684895656482">Азыраак</translation>
 <translation id="208928984520943006">Башкы экранга каалаган убакта өтүү үчүн экранды ылдыйдан өйдө сүрүңүз.</translation>
-<translation id="2089566709556890888">Google Chrome менен коопсуз серептөө</translation>
+<translation id="2089566709556890888">Decentr менен коопсуз серептөө</translation>
 <translation id="2089925163047119068">ЖЕ</translation>
 <translation id="2090165459409185032">Аккаунтуңуздун маалыматын калыбына келтирүү үчүн, төмөнкүгө өтүңүз: google.com/accounts/recovery</translation>
 <translation id="2090507354966565596">Аккаунтуңузга киргенде автоматтык түрдө туташат</translation>
@@ -1728,7 +1728,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="2434449159125086437">Принтер жөндөлгөн жок. Анын конфигурациясын текшерип, кайталап көрүңүз.</translation>
 <translation id="2434758125294431199">Сиз менен ким бөлүшө аларын тандаңыз</translation>
 <translation id="2434915728183570229">Телефонуңуздагы колдонмолорду көрө аласыз</translation>
-<translation id="2435137177546457207">Google Chrome жана ChromeOS Flex'тин кошумча шарттары</translation>
+<translation id="2435137177546457207">Decentr жана ChromeOS Flex'тин кошумча шарттары</translation>
 <translation id="2435248616906486374">Тармак ажыратылды</translation>
 <translation id="2435457462613246316">Сырсөздү көрсөтүү</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> жүктөлүүдө</translation>
@@ -3187,7 +3187,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="3719310907809321183"><ph name="CARD_IDENTIFIER" /> толтурулду.</translation>
 <translation id="3719826155360621982">Башкы бет</translation>
 <translation id="372062398998492895">CUPS</translation>
-<translation id="3721119614952978349">Сиз жана Google</translation>
+<translation id="3721119614952978349">Сиз жана Decentr</translation>
 <translation id="3722108462506185496">Виртуалдык машина кызматы иштеп баштабай калды. Кайталап көрүңүз.</translation>
 <translation id="3722624153992426516"><ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" /> нускамасы алынды</translation>
 <translation id="3726965532284929944">QT</translation>
@@ -3288,7 +3288,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="3798632811625902122"><ph name="DEVICE" /> Bluetooth түзмөгү жупташуу үчүн уруксат сурап жатат.</translation>
 <translation id="3798670284305777884">Катуу сүйлөткүч (ички)</translation>
 <translation id="3799128412641261490">Switch Access параметрлери</translation>
-<translation id="3800828618615365228">Google Chrome жана ChromeOS'тун кошумча шарттары</translation>
+<translation id="3800828618615365228">Decentr жана ChromeOS'тун кошумча шарттары</translation>
 <translation id="3802486193901166966">Бул кеңейтүү атайын уруксаттарды талап кылбайт жана кошумча сайтка кирүүнүн кереги жок</translation>
 <translation id="380329542618494757">Ата-жөнү</translation>
 <translation id="3803345858388753269">Видеонун сапаты</translation>
@@ -3307,7 +3307,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="3810973564298564668">Башкаруу</translation>
 <translation id="381202950560906753">Дагы бирди кошуу</translation>
 <translation id="3812525830114410218">Начар тастыктама</translation>
-<translation id="3813296892522778813">Эгер издегениңизди таппай жатсаңыз, <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome жардам<ph name="END_LINK_CHROMIUM" /> бөлүмүнө өтүңүз</translation>
+<translation id="3813296892522778813">Эгер издегениңизди таппай жатсаңыз, <ph name="BEGIN_LINK_CHROMIUM" />Decentr жардам<ph name="END_LINK_CHROMIUM" /> бөлүмүнө өтүңүз</translation>
 <translation id="3813358687923336574">Которуу үчүн колдонулган тил жана Ыкчам жооптор</translation>
 <translation id="3813458570141926987">Chrome'дун баамында акыркы көрүлгөн вебсайттардын негизинде аныкталган темалардын тизмеси</translation>
 <translation id="3814529970604306954">Мектеп аккаунту</translation>
@@ -3681,7 +3681,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="4132969033912447558"><ph name="FILE_NAME" /> файлын жүктөөнү улантуу</translation>
 <translation id="4133076602192971179">Колдонмону ачып, сырсөзүңүздү өзгөртүңүз</translation>
 <translation id="4134818201340504801">Сактагычта орун жетишсиз болгондуктан, тууралоо аягына чыкпай жатат. Орун бошотуп, кайталап көрүңүз</translation>
-<translation id="4135746311382563554">Google Chrome менен ChromeOS'тун Кошумча тейлөө шарттары</translation>
+<translation id="4135746311382563554">Decentr менен ChromeOS'тун Кошумча тейлөө шарттары</translation>
 <translation id="4136203100490971508">Түнкү режим күн чыкканда автоматтык түрдө өчөт</translation>
 <translation id="41365691917097717">Улантсаңыз, ADB Android колдонмолорун түзүп, аларды сыноодогу мүчүлүштүктөрдү оңдоону иштетет. Бул аракет Google тарабынан текшерилбеген Android колдонмолорун орнотууга уруксат берет. Аларды өчүрүү үчүн түзмөктү баштапкы абалга кайтаруу керек болот.</translation>
 <translation id="4137923333452716643">Окуу режиминде ачкыңыз келген текстти бөлүп көрсөтүңүз</translation>
@@ -3904,7 +3904,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="4348766275249686434">Каталарды топтоо</translation>
 <translation id="4349828822184870497">Пайдалуу</translation>
 <translation id="4350230709416545141"><ph name="HOST" /> түйүнүнө жайгашкан жериңизди көрүүгө эч качан уруксат бербөө</translation>
-<translation id="4350782034419308508">Окей Google</translation>
+<translation id="4350782034419308508">Окей Decentr</translation>
 <translation id="4351770750390404505"><ph name="BEGIN_PARAGRAPH1" />Мыкты иштеши үчүн <ph name="DEVICE_OS" /> аппараттык камсыздоодогу түзмөктөр тууралуу маалыматты чогултуп, аны Google менен бөлүшүп, кандай жаңыртуулар керек экенин аныктап турат. Кааласаңыз, Google'га мындай маалыматты <ph name="DEVICE_OS" /> тутумунун иштешин жана кызматты жакшыртуу жана колдоо көрсөтүү сыяктуу кошумча максаттар үчүн колдонууга уруксат берсеңиз болот.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />Жаңыртууларды чыпкалоо максатында Google'га жөнөтүлгөн маалыматты көрүү, ошондой эле Google менен маалымат бөлүшкүңүз келген башка учурларда бул түзмөктөн кирип, chrome://system сайтындагы CHROMEOSFLEX_HARDWARE_INFO бөлүмүнө баш багыңыз.<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" /><ph name="DEVICE_OS" /> Google менен кайсы маалыматты бөлүшө турганын жана ал кандайча колдонула турганын билүү үчүн төмөнкү жерге өтүңүз: g.co/flex/HWDataCollection.<ph name="END_PARAGRAPH3" /></translation>
@@ -4137,7 +4137,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="4544174279960331769">Демейки көк аватар</translation>
 <translation id="4545028762441890696">Аны иштетүү үчүн жаңы уруксаттарды кабыл алыңыз:</translation>
 <translation id="4545759655004063573">Уруксаттар жетишсиз болгондуктан, сактай албай жатат. Башка жерге сактаңыз.</translation>
-<translation id="4546308221697447294">Google Chrome менен ылдам серептөө</translation>
+<translation id="4546308221697447294">Decentr менен ылдам серептөө</translation>
 <translation id="4546345569117159016">Оң баскыч</translation>
 <translation id="4546509872654834602"><ph name="SUPERVISED_USER_NAME" /> бул кеңейтүүнү колдонгону жатат:</translation>
 <translation id="4546692474302123343">Google Жардамчыга оозеки кайрылуу</translation>
@@ -4987,7 +4987,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="5313967007315987356">Сайт кошуу</translation>
 <translation id="5315738755890845852">Ашыкча ийри кашаа: <ph name="ERROR_LINE" /></translation>
 <translation id="5317780077021120954">Сактоо</translation>
-<translation id="5319359161174645648">Google Chrome'ду сунуштайт</translation>
+<translation id="5319359161174645648">Decentr'ду сунуштайт</translation>
 <translation id="5319712128756744240">Жаңы түзмөк кошуу</translation>
 <translation id="5320135788267874712">Түзмөктүн жаңы аталышы</translation>
 <translation id="532247166573571973">Серверге туташуу мүмкүн эмес окшойт. Бир аздан кийин кайталап көрүңүз.</translation>
@@ -6331,7 +6331,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="6511279028091289182">Вебсайттарга кантип коопсуз туташуу керек экенин аныктайт. <ph name="DNS_SERVER_TEMPLATE_WITH_IDENTIFIER" /> сайтындагы көзөмөлдөнгөн кызмат көрсөтүүчү колдонулат</translation>
 <translation id="6511827214781912955">Бул түзмөктү колдонгон башка колдонуучулар сырсөздөрүңүздү көрүп албашы үчүн, <ph name="FILENAME" /> файлын өчүрүү сунушталат</translation>
 <translation id="6512808201725371249">Бул аккаунттун сырсөзү Сырсөздөрдү башкаргычка (<ph name="USER_EMAIL" />) мурунтан эле сакталган</translation>
-<translation id="6513247462497316522">Башка тармакка туташып турбасаңыз, Google Chrome мобилдик дайындарды колдонот.</translation>
+<translation id="6513247462497316522">Башка тармакка туташып турбасаңыз, Decentr мобилдик дайындарды колдонот.</translation>
 <translation id="6514010653036109809">Жеткиликтүү түзмөк:</translation>
 <translation id="6514565641373682518">Бул бет чычкан курсоруңузду иштен чыгарды.</translation>
 <translation id="6517709704288360414">Түзмөгүңүз туура иштебей, коопсуздук жана майнаптуулук көйгөйлөрү чыгышы мүмкүн. Жаңыртуулар өчүрүлсө, анын кандайдыр бир маселелер келип чыкканда юридикалык арыздарды тапшыруу укугуна кедергиси тийет.</translation>
@@ -6817,7 +6817,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="6923633482430812883">Түзмөктү кошууда ката кетти. Сиз туташып турган файл сервери SMB протоколунун 2 же андан кийинки версиясын колдоого аларын текшериңиз.</translation>
 <translation id="6925127338315966709">Бул серепчиге башкарылган профилди кошуп жатасыз. Администраторуңуз профилди көзөмөлдөп, андагы маалыматты колдоно алат. Кыстармалар, таржымал, сырсөздөр жана башка жөндөөлөр аккаунтуңуз менен шайкештирилип, администраторуңуз тарабынан башкарылат.</translation>
 <translation id="6929126689972602640">Ата-эненин көзөмөлү мектеп аккаунттарында колдоого алынбайт. Бала Google Класс жана башка вебсайттарда мектеп программасын үйдөн окушу үчүн, алгач анын жеке аккаунту менен кирип, мектеп аккаунтун кошуңуз. Мектеп аккаунтун кийинчерээк жөндөөлөрдөн кошо аласыз.</translation>
-<translation id="6929760895658557216">Окей Google</translation>
+<translation id="6929760895658557216">Окей Decentr</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{Кеңейтүү четке кагылды}other{# кеңейтүү четке кагылды}}</translation>
 <translation id="6931690462168617033">Чыкылдатуу күчү</translation>
 <translation id="6935286146439255109">Кагаз тактасы жок</translation>
@@ -8231,7 +8231,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="8146177459103116374">Эгер бул түзмөктө буга чейин катталган болсоңуз, <ph name="LINK2_START" />учурдагы колдонуучу катары кире<ph name="LINK2_END" /> аласыз.</translation>
 <translation id="8146287226035613638">Тандаган тилдериңизди кошуп жана иреттеңиз. Мүмкүн болгон учурда вебсайттар ошол тилдерде көрүнөт. Бул параметрлер серепчиңиздин параметрлери менен шайкештирилет. <ph name="BEGIN_LINK_LEARN_MORE" />Кеңири маалымат<ph name="END_LINK_LEARN_MORE" /></translation>
 <translation id="8146793085009540321">Аккаунтка кирүү ишке ашкан жок. Администраторуңузга кайрылып же кайра аракет кылып көрүңүз.</translation>
-<translation id="8147346945017130012">Google'га мүчүлүштүктөрдү аныктоо, колдонуу статистикасы, ошондой эле ката жөнүндө автоматтык түрдө кабарлоо менен, Chrome жана Chromium OS'тун функцияларын жана майнаптуулугун жакшыртууга жардам бересиз.</translation>
+<translation id="8147346945017130012">Google'га мүчүлүштүктөрдү аныктоо, колдонуу статистикасы, ошондой эле ката жөнүндө автоматтык түрдө кабарлоо менен, Chrome жана Decentr OS'тун функцияларын жана майнаптуулугун жакшыртууга жардам бересиз.</translation>
 <translation id="8147900440966275470"><ph name="NUM" /> өтмөк табылды</translation>
 <translation id="8148760431881541277">Кирүүнү чектөө</translation>
 <translation id="8149564499626272569">Телефонуңузду USB кабель менен туташтырып көрүңүз</translation>
@@ -8476,7 +8476,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="8356197132883132838"><ph name="TITLE" /> - <ph name="COUNT" /></translation>
 <translation id="8356409598322585307">Бул түзмөктү каттагансыз. Аны кайра каттоонун кажети жок.</translation>
 <translation id="8357388086258943206">Linux'ту орнотуу учурундагы ката</translation>
-<translation id="8357591920094529889">Бул жетектемеден Chrome'догу маанилүү параметрлер тууралуу билип алыңыз. Жана бул Chromium'ду өзүңүзгө ыңгайлаштырууга жардам берет.</translation>
+<translation id="8357591920094529889">Бул жетектемеден Chrome'догу маанилүү параметрлер тууралуу билип алыңыз. Жана бул Decentr'ду өзүңүзгө ыңгайлаштырууга жардам берет.</translation>
 <translation id="8358685469073206162">Беттер калыбына келтирилсинби?</translation>
 <translation id="8358912028636606457">Бул түзмөктө өтмөк аудиосун тышкы экранга чыгаруу колдоого алынган эмес.</translation>
 <translation id="835951711479681002">Google аккаунтуңузда сактоо</translation>
@@ -8701,7 +8701,7 @@ Family Link колдонмосун түзмөгүңүзгө орнотуп, бу
 <translation id="8554899698005018844">Тил коюлган эмес</translation>
 <translation id="855604308879080518">Android колдонмолоруна бул Chromebook'тагы USB түзмөктөрүнө кирүүгө уруксат бериңиз. USB түзмөгүн туташтырган сайын уруксат суралат. Жеке Android колдонмолору кошумча уруксаттарды сурайт.</translation>
 <translation id="8557022314818157177">Манжаңыздын изин тартуу үчүн коопсуздук ачкычына бир нече жолу тийиңиз</translation>
-<translation id="8557180006508471423">Mac түзмөгүңүздөгү Жайгашкан жерди аныктоо кызматтарында "Google Chrome'ду" күйгүзүңүз</translation>
+<translation id="8557180006508471423">Mac түзмөгүңүздөгү Жайгашкан жерди аныктоо кызматтарында "Decentr'ду" күйгүзүңүз</translation>
 <translation id="8557856025359704738">Кийинки жолу <ph name="NEXT_DATE_DOWNLOAD" /> жүктөлүп алынат.</translation>
 <translation id="8559858985063901027">Киргизүүчү ачкычтар</translation>
 <translation id="8559961053328923750">Chrome жарнамалардын майнаптуулугун талдоо үчүн сайттар серепчи аркылуу бөлүшө алган маалыматтын жалпы өлчөмүн чектейт</translation>

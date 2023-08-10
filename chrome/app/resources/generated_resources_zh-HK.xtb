@@ -1043,7 +1043,7 @@
 <translation id="186594096341696655">降低取樣率</translation>
 <translation id="186612162884103683">「<ph name="EXTENSION" />」對於勾選位置中的圖片、影片和音效檔案具有讀取和寫入權限。</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> 已準備好完成安裝程序</translation>
-<translation id="1868553836791672080">Chromium 不支援密碼檢查功能</translation>
+<translation id="1868553836791672080">Decentr 不支援密碼檢查功能</translation>
 <translation id="1868617395637139709">為 Android 應用程式和服務使用位置資訊</translation>
 <translation id="1869433484041798909">「書籤」按鈕</translation>
 <translation id="1871098866036088250">在 Chrome 瀏覽器中開啟</translation>
@@ -1285,7 +1285,7 @@
 <translation id="2088564884469682888">內置 TrackPoint</translation>
 <translation id="2089090684895656482">較少</translation>
 <translation id="208928984520943006">從底部向上滑動即可隨時前往主畫面。</translation>
-<translation id="2089566709556890888">透過 Google Chrome 瀏覽器安全瀏覽內容</translation>
+<translation id="2089566709556890888">透過 Decentr 瀏覽器安全瀏覽內容</translation>
 <translation id="2089925163047119068">或</translation>
 <translation id="2090165459409185032">如要復原帳戶資料，請前往：google.com/accounts/recovery</translation>
 <translation id="2090507354966565596">登入時自動連線</translation>
@@ -1728,7 +1728,7 @@
 <translation id="2434449159125086437">無法設定打印機，請檢查設定並再試一次。</translation>
 <translation id="2434758125294431199">選取誰可以與您分享檔案</translation>
 <translation id="2434915728183570229">您現可查看手機的應用程式</translation>
-<translation id="2435137177546457207">Google Chrome 和 ChromeOS Flex 的《附加條款》</translation>
+<translation id="2435137177546457207">Decentr 和 ChromeOS Flex 的《附加條款》</translation>
 <translation id="2435248616906486374">網絡已中斷連線</translation>
 <translation id="2435457462613246316">顯示密碼</translation>
 <translation id="2439626940657133600">載入緊 <ph name="WINDOW_TITLE" /></translation>
@@ -1838,7 +1838,7 @@
 <translation id="2519517390894391510">憑證設定檔名稱</translation>
 <translation id="2520644704042891903">正在等待可用的通訊端…</translation>
 <translation id="2521854691574443804">正在檢查 <ph name="FILE_NAME" /> 是否符合您機構的安全性政策…</translation>
-<translation id="2523184218357549926">將您瀏覽的網頁網址傳送給 Google</translation>
+<translation id="2523184218357549926">將您瀏覽的網頁網址傳送給 Decentr</translation>
 <translation id="252418934079508528">安裝 <ph name="DEVICE_OS" /></translation>
 <translation id="2526590354069164005">桌面電腦</translation>
 <translation id="2526619973349913024">檢查更新</translation>
@@ -2253,7 +2253,7 @@
 <translation id="2874939134665556319">上一首曲目</translation>
 <translation id="2875698561019555027">(Chrome 錯誤頁面)</translation>
 <translation id="2876336351874743617">手指 2</translation>
-<translation id="2876369937070532032">當網站面臨安全風險時，Chrome 會將您瀏覽的部分網頁網址傳送給 Google</translation>
+<translation id="2876369937070532032">當網站面臨安全風險時，Chrome 會將您瀏覽的部分網頁網址傳送給 Decentr</translation>
 <translation id="2876556152483133018">站內搜尋</translation>
 <translation id="2877467134191447552">您可新增其他帳戶來存取網站和應用程式。</translation>
 <translation id="2878782256107578644">正在掃瞄，要立即開啟嗎？</translation>
@@ -3082,7 +3082,7 @@
 <translation id="3630995161997703415">將此網站加到捷徑列，即可隨時使用</translation>
 <translation id="3634652306074934350">權限要求已過期</translation>
 <translation id="3635199270495525546">偵測到可信任平台模組 (TPM)</translation>
-<translation id="3635353578505343390">傳送意見給 Google</translation>
+<translation id="3635353578505343390">傳送意見給 Decentr</translation>
 <translation id="3635960017746711110">Crostini 的 USB 偏好設定</translation>
 <translation id="3636766455281737684">電力剩餘 <ph name="PERCENTAGE" />% - <ph name="TIME" /></translation>
 <translation id="3636940436873918441">偏好語言</translation>
@@ -3187,7 +3187,7 @@
 <translation id="3719310907809321183">填入咗 <ph name="CARD_IDENTIFIER" />。</translation>
 <translation id="3719826155360621982">首頁</translation>
 <translation id="372062398998492895">CUPS</translation>
-<translation id="3721119614952978349">您和 Google</translation>
+<translation id="3721119614952978349">您和 Decentr</translation>
 <translation id="3722108462506185496">啟用虛擬機器服務時發生錯誤。請稍後再試。</translation>
 <translation id="3722624153992426516">已接收「<ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" />」指示</translation>
 <translation id="3726965532284929944">QT</translation>
@@ -3288,7 +3288,7 @@
 <translation id="3798632811625902122">藍牙裝置「<ph name="DEVICE" />」要求配對權限。</translation>
 <translation id="3798670284305777884">喇叭 (內置)</translation>
 <translation id="3799128412641261490">「按鈕控制」設定</translation>
-<translation id="3800828618615365228">Google Chrome 和 Chrome OS 的《附加條款》</translation>
+<translation id="3800828618615365228">Decentr 和 Chrome OS 的《附加條款》</translation>
 <translation id="3802486193901166966">這個擴充程式不需要任何特殊權限，亦無需額外的網站存取權</translation>
 <translation id="380329542618494757">名稱</translation>
 <translation id="3803345858388753269">影片品質</translation>
@@ -3307,7 +3307,7 @@
 <translation id="3810973564298564668">管理</translation>
 <translation id="381202950560906753">新增其他指紋</translation>
 <translation id="3812525830114410218">錯誤的憑證</translation>
-<translation id="3813296892522778813">如果您找不到需要的資訊，請參閱 <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome 說明<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">如果您找不到需要的資訊，請參閱 <ph name="BEGIN_LINK_CHROMIUM" />Decentr 說明<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">用於翻譯頁面和「快速解答」的語言</translation>
 <translation id="3813458570141926987">由 Chrome 根據您最近瀏覽記錄估計嘅主題清單</translation>
 <translation id="3814529970604306954">學校帳戶</translation>
@@ -3638,7 +3638,7 @@
 <translation id="4096797685681362305">上星期看過</translation>
 <translation id="4097406557126260163">應用程式和擴充程式</translation>
 <translation id="409742781329613461">Chrome 提示</translation>
-<translation id="4097560579602855702">搜尋 Google</translation>
+<translation id="4097560579602855702">搜尋 Decentr</translation>
 <translation id="4098667039111970300">工具列中的觸控筆工具</translation>
 <translation id="4099060993766194518">要將搜尋引擎還原至預設值嗎？</translation>
 <translation id="4099874310852108874">網絡發生錯誤。</translation>
@@ -3681,7 +3681,7 @@
 <translation id="4132969033912447558">繼續下載 <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">開啟應用程式以變更密碼</translation>
 <translation id="4134818201340504801">可用儲存空間不足，因此無法完成設定。請騰出儲存空間，然後再試一次</translation>
-<translation id="4135746311382563554">Google Chrome 和 Chrome OS 的《附加服務條款》</translation>
+<translation id="4135746311382563554">Decentr 和 Chrome OS 的《附加服務條款》</translation>
 <translation id="4136203100490971508">「夜燈模式」將會在日出時自動關閉</translation>
 <translation id="41365691917097717">如繼續操作，系統將允許 ADB 偵錯功能建立及測試 Android 應用程式。請注意，此操作允許安裝未經 Google 驗證的 Android 應用程式，並且需要恢復原廠設定才能停用。</translation>
 <translation id="4137923333452716643">突顯要在閱讀模式下開啟的文字</translation>
@@ -3904,7 +3904,7 @@
 <translation id="4348766275249686434">收集錯誤資訊</translation>
 <translation id="4349828822184870497">有幫助</translation>
 <translation id="4350230709416545141">一律禁止 <ph name="HOST" /> 存取您的位置</translation>
-<translation id="4350782034419308508">Hey Google</translation>
+<translation id="4350782034419308508">Hey Decentr</translation>
 <translation id="4351770750390404505"><ph name="BEGIN_PARAGRAPH1" />為提供最佳體驗，<ph name="DEVICE_OS" /> 會收集有關裝置的硬件資料並與 Google 分享，以判斷要提供哪些更新內容。您可選擇是否允許 Google 將這些資料用於其他用途，例如支援和改善 <ph name="DEVICE_OS" /> 體驗和服務。<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />您可在此裝置上登入並前往 chrome://system 中的 CHROMEOSFLEX_HARDWARE_INFO 部分，以查看傳送至 Google 進行更新篩選的資料，以及其他您選擇與 Google 分享資料的情況。<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" />如要進一步瞭解 <ph name="DEVICE_OS" /> 可能與 Google 分享的資料，以及這些資料的用途，請前往 g.co/flex/HWDataCollection。<ph name="END_PARAGRAPH3" /></translation>
@@ -4137,7 +4137,7 @@
 <translation id="4544174279960331769">預設藍色圖片</translation>
 <translation id="4545028762441890696">如要重新啟用擴充程式，請接受新權限：</translation>
 <translation id="4545759655004063573">權限不足，無法儲存，請儲存到其他位置。</translation>
-<translation id="4546308221697447294">使用 Google Chrome 快速瀏覽內容</translation>
+<translation id="4546308221697447294">使用 Decentr 快速瀏覽內容</translation>
 <translation id="4546345569117159016">右鍵</translation>
 <translation id="4546509872654834602">「<ph name="SUPERVISED_USER_NAME" />」要求使用此擴充程式：</translation>
 <translation id="4546692474302123343">「Google 助理」語音輸入</translation>
@@ -4972,7 +4972,7 @@
 <translation id="529986401483187205">已停用</translation>
 <translation id="5300426565656326054">基於瀏覽器的廣告個人化</translation>
 <translation id="5300589172476337783">顯示</translation>
-<translation id="5300719150368506519">將您瀏覽的網頁網址傳送給 Google</translation>
+<translation id="5300719150368506519">將您瀏覽的網頁網址傳送給 Decentr</translation>
 <translation id="5301751748813680278">正在以訪客身分登入。</translation>
 <translation id="5301954838959518834">好，我知道了</translation>
 <translation id="5302048478445481009">語言</translation>
@@ -5224,7 +5224,7 @@
 <translation id="5532223876348815659">通用</translation>
 <translation id="5533001281916885985"><ph name="SITE_NAME" />要求以下權限：</translation>
 <translation id="5537725057119320332">投放</translation>
-<translation id="5539070192556911367">無法連接 Google</translation>
+<translation id="5539070192556911367">無法連接 Decentr</translation>
 <translation id="5539221284352502426">伺服器已拒絕您輸入的密碼。原因可能包括：密碼太短、密碼必須包含數字或符號、新舊密碼必須有所不同。</translation>
 <translation id="5541694225089836610">您的管理員已停用此操作</translation>
 <translation id="5542132724887566711">設定檔</translation>
@@ -5363,7 +5363,7 @@
 <translation id="5653154844073528838">你有 <ph name="PRINTER_COUNT" /> 部儲存咗嘅打印機。</translation>
 <translation id="565515993087783098">如忘記此網絡，系統將一併移除 Passpoint 訂閱及其相關網絡。</translation>
 <translation id="5655296450510165335">裝置註冊</translation>
-<translation id="5656845498778518563">傳送意見給 Google</translation>
+<translation id="5656845498778518563">傳送意見給 Decentr</translation>
 <translation id="5657156137487675418">允許所有 Cookie</translation>
 <translation id="5657667036353380798">這個外部擴充功能需要安裝 <ph name="MINIMUM_CHROME_VERSION" /> 版本以上的 Chrome 瀏覽器。</translation>
 <translation id="5659593005791499971">電郵</translation>
@@ -5597,7 +5597,7 @@
 <translation id="5864754048328252126">叉緊電時嘅閒置動作</translation>
 <translation id="5865508026715185451">「<ph name="APP_NAME" />」即將暫停</translation>
 <translation id="586567932979200359">您正在透過磁碟映像執行 <ph name="PRODUCT_NAME" />。如直接在電腦上安裝程式，以後無需透過磁碟映像即可直接執行，並且能隨時使用最新的版本。</translation>
-<translation id="5865733239029070421">自動將使用情況統計和當機報告傳送給 Google</translation>
+<translation id="5865733239029070421">自動將使用情況統計和當機報告傳送給 Decentr</translation>
 <translation id="5867841422488265304">搜尋或輸入網址</translation>
 <translation id="5867855474018538405">按照手機上的指示掃瞄 QR 碼。請確保手機的藍牙和 Wi-Fi 已開啟。
     <ph name="BR" />
@@ -6121,7 +6121,7 @@
 <translation id="6314819609899340042">您已成功為這部 <ph name="IDS_SHORT_PRODUCT_NAME" /> 裝置啟用偵錯功能。</translation>
 <translation id="6315170314923504164">語音</translation>
 <translation id="6315493146179903667">全部移至最上層</translation>
-<translation id="6316432269411143858">Google Chrome OS 條款內容</translation>
+<translation id="6316432269411143858">Decentr OS 條款內容</translation>
 <translation id="6317369057005134371">正在等待應用程式視窗…</translation>
 <translation id="6318125393809743217">包括具有政策設定的 policies.json 檔案。</translation>
 <translation id="6318407754858604988">已開始下載</translation>
@@ -6329,7 +6329,7 @@
 <translation id="6511279028091289182">判斷如何透過安全連線連接網站。這會使用位於 <ph name="DNS_SERVER_TEMPLATE_WITH_IDENTIFIER" /> 的受管服務供應商</translation>
 <translation id="6511827214781912955">建議刪除「<ph name="FILENAME" />」，讓此裝置的其他使用者無法查看您的密碼</translation>
 <translation id="6512808201725371249">此帳戶的密碼已儲存在「Google 密碼管理工具」中 (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">如果您沒有連線至其他網絡，Google Chrome 將使用流動數據網絡連線。</translation>
+<translation id="6513247462497316522">如果您沒有連線至其他網絡，Decentr 將使用流動數據網絡連線。</translation>
 <translation id="6514010653036109809">可用的裝置：</translation>
 <translation id="6514565641373682518">這個網頁已停用滑鼠游標。</translation>
 <translation id="6517709704288360414">裝置可能無法再正常運作，您可能會遇到安全性和效能問題。關閉更新可能亦會影響您在遇到問題時提出法律申索的權利。</translation>
@@ -6815,7 +6815,7 @@
 <translation id="6923633482430812883">連接共用裝置時發生錯誤。請檢查您正連接的檔案伺服器是否支援 SMBv2 或以上版本。</translation>
 <translation id="6925127338315966709">您即將在此瀏覽器中新增受管理的設定檔。管理員可以控制該設定檔，並存取其中的資料。書籤、記錄、密碼和其他設定可能會同步至您的帳戶，並由管理員管理。</translation>
 <translation id="6929126689972602640">學校帳戶不支援家長監控設定。如要新增學校帳戶，以便在家中存取 Google Classroom 和其他學校作業用的網站，請先使用子女的個人帳戶登入。您稍後可在設定新增學校帳戶。</translation>
-<translation id="6929760895658557216">Ok Google</translation>
+<translation id="6929760895658557216">Ok Decentr</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{已拒絕 1 個擴充程式}other{已拒絕 # 個擴充程式}}</translation>
 <translation id="6931690462168617033">點擊力度</translation>
 <translation id="6935286146439255109">找不到紙匣</translation>
@@ -7254,7 +7254,7 @@
 <translation id="7340179705876485790">如果要返回的頁數超過 1 頁，請點選並按住 [返回]。</translation>
 <translation id="7340431621085453413"><ph name="FULLSCREEN_ORIGIN" /> 已顯示為全螢幕。</translation>
 <translation id="7340650977506865820">網站正在分享您的螢幕畫面</translation>
-<translation id="7340757554212515731">自動將當機報告、診斷和使用情況資料自動傳送給 Google</translation>
+<translation id="7340757554212515731">自動將當機報告、診斷和使用情況資料自動傳送給 Decentr</translation>
 <translation id="734088800888587319">網絡數據</translation>
 <translation id="7341834142292923918">需要在此網站上執行</translation>
 <translation id="7343372807593926528">請在傳送意見前說明問題。</translation>
@@ -8699,7 +8699,7 @@
 <translation id="8554899698005018844">未選取語言</translation>
 <translation id="855604308879080518">允許 Android 應用程式在此 Chromebook 上存取 USB 裝置。每當您插入 USB 裝置，系統都會要求權限。個別 Android 應用程式會要求額外權限。</translation>
 <translation id="8557022314818157177">請持續輕觸安全密鑰，直至指紋擷取完成</translation>
-<translation id="8557180006508471423">請在 Mac 上的「定位服務」中開啟「Google Chrome」</translation>
+<translation id="8557180006508471423">請在 Mac 上的「定位服務」中開啟「Decentr」</translation>
 <translation id="8557856025359704738">下次下載日期為 <ph name="NEXT_DATE_DOWNLOAD" />。</translation>
 <translation id="8559858985063901027">密鑰</translation>
 <translation id="8559961053328923750">Chrome 會限制網站為評估廣告成效而透過瀏覽器分享的總資料量</translation>
@@ -9195,7 +9195,7 @@
 <translation id="8985264973231822211">曾於 <ph name="DEVICE_LAST_ACTIVATED_TIME" /> 天前在線</translation>
 <translation id="8985661493893822002">請連接互聯網，以便登入 <ph name="DEVICE_TYPE" />。</translation>
 <translation id="8986362086234534611">清除</translation>
-<translation id="8986494364107987395">自動將使用統計資料和當機報告傳送給 Google</translation>
+<translation id="8986494364107987395">自動將使用統計資料和當機報告傳送給 Decentr</translation>
 <translation id="8987927404178983737">月</translation>
 <translation id="8989359959810288806">重新整理網絡共享狀態</translation>
 <translation id="8991520179165052608">網站可以使用您的麥克風</translation>
@@ -9273,7 +9273,7 @@
 <translation id="9043264199499366189">訂閱 ChromeOS Flex 系統事件</translation>
 <translation id="9044646465488564462">無法連線至網絡：<ph name="DETAILS" /></translation>
 <translation id="9045160989383249058">閱讀清單已移動至新的側面板。按這裡即可試用。</translation>
-<translation id="9045430190527754450">將您嘗試瀏覽的網頁網址傳送至 Google</translation>
+<translation id="9045430190527754450">將您嘗試瀏覽的網頁網址傳送至 Decentr</translation>
 <translation id="9048745018038487540">選取所有字型</translation>
 <translation id="9050666287014529139">複雜密碼</translation>
 <translation id="9052404922357793350">繼續封鎖</translation>

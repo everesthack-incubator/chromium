@@ -1030,7 +1030,7 @@
 <translation id="186594096341696655">Смањи стопу</translation>
 <translation id="186612162884103683">„<ph name="EXTENSION" />“ може да чита слике, видео и аудио датотеке на наведеним локацијама, као и да уписује податке у њих.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> је спреман да доврши инсталацију</translation>
-<translation id="1868553836791672080">Провера лозинки није доступна у Chromium-у</translation>
+<translation id="1868553836791672080">Провера лозинки није доступна у Decentr-у</translation>
 <translation id="1868617395637139709">Користи локацију за Android апликације и услуге.</translation>
 <translation id="1869433484041798909">Дугме обележивача</translation>
 <translation id="1871098866036088250">Отвори у прегледачу Chrome</translation>
@@ -1272,7 +1272,7 @@
 <translation id="2088564884469682888">Уграђени TrackPoint</translation>
 <translation id="2089090684895656482">Мање</translation>
 <translation id="208928984520943006">Да бисте дошли на почетни екран у било ком тренутку, превуците нагоре од дна.</translation>
-<translation id="2089566709556890888">Прегледајте безбедно уз Google Chrome</translation>
+<translation id="2089566709556890888">Прегледајте безбедно уз Decentr</translation>
 <translation id="2089925163047119068">ИЛИ</translation>
 <translation id="2090165459409185032">Да бисте вратили информације о налогу, идите на: google.com/accounts/recovery</translation>
 <translation id="2090507354966565596">Аутоматски се повезује када се пријавите</translation>
@@ -1663,7 +1663,7 @@
 <translation id="2391419135980381625">Стандардни фонт</translation>
 <translation id="2392369802118427583">Активирај</translation>
 <translation id="2393136602862631930">Подесите апликацију <ph name="APP_NAME" /> на Chromebook-у</translation>
-<translation id="2393313392064891208">Садржај Google Chrome OS Flex услова</translation>
+<translation id="2393313392064891208">Садржај Decentr OS Flex услова</translation>
 <translation id="2395616325548404795"><ph name="DEVICE_TYPE" /> је регистрован за управљање предузећем, али није послао информације о елементу и локацији. Унесите те информације ручно на Admin console-у за овај уређај.</translation>
 <translation id="2396783860772170191">Унесите 4-цифрени PIN (0000–9999)</translation>
 <translation id="2398546389094871088">Ако обавите Powerwash на уређају, нећете уклонити eSIM профиле. Идите у <ph name="LINK_BEGIN" />подешавања за мобилне уређаја<ph name="LINK_END" /> да бисте ручно уклонили те профиле.</translation>
@@ -1712,7 +1712,7 @@
 <translation id="2434449159125086437">Подешавање штампача није успело. Проверите конфигурацију, па пробајте поново.</translation>
 <translation id="2434758125294431199">Изаберите ко може да дели са вама</translation>
 <translation id="2434915728183570229">Сада можете да прегледате апликације на телефону</translation>
-<translation id="2435137177546457207">Додатни услови за Google Chrome и Chrome OS Flex</translation>
+<translation id="2435137177546457207">Додатни услови за Decentr и Chrome OS Flex</translation>
 <translation id="2435248616906486374">Веза са мрежом је прекинута</translation>
 <translation id="2435457462613246316">Прикажи лозинку</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> се учитава</translation>
@@ -3171,7 +3171,7 @@
 <translation id="3719310907809321183">Унели сте <ph name="CARD_IDENTIFIER" />.</translation>
 <translation id="3719826155360621982">Почетна страница</translation>
 <translation id="372062398998492895">CUPS</translation>
-<translation id="3721119614952978349">Ви и Google</translation>
+<translation id="3721119614952978349">Ви и Decentr</translation>
 <translation id="3722108462506185496">Грешка при покретању услуге виртуелне машине. Пробајте поново.</translation>
 <translation id="3722624153992426516">Примљено је упутство <ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" /></translation>
 <translation id="3726965532284929944">QT</translation>
@@ -3272,7 +3272,7 @@
 <translation id="3798632811625902122">Bluetooth уређај <ph name="DEVICE" /> тражи дозволу за упаривање.</translation>
 <translation id="3798670284305777884">Звучник (интерни)</translation>
 <translation id="3799128412641261490">Подешавања приступа помоћу прекидача</translation>
-<translation id="3800828618615365228">Додатни услови за Google Chrome и Chrome ОС</translation>
+<translation id="3800828618615365228">Додатни услови за Decentr и Chrome ОС</translation>
 <translation id="3802486193901166966">Овај додатак не захтева никакве специјалне дозволе и нема никакав додатан приступ сајту</translation>
 <translation id="380329542618494757">Име</translation>
 <translation id="3803345858388753269">Квалитет видео снимка</translation>
@@ -3291,7 +3291,7 @@
 <translation id="3810973564298564668">Управљај</translation>
 <translation id="381202950560906753">Додај други</translation>
 <translation id="3812525830114410218">Неисправан сертификат</translation>
-<translation id="3813296892522778813">Идите на <ph name="BEGIN_LINK_CHROMIUM" />страницу помоћи за Google Chrome<ph name="END_LINK_CHROMIUM" /> ако не можете да пронађете оно што тражите</translation>
+<translation id="3813296892522778813">Идите на <ph name="BEGIN_LINK_CHROMIUM" />страницу помоћи за Decentr<ph name="END_LINK_CHROMIUM" /> ако не можете да пронађете оно што тражите</translation>
 <translation id="3813358687923336574">Језик који се користи за превођење страница и брзе одговоре</translation>
 <translation id="3813458570141926987">Листа тема које је Chrome проценио на основу недавне историје прегледања</translation>
 <translation id="3814529970604306954">Школски налог</translation>
@@ -3622,7 +3622,7 @@
 <translation id="4096797685681362305">Прегледали сте претходне недеље</translation>
 <translation id="4097406557126260163">Апликације и додаци</translation>
 <translation id="409742781329613461">Савети за Chrome</translation>
-<translation id="4097560579602855702">Претражите Google</translation>
+<translation id="4097560579602855702">Претражите Decentr</translation>
 <translation id="4098667039111970300">Алатке за писаљку на траци са алаткама</translation>
 <translation id="4099060993766194518">Желите да вратите подразумевани претраживач?</translation>
 <translation id="4099874310852108874">Дошло је до грешке на мрежи.</translation>
@@ -3665,7 +3665,7 @@
 <translation id="4132969033912447558">Наставите преузимање фајла <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">Отворите апликацију да бисте променили лозинку</translation>
 <translation id="4134818201340504801">Нема довољно доступног меморијског простора да бисте довршили подешавање. Ослободите меморијски простор и пробајте поново</translation>
-<translation id="4135746311382563554">Додатни услови коришћења услуге за Google Chrome и Chrome ОС</translation>
+<translation id="4135746311382563554">Додатни услови коришћења услуге за Decentr и Chrome ОС</translation>
 <translation id="4136203100490971508">Ноћно светло се аутоматски искључује када сунце изађе</translation>
 <translation id="41365691917097717">Ако наставите, омогућићете ADB отклањање грешака за прављење и тестирање Android апликација. Имајте у виду да ова радња омогућава инсталирање Android апликација које Google није верификовао и захтева ресетовање на фабричка подешавања да би се онемогућила.</translation>
 <translation id="4137923333452716643">Истакните текст за који желите да се отвара у режиму читања</translation>
@@ -3888,7 +3888,7 @@
 <translation id="4348766275249686434">Прикупљај грешке</translation>
 <translation id="4349828822184870497">Корисно</translation>
 <translation id="4350230709416545141">Увек блокирај приступ локацији за <ph name="HOST" /></translation>
-<translation id="4350782034419308508">Хеј Google</translation>
+<translation id="4350782034419308508">Хеј Decentr</translation>
 <translation id="4351770750390404505"><ph name="BEGIN_PARAGRAPH1" />Да би пружио најбољи доживљај, <ph name="DEVICE_OS" /> прикупља податке о хардверу са уређаја и дели их са Google-ом да би утврдио која ажурирања треба да пружи. Можете опционално да дозволите Google-у да користи те податке у додатне сврхе попут подршке и побољшања за <ph name="DEVICE_OS" /> доживљај и услугу.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />Можете да се пријавите на овом уређају и посетите одељак CHROMEOSFLEX_HARDWARE_INFO на chrome://system да бисте видели податке који се шаљу Google-у ради филтрирања ажурирања, као и све друге случајеве у којима одлучујете да делите податке са Google-ом.<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" />Више детаља о подацима које <ph name="DEVICE_OS" /> може да дели са Google-ом, као и о томе како се они користе, потражите на g.co/flex/HWDataCollection.<ph name="END_PARAGRAPH3" /></translation>
@@ -4120,7 +4120,7 @@
 <translation id="4544174279960331769">Подразумевани плави аватар</translation>
 <translation id="4545028762441890696">Да бисте га поново омогућили, прихватите нове дозволе:</translation>
 <translation id="4545759655004063573">Није могуће сачувати због недовољног броја дозвола. Сачувајте на другу локацију.</translation>
-<translation id="4546308221697447294">Прегледајте брзо уз Google Chrome</translation>
+<translation id="4546308221697447294">Прегледајте брзо уз Decentr</translation>
 <translation id="4546345569117159016">Десно дугме</translation>
 <translation id="4546509872654834602"><ph name="SUPERVISED_USER_NAME" /> жели да користи овај додатак:</translation>
 <translation id="4546692474302123343">Гласовни унос у Google помоћнику</translation>
@@ -6106,7 +6106,7 @@
 <translation id="6314819609899340042">Омогућили сте функције за отклањање грешака на овом <ph name="IDS_SHORT_PRODUCT_NAME" /> уређају.</translation>
 <translation id="6315170314923504164">Глас</translation>
 <translation id="6315493146179903667">Премести све напред</translation>
-<translation id="6316432269411143858">Садржај услова за Google Chrome ОС</translation>
+<translation id="6316432269411143858">Садржај услова за Decentr ОС</translation>
 <translation id="6317369057005134371">Чека се прозор апликације...</translation>
 <translation id="6318125393809743217">Уврсти датотеку policies.json уз конфигурације смерница.</translation>
 <translation id="6318407754858604988">Преузимање је започето</translation>
@@ -6314,7 +6314,7 @@
 <translation id="6511279028091289182">Одређује како да се повеже са веб-сајтовима преко безбедне везе. Користи добављача услуга којим се управља на <ph name="DNS_SERVER_TEMPLATE_WITH_IDENTIFIER" /></translation>
 <translation id="6511827214781912955">Размислите о томе да избришете <ph name="FILENAME" /> да други који користе овај уређај не би могли да виде ваше лозинке</translation>
 <translation id="6512808201725371249">Лозинка за овај налог је већ сачувана у Google менаџеру лозинки (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Chrome ће користити мобилне податке ако нисте повезани са другом мрежом.</translation>
+<translation id="6513247462497316522">Decentr ће користити мобилне податке ако нисте повезани са другом мрежом.</translation>
 <translation id="6514010653036109809">Доступан уређај:</translation>
 <translation id="6514565641373682518">Ова страница је онемогућила курсор.</translation>
 <translation id="6517709704288360414">Уређај можда више неће радити како треба, а ви ћете можда имати проблема са безбедношћу и перформансама. Искључивање ажурирања може да утиче и на ваше право на правне тужбе ако наиђете на проблеме.</translation>
@@ -6804,7 +6804,7 @@
 <translation id="6923633482430812883">Грешка при учитавању дељене датотеке. Проверите да ли сервер датотека са којим се повезујете подржава SMBv2 или новију верзију.</translation>
 <translation id="6925127338315966709">Додајете профил којим се управља у овај прегледач. Администратор има контролу над профилом и може да приступа његовим подацима. Обележивачи, историја, лозинке и друга подешавања могу да се синхронизују са налогом и администратор може да управља њима.</translation>
 <translation id="6929126689972602640">Родитељски надзор није подржан за налоге за школу. Да бисте додали налог за школу који омогућава приступ Google учионици и другим веб-сајтовима за школске задатке код куће, прво се пријавите помоћу дететовог личног налога. Налог за школу можете да додате касније током подешавања.</translation>
-<translation id="6929760895658557216">Хеј Google</translation>
+<translation id="6929760895658557216">Хеј Decentr</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{Додатак је одбијен}one{# додатак је одбијен}few{# додатка су одбијена}other{# додатака је одбијено}}</translation>
 <translation id="6931690462168617033">Јачина клика</translation>
 <translation id="6935286146439255109">Недостаје посуда за папир</translation>
@@ -8689,7 +8689,7 @@
 <translation id="8554899698005018844">Без језика</translation>
 <translation id="855604308879080518">Омогућите Android апликацијама да приступају USB уређајима на овом Chromebook-у. Оне ће тражити дозволу сваки пут када укључите USB уређај. Појединачне Android апликације ће тражити додатне дозволе.</translation>
 <translation id="8557022314818157177">Наставите да додирујете безбедносни кључ док не снимимо отисак прста</translation>
-<translation id="8557180006508471423">Укључите Google Chrome у услугама локације на Mac-у</translation>
+<translation id="8557180006508471423">Укључите Decentr у услугама локације на Mac-у</translation>
 <translation id="8557856025359704738">Следеће преузимање је: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Приступни кодови</translation>
 <translation id="8559961053328923750">Chrome ограничава укупну количину података коју сајтови могу да деле преко прегледача да би мерили учинак огласа</translation>

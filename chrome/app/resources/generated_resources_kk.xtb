@@ -1028,7 +1028,7 @@
 <translation id="186594096341696655">Жылдамдықты көбейту</translation>
 <translation id="186612162884103683">Таңдалған орындарда "<ph name="EXTENSION" />" кескіндерді, бейнені және дыбыстық файлдарды оқи және жаза алады.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> орнатуды аяқтауға дайын</translation>
-<translation id="1868553836791672080">Chromium браузерінде құпия сөзді тексеру мүмкін емес.</translation>
+<translation id="1868553836791672080">Decentr браузерінде құпия сөзді тексеру мүмкін емес.</translation>
 <translation id="1868617395637139709">Android қолданбалары мен қызметтері үшін локацияны пайдаланыңыз.</translation>
 <translation id="1869433484041798909">Бетбелгі түймесі</translation>
 <translation id="1871098866036088250">Chrome браузерінде ашу</translation>
@@ -1270,7 +1270,7 @@
 <translation id="2088564884469682888">Ендірілген TrackPoint</translation>
 <translation id="2089090684895656482">Азырақ</translation>
 <translation id="208928984520943006">Негізгі экранға кез келген уақытта өту үшін саусақпен экранның төменгі жағынан жоғары қарай сырғытыңыз.</translation>
-<translation id="2089566709556890888">Google Chrome арқылы қауіпсіз күйде шолыңыз</translation>
+<translation id="2089566709556890888">Decentr арқылы қауіпсіз күйде шолыңыз</translation>
 <translation id="2089925163047119068">НЕМЕСЕ</translation>
 <translation id="2090165459409185032">Аккаунт ақпаратын қалпына келтіру үшін мына сілтемеге өтіңіз: google.com/accounts/recovery</translation>
 <translation id="2090507354966565596">Кірген кезде автоматты түрде қосылады.</translation>
@@ -1710,7 +1710,7 @@
 <translation id="2434449159125086437">Принтер орнатылмады. Конфигурацияны тексеріп, қайта орнатып көріңіз.</translation>
 <translation id="2434758125294431199">Сізбен бөлісе алатындарды таңдаңыз.</translation>
 <translation id="2434915728183570229">Енді телефондағы қолданбаларды көре аласыз</translation>
-<translation id="2435137177546457207">Google Chrome және ChromeOS Flex Қосымша шарттары</translation>
+<translation id="2435137177546457207">Decentr және ChromeOS Flex Қосымша шарттары</translation>
 <translation id="2435248616906486374">Желі ажыратылды</translation>
 <translation id="2435457462613246316">Құпия сөзді көрсету</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> жүктелуде</translation>
@@ -3169,7 +3169,7 @@
 <translation id="3719310907809321183"><ph name="CARD_IDENTIFIER" /> толтырылды.</translation>
 <translation id="3719826155360621982">Негізгі бет</translation>
 <translation id="372062398998492895">CUPS</translation>
-<translation id="3721119614952978349">Сіз және Google</translation>
+<translation id="3721119614952978349">Сіз және Decentr</translation>
 <translation id="3722108462506185496">Виртуалдық құрылғы қызметін іске қосу кезінде қате шықты. Кейінірек қайталап көріңіз.</translation>
 <translation id="3722624153992426516"><ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" /> нұсқауы алынды</translation>
 <translation id="3726965532284929944">QT</translation>
@@ -3270,7 +3270,7 @@
 <translation id="3798632811625902122">"<ph name="DEVICE" />" Bluetooth құрылғысы жұптасуға рұқсат сұрайды.</translation>
 <translation id="3798670284305777884">Динамик (ішкі)</translation>
 <translation id="3799128412641261490">Switch Access параметрлері</translation>
-<translation id="3800828618615365228">Google Chrome және ChromeOS қосымша шарттары</translation>
+<translation id="3800828618615365228">Decentr және ChromeOS қосымша шарттары</translation>
 <translation id="3802486193901166966">Бұл кеңейтім үшін арнайы рұқсаттар қажет емес және онда сайтқа қосымша кіру рұқсаты жоқ.</translation>
 <translation id="380329542618494757">Аты</translation>
 <translation id="3803345858388753269">Бейне сапасы</translation>
@@ -3289,7 +3289,7 @@
 <translation id="3810973564298564668">Басқару</translation>
 <translation id="381202950560906753">Тағы біреуін қосу</translation>
 <translation id="3812525830114410218">Сертификат жарамсыз</translation>
-<translation id="3813296892522778813">Іздегеніңіз табылмаса, <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome анықтамасына<ph name="END_LINK_CHROMIUM" /> өтіңіз</translation>
+<translation id="3813296892522778813">Іздегеніңіз табылмаса, <ph name="BEGIN_LINK_CHROMIUM" />Decentr анықтамасына<ph name="END_LINK_CHROMIUM" /> өтіңіз</translation>
 <translation id="3813358687923336574">Беттерді аудару және жылдам жауаптар алу үшін қолданылатын тіл</translation>
 <translation id="3813458570141926987">Соңғы браузерді қолдану тарихыңызға негізделген Chrome бағалаған тақырыптар тізімі</translation>
 <translation id="3814529970604306954">Оқу аккаунты</translation>
@@ -3663,7 +3663,7 @@
 <translation id="4132969033912447558"><ph name="FILE_NAME" /> файлын жалғастыру</translation>
 <translation id="4133076602192971179">Құпия сөзіңізді өзгерту үшін қолданбаны ашу</translation>
 <translation id="4134818201340504801">Жад көлемі реттеуді аяқтауға жетпейді. Жадты босатып, әрекетті қайталаңыз.</translation>
-<translation id="4135746311382563554">Google Chrome және Chrome OS Қосымша қызмет көрсету шарттары</translation>
+<translation id="4135746311382563554">Decentr және Chrome OS Қосымша қызмет көрсету шарттары</translation>
 <translation id="4136203100490971508">Күн шыққанда, түнгі шам автоматты түрде өшеді</translation>
 <translation id="41365691917097717">Жалғастырсаңыз, ADB түзетуі іске қосылып, Android қолданбалары жасалады және тексеріледі. Бұл — Google растамаған Android қолданбаларының орнатылуына мүмкіндік беретінін ескеріңіз. Құралды өшіру үшін зауыттық параметрлерге қайтару қажет болады.</translation>
 <translation id="4137923333452716643">Оқу режимінде ашқыңыз келетін мәтінді ерекшелеу</translation>
@@ -3886,7 +3886,7 @@
 <translation id="4348766275249686434">Қателерді жинау</translation>
 <translation id="4349828822184870497">Пайдалы</translation>
 <translation id="4350230709416545141"><ph name="HOST" /> сайтына геодерегімді пайдалануға әрқашан тыйым салу</translation>
-<translation id="4350782034419308508">Ok Google</translation>
+<translation id="4350782034419308508">Ok Decentr</translation>
 <translation id="4351770750390404505"><ph name="BEGIN_PARAGRAPH1" />Барынша тиімді пайдалану үшін <ph name="DEVICE_OS" /> жүйесі құрылғылар туралы жабдық деректерін жинайды және ұсынылатын жаңа нұсқаны анықтау үшін оны Google-мен бөліседі. Сонымен қатар <ph name="DEVICE_OS" /> мүмкіндігі мен қызметіне қолдау көрсету сияқты мақсаттар үшін Google-ға осы деректерді пайдалануға рұқсат бере аласыз.<ph name="END_PARAGRAPH1" />
     <ph name="BEGIN_PARAGRAPH2" />Осы құрылғыға кіріп, сүзгіні жаңарту үшін Google-ға жіберілген деректі, сонымен қатар Google-мен дерек бөліскіңіз келетін кез келген іс-шараны chrome://system жолы арқылы CHROMEOSFLEX_HARDWARE_INFO бөлімінен көре аласыз.<ph name="END_PARAGRAPH2" />
     <ph name="BEGIN_PARAGRAPH3" /><ph name="DEVICE_OS" /> жүйесінің Google-мен бөлісетін деректері және олардың қалай пайдаланылатыны туралы толық ақпаратты g.co/flex/HWDataCollection бетінен қараңыз.<ph name="END_PARAGRAPH3" /></translation>
@@ -4118,7 +4118,7 @@
 <translation id="4544174279960331769">Әдепкі көк түсті аватар</translation>
 <translation id="4545028762441890696">Оны қосу үшін жаңа рұқсаттарды қабылдаңыз:</translation>
 <translation id="4545759655004063573">Рұқсат жеткіліксіз болғандықтан, сақтау мүмкін емес. Басқа орынға сақтаңыз.</translation>
-<translation id="4546308221697447294">Google Chrome арқылы жылдам шолу</translation>
+<translation id="4546308221697447294">Decentr арқылы жылдам шолу</translation>
 <translation id="4546345569117159016">Оң жақ түйме</translation>
 <translation id="4546509872654834602"><ph name="SUPERVISED_USER_NAME" /> осы кеңейтімді пайдалануды қалайды:</translation>
 <translation id="4546692474302123343">Google Assistant қолданбасында дауыспен енгізу</translation>
@@ -6309,7 +6309,7 @@
 <translation id="6511279028091289182">Қорғалған байланыс арқылы веб-сайттарға қосылу әдісін анықтайды. Бұл <ph name="DNS_SERVER_TEMPLATE_WITH_IDENTIFIER" /> серверіндегі басқарылатын қызмет көрсетушіні пайдаланады.</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> файлын жойып көріңіз, мұндайда осы құрылғыны пайдаланатын басқа адамдар құпия сөздеріңізді көре алмайды.</translation>
 <translation id="6512808201725371249">Бұл аккаунттың құпия сөзі Google Құпия сөз менеджерінде сақталып қойылған (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Басқа желіге қосылмаған болсаңыз, Google Chrome ұялы деректерді пайдаланады.</translation>
+<translation id="6513247462497316522">Басқа желіге қосылмаған болсаңыз, Decentr ұялы деректерді пайдаланады.</translation>
 <translation id="6514010653036109809">Қолжетімді құрылғы:</translation>
 <translation id="6514565641373682518">Бұл бет тінтуір жүгіргісін өшірді.</translation>
 <translation id="6517709704288360414">Құрылғыңыз дұрыс жұмыс істемей, өнімділікке және қауіпсіздікке қатысты ақаулар пайда болуы мүмкін. Жаңартуларды өшірсеңіз, ақаулар пайда болған жағдайда құқықтық шағым жібере алмауыңыз мүмкін.</translation>
@@ -6795,7 +6795,7 @@
 <translation id="6923633482430812883">Қате шықты. Сіз жалғанып жатқан файл сервері SMBv2 немесе кейінгі нұсқасын қолдайтынын тексеріңіз.</translation>
 <translation id="6925127338315966709">Бұл браузерге басқарылатын профиль қосудасыз. Әкімшіңіз профильді бақылауда және оның деректерін пайдалана алады. Бетбелгілер, тарих, құпия сөздер және басқа да параметрлер аккаунтыңызға синхрондалып, оларды әкімшіңіз басқаруы мүмкін.</translation>
 <translation id="6929126689972602640">Мектеп аккаунттары үшін ата-ана бақылауына қолдау көрсетілмейді. Google Classroom және басқа да оқу жұмыстарын үйде істеуге арналған веб-сайттарды пайдалануға мектеп аккаунтын қосу үшін алдымен баланың жеке аккаунтымен кіріңіз. Мектеп аккаунтын кейін параметрлерден қоса аласыз.</translation>
-<translation id="6929760895658557216">Ok Google</translation>
+<translation id="6929760895658557216">Ok Decentr</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{Кеңейтім қабылданбады}other{# кеңейтім қабылданбады}}</translation>
 <translation id="6931690462168617033">Басу күші</translation>
 <translation id="6935286146439255109">Қағаз науасы жоқ</translation>
@@ -8678,7 +8678,7 @@
 <translation id="8554899698005018844">Тілі көрсетілмеген</translation>
 <translation id="855604308879080518">Android қолданбаларына Chromebook-та USB құрылғыларын пайдалануға рұқсат етіледі. Рұқсат USB құрылғысын жалғаған сайын сұралады. Жеке Android қолданбалары қосымша рұқсаттар сұрайды.</translation>
 <translation id="8557022314818157177">Саусақ ізі түскенше, қауіпсіздік кілтін басып тұрыңыз.</translation>
-<translation id="8557180006508471423">Mac құрылғысының "Локация қызметтері" бөлімінен Google Chrome-ды қосыңыз</translation>
+<translation id="8557180006508471423">Mac құрылғысының "Локация қызметтері" бөлімінен Decentr-ды қосыңыз</translation>
 <translation id="8557856025359704738">Келесі жүктеп алу күні: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Кіру кілттері</translation>
 <translation id="8559961053328923750">Chrome браузері жарнама өнімділігін өлшеу үшін сайттардың браузер арқылы бөлісе алатын деректердің жалпы көлемін шектейді</translation>
