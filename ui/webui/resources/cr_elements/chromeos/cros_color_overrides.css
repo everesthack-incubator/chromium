@@ -30,7 +30,7 @@ To get Chrome OS System Colors, an element must:
 }
 
 :host-context([cros]) cr-radio-button {
-  --cr-radio-button-checked-color: var(--cros-radio-button-color);
+  --cr-radio-button-checked-color: var(--cr-link-color)!important;
   --cr-radio-button-checked-ripple-color:
       var(--cros-radio-button-ripple-color);
   --cr-radio-button-unchecked-color:

@@ -175,15 +175,13 @@ bool ShouldThemifyFaviconForEntry(content::NavigationEntry* entry) {
       virtual_url.host_piece() != chrome::kChromeUIAppLauncherPageHost &&
       virtual_url.host_piece() != chrome::kChromeUIHelpHost &&
       virtual_url.host_piece() != chrome::kChromeUIVersionHost &&
-      virtual_url.host_piece() != chrome::kChromeUINetExportHost &&
-      virtual_url.host_piece() != chrome::kChromeUINewTabHost) {
+      virtual_url.host_piece() != chrome::kChromeUINetExportHost) {
     return true;
   }
 
   // Themify favicon for the default NTP and incognito NTP.
   if (actual_url.SchemeIs(content::kChromeUIScheme)) {
-    return actual_url.host_piece() == chrome::kChromeUINewTabPageHost ||
-           actual_url.host_piece() == chrome::kChromeUINewTabHost;
+    return false;
   }
 
   return false;

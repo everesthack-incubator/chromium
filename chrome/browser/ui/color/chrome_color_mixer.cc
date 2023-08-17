@@ -93,9 +93,7 @@ ui::ColorTransform GetToolbarTopSeparatorColorTransform(
                              std::move(frame_color_transform));
 }
 
-// Default toolbar colors.
-constexpr SkColor kDarkToolbarColor = SkColorSetRGB(0x35, 0x36, 0x3A);
-constexpr SkColor kLightToolbarColor = SK_ColorWHITE;
+
 
 // Alpha of 61 = 24% opacity. Opacity of tab group chips in the bookmarks bar.
 constexpr SkAlpha kTabGroupChipAlpha = 61;
@@ -613,11 +611,11 @@ void AddChromeColorMixer(ui::ColorProvider* provider,
       ui::SelectBasedOnDarkInput(kColorThumbnailTabStripBackgroundInactive,
                                  gfx::kGoogleYellow300, gfx::kGoogleYellow600);
 
-  mixer[kColorToolbar] = {dark_mode ? kDarkToolbarColor : kLightToolbarColor};
+  mixer[kColorToolbar] = {SkColorSetRGB(0x30, 0x34, 0x43)};
   mixer[kColorToolbarButtonBackgroundHighlightedDefault] =
       ui::SetAlpha(ui::GetColorWithMaxContrast(kColorToolbarButtonText), 0xCC);
   mixer[kColorToolbarButtonBorder] = ui::SetAlpha(kColorToolbarInkDrop, 0x20);
-  mixer[kColorToolbarButtonIcon] = {kColorToolbarButtonIconDefault};
+  mixer[kColorToolbarButtonIcon] =  {SkColorSetRGB(255, 0, 131)};
   mixer[kColorToolbarButtonIconDefault] = ui::HSLShift(
       gfx::kGoogleGrey700, GetThemeTint(ThemeProperties::TINT_BUTTONS, key));
   mixer[kColorToolbarButtonIconDisabled] =
@@ -674,6 +672,6 @@ void AddChromeColorMixer(ui::ColorProvider* provider,
   mixer[kColorToolbarText] = {dark_mode ? SK_ColorWHITE : SK_ColorBLACK};
   mixer[kColorToolbarTopSeparatorFrameActive] = {dark_mode ? SK_ColorDKGRAY
                                                            : SK_ColorLTGRAY};
-  mixer[ui::kColorFrameActive] = {SK_ColorDKGRAY};
-  mixer[ui::kColorFrameInactive] = {SK_ColorGRAY};
+  mixer[ui::kColorFrameActive] = {SkColorSetRGB(0x0C, 0x0C, 0x17)};
+  mixer[ui::kColorFrameInactive] = {SkColorSetRGB(0x0C, 0x0C, 0x17)};
 }

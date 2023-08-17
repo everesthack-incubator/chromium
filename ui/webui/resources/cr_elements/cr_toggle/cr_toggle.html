@@ -1,9 +1,9 @@
     <style>
       :host {
-        --cr-toggle-checked-bar-color: var(--google-blue-600);
-        --cr-toggle-checked-button-color: var(--google-blue-600);
+        --cr-toggle-checked-bar-color: var(--cr-link-color)!important;
+        --cr-toggle-checked-button-color: var(--cr-link-color)!important;
         --cr-toggle-checked-ripple-color:
-            rgba(var(--google-blue-600-rgb), .2);
+            var(--cr-link-color)!important;
         --cr-toggle-unchecked-bar-color: var(--google-grey-400);
         --cr-toggle-unchecked-button-color: white;
         --cr-toggle-unchecked-ripple-color:
@@ -31,8 +31,8 @@
 
       @media (prefers-color-scheme: dark) {
         :host {
-          --cr-toggle-checked-bar-color: var(--google-blue-300);
-          --cr-toggle-checked-button-color: var(--google-blue-300);
+          --cr-toggle-checked-bar-color: var(--cr-link-color)!important ;
+          --cr-toggle-checked-button-color:  var(--cr-link-color)!important;
           --cr-toggle-checked-ripple-color:
               rgba(var(--google-blue-300-rgb), .4);
           --cr-toggle-unchecked-bar-color: var(--google-grey-500);
@@ -43,8 +43,8 @@
       }
       /* Keep the prefers-color-scheme and [dark] rules the same. */
       :host([dark]) {
-        --cr-toggle-checked-bar-color: var(--google-blue-300);
-        --cr-toggle-checked-button-color: var(--google-blue-300);
+        --cr-toggle-checked-bar-color: var(--cr-link-color)!important ;
+        --cr-toggle-checked-button-color:  var(--cr-link-color)!important;
         --cr-toggle-checked-ripple-color:
             rgba(var(--google-blue-300-rgb), .4);
         --cr-toggle-unchecked-bar-color: var(--google-grey-500);

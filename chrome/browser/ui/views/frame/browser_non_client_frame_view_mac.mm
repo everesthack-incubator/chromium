@@ -176,7 +176,7 @@ int BrowserNonClientFrameViewMac::GetTopInset(bool restored) const {
 
   // Mac seems to reserve 1 DIP of the top inset as a resize handle.
   constexpr int kResizeHandleHeight = 1;
-  constexpr int kTabstripTopInset = 8;
+  constexpr int kTabstripTopInset = 4;
   int top_inset = kTabstripTopInset;
   if (EverHasVisibleBackgroundTabShapes()) {
     top_inset =

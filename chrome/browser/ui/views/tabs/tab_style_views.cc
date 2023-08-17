@@ -308,6 +308,7 @@ SkPath GM2TabStyle::GetPath(PathType path_type,
     const int kMaxPathPoints = 20;
     path.incReserve(kMaxPathPoints);
 
+    bottom_radius = 2;
     // We will go clockwise from the lower left. We start in the overlap region,
     // preventing a gap between toolbar and tabstrip.
     // TODO(dfried): verify that the we actually want to start the stroke for

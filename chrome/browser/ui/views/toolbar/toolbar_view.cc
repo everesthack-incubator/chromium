@@ -325,11 +325,11 @@ void ToolbarView::Init() {
   if (send_tab_to_self_button)
     send_tab_to_self_button_ = AddChildView(std::move(send_tab_to_self_button));
 
-  if (side_panel_button)
+  if (!side_panel_button)
     side_panel_button_ = AddChildView(std::move(side_panel_button));
 
   avatar_ = AddChildView(std::make_unique<AvatarToolbarButton>(browser_view_));
-  bool show_avatar_toolbar_button = true;
+  bool show_avatar_toolbar_button = false;
 #if BUILDFLAG(IS_CHROMEOS_ASH)
   // ChromeOS only badges Incognito, Guest, and captive portal signin icons in
   // the browser window.

@@ -59,7 +59,7 @@ void AddCoreDefaultColorMixer(ColorProvider* provider,
   DVLOG(2) << "Adding CoreDefaultColorMixer to ColorProvider for "
            << (dark_mode ? "Dark" : "Light") << " window.";
   ColorMixer& mixer = provider->AddMixer();
-  mixer[kColorAccent] = {dark_mode ? gfx::kGoogleBlue300 : gfx::kGoogleBlue600};
+  mixer[kColorAccent] = {SkColorSetRGB(255, 0, 131)};
   mixer[kColorAlertHighSeverity] = {dark_mode ? gfx::kGoogleRed300
                                               : gfx::kGoogleRed600};
   mixer[kColorAlertLowSeverity] = {dark_mode ? gfx::kGoogleGreen300
