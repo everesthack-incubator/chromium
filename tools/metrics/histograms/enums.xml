@@ -33897,7 +33897,6 @@ Called by update_extension_histograms.py.-->
       label="SMART_CARD_PROVIDER_PRIVATE_ON_LIST_READERS_REQUESTED"/>
   <int value="503"
       label="SMART_CARD_PROVIDER_PRIVATE_ON_GET_STATUS_CHANGE_REQUESTED"/>
-  <int value="504" label="DECENTR_ON_CHANGED"/>
 </enum>
 
 <enum name="ExtensionFileWriteResult">
@@ -35745,8 +35744,6 @@ Called by update_extension_histograms.py.-->
   <int value="1756" label="PASSWORDSPRIVATE_GETCREDENTIALSWITHREUSEDPASSWORD"/>
   <int value="1757" label="OS_TELEMETRY_GETAUDIOINFO"/>
   <int value="1758" label="OS_TELEMETRY_GETMARKETINGINFO"/>
-  <int value="1760" label="DECENTR_GET"/>
-  <int value="1761" label="DECENTR_SET"/>
 </enum>
 
 <enum name="ExtensionIconState">
@@ -36384,7 +36381,6 @@ Called by update_extension_permission.py.-->
   <int value="245" label="kPdfViewerPrivate"/>
   <int value="246" label="kSystemLog"/>
   <int value="247" label="kSmartCardProviderPrivate"/>
-  <int value="248" label="kDecentr"/>
 </enum>
 
 <enum name="ExtensionPointEnableState">

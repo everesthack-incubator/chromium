@@ -77,14 +77,14 @@
     z-index: 1;
   }
 
-  .decentr__logos {
+  .tomi__logos {
     align-items: flex-end;
     column-gap: 32px;
     flex-direction: row;
     display: flex;
   }
 
-  .decentr__logo-presearch {
+  .tomi__logo-presearch {
     display: flex;
     margin-bottom: 38px;
     min-height: 92px;
@@ -322,7 +322,7 @@
     z-index: 101;
   }
   @media (max-width: 672px) {
-    .decentr__logos {
+    .tomi__logos {
       flex-direction: column;
     }
 </style>
@@ -342,13 +342,13 @@
        be nicer to use a dom-if. However, that breaks
        StartupBrowserCreatorPickerNoParamsTest.ShowPickerWhenAlreadyLaunched on
        the msan builder. See crbug.com/1169070. -->
-  <div class="decentr__logos">
+  <div class="tomi__logos">
     <ntp-logo id="logo" single-colored$="[[singleColoredLogo_]]"
         dark="[[theme_.isDark]]" background-color="[[backgroundColor_]]"
         hidden$="[[!logoEnabled_]]">
     </ntp-logo>
 
-    <div class="decentr__logo-presearch">
+    <div class="tomi__logo-presearch">
       <img src="chrome://new-tab-page/icons/presearch-logo.svg"></img>
     </div>
   </div>

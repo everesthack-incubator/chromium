@@ -45,7 +45,7 @@ allowed when security level is
 `blink::ProtocolHandlerSecurityLevel::kExtensionFeatures`.
 
 It's also worth mentioned that Chromium defines its own
-[`kProtocolSafelist`] that includes some additional [decentralized schemes](https://github.com/whatwg/html/pull/5482)
+[`kProtocolSafelist`] that includes some additional [tomialized schemes](https://github.com/whatwg/html/pull/5482)
 that are not being explicitly defined in the mentioned.
 
 ## High-level architecture

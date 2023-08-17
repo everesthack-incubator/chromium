@@ -12,7 +12,7 @@
 #define FPL FILE_PATH_LITERAL
 
 #if BUILDFLAG(IS_MAC)
-#define PRODUCT_STRING "Decentr"
+#define PRODUCT_STRING "Tomi"
 #endif  // BUILDFLAG(IS_MAC)
 
 namespace chrome {
@@ -38,9 +38,9 @@ const char kChromeVersion[] = CHROME_VERSION_STRING;
 
 #if BUILDFLAG(IS_WIN)
 const base::FilePath::CharType kBrowserProcessExecutableName[] =
-    FPL("Decentr.exe");
+    FPL("Tomi.exe");
 const base::FilePath::CharType kHelperProcessExecutableName[] =
-    FPL("Decentr.exe");
+    FPL("Tomi.exe");
 #elif BUILDFLAG(IS_MAC)
 const base::FilePath::CharType kBrowserProcessExecutableName[] =
     FPL(PRODUCT_STRING);
@@ -52,7 +52,7 @@ const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("chrome");
 const base::FilePath::CharType kHelperProcessExecutableName[] =
     FPL("sandboxed_process");
 #elif BUILDFLAG(IS_POSIX)
-const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("Decentr");
+const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("Tomi");
 // Helper processes end up with a name of "exe" due to execing via
 // /proc/self/exe.  See bug 22703.
 const base::FilePath::CharType kHelperProcessExecutableName[] = FPL("exe");
@@ -60,20 +60,20 @@ const base::FilePath::CharType kHelperProcessExecutableName[] = FPL("exe");
 
 #if BUILDFLAG(IS_WIN)
 const base::FilePath::CharType kBrowserProcessExecutablePath[] =
-    FPL("Decentr.exe");
+    FPL("Tomi.exe");
 const base::FilePath::CharType kHelperProcessExecutablePath[] =
-    FPL("Decentr.exe");
+    FPL("Tomi.exe");
 #elif BUILDFLAG(IS_MAC)
 const base::FilePath::CharType kBrowserProcessExecutablePath[] =
     FPL(PRODUCT_STRING ".app/Contents/MacOS/" PRODUCT_STRING);
 const base::FilePath::CharType kHelperProcessExecutablePath[] =
     FPL(PRODUCT_STRING " Helper.app/Contents/MacOS/" PRODUCT_STRING " Helper");
 #elif BUILDFLAG(IS_ANDROID)
-const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("Decentr");
-const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("Decentr");
+const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("Tomi");
+const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("Tomi");
 #elif BUILDFLAG(IS_POSIX)
-const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("Decentr");
-const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("Decentr");
+const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("Tomi");
+const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("Tomi");
 #endif  // OS_*
 
 #if BUILDFLAG(IS_MAC)

@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="hy">
-<translation id="1016765312371154165">Decentr-ը ճիշտ չի փակվել:</translation>
+<translation id="1016765312371154165">Tomi-ը ճիշտ չի փակվել:</translation>
 <translation id="130631256467250065">Ձեր փոփոխություններն ուժի մեջ կմտնեն հաջորդ անգամ, երբ վերագործարկեք սարքը:</translation>
-<translation id="1635457557763038537">Ձեր փոփոխություններն ուժի մեջ կմտնեն հաջորդ անգամ Decentr-ը գործարկելիս։</translation>
-<translation id="2447485272386224171">Decentr-ը ստեղծվել է <ph name="BEGIN_LINK_CHROMIUM" />Decentr<ph name="END_LINK_CHROMIUM" /> նախագծի և այլ <ph name="BEGIN_LINK_OSS" />բաց կոդով ծրագրակազմերի<ph name="END_LINK_OSS" /> հիման վրա։</translation>
-<translation id="2588322182880276190">Decentr-ի պատկերանշան</translation>
+<translation id="1635457557763038537">Ձեր փոփոխություններն ուժի մեջ կմտնեն հաջորդ անգամ Tomi-ը գործարկելիս։</translation>
+<translation id="2447485272386224171">Tomi-ը ստեղծվել է <ph name="BEGIN_LINK_CHROMIUM" />Tomi<ph name="END_LINK_CHROMIUM" /> նախագծի և այլ <ph name="BEGIN_LINK_OSS" />բաց կոդով ծրագրակազմերի<ph name="END_LINK_OSS" /> հիման վրա։</translation>
+<translation id="2588322182880276190">Tomi-ի պատկերանշան</translation>
 <translation id="3444832043240812445">Այս էջը ցույց կտա միայն վերջին խափանումների մասին տեղեկությունները, եթե <ph name="BEGIN_LINK" />միացնեք խափանման հաշվետվությունների ուղարկումը<ph name="END_LINK" />:</translation>
 <translation id="3875312571075912821">Հրապատի կամ հակավիրուսային ծրագրի կարգավորումներում
-       թույլատրեք Decentr-ին միանալ ցանցին:</translation>
-<translation id="5005121315113832363">Այս էջն արգելափակվել է Decentr-ի կողմից</translation>
+       թույլատրեք Tomi-ին միանալ ցանցին:</translation>
+<translation id="5005121315113832363">Այս էջն արգելափակվել է Tomi-ի կողմից</translation>
 <translation id="6011049234605203654">Անցեք
-          Decentr-ի ընտրացանկ &gt;
+          Tomi-ի ընտրացանկ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -19,7 +19,7 @@
           <ph name="PROXIES_TITLE" />
           և համոզվեք, որ նշված է «առանց պրոքսի-սերվերի» կամ «անմիջական» կարգավուոմը:</translation>
 <translation id="6341737370356890233">Անցեք
-          Decentr ընտրացանկ &gt;
+          Tomi ընտրացանկ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -27,7 +27,7 @@
           Եթե խնդիրը չվերանա, խորհուրդ ենք տալիս կրկին ընտրել այս տարբերակը՝
           արդյունավետությունը բարձրացնելու համար:</translation>
 <translation id="6855094794438142393">Անցեք
-          Decentr-ի ընտրացանկ &gt;
+          Tomi-ի ընտրացանկ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -36,7 +36,7 @@
           &gt;
           LAN-ի կարգավորումներ
           և ապանշեք «Օգտագործել պրոքսի սերվեր LAN-ի համար»:</translation>
-<translation id="7230956101631259640">Դուք դիտում եք Decentr-ի անվտանգ էջ</translation>
+<translation id="7230956101631259640">Դուք դիտում եք Tomi-ի անվտանգ էջ</translation>
 <translation id="8187289872471304532">Անցեք
           Applications &gt; System Preferences &gt; Network &gt; Advanced &gt; Proxies
           և ապընտեք բոլոր ընտրված պրոքսի-սերվերները:</translation>

@@ -16,7 +16,7 @@
       "last_hours": "in the last 24-hours",
       "no_change": "No change"
     },
-    "decentr_to_usd": "Decentr to US Dollar",
+    "tomi_to_usd": "Tomi to US Dollar",
     "no_chart_data": "No DEC Rate data"
   },
   "hub_dashboard": {
@@ -111,7 +111,7 @@
   },
   "hub_profile_card": {
     "unknown_author": "Unknown author",
-    "follow": "Follow on Decentr",
+    "follow": "Follow on Tomi",
     "following": "Following",
     "posts": "Posts",
     "topup": "Top-up author’s wallet"
@@ -183,7 +183,7 @@
     "delete": {
       "success": "Post has been removed successfully"
     },
-    "not_exists": "Post removed due to breach of Decentr post policy."
+    "not_exists": "Post removed due to breach of Tomi post policy."
   },
   "posts": {
     "new": "New post",

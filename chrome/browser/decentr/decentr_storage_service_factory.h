@@ -8,24 +8,24 @@ namespace user_prefs {
 class PrefRegistrySyncable;
 }
 
-namespace decentr {
+namespace tomi {
 
-class DecentrStorageService;
+class TomiStorageService;
 
-class DecentrStorageServiceFactory
+class TomiStorageServiceFactory
     : public BrowserContextKeyedServiceFactory {
 public:
-    DecentrStorageServiceFactory(const DecentrStorageServiceFactory&) = delete;
-    DecentrStorageServiceFactory& operator=( const DecentrStorageServiceFactory&) = delete;
+    TomiStorageServiceFactory(const TomiStorageServiceFactory&) = delete;
+    TomiStorageServiceFactory& operator=( const TomiStorageServiceFactory&) = delete;
 
-    static DecentrStorageService* GetForBrowserContext(content::BrowserContext* context);
-    static DecentrStorageServiceFactory* GetInstance();
+    static TomiStorageService* GetForBrowserContext(content::BrowserContext* context);
+    static TomiStorageServiceFactory* GetInstance();
 
 private:
-    friend struct base::DefaultSingletonTraits<DecentrStorageServiceFactory>;
+    friend struct base::DefaultSingletonTraits<TomiStorageServiceFactory>;
 
-    DecentrStorageServiceFactory();
-    ~DecentrStorageServiceFactory() override;
+    TomiStorageServiceFactory();
+    ~TomiStorageServiceFactory() override;
 
     // BrowserContextKeyedServiceFactory:
     KeyedService* BuildServiceInstanceFor(content::BrowserContext* context) const override;
@@ -33,6 +33,6 @@ private:
     bool ServiceIsCreatedWithBrowserContext() const override;
 };
 
-}  // namespace decentr
+}  // namespace tomi
 
 #endif  // CHROME_BROWSER_DECENTR_DECENTR_STORAGE_SERVICE_FACTORY_H_

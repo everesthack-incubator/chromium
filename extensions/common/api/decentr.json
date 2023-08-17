@@ -1,7 +1,7 @@
 [
   {
-    "namespace": "decentr",
-    "description": "Decentr local storage",
+    "namespace": "tomi",
+    "description": "Tomi local storage",
     "events": [
       {
         "name": "onChanged",

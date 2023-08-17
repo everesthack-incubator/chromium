@@ -3,10 +3,10 @@ import("//extensions/buildflags/buildflags.gni")
 assert(enable_extensions,
        "Cannot depend on extensions because enable_extensions=false.")
 
-source_set("decentr") {
+source_set("tomi") {
   sources = [
-    "decentr_api.cc",
-    "decentr_api.h"
+    "tomi_api.cc",
+    "tomi_api.h"
   ]
 
   deps = [

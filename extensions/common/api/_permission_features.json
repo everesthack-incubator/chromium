@@ -752,9 +752,5 @@
   "webRequestAuthProvider": {
     "channel": "stable",
     "extension_types": ["extension"]
-  },
-  "decentr": {
-    "channel": "stable",
-    "extension_types": ["extension", "legacy_packaged_app", "platform_app"]
-  }
+  }  
 }

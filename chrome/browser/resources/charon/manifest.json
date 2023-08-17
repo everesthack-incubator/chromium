@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Charon",
   "description": "Charon Browser Extension",
-  "author": "Decentr",
+  "author": "Tomi",
   "content_security_policy": "script-src 'self' 'wasm-eval' https://ssl.google-analytics.com https://beacon-v2.helpscout.net; object-src 'self'",
   "icons": {
     "16": "assets/icons/16.png",
@@ -51,7 +51,7 @@
         "scripts/content-api-script.js"
       ],
       "matches": [
-        "*://*.decentr.net/*"
+        "*://*.tomi.net/*"
       ],
       "run_at": "document_start"
     }

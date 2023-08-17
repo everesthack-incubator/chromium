@@ -28,11 +28,11 @@ namespace {
 // the encryption keyword.  So as to not lose encrypted data when system
 // locale changes we DO NOT LOCALIZE.
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
-const char kDefaultServiceName[] = "Decentr Safe Storage";
-const char kDefaultAccountName[] = "Decentr";
+const char kDefaultServiceName[] = "Tomi Safe Storage";
+const char kDefaultAccountName[] = "Tomi";
 #else
-const char kDefaultServiceName[] = "Decentr Safe Storage";
-const char kDefaultAccountName[] = "Decentr";
+const char kDefaultServiceName[] = "Tomi Safe Storage";
+const char kDefaultAccountName[] = "Tomi";
 #endif
 
 // Generates a random password and adds it to the Keychain.  The added password

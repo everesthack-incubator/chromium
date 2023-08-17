@@ -2,389 +2,389 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="zu">
 <translation id="1026101648481255140">Qalisa Kabusha Ukufaka</translation>
-<translation id="1029669172902658969">Qalisa kabusha ukuze ubuyekeze i-&amp;DecentrOS</translation>
+<translation id="1029669172902658969">Qalisa kabusha ukuze ubuyekeze i-&amp;TomiOS</translation>
 <translation id="1065672644894730302">Okuncamelayo kwakho akukwazi ukufundwa.
 
 Ezinye izici kungenzeka zingabi khona futhi izinguquko kokuncamelayo ngeke zize zilondolozwe.</translation>
-<translation id="1098170124587656448">I-Decentr ingasiza ukukugcina uphephile kusukela ekuphulweni kwedatha, kuzandiso ezimbi, nokuningi</translation>
-<translation id="1104942323762546749">I-Decentr ifuna ukuthumela amaphasiwedi akho. Thayipha iphasiwedi yakho ye-Windows ukuze uvumele lokhu.</translation>
-<translation id="113122355610423240">I-Decentr iyisiphequluli sakho esizenzakalelayo</translation>
-<translation id="1131805035311359397">Ukuze uhlole uma ngabe amaphasiwedi akho aphephile yini kusukela ekuphulweni kwedatha nakwezinye izinkinga zokuvikela, <ph name="BEGIN_LINK" />ngena ngemvume ku-Decentr<ph name="END_LINK" />.</translation>
-<translation id="1185134272377778587">Mayelana ne-Decentr</translation>
+<translation id="1098170124587656448">I-Tomi ingasiza ukukugcina uphephile kusukela ekuphulweni kwedatha, kuzandiso ezimbi, nokuningi</translation>
+<translation id="1104942323762546749">I-Tomi ifuna ukuthumela amaphasiwedi akho. Thayipha iphasiwedi yakho ye-Windows ukuze uvumele lokhu.</translation>
+<translation id="113122355610423240">I-Tomi iyisiphequluli sakho esizenzakalelayo</translation>
+<translation id="1131805035311359397">Ukuze uhlole uma ngabe amaphasiwedi akho aphephile yini kusukela ekuphulweni kwedatha nakwezinye izinkinga zokuvikela, <ph name="BEGIN_LINK" />ngena ngemvume ku-Tomi<ph name="END_LINK" />.</translation>
+<translation id="1185134272377778587">Mayelana ne-Tomi</translation>
 <translation id="1203500561924088507">Siyabonga ngokufaka. Kufanele uqale kabusha ibhrawuza yakho ngaphambi kokusebenzisa i-<ph name="BUNDLE_NAME" />.</translation>
-<translation id="1231839967188101156">Uma ivuliwe, i-Decentr ikhulula inkumbulo kumathebhu angasebenzi. Lokhu kunikeza amathebhu asebenzayo namanye ama-app izinsiza zekhompyutha ezengeziwe futhi kugcina i-Decentr ishesha. Amathebhu akho angasebenzi aphinde asebenze ngokuzenzakalelayo uma ubuyela kuwo. <ph name="BEGIN_LINK" />Funda kabanzi<ph name="END_LINK" /></translation>
-<translation id="1261119230216066228">Isilondolozi Senkumbulo Senze i-Decentr Yashesha</translation>
-<translation id="1315551408014407711">Setha iphrofayela yakho entsha ye-Decentr</translation>
-<translation id="1396446129537741364">I-Decentr izama ukubonisa amaphasiwedi.</translation>
-<translation id="1414495520565016063">Ungene ngemvume ku-Decentr!</translation>
-<translation id="1493803763272692301">Ungajabulela okuningi kwe-Decentr</translation>
-<translation id="1524282610922162960">Yabelana ngethebhu ye-Decentr</translation>
-<translation id="1553461853655228091">I-Decentr idinga imvume yokufinyelela kwikhamera yakho ukudala imephu engu-3D yendawo yakho ekuzungezile</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Umlawuli wakho udinga ukuthi uqalise kabusha i-Decentr ukuze kusetshenziswe isibuyekezo}=1{Umlawuli wakho udinga ukuthi uqalise kabusha i-Decentr ukuze kusetshenziswe isibuyekezo. Iwindi lakho le-Incognito ngeke liphinde livuleke.}one{Umlawuli wakho udinga ukuthi uqalise kabusha i-Decentr ukuze kusetshenziswe isibuyekezo. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}other{Umlawuli wakho udinga ukuthi uqalise kabusha i-Decentr ukuze kusetshenziswe isibuyekezo. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}}</translation>
-<translation id="1625909126243026060">Buyekeza izilawuli eziyinhloko zobumfihlo nokuvikeleka ku-Decentr</translation>
-<translation id="1632539827495546968">Uma ufuna ukusebenzisa le akhawunti kanye kuphela, ungasebenzisa <ph name="GUEST_LINK_BEGIN" />Imodi Yesivakashi<ph name="GUEST_LINK_END" /> kwibhrawuza ye-Decentr. Uma ufuna ukwengeza i-akhawunti yothile, <ph name="LINK_BEGIN" />engeza umuntu omusha<ph name="LINK_END" /> ku-<ph name="DEVICE_TYPE" /> yakho.
+<translation id="1231839967188101156">Uma ivuliwe, i-Tomi ikhulula inkumbulo kumathebhu angasebenzi. Lokhu kunikeza amathebhu asebenzayo namanye ama-app izinsiza zekhompyutha ezengeziwe futhi kugcina i-Tomi ishesha. Amathebhu akho angasebenzi aphinde asebenze ngokuzenzakalelayo uma ubuyela kuwo. <ph name="BEGIN_LINK" />Funda kabanzi<ph name="END_LINK" /></translation>
+<translation id="1261119230216066228">Isilondolozi Senkumbulo Senze i-Tomi Yashesha</translation>
+<translation id="1315551408014407711">Setha iphrofayela yakho entsha ye-Tomi</translation>
+<translation id="1396446129537741364">I-Tomi izama ukubonisa amaphasiwedi.</translation>
+<translation id="1414495520565016063">Ungene ngemvume ku-Tomi!</translation>
+<translation id="1493803763272692301">Ungajabulela okuningi kwe-Tomi</translation>
+<translation id="1524282610922162960">Yabelana ngethebhu ye-Tomi</translation>
+<translation id="1553461853655228091">I-Tomi idinga imvume yokufinyelela kwikhamera yakho ukudala imephu engu-3D yendawo yakho ekuzungezile</translation>
+<translation id="1607715478322902680">{COUNT,plural, =0{Umlawuli wakho udinga ukuthi uqalise kabusha i-Tomi ukuze kusetshenziswe isibuyekezo}=1{Umlawuli wakho udinga ukuthi uqalise kabusha i-Tomi ukuze kusetshenziswe isibuyekezo. Iwindi lakho le-Incognito ngeke liphinde livuleke.}one{Umlawuli wakho udinga ukuthi uqalise kabusha i-Tomi ukuze kusetshenziswe isibuyekezo. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}other{Umlawuli wakho udinga ukuthi uqalise kabusha i-Tomi ukuze kusetshenziswe isibuyekezo. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}}</translation>
+<translation id="1625909126243026060">Buyekeza izilawuli eziyinhloko zobumfihlo nokuvikeleka ku-Tomi</translation>
+<translation id="1632539827495546968">Uma ufuna ukusebenzisa le akhawunti kanye kuphela, ungasebenzisa <ph name="GUEST_LINK_BEGIN" />Imodi Yesivakashi<ph name="GUEST_LINK_END" /> kwibhrawuza ye-Tomi. Uma ufuna ukwengeza i-akhawunti yothile, <ph name="LINK_BEGIN" />engeza umuntu omusha<ph name="LINK_END" /> ku-<ph name="DEVICE_TYPE" /> yakho.
 
-Izimvume ozinikezile kakade amawebhusayithi nama-app zingase zisebenze kule akhawunti. Ungakwazi nokuphatha ama-Decentr Account wakho kokuthi <ph name="SETTINGS_LINK_BEGIN" />Amasethingi<ph name="SETTINGS_LINK_END" />.</translation>
+Izimvume ozinikezile kakade amawebhusayithi nama-app zingase zisebenze kule akhawunti. Ungakwazi nokuphatha ama-Tomi Account wakho kokuthi <ph name="SETTINGS_LINK_BEGIN" />Amasethingi<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1640672724030957280">Iyadawuniloda...</translation>
-<translation id="1708666629004767631">Kukhona inguqulo entsha, ephephile ye-Decentr etholakalayo.</translation>
-<translation id="17264556997921157">Ungabona futhi ususe izihloko zesayithi ongaba nentshisekelo kuzo ezisetshenziswa ukukubonisa izikhangiso. I-Decentr izolinganisa ongaba nentshisekelo kukho ngokusekelwe kumlando wakho wakamuva wokubhrawuza.</translation>
-<translation id="1774152462503052664">Vumela i-Decentr ukuthi isebenze ngemuva</translation>
-<translation id="1779356040007214683">Ukuze senze i-Decentr ivikeleke, sikhubaze ezinye izandiso ezingafakwanga kuhlu lwe-<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> futhi okungenzeka zingezwe ngaphandle kolwazi lakho.</translation>
-<translation id="1808667845054772817">Phinda ufake i-Decentr</translation>
-<translation id="185970820835152459">Ungaphatha ama-akhawunti we-Decentr wakho angene ngemvume. Ama-akhawunti wakho we-Decentr asetshenziselwe i-browser ye-Decentr, i-Play Store, i-Gmail, nokuningi. Uma ufuna ukungeza i-akhawunti yomuntu othile, njengelungu lomndeni, engeza umuntu omusha ku-<ph name="DEVICE_TYPE" /> yakho kunalokho. <ph name="LINK_BEGIN" />Funda kabanzi<ph name="LINK_END" /></translation>
-<translation id="1863308913976887472">Amasayithi angagcina ulwazi nge-Decentr mayelana nezintshisekelo zakho. Ngokwesibonelo, uma uvakashela isayithi ukuze uthenge izicathulo zomjaho webanga elide, isayithi lingachaza intshisekelo yakho njengokugijima umjaho. Kamuva, uma uvakashela isayithi elihlukile ukuze ubhalisele umjaho, lelo sayithi lingakubonisa isikhangiso sezicathulo zokugijima ezisekelwe kuzintshisekelo zakho.</translation>
-<translation id="1881322772814446296">Ungena ngemvume nge-akhawunti ephethwe futhi unikezele ukuqondiswa kokulawulwa kwayo ngaphezulu kwephrofayela yakho ye-Decentr. Idatha yakho ye-Decentr, efana nezinhlelo zakho zokusebenza, amabhukhimakhi, umlando, amaphasiwedi, nezinye izilungiselelo zizoboshelwa unaphakade ku-<ph name="USER_NAME" />. Uzokwazi ukususa le datha nge-Ideshibhodi yama-Akhawunti we-Decentr, kodwa ngeke uze ukwazi ukuhlobanisa le datha nenye i-akhawunti. Ungadala ngokukhetha iphrofayela entsha ukuze ugcine idatha yakho ekhona ye-Decentr ihlukile. <ph name="LEARN_MORE" /></translation>
-<translation id="1911763535808217981">Ngokuvala lokhu, ungangena ngemvume kumasayithi e-Decentr njenge-Gmail ngaphandle kokungena ngemvume ku-Decentr</translation>
-<translation id="1929939181775079593">I-Decentr ayiphenduli. Qalisa kabusha manje?</translation>
-<translation id="193439633299369377">I-DecentrOS idinga ukuphinda iqaliswe ukuze kusetshenziswe isibuyekezo.</translation>
-<translation id="1940680973325097484">Uma ufuna ukusebenzisa le akhawunti kanye kuphela, ungasebenzisa Imodi Yesivakashi kwibhrawuza ye-Decentr. Uma ufuna ukwengeza i-akhawunti yothile, <ph name="LINK_BEGIN" />engeza umuntu omusha<ph name="LINK_END" /> ku-<ph name="DEVICE_TYPE" /> yakho.
+<translation id="1708666629004767631">Kukhona inguqulo entsha, ephephile ye-Tomi etholakalayo.</translation>
+<translation id="17264556997921157">Ungabona futhi ususe izihloko zesayithi ongaba nentshisekelo kuzo ezisetshenziswa ukukubonisa izikhangiso. I-Tomi izolinganisa ongaba nentshisekelo kukho ngokusekelwe kumlando wakho wakamuva wokubhrawuza.</translation>
+<translation id="1774152462503052664">Vumela i-Tomi ukuthi isebenze ngemuva</translation>
+<translation id="1779356040007214683">Ukuze senze i-Tomi ivikeleke, sikhubaze ezinye izandiso ezingafakwanga kuhlu lwe-<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> futhi okungenzeka zingezwe ngaphandle kolwazi lakho.</translation>
+<translation id="1808667845054772817">Phinda ufake i-Tomi</translation>
+<translation id="185970820835152459">Ungaphatha ama-akhawunti we-Tomi wakho angene ngemvume. Ama-akhawunti wakho we-Tomi asetshenziselwe i-browser ye-Tomi, i-Play Store, i-Gmail, nokuningi. Uma ufuna ukungeza i-akhawunti yomuntu othile, njengelungu lomndeni, engeza umuntu omusha ku-<ph name="DEVICE_TYPE" /> yakho kunalokho. <ph name="LINK_BEGIN" />Funda kabanzi<ph name="LINK_END" /></translation>
+<translation id="1863308913976887472">Amasayithi angagcina ulwazi nge-Tomi mayelana nezintshisekelo zakho. Ngokwesibonelo, uma uvakashela isayithi ukuze uthenge izicathulo zomjaho webanga elide, isayithi lingachaza intshisekelo yakho njengokugijima umjaho. Kamuva, uma uvakashela isayithi elihlukile ukuze ubhalisele umjaho, lelo sayithi lingakubonisa isikhangiso sezicathulo zokugijima ezisekelwe kuzintshisekelo zakho.</translation>
+<translation id="1881322772814446296">Ungena ngemvume nge-akhawunti ephethwe futhi unikezele ukuqondiswa kokulawulwa kwayo ngaphezulu kwephrofayela yakho ye-Tomi. Idatha yakho ye-Tomi, efana nezinhlelo zakho zokusebenza, amabhukhimakhi, umlando, amaphasiwedi, nezinye izilungiselelo zizoboshelwa unaphakade ku-<ph name="USER_NAME" />. Uzokwazi ukususa le datha nge-Ideshibhodi yama-Akhawunti we-Tomi, kodwa ngeke uze ukwazi ukuhlobanisa le datha nenye i-akhawunti. Ungadala ngokukhetha iphrofayela entsha ukuze ugcine idatha yakho ekhona ye-Tomi ihlukile. <ph name="LEARN_MORE" /></translation>
+<translation id="1911763535808217981">Ngokuvala lokhu, ungangena ngemvume kumasayithi e-Tomi njenge-Gmail ngaphandle kokungena ngemvume ku-Tomi</translation>
+<translation id="1929939181775079593">I-Tomi ayiphenduli. Qalisa kabusha manje?</translation>
+<translation id="193439633299369377">I-TomiOS idinga ukuphinda iqaliswe ukuze kusetshenziswe isibuyekezo.</translation>
+<translation id="1940680973325097484">Uma ufuna ukusebenzisa le akhawunti kanye kuphela, ungasebenzisa Imodi Yesivakashi kwibhrawuza ye-Tomi. Uma ufuna ukwengeza i-akhawunti yothile, <ph name="LINK_BEGIN" />engeza umuntu omusha<ph name="LINK_END" /> ku-<ph name="DEVICE_TYPE" /> yakho.
 
-Izimvume ozinikezile kakade amawebhusayithi nama-app zingase zisebenze kule akhawunti. Ungakwazi nokuphatha ama-Decentr Account wakho kokuthi <ph name="SETTINGS_LINK_BEGIN" />Amasethingi<ph name="SETTINGS_LINK_END" />.</translation>
+Izimvume ozinikezile kakade amawebhusayithi nama-app zingase zisebenze kule akhawunti. Ungakwazi nokuphatha ama-Tomi Account wakho kokuthi <ph name="SETTINGS_LINK_BEGIN" />Amasethingi<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1953553007165777902">Iyadawuniloda... Kusele imizuzu engu-<ph name="MINUTE" /></translation>
-<translation id="1966382378801805537">I-Decentr ayikwazi ukunquma noma isethe isiphequluli esizenzakalelayo</translation>
-<translation id="2008474315282236005">Lokhu kuzosusa into engu-1 kusuka kule divayisi. Ukuze usebenzise futhi idatha yakho ngokuhamba kwesikhathi, ngena ngemvume ku-Decentr njengo-<ph name="USER_EMAIL" />.</translation>
+<translation id="1966382378801805537">I-Tomi ayikwazi ukunquma noma isethe isiphequluli esizenzakalelayo</translation>
+<translation id="2008474315282236005">Lokhu kuzosusa into engu-1 kusuka kule divayisi. Ukuze usebenzise futhi idatha yakho ngokuhamba kwesikhathi, ngena ngemvume ku-Tomi njengo-<ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Ukufakwa kwehlulekile. Sicela uzame futhi.</translation>
-<translation id="2020032459870799438">Ukuze uhlole uma ngabe amanye amaphasiwedi akho aphephile yini kusukela ekuphulweni kwedatha nezinye izinkinga zokuvikela, <ph name="BEGIN_LINK" />ngena ngemvume ku-Decentr<ph name="END_LINK" />.</translation>
-<translation id="2049376729098081731">Khetha ukuthi ufake phakathi umlando we-Decentr ukuze uthole umuzwa womuntu siqu kumasevisi e-Decentr</translation>
-<translation id="2088953378266246249">Ulwazi olumayelana nendlela i-Decentr ephatha ngayo izitifiketi zayo zempande</translation>
-<translation id="2174178932569897599">Yenza i-Decentr ngokwezifiso</translation>
+<translation id="2020032459870799438">Ukuze uhlole uma ngabe amanye amaphasiwedi akho aphephile yini kusukela ekuphulweni kwedatha nezinye izinkinga zokuvikela, <ph name="BEGIN_LINK" />ngena ngemvume ku-Tomi<ph name="END_LINK" />.</translation>
+<translation id="2049376729098081731">Khetha ukuthi ufake phakathi umlando we-Tomi ukuze uthole umuzwa womuntu siqu kumasevisi e-Tomi</translation>
+<translation id="2088953378266246249">Ulwazi olumayelana nendlela i-Tomi ephatha ngayo izitifiketi zayo zempande</translation>
+<translation id="2174178932569897599">Yenza i-Tomi ngokwezifiso</translation>
 <translation id="2174917724755363426">Ukufaka akuqediwe. Uqinisekile ufuna ukukhansela?</translation>
-<translation id="2185166961232948079">I-Decentr - Inethiwekhi Yokungena ngemvume - <ph name="PAGE_TITLE" /></translation>
-<translation id="2241627712206172106">Uma wabelana ngekhompyutha, abangani nomndeni bangadlulisa amehlo ngokuhlukile baphinde basethe i-Decentr ngendlela abafuna ngayo nje.</translation>
-<translation id="2313870531055795960">Kuhlola ama-URL anohlu lwamasayithi angaphephile agcinwe ku-Decentr. Uma isayithi lizama ukuntshontsha iphasiwedi yakho, noma uma ulanda ifayela eliyingozi, i-Decentr ingathumela nama-URL, kuhlanganise nokuthile okuqukethwe kulelo khasi, Ekuphequluleni Okuphephile.</translation>
-<translation id="2343156876103232566">Ukuze uthumele inombolo kusukela lapha kufoni yakho ye-Android, ngena ngemvume ku-Decentr kuwo womabili amadivayisi.</translation>
-<translation id="2347108572062610441">Lesi sandiso siguqule ukuthi yiliphi ikhasi eliboniswayo uma uqala i-Decentr.</translation>
+<translation id="2185166961232948079">I-Tomi - Inethiwekhi Yokungena ngemvume - <ph name="PAGE_TITLE" /></translation>
+<translation id="2241627712206172106">Uma wabelana ngekhompyutha, abangani nomndeni bangadlulisa amehlo ngokuhlukile baphinde basethe i-Tomi ngendlela abafuna ngayo nje.</translation>
+<translation id="2313870531055795960">Kuhlola ama-URL anohlu lwamasayithi angaphephile agcinwe ku-Tomi. Uma isayithi lizama ukuntshontsha iphasiwedi yakho, noma uma ulanda ifayela eliyingozi, i-Tomi ingathumela nama-URL, kuhlanganise nokuthile okuqukethwe kulelo khasi, Ekuphequluleni Okuphephile.</translation>
+<translation id="2343156876103232566">Ukuze uthumele inombolo kusukela lapha kufoni yakho ye-Android, ngena ngemvume ku-Tomi kuwo womabili amadivayisi.</translation>
+<translation id="2347108572062610441">Lesi sandiso siguqule ukuthi yiliphi ikhasi eliboniswayo uma uqala i-Tomi.</translation>
 <translation id="2359808026110333948">Qhubeka</translation>
-<translation id="2384373936468275798">I-DecentrOS ayikwazanga ukuvumelanisa idatha yakho ngoba imininingwane yokungena ngemvume kwi-akhawunti yakho iphelelwe isikhathi.</translation>
-<translation id="2396765026452590966">Isandiso esingu-"<ph name="EXTENSION_NAME" />" siguqule ukuthi yiliphi ikhasi eliboniswayo uma uqala i-Decentr.</translation>
-<translation id="2401032172288869980">I-Decentr idinga izimvume zekhamera nemakrofoni kule sayithi</translation>
-<translation id="2483889755041906834">Ku-Decentr</translation>
+<translation id="2384373936468275798">I-TomiOS ayikwazanga ukuvumelanisa idatha yakho ngoba imininingwane yokungena ngemvume kwi-akhawunti yakho iphelelwe isikhathi.</translation>
+<translation id="2396765026452590966">Isandiso esingu-"<ph name="EXTENSION_NAME" />" siguqule ukuthi yiliphi ikhasi eliboniswayo uma uqala i-Tomi.</translation>
+<translation id="2401032172288869980">I-Tomi idinga izimvume zekhamera nemakrofoni kule sayithi</translation>
+<translation id="2483889755041906834">Ku-Tomi</translation>
 <translation id="2485422356828889247">Khipha</translation>
-<translation id="2560420686485554789">I-Decentr idinga ukufinyelela kusitoreji ukuze ilande amafayela</translation>
-<translation id="2572494885440352020">Isisizi se-Decentr</translation>
-<translation id="2583187216237139145">Noma iyiphi idatha ye-Decentr ekhiqizwa ngesikhathi sokusetshenziswa kwale phrofayela (efana nokudalwa kwamabhukhimakhi, umlando, amaphasiwedi, namanye amasethingi) ingasuswa umlawuli wephrofayela yomsebenzi. <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Qhubeka usebenzisa i-Decentr</translation>
-<translation id="2648074677641340862">Iphutha le sistimu yokusebenza livele ngesikhathi sokufaka. Sicela uphinde ulande i-Decentr.</translation>
-<translation id="2661879430930417727">Uma wabelana ngedivayisi, abangane nomndeni bangaphequlula ngokuhlukile baphinde basethe i-Decentr ngendlela abafuna ngayo</translation>
-<translation id="2669853942967761236">I-Decentr ivimbele leli fayela elifakwe kungobo yomlando ngoba ingase ifihle uhlelo olungayilungele ikhompyutha</translation>
-<translation id="268602741124540128">Siyakwamukela ku-Decentr, <ph name="ACCOUNT_FIRST_NAME" /></translation>
-<translation id="2711502716910134313">Ithebhu le-Decentr</translation>
-<translation id="2718390899429598676">Ngokuvikela okungeziwe, i-Decentr izobethela idatha yakho.</translation>
+<translation id="2560420686485554789">I-Tomi idinga ukufinyelela kusitoreji ukuze ilande amafayela</translation>
+<translation id="2572494885440352020">Isisizi se-Tomi</translation>
+<translation id="2583187216237139145">Noma iyiphi idatha ye-Tomi ekhiqizwa ngesikhathi sokusetshenziswa kwale phrofayela (efana nokudalwa kwamabhukhimakhi, umlando, amaphasiwedi, namanye amasethingi) ingasuswa umlawuli wephrofayela yomsebenzi. <ph name="LEARN_MORE" /></translation>
+<translation id="2592940277904433508">Qhubeka usebenzisa i-Tomi</translation>
+<translation id="2648074677641340862">Iphutha le sistimu yokusebenza livele ngesikhathi sokufaka. Sicela uphinde ulande i-Tomi.</translation>
+<translation id="2661879430930417727">Uma wabelana ngedivayisi, abangane nomndeni bangaphequlula ngokuhlukile baphinde basethe i-Tomi ngendlela abafuna ngayo</translation>
+<translation id="2669853942967761236">I-Tomi ivimbele leli fayela elifakwe kungobo yomlando ngoba ingase ifihle uhlelo olungayilungele ikhompyutha</translation>
+<translation id="268602741124540128">Siyakwamukela ku-Tomi, <ph name="ACCOUNT_FIRST_NAME" /></translation>
+<translation id="2711502716910134313">Ithebhu le-Tomi</translation>
+<translation id="2718390899429598676">Ngokuvikela okungeziwe, i-Tomi izobethela idatha yakho.</translation>
 <translation id="2770231113462710648">Guqula isiphequluli esizenzakalelayo sibe yi-:</translation>
 <translation id="2799223571221894425">Qalisa kabusha</translation>
-<translation id="2837693172913560447">Lokhu kuzodalela u-<ph name="USER_EMAIL_ADDRESS" /> iphrofayela entsha ye-Decentr</translation>
-<translation id="2847479871509788944">Susa kusuka  ku-Decentr...</translation>
-<translation id="2850691299438350830">Kukugcina uphephile ku-Decentr futhi kungase kusetshenziswe ukuthuthukisa ukuvikeleka kwakho kwamanye ama-app we-Decentr lapho ungene ngemvume</translation>
+<translation id="2837693172913560447">Lokhu kuzodalela u-<ph name="USER_EMAIL_ADDRESS" /> iphrofayela entsha ye-Tomi</translation>
+<translation id="2847479871509788944">Susa kusuka  ku-Tomi...</translation>
+<translation id="2850691299438350830">Kukugcina uphephile ku-Tomi futhi kungase kusetshenziswe ukuthuthukisa ukuvikeleka kwakho kwamanye ama-app we-Tomi lapho ungene ngemvume</translation>
 <translation id="2885378588091291677">Isiphathi somsebenzi</translation>
-<translation id="2910007522516064972">Mayelana ne-&amp;Decentr</translation>
+<translation id="2910007522516064972">Mayelana ne-&amp;Tomi</translation>
 <translation id="2915996080311180594">Qala Kabusha Ngemuva Kwesikhathi</translation>
 <translation id="2928420929544864228">Ukufaka kuqedile.</translation>
-<translation id="2977470724722393594">I-Decentr isesikhathini samanje</translation>
-<translation id="2977506796191543575">Uma isayithi lizama ukuntshontsha iphasiwedi yakho, noma uma ulanda ifayela eliyingozi, i-Decentr ingathumela nama-URL, kuhlanganise nokuthile okuqukethwe kulelo khasi, Ekuphequluleni Okuphephile</translation>
-<translation id="2983934633046890458">I-Decentr izama ukuhlela amaphasiwedi.</translation>
-<translation id="3021964162552004083">{NUM_DEVICES,plural, =1{I-Decentr ixhumeke kudivayisi ye-HID}one{I-Decentr ixhumeke kumadivayisi we-HID}other{I-Decentr ixhumeke kumadivayisi we-HID}}</translation>
-<translation id="3032706164202344641">I-Decentr ayikwazi ukuhlola iphasiwedi yakho. Zama futhi emuva kwesikhathi.</translation>
-<translation id="3032787606318309379">Ingeza ku-Decentr...</translation>
+<translation id="2977470724722393594">I-Tomi isesikhathini samanje</translation>
+<translation id="2977506796191543575">Uma isayithi lizama ukuntshontsha iphasiwedi yakho, noma uma ulanda ifayela eliyingozi, i-Tomi ingathumela nama-URL, kuhlanganise nokuthile okuqukethwe kulelo khasi, Ekuphequluleni Okuphephile</translation>
+<translation id="2983934633046890458">I-Tomi izama ukuhlela amaphasiwedi.</translation>
+<translation id="3021964162552004083">{NUM_DEVICES,plural, =1{I-Tomi ixhumeke kudivayisi ye-HID}one{I-Tomi ixhumeke kumadivayisi we-HID}other{I-Tomi ixhumeke kumadivayisi we-HID}}</translation>
+<translation id="3032706164202344641">I-Tomi ayikwazi ukuhlola iphasiwedi yakho. Zama futhi emuva kwesikhathi.</translation>
+<translation id="3032787606318309379">Ingeza ku-Tomi...</translation>
 <translation id="3038232873781883849">Ilinde ukufaka...</translation>
-<translation id="3068515742935458733">Siza ukwenza i-Decentr ibe ngcono ngokuthumela imibiko yokuphahlazeka ne-<ph name="UMA_LINK" /> ku-Decentr</translation>
-<translation id="3101560983689755071">Umlando wakho wokubhrawuza uthinta izikhangiso ozibonayo kanye nezinto ozishisakalelayo njengoba kulinganiselwa ngezansi. Ukuze ivikele ubumfihlo bakho, i-Decentr isula ngokuzenzakalelayo izintshisekelo zakho njalo ngenyanga. Izintshisekelo zingavuseleleka ngaphandle kwalapho uma uzisusa.</translation>
-<translation id="3103660991484857065">Isifaki sihlulekile ukungaminyanisi ingobo yomlando. Sicela ulande i-Decentr futhi.</translation>
-<translation id="3130323860337406239">I-Decentr isebenzisa imakrofoni yakho.</translation>
-<translation id="3155163173539279776">Phinda uqalise i-Decentr</translation>
-<translation id="3179665906251668410">Vula isixhumanisi kuwindi le-Decentr Inco&amp;gnito</translation>
-<translation id="3185330573522821672">Yenza ngendlela oyifisayo iphrofayela yakho entsha ye-Decentr</translation>
-<translation id="3190315855212034486">Eshu! I-Decentr iphahlazekile. Qalisa kabusha manje?</translation>
-<translation id="3229526316128325841">I-Decentr ifuna ukuthumela amaphasiwedi akho.</translation>
-<translation id="3258596308407688501">I-Decentr ayikwazi ukufunda nokubhala umkhombandlela wayo wedatha:
+<translation id="3068515742935458733">Siza ukwenza i-Tomi ibe ngcono ngokuthumela imibiko yokuphahlazeka ne-<ph name="UMA_LINK" /> ku-Tomi</translation>
+<translation id="3101560983689755071">Umlando wakho wokubhrawuza uthinta izikhangiso ozibonayo kanye nezinto ozishisakalelayo njengoba kulinganiselwa ngezansi. Ukuze ivikele ubumfihlo bakho, i-Tomi isula ngokuzenzakalelayo izintshisekelo zakho njalo ngenyanga. Izintshisekelo zingavuseleleka ngaphandle kwalapho uma uzisusa.</translation>
+<translation id="3103660991484857065">Isifaki sihlulekile ukungaminyanisi ingobo yomlando. Sicela ulande i-Tomi futhi.</translation>
+<translation id="3130323860337406239">I-Tomi isebenzisa imakrofoni yakho.</translation>
+<translation id="3155163173539279776">Phinda uqalise i-Tomi</translation>
+<translation id="3179665906251668410">Vula isixhumanisi kuwindi le-Tomi Inco&amp;gnito</translation>
+<translation id="3185330573522821672">Yenza ngendlela oyifisayo iphrofayela yakho entsha ye-Tomi</translation>
+<translation id="3190315855212034486">Eshu! I-Tomi iphahlazekile. Qalisa kabusha manje?</translation>
+<translation id="3229526316128325841">I-Tomi ifuna ukuthumela amaphasiwedi akho.</translation>
+<translation id="3258596308407688501">I-Tomi ayikwazi ukufunda nokubhala umkhombandlela wayo wedatha:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3283186697780795848">Inguqulo ye-Decentr engu-<ph name="PRODUCT_VERSION" /> ifakiwe</translation>
+<translation id="3283186697780795848">Inguqulo ye-Tomi engu-<ph name="PRODUCT_VERSION" /> ifakiwe</translation>
 <translation id="3286538390144397061">Qala kabusha manje</translation>
-<translation id="328888136576916638">Okhiye be-Decentr API abekho. Okunye ukusebenza kwe-Decentr kuzokhutshazwa.</translation>
-<translation id="3296368748942286671">Qhubeka usebenzise izinhlelo zokusebenza ezingemuva uma i-Decentr ivaliwe</translation>
-<translation id="3350761136195634146">Iphrofayela ye-Decentr enale akhawunti isikhona kakade</translation>
-<translation id="3387527074123400161">I-DecentrOS</translation>
-<translation id="3406848076815591792">Shintshela kwiphrofayela le-Decentr elikhona kakade?</translation>
+<translation id="328888136576916638">Okhiye be-Tomi API abekho. Okunye ukusebenza kwe-Tomi kuzokhutshazwa.</translation>
+<translation id="3296368748942286671">Qhubeka usebenzise izinhlelo zokusebenza ezingemuva uma i-Tomi ivaliwe</translation>
+<translation id="3350761136195634146">Iphrofayela ye-Tomi enale akhawunti isikhona kakade</translation>
+<translation id="3387527074123400161">I-TomiOS</translation>
+<translation id="3406848076815591792">Shintshela kwiphrofayela le-Tomi elikhona kakade?</translation>
 <translation id="3412460710772753638">Kokuthi Isiphathi Sephasiwedi kule divayisi</translation>
-<translation id="3420193029125244288">{COUNT,plural, =1{Umlawuli wakho ulungiselele i-Decentr ukuze ivaleke uma ingenzi lutho isikhathi esingaphezu komzuzu ongu-1.}one{Umlawuli wakho ulungiselele i-Decentr ukuze ivaleke uma ingenzi lutho isikhathi esingaphezu kwemizuzu engu-#.}other{Umlawuli wakho ulungiselele i-Decentr ukuze ivaleke uma ingenzi lutho isikhathi esingaphezu kwemizuzu engu-#.}}</translation>
-<translation id="3430503420100763906">Ngamaphrofayela we-Decentr ungahlukanisa zonke izinto zakho ze-Decentr. Dala amaphrofayela wabangane nomndeni, noma uhlukanise phakathi komsebenzi nobumnandi.</translation>
-<translation id="347328004046849135">I-Decentr izokwazisa uma ungena ngemvume ngephasiwedi eyonakalisiwe</translation>
+<translation id="3420193029125244288">{COUNT,plural, =1{Umlawuli wakho ulungiselele i-Tomi ukuze ivaleke uma ingenzi lutho isikhathi esingaphezu komzuzu ongu-1.}one{Umlawuli wakho ulungiselele i-Tomi ukuze ivaleke uma ingenzi lutho isikhathi esingaphezu kwemizuzu engu-#.}other{Umlawuli wakho ulungiselele i-Tomi ukuze ivaleke uma ingenzi lutho isikhathi esingaphezu kwemizuzu engu-#.}}</translation>
+<translation id="3430503420100763906">Ngamaphrofayela we-Tomi ungahlukanisa zonke izinto zakho ze-Tomi. Dala amaphrofayela wabangane nomndeni, noma uhlukanise phakathi komsebenzi nobumnandi.</translation>
+<translation id="347328004046849135">I-Tomi izokwazisa uma ungena ngemvume ngephasiwedi eyonakalisiwe</translation>
 <translation id="3474745554856756813">Lokhu kuzobuyekeza izinto ezingu-<ph name="ITEMS_COUNT" /> kusuka kule divayisi. Ukuze ubuyise idatha yakho, ngena ngemvume ku-<ph name="USER_EMAIL" /> njengo.</translation>
-<translation id="3497319089134299931">I-<ph name="SHORTCUT" /> ingashintsha phakathi kwamaphrofayela we-Decentr</translation>
-<translation id="3509308970982693815">Sicela uvale wonke amawindi we-Decentr uphinde uzame futhi.</translation>
-<translation id="3533435340678213462">Ukuze sivikele ubumfihlo bakho, sisula ngokuzenzakalelayo izintshisekelo zakho ezindala kunamaviki ama-4. Njengoba uqhubeka nokubhrawuza, intshisekelo ingase ivele ohlwini futhi. Noma ungasusa izithakazelo ongafuni ukuthi i-Decentr izicabangele.</translation>
-<translation id="3567254597502212821">Umlando wakho wokubhrawuza, irekhodi lamasayithi owavakashele usebenzisa i-Decentr kule divayisi.</translation>
-<translation id="3575459661164320785">Kunesofthiwe eyingozi kwikhompyutha yakho. I-Decentr ingayisusa, ibuyise izilungiselelo zakho, futhi ikhubaze izandiso ukwenza isiphequluli sakho sisebenze kahle futhi.</translation>
-<translation id="3593091352817399191">Enye i-akhawunti isivele ingene ngemvume. Ukuze uqhubeke nokuphequlula ngokwehlukile, i-Decentr ingakwazi ukukudalela iphrofayela yakho.</translation>
-<translation id="3639635944603682591">Idatha yokuphequlula yalo muntu izosuswa kusukela kule divayisi. Ukuze uphinde uthole idatha, ngena ngemvume ku-Decentr njengo-<ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{Isibuyekezo esisha se-Decentr siyatholakala futhi sizosetshenziswa maduze ngemuva kokuthi uqalise kabusha.}=1{Isibuyekezo esisha se-Decentr siyatholakala futhi sizosetshenziswa maduze ngemuva kokuthi uqalise kabusha. Iwindi lakho le-Incognito ngeke liphinde livuleke.}one{Isibuyekezo esisha se-Decentr siyatholakala futhi sizosetshenziswa maduze ngemuva kokuthi uqalise kabusha. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}other{Isibuyekezo esisha se-Decentr siyatholakala futhi sizosetshenziswa maduze ngemuva kokuthi uqalise kabusha. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}}</translation>
-<translation id="3651803019964686660">Ukuze uthumele inombolo kusukela ku-<ph name="ORIGIN" /> kufoni yakho ye-Android, ngena ngemvume ku-Decentr kuwo womabili amadivayisi.</translation>
-<translation id="3685209450716071127">I-Decentr ayikwazi ukuhlola iphasiwedi yakho. Zama ukuhlola ukuxhumeka kwakho ku-inthanethi.</translation>
-<translation id="3702352323269013324">Funda kabanzi mayelana nokwenza izikhangiso zibe ngezakho ku-Decentr</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{Umlawuli wakho ucela ukuthi uqalise kabusha i-Decentr ukuze kusetshenziswe lesi sibuyekezo}=1{Umlawuli wakho ucela ukuthi uqalise kabusha i-Decentr ukuze kusetshenziswe lesi sibuyekezo. Iwindi lakho le-Incognito ngeke liphinde livuleke.}one{Umlawuli wakho ucela ukuthi uqalise kabusha i-Decentr ukuze kusetshenziswe lesi sibuyekezo. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}other{Umlawuli wakho ucela ukuthi uqalise kabusha i-Decentr ukuze kusetshenziswe lesi sibuyekezo. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}}</translation>
-<translation id="3713809861844741608">Vula isixhumanisi ku&amp;thebhu elisha le-Decentr</translation>
-<translation id="3728336900324680424">I-Decentr izofinyelela iDrayivu yakho ukwenza iziphakamiso kwibha lekheli</translation>
-<translation id="378917192836375108">I-Decentr ikuvumela ukuthi uchofoze inombolo yefoni kuwebhu uphinde uyishayele nge-Skype!</translation>
-<translation id="3830894615770080216">Isistimu ye-DecentrOS</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> - Decentr</translation>
-<translation id="386822487697155367">Thola usizo nge-DecentrOS</translation>
-<translation id="3871664619793219264">Thola ibhrawuza yakho ye-Decentr kusukela ku-<ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="388648406173476553">Yenza ngokwezifiso uphinde ulawule i-Decentr. Okuthile kudinga ukuthi ukunake - chofoza ngemininingwane.</translation>
-<translation id="3889543394854987837">Chofoza igama lakho ukuze uvule i-Decentr uphinde uqale ukudlulisa amehlo.</translation>
-<translation id="390528597099634151">U-<ph name="EXISTING_USER" /> usengene ngemvume kakade kule phrofayela ye-Decentr. Ukuze uqhubeke nokuphequlula ngokwehlukile, i-Decentr ingakwazi ukukudalela iphrofayela yakho.</translation>
-<translation id="391789666908693569">I-akhawunti yakho iphethwe i-<ph name="MANAGER_NAME" />. Umlawuli wakho angabona futhi ahlele le phrofayela yebhrawuza ye-Decentr nedatha yayo efana namabhukhimakhi, umlando, namaphasiwedi.</translation>
-<translation id="3945058413678539331">I-Decentr izama ukukopisha amaphasiwedi. Thayipha iphasiwedi yakho ye-Windows ukuze uvumele lokhu.</translation>
-<translation id="3962623956404948996">I-Decentr incoma ukuthi uskene leli fayela ngenxa yokuthi kungenzeka ukuthi liyingozi</translation>
-<translation id="3997429360543082038">Mayelana ne-DecentrOS</translation>
-<translation id="4019629340646866719">I-DecentrOS yenziwe ukuthi isebenze ngesofthiwe yomthombo ovulekile owengeziwe<ph name="BEGIN_LINK_CROS_OSS" />isofthiwe yomthombo ovulekile<ph name="END_LINK_CROS_OSS" />, njengoba kunjalo ngendawo yokuthuthukiswa kwe-<ph name="BEGIN_LINK_LINUX_OSS" />Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="4036079820698952681">Siza i-Decentr ibengcono ngokubika <ph name="BEGIN_LINK" />izilungiselelo zamanje<ph name="END_LINK" /></translation>
+<translation id="3497319089134299931">I-<ph name="SHORTCUT" /> ingashintsha phakathi kwamaphrofayela we-Tomi</translation>
+<translation id="3509308970982693815">Sicela uvale wonke amawindi we-Tomi uphinde uzame futhi.</translation>
+<translation id="3533435340678213462">Ukuze sivikele ubumfihlo bakho, sisula ngokuzenzakalelayo izintshisekelo zakho ezindala kunamaviki ama-4. Njengoba uqhubeka nokubhrawuza, intshisekelo ingase ivele ohlwini futhi. Noma ungasusa izithakazelo ongafuni ukuthi i-Tomi izicabangele.</translation>
+<translation id="3567254597502212821">Umlando wakho wokubhrawuza, irekhodi lamasayithi owavakashele usebenzisa i-Tomi kule divayisi.</translation>
+<translation id="3575459661164320785">Kunesofthiwe eyingozi kwikhompyutha yakho. I-Tomi ingayisusa, ibuyise izilungiselelo zakho, futhi ikhubaze izandiso ukwenza isiphequluli sakho sisebenze kahle futhi.</translation>
+<translation id="3593091352817399191">Enye i-akhawunti isivele ingene ngemvume. Ukuze uqhubeke nokuphequlula ngokwehlukile, i-Tomi ingakwazi ukukudalela iphrofayela yakho.</translation>
+<translation id="3639635944603682591">Idatha yokuphequlula yalo muntu izosuswa kusukela kule divayisi. Ukuze uphinde uthole idatha, ngena ngemvume ku-Tomi njengo-<ph name="USER_EMAIL" />.</translation>
+<translation id="364817392622123556">{COUNT,plural, =0{Isibuyekezo esisha se-Tomi siyatholakala futhi sizosetshenziswa maduze ngemuva kokuthi uqalise kabusha.}=1{Isibuyekezo esisha se-Tomi siyatholakala futhi sizosetshenziswa maduze ngemuva kokuthi uqalise kabusha. Iwindi lakho le-Incognito ngeke liphinde livuleke.}one{Isibuyekezo esisha se-Tomi siyatholakala futhi sizosetshenziswa maduze ngemuva kokuthi uqalise kabusha. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}other{Isibuyekezo esisha se-Tomi siyatholakala futhi sizosetshenziswa maduze ngemuva kokuthi uqalise kabusha. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}}</translation>
+<translation id="3651803019964686660">Ukuze uthumele inombolo kusukela ku-<ph name="ORIGIN" /> kufoni yakho ye-Android, ngena ngemvume ku-Tomi kuwo womabili amadivayisi.</translation>
+<translation id="3685209450716071127">I-Tomi ayikwazi ukuhlola iphasiwedi yakho. Zama ukuhlola ukuxhumeka kwakho ku-inthanethi.</translation>
+<translation id="3702352323269013324">Funda kabanzi mayelana nokwenza izikhangiso zibe ngezakho ku-Tomi</translation>
+<translation id="370962675267501463">{COUNT,plural, =0{Umlawuli wakho ucela ukuthi uqalise kabusha i-Tomi ukuze kusetshenziswe lesi sibuyekezo}=1{Umlawuli wakho ucela ukuthi uqalise kabusha i-Tomi ukuze kusetshenziswe lesi sibuyekezo. Iwindi lakho le-Incognito ngeke liphinde livuleke.}one{Umlawuli wakho ucela ukuthi uqalise kabusha i-Tomi ukuze kusetshenziswe lesi sibuyekezo. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}other{Umlawuli wakho ucela ukuthi uqalise kabusha i-Tomi ukuze kusetshenziswe lesi sibuyekezo. Amawindi akho angu-# e-Incognito ngeke aze aphinde avuleke.}}</translation>
+<translation id="3713809861844741608">Vula isixhumanisi ku&amp;thebhu elisha le-Tomi</translation>
+<translation id="3728336900324680424">I-Tomi izofinyelela iDrayivu yakho ukwenza iziphakamiso kwibha lekheli</translation>
+<translation id="378917192836375108">I-Tomi ikuvumela ukuthi uchofoze inombolo yefoni kuwebhu uphinde uyishayele nge-Skype!</translation>
+<translation id="3830894615770080216">Isistimu ye-TomiOS</translation>
+<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> - Tomi</translation>
+<translation id="386822487697155367">Thola usizo nge-TomiOS</translation>
+<translation id="3871664619793219264">Thola ibhrawuza yakho ye-Tomi kusukela ku-<ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="388648406173476553">Yenza ngokwezifiso uphinde ulawule i-Tomi. Okuthile kudinga ukuthi ukunake - chofoza ngemininingwane.</translation>
+<translation id="3889543394854987837">Chofoza igama lakho ukuze uvule i-Tomi uphinde uqale ukudlulisa amehlo.</translation>
+<translation id="390528597099634151">U-<ph name="EXISTING_USER" /> usengene ngemvume kakade kule phrofayela ye-Tomi. Ukuze uqhubeke nokuphequlula ngokwehlukile, i-Tomi ingakwazi ukukudalela iphrofayela yakho.</translation>
+<translation id="391789666908693569">I-akhawunti yakho iphethwe i-<ph name="MANAGER_NAME" />. Umlawuli wakho angabona futhi ahlele le phrofayela yebhrawuza ye-Tomi nedatha yayo efana namabhukhimakhi, umlando, namaphasiwedi.</translation>
+<translation id="3945058413678539331">I-Tomi izama ukukopisha amaphasiwedi. Thayipha iphasiwedi yakho ye-Windows ukuze uvumele lokhu.</translation>
+<translation id="3962623956404948996">I-Tomi incoma ukuthi uskene leli fayela ngenxa yokuthi kungenzeka ukuthi liyingozi</translation>
+<translation id="3997429360543082038">Mayelana ne-TomiOS</translation>
+<translation id="4019629340646866719">I-TomiOS yenziwe ukuthi isebenze ngesofthiwe yomthombo ovulekile owengeziwe<ph name="BEGIN_LINK_CROS_OSS" />isofthiwe yomthombo ovulekile<ph name="END_LINK_CROS_OSS" />, njengoba kunjalo ngendawo yokuthuthukiswa kwe-<ph name="BEGIN_LINK_LINUX_OSS" />Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="4036079820698952681">Siza i-Tomi ibengcono ngokubika <ph name="BEGIN_LINK" />izilungiselelo zamanje<ph name="END_LINK" /></translation>
 <translation id="4050175100176540509">Ukuthuthukiswa kokuphepha okubalulekile nezici ezintsha kuyathokala kunguqulo yakamuva.</translation>
 <translation id="4148957013307229264">Iyafaka...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> - Inethiwekhi Yokungena ngemvume - i-Decentr</translation>
-<translation id="421369550622382712">Thola izinhlelo zokusebenza ezinhle, amageyimu, izandiso, namatimu we-Decentr.</translation>
-<translation id="4216212958613226427">Lolu limi lusetshenziselwa ukubonisa i-Decentr UI</translation>
+<translation id="419998258129752635"><ph name="PAGE_TITLE" /> - Inethiwekhi Yokungena ngemvume - i-Tomi</translation>
+<translation id="421369550622382712">Thola izinhlelo zokusebenza ezinhle, amageyimu, izandiso, namatimu we-Tomi.</translation>
+<translation id="4216212958613226427">Lolu limi lusetshenziselwa ukubonisa i-Tomi UI</translation>
 <translation id="4222932583846282852">Iyakhansela...</translation>
-<translation id="4230135487732243613">Xhumanisa idatha yakho ye-Decentr kule akhawunti?</translation>
-<translation id="4271805377592243930">Thola usizo nge-Decentr</translation>
-<translation id="4285930937574705105">Ukufaka kuhlulekile ngenxa yephutha elingacacisiwe. Uma ngabe i-Decentr iyasebenza manje, sicela uyivale uphinde uzame futhi.</translation>
+<translation id="4230135487732243613">Xhumanisa idatha yakho ye-Tomi kule akhawunti?</translation>
+<translation id="4271805377592243930">Thola usizo nge-Tomi</translation>
+<translation id="4285930937574705105">Ukufaka kuhlulekile ngenxa yephutha elingacacisiwe. Uma ngabe i-Tomi iyasebenza manje, sicela uyivale uphinde uzame futhi.</translation>
 <translation id="4304713468139749426">Isiphathi sephasiwedi</translation>
 <translation id="4334294535648607276">Ukulanda kuqedile.</translation>
-<translation id="439358628917130594">I-<ph name="MANAGER" /> idinga ukuthi ufunde uphinde wamukele Imigomo Yesevisi elandelayo ngaphambi kokusebenzisa le divayisi. Le migomo ayinwebi, iguqule noma ikhawulele Imigomo ye-DecentrOS.</translation>
-<translation id="4407044323746248786">Phuma ku-Decentr noma kunjalo?</translation>
-<translation id="4415566066719264597">Vumela i-Decentr isebenze ngemuva</translation>
-<translation id="4423735387467980091">Yenza ngokwezifiso uphinde ulawule i-Decentr</translation>
+<translation id="439358628917130594">I-<ph name="MANAGER" /> idinga ukuthi ufunde uphinde wamukele Imigomo Yesevisi elandelayo ngaphambi kokusebenzisa le divayisi. Le migomo ayinwebi, iguqule noma ikhawulele Imigomo ye-TomiOS.</translation>
+<translation id="4407044323746248786">Phuma ku-Tomi noma kunjalo?</translation>
+<translation id="4415566066719264597">Vumela i-Tomi isebenze ngemuva</translation>
+<translation id="4423735387467980091">Yenza ngokwezifiso uphinde ulawule i-Tomi</translation>
 <translation id="4427306783828095590">Isivikelo esithuthukisiwe senza okuningi ukuvimba ubugebengu bokweba imininingwane ebucayi kanye uhlelo olungayilungele ikhompyutha</translation>
-<translation id="452711251841752011">Siyakwamukela ku-Decentr; iwindi elisha lesiphequluli livuliwe</translation>
-<translation id="4544142686420020088">I-Decentr ayibuyekezekanga, kunokuthile okungahambanga kahle. <ph name="BEGIN_LINK" />Lungisa izinkinga zokubuyekaza kwe-Decentr nezibuyekezo ezihlulekile.<ph name="END_LINK" /></translation>
-<translation id="454579500955453258">Qhubeka kuphrofayela entsha ye-Decentr?</translation>
+<translation id="452711251841752011">Siyakwamukela ku-Tomi; iwindi elisha lesiphequluli livuliwe</translation>
+<translation id="4544142686420020088">I-Tomi ayibuyekezekanga, kunokuthile okungahambanga kahle. <ph name="BEGIN_LINK" />Lungisa izinkinga zokubuyekaza kwe-Tomi nezibuyekezo ezihlulekile.<ph name="END_LINK" /></translation>
+<translation id="454579500955453258">Qhubeka kuphrofayela entsha ye-Tomi?</translation>
 <translation id="4567424176335768812">Ungene ngemvume njengo-<ph name="USER_EMAIL_ADDRESS" />. Manje ungakwazi ukufinyelela amabhukhimakhi, umlando, nezinye izilungiselelo kuwo wonke amadivayisi wakho ongene kuwo ngemvume.</translation>
 <translation id="4594305310729380060">Kusiphathi Sephasiwedi kule divayisi</translation>
-<translation id="459535195905078186">Izinhlelo zokusebenza ze-Decentr</translation>
-<translation id="4613863813562375431">Uhlobo lwe-DecentrOS</translation>
-<translation id="4621240073146040695">Icishe isesikhathini! Qalisa kabusha i-Decentr ukuze uqedele ukubuyekeza.</translation>
-<translation id="4665829708273112819">Isexwayiso: I-Decentr ayikwazi ukuvimbela izandiso kusuka ekurekhodeni umlando wakho wokudlulisa amehlo. Ukuze ukhubaze lesi sandiso kumodi ye-incognito, yekisa ukukhetha le nketho.</translation>
-<translation id="4673151026126227699">Uma futhi wabelana ngemibiko yokusetshenziswa kwe-Decentr, leyo mibiko ihlanganisa nama-URL owavakashelayo</translation>
-<translation id="4677944499843243528">Iphrofayela ibukeka isetshenziswa enye inqubo ye-Decentr (<ph name="PROCESS_ID" />) kwenye ikhompyutha (<ph name="HOST_NAME" />). I-Decentr ikhiye iphrofayela ukuze ingamosheki. Uma uqinisekile ukuthi azikho ezinye izinqubo ezisebenzisa le phrofayela, ungavula iphrofayela uphinde uqalise i-Decentr.</translation>
+<translation id="459535195905078186">Izinhlelo zokusebenza ze-Tomi</translation>
+<translation id="4613863813562375431">Uhlobo lwe-TomiOS</translation>
+<translation id="4621240073146040695">Icishe isesikhathini! Qalisa kabusha i-Tomi ukuze uqedele ukubuyekeza.</translation>
+<translation id="4665829708273112819">Isexwayiso: I-Tomi ayikwazi ukuvimbela izandiso kusuka ekurekhodeni umlando wakho wokudlulisa amehlo. Ukuze ukhubaze lesi sandiso kumodi ye-incognito, yekisa ukukhetha le nketho.</translation>
+<translation id="4673151026126227699">Uma futhi wabelana ngemibiko yokusetshenziswa kwe-Tomi, leyo mibiko ihlanganisa nama-URL owavakashelayo</translation>
+<translation id="4677944499843243528">Iphrofayela ibukeka isetshenziswa enye inqubo ye-Tomi (<ph name="PROCESS_ID" />) kwenye ikhompyutha (<ph name="HOST_NAME" />). I-Tomi ikhiye iphrofayela ukuze ingamosheki. Uma uqinisekile ukuthi azikho ezinye izinqubo ezisebenzisa le phrofayela, ungavula iphrofayela uphinde uqalise i-Tomi.</translation>
 <translation id="4680828127924988555">Khansela Ukufaka</translation>
-<translation id="4708774505295300557">Umuntu othile ungene ngemvume ngaphambilini ku-Decentr kule khompuyutha njengo-<ph name="ACCOUNT_EMAIL_LAST" />. Sicela udale umsebenzisi omusha we-Decentr ukuze ugcine ulwazi lwakho luhlukile.</translation>
-<translation id="4746050847053251315">Phuma ku-Decentr noma kunjalo?</translation>
-<translation id="4748217263233248895">Isibuyekezo esibalulekile sokuvikela se-Decentr sisanda kufakwa. Qalisa kabusha manje bese sizobuyisela amathebhu akho.</translation>
-<translation id="4765210420921718862">Ungashintsha umqondo wakho noma kunini kumasethingi we-Decentr. Izivivinyo zisebenza eduze kwendlela yamanje yokulethwa kwezikhangiso, ngakho ngeke ubone izinguquko ngokushesha.</translation>
-<translation id="4788777615168560705">I-Decentr ayikwazi ukuhlola iphasiwedi yakho. Zama futhi ngemva kwamahora angu-24 noma <ph name="BEGIN_LINK" />hlola amaphasiwedi ku-akhawunti yakho ye-Decentr<ph name="END_LINK" />.</translation>
-<translation id="479167709087336770">Lokhu kusebenzisa isihloli sokupeleta esifanayo naleso esisetshenziswe kusesho lwe-Decentr. Umbhalo owuthayiphayo kusiphequluli uthunyelwa ku-Decentr. Ungahlala ushintsha le mpatho kuzilungiselelo.</translation>
-<translation id="4888717733111232871">Umyalo obambeke ngaphakathi we-Decentr wokuvumela ithrafikhi ye-mDNS.</translation>
-<translation id="4893347770495441059">Qalisa kabusha ukuze Ubuyekeze i-&amp;Decentr</translation>
-<translation id="4943838377383847465">I-Decentr kumodi yasemuva.</translation>
-<translation id="4987820182225656817">Izihambeli zingasebenzisa i-Decentr ngaphandle kokushiya noma yini ngemuva.</translation>
-<translation id="4994636714258228724">Zingeze ngokwakho ku-Decentr</translation>
-<translation id="5114678101347489141">I-Decentr ihlola izakhi ezintsha ezivumela amasayithi ukuthi alethe ukuzizwisa kokubhrawuza okufanayo kusetshenziswa ulwazi lwakho oluncane</translation>
-<translation id="5224391634244552924">Awekho amaphasiwedi alondoloziwe. I-Decentr ingahlola amaphasiwedi akho lapho uwalondoloza khona.</translation>
-<translation id="5252179775517634216">U-<ph name="EXISTING_USER" /> usengene ngemvume kakade kule phrofayela ye-Decentr. Lokhu kuzodalela u-<ph name="USER_EMAIL_ADDRESS" /> iphrofayela entsha ye-Decentr</translation>
-<translation id="5277894862589591112">Ukuze ufake izinguquko zakho, qalisa kabusha i-Decentr</translation>
-<translation id="5296845517486664001">Uma izivivinyo zivuliwe futhi i-Decentr ikubeke ngokungahleliwe ekuzameni okusebenzayo, umlando wakho wokubhrawuza uthinta izikhangiso ozibonayo kanye nezinto ozithakaselayo njengoba kusikiselwa ngezansi. Ukuze ivikele ubumfihlo bakho, i-Decentr isula izintshisekelo zakho njalo ngenyanga.</translation>
-<translation id="5358375970380395591">Ungena ngemvume nge-akhawunti ephethwe futhi unikeza umlawuli wayo ukulawula okungaphezulu kwephrofayela yakho ye-Decentr. Idatha yakho ye-Decentr, efana nezinhlelo zakho zokusebenza, amabhukhimakhi, umlando, amaphasiwedi, nezinye izilungiselelo zizoboshezelwa unaphakade ku-<ph name="USER_NAME" />. Uzokwazi ukususa le datha nge-Ideshibhodi yama-Akhawunti we-Decentr, kodwa ngeke uze ukwazi ukuhlobanisa le datha nenye i-akhawunti. <ph name="LEARN_MORE" /></translation>
-<translation id="5386450000063123300">Ibuyekeza i-Decentr (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Vumela ukungena ngemvume kwe-Decentr</translation>
-<translation id="5398878173008909840">Kukhona inguqulo entsha ye-Decentr etholakalayo.</translation>
-<translation id="5405650547142096840">Susa kusuka  ku-Decentr</translation>
-<translation id="5421879995290576427">{0,plural, =0{I-Decentr izovaleka manje.}=1{I-Decentr izovaleka kumzuzu ongu-1.}one{I-Decentr izovaleka emizuzwaneni engu-#.}other{I-Decentr izovaleka emizuzwaneni engu-#.}}</translation>
-<translation id="5427571867875391349">Setha i-Decentr njengesiphequluli sakho esizenzakalelayo</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> - Decentr Beta</translation>
-<translation id="5473971139929175403">I-Decentr kungenzeka ingasebenzi ngokufanelekile ngoba ayisasekelwa kule sistimu yokusatshalaliswa kwe-Linux</translation>
-<translation id="5480860683791598150">I-Decentr idinga ukufinyelela kundawo yakho ukuze yabelane ngendawo yakho naleli sayithi</translation>
-<translation id="5487574057737591516">Ukuze sivikele ubumfihlo bakho, sisula ngokuzenzakalelayo izintshisekelo zakho ezindala kunamaviki ama-4. Njengoba uqhubeka nokubhrawuza, intshisekelo ingase ivele ohlwini futhi. Futhi uma i-Decentr ikuthola kungalungile noma ungafuni ukubona izikhangiso ezithile, ungayisusa intshisekelo.</translation>
-<translation id="549669000822060376">Sicela ulinde ngenkathi i-Decentr ifaka izibuyekezo zesistimu zakamuva.</translation>
-<translation id="5496810170689441661">I-Decentr izama ukuhlela amaphasiwedi. Thayipha iphasiwedi yakho ye-Windows ukuze uvumele lokhu.</translation>
-<translation id="5527463683072221100">Vula ama-PDF ku-Decentr</translation>
-<translation id="5614091477838198795">Lapho ivuliwe, uzophinde futhi uphume ngemvume ku-Decentr</translation>
-<translation id="5623402015214259806">{0,plural, =0{Isibuyekezo se-Decentr siyatholakala}=1{Isibuyekezo se-Decentr siyatholakala}one{Isibuyekezo se-Decentr sitholakala ngezinsuku ezingu-#}other{Isibuyekezo se-Decentr sitholakala ngezinsuku ezingu-#}}</translation>
-<translation id="5634636535844844681">I-Decentr idinga i-Windows 7 noma ngaphezulu.</translation>
-<translation id="5653831366781983928">Sicela uqalise kabusha i-Decentr manje</translation>
-<translation id="5698481217667032250">Veza i-Decentr ngalolu limi</translation>
-<translation id="5862307444128926510">Siyakwamukela ku-Decentr</translation>
-<translation id="5883558403894052917">I-Decentr ithole ukuthi lezi zinto zinohlelo olungayilungele ikhompyutha</translation>
+<translation id="4708774505295300557">Umuntu othile ungene ngemvume ngaphambilini ku-Tomi kule khompuyutha njengo-<ph name="ACCOUNT_EMAIL_LAST" />. Sicela udale umsebenzisi omusha we-Tomi ukuze ugcine ulwazi lwakho luhlukile.</translation>
+<translation id="4746050847053251315">Phuma ku-Tomi noma kunjalo?</translation>
+<translation id="4748217263233248895">Isibuyekezo esibalulekile sokuvikela se-Tomi sisanda kufakwa. Qalisa kabusha manje bese sizobuyisela amathebhu akho.</translation>
+<translation id="4765210420921718862">Ungashintsha umqondo wakho noma kunini kumasethingi we-Tomi. Izivivinyo zisebenza eduze kwendlela yamanje yokulethwa kwezikhangiso, ngakho ngeke ubone izinguquko ngokushesha.</translation>
+<translation id="4788777615168560705">I-Tomi ayikwazi ukuhlola iphasiwedi yakho. Zama futhi ngemva kwamahora angu-24 noma <ph name="BEGIN_LINK" />hlola amaphasiwedi ku-akhawunti yakho ye-Tomi<ph name="END_LINK" />.</translation>
+<translation id="479167709087336770">Lokhu kusebenzisa isihloli sokupeleta esifanayo naleso esisetshenziswe kusesho lwe-Tomi. Umbhalo owuthayiphayo kusiphequluli uthunyelwa ku-Tomi. Ungahlala ushintsha le mpatho kuzilungiselelo.</translation>
+<translation id="4888717733111232871">Umyalo obambeke ngaphakathi we-Tomi wokuvumela ithrafikhi ye-mDNS.</translation>
+<translation id="4893347770495441059">Qalisa kabusha ukuze Ubuyekeze i-&amp;Tomi</translation>
+<translation id="4943838377383847465">I-Tomi kumodi yasemuva.</translation>
+<translation id="4987820182225656817">Izihambeli zingasebenzisa i-Tomi ngaphandle kokushiya noma yini ngemuva.</translation>
+<translation id="4994636714258228724">Zingeze ngokwakho ku-Tomi</translation>
+<translation id="5114678101347489141">I-Tomi ihlola izakhi ezintsha ezivumela amasayithi ukuthi alethe ukuzizwisa kokubhrawuza okufanayo kusetshenziswa ulwazi lwakho oluncane</translation>
+<translation id="5224391634244552924">Awekho amaphasiwedi alondoloziwe. I-Tomi ingahlola amaphasiwedi akho lapho uwalondoloza khona.</translation>
+<translation id="5252179775517634216">U-<ph name="EXISTING_USER" /> usengene ngemvume kakade kule phrofayela ye-Tomi. Lokhu kuzodalela u-<ph name="USER_EMAIL_ADDRESS" /> iphrofayela entsha ye-Tomi</translation>
+<translation id="5277894862589591112">Ukuze ufake izinguquko zakho, qalisa kabusha i-Tomi</translation>
+<translation id="5296845517486664001">Uma izivivinyo zivuliwe futhi i-Tomi ikubeke ngokungahleliwe ekuzameni okusebenzayo, umlando wakho wokubhrawuza uthinta izikhangiso ozibonayo kanye nezinto ozithakaselayo njengoba kusikiselwa ngezansi. Ukuze ivikele ubumfihlo bakho, i-Tomi isula izintshisekelo zakho njalo ngenyanga.</translation>
+<translation id="5358375970380395591">Ungena ngemvume nge-akhawunti ephethwe futhi unikeza umlawuli wayo ukulawula okungaphezulu kwephrofayela yakho ye-Tomi. Idatha yakho ye-Tomi, efana nezinhlelo zakho zokusebenza, amabhukhimakhi, umlando, amaphasiwedi, nezinye izilungiselelo zizoboshezelwa unaphakade ku-<ph name="USER_NAME" />. Uzokwazi ukususa le datha nge-Ideshibhodi yama-Akhawunti we-Tomi, kodwa ngeke uze ukwazi ukuhlobanisa le datha nenye i-akhawunti. <ph name="LEARN_MORE" /></translation>
+<translation id="5386450000063123300">Ibuyekeza i-Tomi (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="538767207339317086">Vumela ukungena ngemvume kwe-Tomi</translation>
+<translation id="5398878173008909840">Kukhona inguqulo entsha ye-Tomi etholakalayo.</translation>
+<translation id="5405650547142096840">Susa kusuka  ku-Tomi</translation>
+<translation id="5421879995290576427">{0,plural, =0{I-Tomi izovaleka manje.}=1{I-Tomi izovaleka kumzuzu ongu-1.}one{I-Tomi izovaleka emizuzwaneni engu-#.}other{I-Tomi izovaleka emizuzwaneni engu-#.}}</translation>
+<translation id="5427571867875391349">Setha i-Tomi njengesiphequluli sakho esizenzakalelayo</translation>
+<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> - Tomi Beta</translation>
+<translation id="5473971139929175403">I-Tomi kungenzeka ingasebenzi ngokufanelekile ngoba ayisasekelwa kule sistimu yokusatshalaliswa kwe-Linux</translation>
+<translation id="5480860683791598150">I-Tomi idinga ukufinyelela kundawo yakho ukuze yabelane ngendawo yakho naleli sayithi</translation>
+<translation id="5487574057737591516">Ukuze sivikele ubumfihlo bakho, sisula ngokuzenzakalelayo izintshisekelo zakho ezindala kunamaviki ama-4. Njengoba uqhubeka nokubhrawuza, intshisekelo ingase ivele ohlwini futhi. Futhi uma i-Tomi ikuthola kungalungile noma ungafuni ukubona izikhangiso ezithile, ungayisusa intshisekelo.</translation>
+<translation id="549669000822060376">Sicela ulinde ngenkathi i-Tomi ifaka izibuyekezo zesistimu zakamuva.</translation>
+<translation id="5496810170689441661">I-Tomi izama ukuhlela amaphasiwedi. Thayipha iphasiwedi yakho ye-Windows ukuze uvumele lokhu.</translation>
+<translation id="5527463683072221100">Vula ama-PDF ku-Tomi</translation>
+<translation id="5614091477838198795">Lapho ivuliwe, uzophinde futhi uphume ngemvume ku-Tomi</translation>
+<translation id="5623402015214259806">{0,plural, =0{Isibuyekezo se-Tomi siyatholakala}=1{Isibuyekezo se-Tomi siyatholakala}one{Isibuyekezo se-Tomi sitholakala ngezinsuku ezingu-#}other{Isibuyekezo se-Tomi sitholakala ngezinsuku ezingu-#}}</translation>
+<translation id="5634636535844844681">I-Tomi idinga i-Windows 7 noma ngaphezulu.</translation>
+<translation id="5653831366781983928">Sicela uqalise kabusha i-Tomi manje</translation>
+<translation id="5698481217667032250">Veza i-Tomi ngalolu limi</translation>
+<translation id="5862307444128926510">Siyakwamukela ku-Tomi</translation>
+<translation id="5883558403894052917">I-Tomi ithole ukuthi lezi zinto zinohlelo olungayilungele ikhompyutha</translation>
 <translation id="5895138241574237353">Qalisa kabusha</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> - Inethiwekhi Yokugena ngemvume</translation>
 <translation id="5924017743176219022">Ixhuma Ku-inthanethi...</translation>
 <translation id="5941711191222866238">Nciphisa</translation>
-<translation id="5972142260211327093">Uma i-Decentr ikubeke ngokungahleliwe esivivinyweni esisebenzayo, umlando wakho wokuphequlula uthinta izikhangiso ozibonayo kanye nezinto ozithakaselayo njengoba kusikiselwa ngezansi. Ukuze ivikele ubumfihlo bakho, i-Decentr isula izintshisekelo zakho njalo ngenyanga. Izintshisekelo ziyavuseleleka ngaphandle kwalapho uma uzisusa.</translation>
-<translation id="5987687638152509985">Buyekeza i-Decentr ukuze uqale ukuvumelanisa</translation>
-<translation id="5988505247484123880">Kujwayelekile ukuthi amasayithi owavakashelayo akhumbule izinto onentshisekelo kuzo, enze ukuzizwela kube ngokwezifiso. Amasayithi angagcina nolwazi nge-Decentr mayelana nezintshisekelo zakho.</translation>
+<translation id="5972142260211327093">Uma i-Tomi ikubeke ngokungahleliwe esivivinyweni esisebenzayo, umlando wakho wokuphequlula uthinta izikhangiso ozibonayo kanye nezinto ozithakaselayo njengoba kusikiselwa ngezansi. Ukuze ivikele ubumfihlo bakho, i-Tomi isula izintshisekelo zakho njalo ngenyanga. Izintshisekelo ziyavuseleleka ngaphandle kwalapho uma uzisusa.</translation>
+<translation id="5987687638152509985">Buyekeza i-Tomi ukuze uqale ukuvumelanisa</translation>
+<translation id="5988505247484123880">Kujwayelekile ukuthi amasayithi owavakashelayo akhumbule izinto onentshisekelo kuzo, enze ukuzizwela kube ngokwezifiso. Amasayithi angagcina nolwazi nge-Tomi mayelana nezintshisekelo zakho.</translation>
 <translation id="6003112304606738118">Iyadawuniloda... Kusele amahora angu-<ph name="HOURS" /></translation>
 <translation id="6040143037577758943">Vala</translation>
-<translation id="6055895534982063517">Kukhona inguqulo entsha ye-Decentr etholakalayo, futhi ishesha kakhulu kunakuqala.</translation>
-<translation id="6063093106622310249">&amp;Vula ku-Decentr</translation>
-<translation id="6072279588547424923">I-<ph name="EXTENSION_NAME" /> ingezwe ku-Decentr</translation>
-<translation id="6072463441809498330">Yenza i-Decentr Isheshe</translation>
+<translation id="6055895534982063517">Kukhona inguqulo entsha ye-Tomi etholakalayo, futhi ishesha kakhulu kunakuqala.</translation>
+<translation id="6063093106622310249">&amp;Vula ku-Tomi</translation>
+<translation id="6072279588547424923">I-<ph name="EXTENSION_NAME" /> ingezwe ku-Tomi</translation>
+<translation id="6072463441809498330">Yenza i-Tomi Isheshe</translation>
 <translation id="608006075545470555">Engeza Iphrofayela Yomsebenzi kulesi siphequluli</translation>
-<translation id="6096348254544841612">Enza ngendlela oyifisayo uphinde ulawule i-Decentr. Isibuyekezo siyatholakala.</translation>
-<translation id="6119438414301547735">Vumela isandiso ukuze ubonise izicelo zokufinyelela kubha yamathuluzi ye-Decentr</translation>
-<translation id="6120345080069858279">I-Decentr izolondoloza le phasiwedi ku-akhawunti yakho ye-Decentr. Ngeke kudingeke ukuthi uyikhumbule.</translation>
-<translation id="6129621093834146363">I-<ph name="FILE_NAME" /> iyingozi, ngakho-ke i-Decentr iyivimbile.</translation>
-<translation id="6134968993075716475">Ukuphequlula Okuphephile kuvaliwe. i-Decentr incoma ukuba kuvulwe.</translation>
-<translation id="6145820983052037069">Ungashintsha phakathi kwamaphrofayela we-Decentr lapha</translation>
-<translation id="6183079672144801177">Yenza isiqinisekiso sokuthi ungene ngemvume ku-Decentr ku-<ph name="TARGET_DEVICE_NAME" /> yakho bese uzama ukuthumela futhi.</translation>
-<translation id="6212496753309875659">Le khompyutha isivele inenguqulo yakamuva kakhulu ye-Decentr. Uma isofthiwe ingasebenzi, sicela ukhiphe i-Decentr uphinde uzame futhi.</translation>
-<translation id="6219195342503754812">{0,plural, =0{I-Decentr izoqalisa kabusha manje}=1{I-Decentr izoqalisa kabusha kusekhondi elingu-1}one{I-Decentr izoqalisa kabusha kumasekhondi angu-#}other{I-Decentr izoqalisa kabusha kumasekhondi angu-#}}</translation>
-<translation id="6241367896540709610">I-Decentr idinga imvume yokufinyelela kusitoreji ukuze idawunilode amafayela</translation>
-<translation id="6245734527075554892">Kuhlola ama-URL anohlu lwamasayithi angaphephile agcinwe ku-Decentr</translation>
-<translation id="6248213926982192922">Yenza i-Decentr ibe yisiphequluli esizenzakalelayo</translation>
-<translation id="6266342355635466082">I-Decentr ayikwazi ukuhlola izibuyekezo. Zama ukuhlola ukuxhumeka kwakho ku-inthanethi.</translation>
-<translation id="6268381023930128611">Phuma ku-Decentr?</translation>
+<translation id="6096348254544841612">Enza ngendlela oyifisayo uphinde ulawule i-Tomi. Isibuyekezo siyatholakala.</translation>
+<translation id="6119438414301547735">Vumela isandiso ukuze ubonise izicelo zokufinyelela kubha yamathuluzi ye-Tomi</translation>
+<translation id="6120345080069858279">I-Tomi izolondoloza le phasiwedi ku-akhawunti yakho ye-Tomi. Ngeke kudingeke ukuthi uyikhumbule.</translation>
+<translation id="6129621093834146363">I-<ph name="FILE_NAME" /> iyingozi, ngakho-ke i-Tomi iyivimbile.</translation>
+<translation id="6134968993075716475">Ukuphequlula Okuphephile kuvaliwe. i-Tomi incoma ukuba kuvulwe.</translation>
+<translation id="6145820983052037069">Ungashintsha phakathi kwamaphrofayela we-Tomi lapha</translation>
+<translation id="6183079672144801177">Yenza isiqinisekiso sokuthi ungene ngemvume ku-Tomi ku-<ph name="TARGET_DEVICE_NAME" /> yakho bese uzama ukuthumela futhi.</translation>
+<translation id="6212496753309875659">Le khompyutha isivele inenguqulo yakamuva kakhulu ye-Tomi. Uma isofthiwe ingasebenzi, sicela ukhiphe i-Tomi uphinde uzame futhi.</translation>
+<translation id="6219195342503754812">{0,plural, =0{I-Tomi izoqalisa kabusha manje}=1{I-Tomi izoqalisa kabusha kusekhondi elingu-1}one{I-Tomi izoqalisa kabusha kumasekhondi angu-#}other{I-Tomi izoqalisa kabusha kumasekhondi angu-#}}</translation>
+<translation id="6241367896540709610">I-Tomi idinga imvume yokufinyelela kusitoreji ukuze idawunilode amafayela</translation>
+<translation id="6245734527075554892">Kuhlola ama-URL anohlu lwamasayithi angaphephile agcinwe ku-Tomi</translation>
+<translation id="6248213926982192922">Yenza i-Tomi ibe yisiphequluli esizenzakalelayo</translation>
+<translation id="6266342355635466082">I-Tomi ayikwazi ukuhlola izibuyekezo. Zama ukuhlola ukuxhumeka kwakho ku-inthanethi.</translation>
+<translation id="6268381023930128611">Phuma ku-Tomi?</translation>
 <translation id="6273793429163604305">Guqani...</translation>
-<translation id="6281746429495226318">Yenza ngokwezifiso iphrofayela yakho ye-Decentr</translation>
-<translation id="6290827346642914212">Qama iphrofayela lakho le-Decentr</translation>
-<translation id="6295779123002464101">I-<ph name="FILE_NAME" /> kungenzeka ibe ingozi, ngakho-ke i-Decentr iyivimbile.</translation>
-<translation id="6309712487085796862">I-Decentr isebenzisa ikhamela yakho.</translation>
-<translation id="632355235628111698">I-Decentr ivimbele leli fayela ngoba liyingozi</translation>
+<translation id="6281746429495226318">Yenza ngokwezifiso iphrofayela yakho ye-Tomi</translation>
+<translation id="6290827346642914212">Qama iphrofayela lakho le-Tomi</translation>
+<translation id="6295779123002464101">I-<ph name="FILE_NAME" /> kungenzeka ibe ingozi, ngakho-ke i-Tomi iyivimbile.</translation>
+<translation id="6309712487085796862">I-Tomi isebenzisa ikhamela yakho.</translation>
+<translation id="632355235628111698">I-Tomi ivimbele leli fayela ngoba liyingozi</translation>
 <translation id="6327105987658262776">Asikho isibuyekezo esitholakalayo.</translation>
-<translation id="6333502561965082103">Okunye ukusebenza ku-Decentr kuyaqhubeka. Sicela uzame futhi emuva kwesikhathi.</translation>
-<translation id="6334986366598267305">Manje kulula ukusebenzisa i-Decentr nge-Akhawunti yakho ye-Decentr nakumakhompyutha abiwe.</translation>
-<translation id="6373523479360886564">Ingabe uqinisekile ukuthi ufuna ukukhipha i-Decentr?</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Indlela esisebenzisa ngayo le datha:<ph name="END_BOLD" /> I-Decentr ingalinganisela izintshisekelo zakho. Kamuva, isayithi olivakashelayo lingacela i-Decentr ukuthi ibone izintshisekelo zakho ukuze yenze izikhangiso ozibonayo ngokwezifiso zakho.</translation>
-<translation id="6403826409255603130">I-Decentr yisiphequluli sewebhu esiqalisa amakhasi wewebhu nezinhlelo zokusebenza ngesivinini sombani. Iyashesha, izinzile, futhi isebenziseka kalula. Dlulisa amehlo kuwebhu ngokuvikeleke kakhulu ngokuvikelwa kuhlelo olungayilungele ikhompyutha nobugebengu bokweba imininingwane ebucayi eyakhelwe ku-Decentr.</translation>
-<translation id="6442900851116057561">Qalisa kabusha i-DecentrOS</translation>
-<translation id="6455857529632101747">Siyakwamukela kumaphrofayela we-Decentr</translation>
-<translation id="6457450909262716557">{SECONDS,plural, =1{I-Decentr izoqala kabusha kusekhondi elingu-1}one{I-Decentr izoqala kabusha kumasekhondi angu-#}other{I-Decentr izoqala kabusha kumasekhondi angu-#}}</translation>
-<translation id="6475912303565314141">Iphinde ilawule ukuthi iliphi ikhasi eliboniswa lapho uqala i-Decentr.</translation>
-<translation id="6510925080656968729">Khipha i-Decentr</translation>
-<translation id="6542839706527980775">Iphrofayela ngalinye linolwazi lwalo lwe-Decentr njengamabhukhimakhi, umlando, amaphasiwedi, nokuningi</translation>
-<translation id="6570579332384693436">Ukuze kulungiswe amaphutha okupeletwa, i-Decentr ithumela umbhalo owuthayiphayo kuzinkambu zombhalo ku-Decentr</translation>
-<translation id="6598877126913850652">Iya kuzilungiselelo zesaziso se-Decentr</translation>
-<translation id="6613594504749178791">Izinguquko zakho zizosebenza ngesikhathi esilandelayo uma uqalisa kabusha i-Decentr.</translation>
-<translation id="665732753414869868">I-Decentr idinga imvume yekhamera ukudala imephu ye-3D yendawo yakho ekuzungezile</translation>
-<translation id="6663852025006259149">Amasayithi cishe azosebenza njengoba ulindele kodwa ngeke akukhumbule ngemva kokuvala wonke amawindi e-Decentr</translation>
+<translation id="6333502561965082103">Okunye ukusebenza ku-Tomi kuyaqhubeka. Sicela uzame futhi emuva kwesikhathi.</translation>
+<translation id="6334986366598267305">Manje kulula ukusebenzisa i-Tomi nge-Akhawunti yakho ye-Tomi nakumakhompyutha abiwe.</translation>
+<translation id="6373523479360886564">Ingabe uqinisekile ukuthi ufuna ukukhipha i-Tomi?</translation>
+<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Indlela esisebenzisa ngayo le datha:<ph name="END_BOLD" /> I-Tomi ingalinganisela izintshisekelo zakho. Kamuva, isayithi olivakashelayo lingacela i-Tomi ukuthi ibone izintshisekelo zakho ukuze yenze izikhangiso ozibonayo ngokwezifiso zakho.</translation>
+<translation id="6403826409255603130">I-Tomi yisiphequluli sewebhu esiqalisa amakhasi wewebhu nezinhlelo zokusebenza ngesivinini sombani. Iyashesha, izinzile, futhi isebenziseka kalula. Dlulisa amehlo kuwebhu ngokuvikeleke kakhulu ngokuvikelwa kuhlelo olungayilungele ikhompyutha nobugebengu bokweba imininingwane ebucayi eyakhelwe ku-Tomi.</translation>
+<translation id="6442900851116057561">Qalisa kabusha i-TomiOS</translation>
+<translation id="6455857529632101747">Siyakwamukela kumaphrofayela we-Tomi</translation>
+<translation id="6457450909262716557">{SECONDS,plural, =1{I-Tomi izoqala kabusha kusekhondi elingu-1}one{I-Tomi izoqala kabusha kumasekhondi angu-#}other{I-Tomi izoqala kabusha kumasekhondi angu-#}}</translation>
+<translation id="6475912303565314141">Iphinde ilawule ukuthi iliphi ikhasi eliboniswa lapho uqala i-Tomi.</translation>
+<translation id="6510925080656968729">Khipha i-Tomi</translation>
+<translation id="6542839706527980775">Iphrofayela ngalinye linolwazi lwalo lwe-Tomi njengamabhukhimakhi, umlando, amaphasiwedi, nokuningi</translation>
+<translation id="6570579332384693436">Ukuze kulungiswe amaphutha okupeletwa, i-Tomi ithumela umbhalo owuthayiphayo kuzinkambu zombhalo ku-Tomi</translation>
+<translation id="6598877126913850652">Iya kuzilungiselelo zesaziso se-Tomi</translation>
+<translation id="6613594504749178791">Izinguquko zakho zizosebenza ngesikhathi esilandelayo uma uqalisa kabusha i-Tomi.</translation>
+<translation id="665732753414869868">I-Tomi idinga imvume yekhamera ukudala imephu ye-3D yendawo yakho ekuzungezile</translation>
+<translation id="6663852025006259149">Amasayithi cishe azosebenza njengoba ulindele kodwa ngeke akukhumbule ngemva kokuvala wonke amawindi e-Tomi</translation>
 <translation id="6676384891291319759">Finyelela i-inthanethi?</translation>
-<translation id="668175097507315160">I-DecentrOS ayikwazanga ukuvumelanisa idatha yakho yenxa yephutha lokungena ngemvume.</translation>
-<translation id="6709350901466051922">I-Decentr idinga imvume yemakrofoni kule sayithi</translation>
-<translation id="6717134281241384636">Iphrofayela yakho ayikwazi ukusetshenziswa ngoba isuka kunguqulo entsha ye-Decentr. 
+<translation id="668175097507315160">I-TomiOS ayikwazanga ukuvumelanisa idatha yakho yenxa yephutha lokungena ngemvume.</translation>
+<translation id="6709350901466051922">I-Tomi idinga imvume yemakrofoni kule sayithi</translation>
+<translation id="6717134281241384636">Iphrofayela yakho ayikwazi ukusetshenziswa ngoba isuka kunguqulo entsha ye-Tomi. 
 
-Ezinye izici kungenzeka zingatholakali. Sicela ucacise umkhombandlela wephrofayela ehlukile noma usebenzise inguqulo entsha ye-Decentr.</translation>
-<translation id="6730677189742196061">Isilondolozi Senkumbulo senze i-Decentr yashesha</translation>
-<translation id="6734291798041940871">I-Decentr isivele ifakiwe kubo bonke abasebenzisi kukhompuyutha yakho.</translation>
-<translation id="673636774878526923">Ukuze ufinyelele ezintweni zakho ze-Decentr kuwo wonke amadivayisi wakho, ngena ngemvume, bese uvula ukuvumelanisa.</translation>
-<translation id="67706546131546258">I-Decentr incoma ukuthi uskene leli fayela ngenxa yokuthi kungenzeka ukuthi liyingozi.</translation>
-<translation id="6774082503108938489">Umzali wakho uvale "Izimvume zamasayithi, izinhlelo zokusebenza, nezandiso" ze-Decentr. Ukunika le <ph name="EXTENSION_TYPE_PARAMETER" /> akuvumelekile.</translation>
-<translation id="6779406956731413166">I-DecentrOS yenziwa yenzeke yi-<ph name="BEGIN_LINK_CROS_OSS" />isofthiwe yomthombo ovulekile<ph name="END_LINK_CROS_OSS" /> engeziwe.</translation>
-<translation id="6847869444787758381">I-Decentr ikuvumela kuthi wazi amaphasiwedi akho afakwe engcupheni</translation>
-<translation id="6852530923436401894">I-Decentr ivimbele leli fayela ngoba linohlelo olungayilungele ikhompuyutha</translation>
-<translation id="6857782730669500492">I-Decentr - <ph name="PAGE_TITLE" /></translation>
-<translation id="6863361426438995919">I-Decentr Pay (ikopishelwe ku-Decentr)</translation>
-<translation id="6873893289264747459">I-Decentr ithole ukuthi i-"<ph name="EXTENSION_NAME" />" inohlelo olungayilungele ikhompyutha</translation>
-<translation id="6893813176749746474">I-Decentr ibuyekeziwe, kodwa awukakayisebenzisi okungenani izinsuku ezingu-30.</translation>
-<translation id="691026815377248078">I-Decentr idinga ukufinyelela kwe-Bluetooth ukuze iqhubeke 
+Ezinye izici kungenzeka zingatholakali. Sicela ucacise umkhombandlela wephrofayela ehlukile noma usebenzise inguqulo entsha ye-Tomi.</translation>
+<translation id="6730677189742196061">Isilondolozi Senkumbulo senze i-Tomi yashesha</translation>
+<translation id="6734291798041940871">I-Tomi isivele ifakiwe kubo bonke abasebenzisi kukhompuyutha yakho.</translation>
+<translation id="673636774878526923">Ukuze ufinyelele ezintweni zakho ze-Tomi kuwo wonke amadivayisi wakho, ngena ngemvume, bese uvula ukuvumelanisa.</translation>
+<translation id="67706546131546258">I-Tomi incoma ukuthi uskene leli fayela ngenxa yokuthi kungenzeka ukuthi liyingozi.</translation>
+<translation id="6774082503108938489">Umzali wakho uvale "Izimvume zamasayithi, izinhlelo zokusebenza, nezandiso" ze-Tomi. Ukunika le <ph name="EXTENSION_TYPE_PARAMETER" /> akuvumelekile.</translation>
+<translation id="6779406956731413166">I-TomiOS yenziwa yenzeke yi-<ph name="BEGIN_LINK_CROS_OSS" />isofthiwe yomthombo ovulekile<ph name="END_LINK_CROS_OSS" /> engeziwe.</translation>
+<translation id="6847869444787758381">I-Tomi ikuvumela kuthi wazi amaphasiwedi akho afakwe engcupheni</translation>
+<translation id="6852530923436401894">I-Tomi ivimbele leli fayela ngoba linohlelo olungayilungele ikhompuyutha</translation>
+<translation id="6857782730669500492">I-Tomi - <ph name="PAGE_TITLE" /></translation>
+<translation id="6863361426438995919">I-Tomi Pay (ikopishelwe ku-Tomi)</translation>
+<translation id="6873893289264747459">I-Tomi ithole ukuthi i-"<ph name="EXTENSION_NAME" />" inohlelo olungayilungele ikhompyutha</translation>
+<translation id="6893813176749746474">I-Tomi ibuyekeziwe, kodwa awukakayisebenzisi okungenani izinsuku ezingu-30.</translation>
+<translation id="691026815377248078">I-Tomi idinga ukufinyelela kwe-Bluetooth ukuze iqhubeke 
  nokumatanisa. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">Lapho imizamo ivuliwe, Isilinganiso sesikhangiso sivumela amasayithi owavakashelayo ukuba acele ulwazi ku-Decentr olusiza isayithi ukukala ukusebenza kwezikhangiso zawo. Isilinganiso sesikhangiso sikhawulela ukulandelela indawo yonke ngokudlulisa ulwazi oluncane ngangokunokwenzeka phakathi kwamasayithi.</translation>
-<translation id="6940431691900807093">Kamuva, isayithi olivakashelayo lingacela i-Decentr ukuthi ibone izintshisekelo zakho ukuze yenze izikhangiso ozibonayo ngokwezifiso zakho. I-Decentr ikwazi ukwabelana ngezintshisekelo ezifika ku-3.</translation>
-<translation id="6964305034639999644">Vula isixhumanisi kuwindi le-Decentr inco&amp;gnito</translation>
-<translation id="6978145336957848883">Amaphasiwedi angaqinile aqageleka kalula. Vumela i-Decentr <ph name="BEGIN_LINK" />ikudalele futhi ikhumbule amaphasiwedi aqinile<ph name="END_LINK" />.</translation>
-<translation id="6984667024406244807">I-Decentr ayisebenzi</translation>
-<translation id="6985329841647292029">Imigomo ye-DecentrOS</translation>
-<translation id="6990124437352146030">I-Decentr idinga imvume ukuze ifinyelele kumakrofoni yakho yaleli sayithi</translation>
+<translation id="6929417474050522668">Lapho imizamo ivuliwe, Isilinganiso sesikhangiso sivumela amasayithi owavakashelayo ukuba acele ulwazi ku-Tomi olusiza isayithi ukukala ukusebenza kwezikhangiso zawo. Isilinganiso sesikhangiso sikhawulela ukulandelela indawo yonke ngokudlulisa ulwazi oluncane ngangokunokwenzeka phakathi kwamasayithi.</translation>
+<translation id="6940431691900807093">Kamuva, isayithi olivakashelayo lingacela i-Tomi ukuthi ibone izintshisekelo zakho ukuze yenze izikhangiso ozibonayo ngokwezifiso zakho. I-Tomi ikwazi ukwabelana ngezintshisekelo ezifika ku-3.</translation>
+<translation id="6964305034639999644">Vula isixhumanisi kuwindi le-Tomi inco&amp;gnito</translation>
+<translation id="6978145336957848883">Amaphasiwedi angaqinile aqageleka kalula. Vumela i-Tomi <ph name="BEGIN_LINK" />ikudalele futhi ikhumbule amaphasiwedi aqinile<ph name="END_LINK" />.</translation>
+<translation id="6984667024406244807">I-Tomi ayisebenzi</translation>
+<translation id="6985329841647292029">Imigomo ye-TomiOS</translation>
+<translation id="6990124437352146030">I-Tomi idinga imvume ukuze ifinyelele kumakrofoni yakho yaleli sayithi</translation>
 <translation id="7025789849649390912">Ukufaka Kumisiwe.</translation>
-<translation id="705851970750939768">Buyekeza i-Decentr</translation>
-<translation id="7067091210845072982">Uma isithombe singanayo incazelo ephelele, i-Decentr izozama ukukunikezela eyodwa. Ukuze udale izincazelo, izithombe zithunyelwa ku-Decentr.</translation>
-<translation id="718435575166326686">I-Decentr idinga imvume yekhamera kule sayithi</translation>
-<translation id="7196312274710523067">Ayikwazanga ukuqalisa i-Decentr. Zama futhi.</translation>
-<translation id="7197677400338048821">I-Decentr ayikwazi ukuhlola iphasiwedi yakho. Zama futhi emva kwamahora angu-24.</translation>
-<translation id="7223968959479464213">Isiphathi somsebenzi - I-Decentr</translation>
-<translation id="7246575524853130370">Izintshisekelo zakho njengoba zilinganiselwe yi-Decentr</translation>
-<translation id="7309928523159922338">Isilinganiso sesikhangiso sivumela amasayithi owavakashelayo ukuba acele ulwazi ku-Decentr olusiza isayithi ukukala ukusebenza kwezikhangiso zawo. Isilinganiso sesikhangiso sikhawulela ukulandelela indawo yonke ngokudlulisa ulwazi oluncane ngangokunokwenzeka phakathi kwamasayithi.</translation>
-<translation id="731795002583552498">Ibuyekeza i-Decentr</translation>
+<translation id="705851970750939768">Buyekeza i-Tomi</translation>
+<translation id="7067091210845072982">Uma isithombe singanayo incazelo ephelele, i-Tomi izozama ukukunikezela eyodwa. Ukuze udale izincazelo, izithombe zithunyelwa ku-Tomi.</translation>
+<translation id="718435575166326686">I-Tomi idinga imvume yekhamera kule sayithi</translation>
+<translation id="7196312274710523067">Ayikwazanga ukuqalisa i-Tomi. Zama futhi.</translation>
+<translation id="7197677400338048821">I-Tomi ayikwazi ukuhlola iphasiwedi yakho. Zama futhi emva kwamahora angu-24.</translation>
+<translation id="7223968959479464213">Isiphathi somsebenzi - I-Tomi</translation>
+<translation id="7246575524853130370">Izintshisekelo zakho njengoba zilinganiselwe yi-Tomi</translation>
+<translation id="7309928523159922338">Isilinganiso sesikhangiso sivumela amasayithi owavakashelayo ukuba acele ulwazi ku-Tomi olusiza isayithi ukukala ukusebenza kwezikhangiso zawo. Isilinganiso sesikhangiso sikhawulela ukulandelela indawo yonke ngokudlulisa ulwazi oluncane ngangokunokwenzeka phakathi kwamasayithi.</translation>
+<translation id="731795002583552498">Ibuyekeza i-Tomi</translation>
 <translation id="7318036098707714271">Ifayela lakho lokuncamelayo limoshakele noma alivumelekile.
 
-I-Decentr ayikwazi ukubuyisela izilungiselelo zakho.</translation>
-<translation id="7337881442233988129">Decentr</translation>
+I-Tomi ayikwazi ukubuyisela izilungiselelo zakho.</translation>
+<translation id="7337881442233988129">Tomi</translation>
 <translation id="7339898014177206373">Iwindi elisha</translation>
-<translation id="734373864078049451">Iwebhu yakho, amabhukhimakhi, nezinye izinto ze-Decentr zihlala lapha.</translation>
-<translation id="7349591376906416160">Umlawuli wakho wesistimu ulungiselele i-Decentr ukuthi ivule i-<ph name="ALTERNATIVE_BROWSER_NAME" /> ukuze ifinyelele ku-<ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7398989605938454041">Ngamaphrofayela we-Decentr ungahlukanisa zonke izinto zakho ze-Decentr. Lokhu kwenza kube lula ukuhlukanisa phakathi komsebenzi nokuzijabulisa.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> - Decentr Dev</translation>
-<translation id="7451052299415159299">I-Decentr idinga imvume yakho ukuze ifinyelele kukhamera yakho yaleli sayithi</translation>
-<translation id="7461356015007898716">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Decentr, uzodinga i-Windows 10 noma yakamuva. Le khompyutha isebenzisa i-Windows 7.</translation>
-<translation id="7467949745582939695">Qalisa kabusha i-Decentr?</translation>
-<translation id="7483335560992089831">Ayikwazi ukufaka inguqulo ye-Decentr efana nale esebenzayo okwamanje. Sicela uvale i-Decentr uphinde uzame futhi.</translation>
-<translation id="753534427205733210">{0,plural, =1{I-Decentr izoqalisa kabusha kuminithi elingu-1}one{I-Decentr izoqalisa kabusha emaminithini angu-#}other{I-Decentr izoqalisa kabusha emaminithini angu-#}}</translation>
-<translation id="7561906087460245826">Futhi sula idatha kusuka ku-Decentr (<ph name="URL" />)</translation>
-<translation id="7582945390259497898">I-Decentr ingasikisela izintshisekelo zakho. Kamuva, isayithi olivakashelayo lingacela i-Decentr ukuthi ibone izintshisekelo zakho ukuze yenze izikhangiso ozibonayo ngokwezifiso zakho.</translation>
+<translation id="734373864078049451">Iwebhu yakho, amabhukhimakhi, nezinye izinto ze-Tomi zihlala lapha.</translation>
+<translation id="7349591376906416160">Umlawuli wakho wesistimu ulungiselele i-Tomi ukuthi ivule i-<ph name="ALTERNATIVE_BROWSER_NAME" /> ukuze ifinyelele ku-<ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7398989605938454041">Ngamaphrofayela we-Tomi ungahlukanisa zonke izinto zakho ze-Tomi. Lokhu kwenza kube lula ukuhlukanisa phakathi komsebenzi nokuzijabulisa.</translation>
+<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> - Tomi Dev</translation>
+<translation id="7451052299415159299">I-Tomi idinga imvume yakho ukuze ifinyelele kukhamera yakho yaleli sayithi</translation>
+<translation id="7461356015007898716">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Tomi, uzodinga i-Windows 10 noma yakamuva. Le khompyutha isebenzisa i-Windows 7.</translation>
+<translation id="7467949745582939695">Qalisa kabusha i-Tomi?</translation>
+<translation id="7483335560992089831">Ayikwazi ukufaka inguqulo ye-Tomi efana nale esebenzayo okwamanje. Sicela uvale i-Tomi uphinde uzame futhi.</translation>
+<translation id="753534427205733210">{0,plural, =1{I-Tomi izoqalisa kabusha kuminithi elingu-1}one{I-Tomi izoqalisa kabusha emaminithini angu-#}other{I-Tomi izoqalisa kabusha emaminithini angu-#}}</translation>
+<translation id="7561906087460245826">Futhi sula idatha kusuka ku-Tomi (<ph name="URL" />)</translation>
+<translation id="7582945390259497898">I-Tomi ingasikisela izintshisekelo zakho. Kamuva, isayithi olivakashelayo lingacela i-Tomi ukuthi ibone izintshisekelo zakho ukuze yenze izikhangiso ozibonayo ngokwezifiso zakho.</translation>
 <translation id="7583399374488819119">Isifaki Se-<ph name="COMPANY_NAME" /></translation>
-<translation id="7597596667193879455">Uvule Ukuphequlula Ngokuphepha Okugqamile ku-akhawunti yakho. Manje yitholele i-Decentr.</translation>
-<translation id="761356813943268536">I-Decentr isebenzisa ikhamela yakho nemakrofoni.</translation>
-<translation id="7617377681829253106">I-Decentr ibe ngcono nakakhulu</translation>
+<translation id="7597596667193879455">Uvule Ukuphequlula Ngokuphepha Okugqamile ku-akhawunti yakho. Manje yitholele i-Tomi.</translation>
+<translation id="761356813943268536">I-Tomi isebenzisa ikhamela yakho nemakrofoni.</translation>
+<translation id="7617377681829253106">I-Tomi ibe ngcono nakakhulu</translation>
 <translation id="7649070708921625228">Usizo</translation>
-<translation id="7682213815243802460">Ungafunda kabanzi mayelana nalezi zakhi kumasethingi we-Decentr.</translation>
-<translation id="7682601070171973634">I-Decentr ihlola izakhi ezintsha ezivumela amasayithi ukuthi alethe ukuzizwisa kokubhrawuza okufanayo kusetshenziswa idatha yakho encane</translation>
-<translation id="7686590090926151193">I-Decentr akusona isiphequluli sakho esizenzakalelayo</translation>
-<translation id="7689606757190482937">Vumelanisa uphinde wenze kube ngeyakho i-Decentr kumadivayisi akho wonkana</translation>
-<translation id="7745317241717453663">Lokhu kuzosusa idatha yakho yokuphequlula kusukela kule divayisi. Ukuze uthole idatha yakho emuva kwesikhathi, ngena ngemvume ku-Decentr njengo-<ph name="USER_EMAIL" />.</translation>
+<translation id="7682213815243802460">Ungafunda kabanzi mayelana nalezi zakhi kumasethingi we-Tomi.</translation>
+<translation id="7682601070171973634">I-Tomi ihlola izakhi ezintsha ezivumela amasayithi ukuthi alethe ukuzizwisa kokubhrawuza okufanayo kusetshenziswa idatha yakho encane</translation>
+<translation id="7686590090926151193">I-Tomi akusona isiphequluli sakho esizenzakalelayo</translation>
+<translation id="7689606757190482937">Vumelanisa uphinde wenze kube ngeyakho i-Tomi kumadivayisi akho wonkana</translation>
+<translation id="7745317241717453663">Lokhu kuzosusa idatha yakho yokuphequlula kusukela kule divayisi. Ukuze uthole idatha yakho emuva kwesikhathi, ngena ngemvume ku-Tomi njengo-<ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">Isifaki asikwazanga ukudala umkhombandlela wesikhashana. Sicela uhlolele isikhala esikhululekile sediski nemvume ukuze ufake isofthiwe.</translation>
-<translation id="7786760609782648049">Yenza i-Decentr isheshe</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> - Decentr Canary</translation>
-<translation id="7828947555739565424">Iphrofayela ye-Decentr enale akhawunti isikhona akakade kule divayisi</translation>
+<translation id="7786760609782648049">Yenza i-Tomi isheshe</translation>
+<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> - Tomi Canary</translation>
+<translation id="7828947555739565424">Iphrofayela ye-Tomi enale akhawunti isikhona akakade kule divayisi</translation>
 <translation id="7845233973568007926">Siyabonga ngokufaka. Kufanele uqalise kabusha ikhompyutha yakho ngaphambi kokusebenzisa i-<ph name="BUNDLE_NAME" />.</translation>
-<translation id="7867198900892795913">I-Decentr ayikwazanga ukubuyekezela kwinguqulo yakamuva, ngakho-ke uyalahlekelwa kuzici ezintsha nokulungiswa kokuphepha.</translation>
+<translation id="7867198900892795913">I-Tomi ayikwazanga ukubuyekezela kwinguqulo yakamuva, ngakho-ke uyalahlekelwa kuzici ezintsha nokulungiswa kokuphepha.</translation>
 <translation id="7872446069773932638">Iyadawuniloda... kusele imizuzwana engu-<ph name="SECONDS" /></translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Ungayiphatha kanjani idatha yakho:<ph name="END_BOLD" /> Ukuze sivikele ubumfihlo bakho, sisula ngokuzenzakalelayo izintshisekelo zakho ezindala kunamaviki ama-4. Njengoba uqhubeka nokubhrawuza, intshisekelo ingase ivele ohlwini futhi. Noma ungasusa izithakazelo ongafuni ukuthi i-Decentr izicabangele.</translation>
-<translation id="7937630085815544518">Ubukade ungene ngemvume ku-Decentr njengo-<ph name="USER_EMAIL_ADDRESS" />. Sicela usebenzise i-akhawunti efanayo ukuze uphinde ungene ngemvume futhi.</translation>
-<translation id="7975919845073681630">Lokhu ukufakwa kwesibili kwe-Decentr, futhi akukwazi ukwenziwa isiphequluli sakho esizenzakalelayo.</translation>
-<translation id="7997934263947464652">Izandiso, ama-app, namatimu asuka emithonjeni engaziwa angalimaza idivayisi yakho. I-Decentr incoma ukuzifaka kuphela zisuka ku-<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
-<translation id="8013436988911883588">Uma i-Decentr inokufinyelela, amawebhusayithi azokwazi ukukucela ukufinyelela.</translation>
+<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Ungayiphatha kanjani idatha yakho:<ph name="END_BOLD" /> Ukuze sivikele ubumfihlo bakho, sisula ngokuzenzakalelayo izintshisekelo zakho ezindala kunamaviki ama-4. Njengoba uqhubeka nokubhrawuza, intshisekelo ingase ivele ohlwini futhi. Noma ungasusa izithakazelo ongafuni ukuthi i-Tomi izicabangele.</translation>
+<translation id="7937630085815544518">Ubukade ungene ngemvume ku-Tomi njengo-<ph name="USER_EMAIL_ADDRESS" />. Sicela usebenzise i-akhawunti efanayo ukuze uphinde ungene ngemvume futhi.</translation>
+<translation id="7975919845073681630">Lokhu ukufakwa kwesibili kwe-Tomi, futhi akukwazi ukwenziwa isiphequluli sakho esizenzakalelayo.</translation>
+<translation id="7997934263947464652">Izandiso, ama-app, namatimu asuka emithonjeni engaziwa angalimaza idivayisi yakho. I-Tomi incoma ukuzifaka kuphela zisuka ku-<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
+<translation id="8013436988911883588">Uma i-Tomi inokufinyelela, amawebhusayithi azokwazi ukukucela ukufinyelela.</translation>
 <translation id="80471789339884597">Siyabonga ngokufaka. Kufanele uqalise kabusha wonke amabhrawuza akho ngaphambi kokusebenzisa i-<ph name="BUNDLE_NAME" />.</translation>
-<translation id="8105840573057009683">I-Decentr idinga imvume yendawo kule sayithi</translation>
-<translation id="8133124826068723441">I-DecentrOS ayikwazanga ukuvumelanisa idatha yakho ngoba Ukuvumelanisa akutholakali kusizinda sakho.</translation>
+<translation id="8105840573057009683">I-Tomi idinga imvume yendawo kule sayithi</translation>
+<translation id="8133124826068723441">I-TomiOS ayikwazanga ukuvumelanisa idatha yakho ngoba Ukuvumelanisa akutholakali kusizinda sakho.</translation>
 <translation id="813913629614996137">Iyaqalisa...</translation>
-<translation id="81770708095080097">Leli fayela liyingozi, ngakho-ke i-Decentr iyivimbile.</translation>
-<translation id="8213374284266571500">I-Decentr ivimbe leli fayela ngoba lolu hlobo lwefayela luyingozi</translation>
-<translation id="8248265253516264921">Uma isithombe singanayo incazelo ephelele, i-Decentr izozama ukukunikezela eyodwa. Ukuze udale izincazelo, izithombe zithunyelwa ku-Decentr. Ungavala lokhu kuzilungiselelo noma kunini.</translation>
-<translation id="8266560134891435528">I-Decentr ayikwazi ukuhlola amaphasiwedi akho ngoba awungenanga ngemvume</translation>
-<translation id="8276522524898344151">I-Decentr izama ukukopisha amaphasiwedi.</translation>
-<translation id="8290862415967981663">Leli fayela lingaba yingozi, ngakho-ke i-Decentr iyivimbile.</translation>
-<translation id="8330519371938183845">Ngena ngemvume ukuze uvumelanise uphinde wenze kube ngeyakho i-Decentr kumadivayisi akho wonkana</translation>
-<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> ngaphambilini ibisebenzisa i-Decentr</translation>
-<translation id="8357820681460164151">Ukuze ufinyelele ezintweni zakho ze-browser ye-Decentr kuwo wonke amadivayisi wakho, ngena ngemvume, bese uvula ukuvumelanisa</translation>
-<translation id="8360718212975266891">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Decentr, uzodinga i-Windows 10 noma yakamuva. Le khompyutha isebenzisa i-Windows 8.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Qalisa kabusha i-Decentr phakathi kosuku}one{Qalisa kabusha i-Decentr phakathi kwezinsuku ezingu-#}other{Qalisa kabusha i-Decentr phakathi kwezinsuku ezingu-#}}</translation>
-<translation id="8453117565092476964">Ingobo yomlando yesifaki yonakele noma ayivumelekile. Sicela ulande futhi i-Decentr.</translation>
-<translation id="8463672209299734063">Ongakukhetha: Siza ekuthuthukiseni izakhi nokusebenza kwe-DecentrOS ngokuthumela ngokuzenzekelayo idatha yokusetshenziswa neyokuxilonga ku-Decentr.</translation>
-<translation id="8493179195440786826">I-Decentr ayikho kudethi</translation>
+<translation id="81770708095080097">Leli fayela liyingozi, ngakho-ke i-Tomi iyivimbile.</translation>
+<translation id="8213374284266571500">I-Tomi ivimbe leli fayela ngoba lolu hlobo lwefayela luyingozi</translation>
+<translation id="8248265253516264921">Uma isithombe singanayo incazelo ephelele, i-Tomi izozama ukukunikezela eyodwa. Ukuze udale izincazelo, izithombe zithunyelwa ku-Tomi. Ungavala lokhu kuzilungiselelo noma kunini.</translation>
+<translation id="8266560134891435528">I-Tomi ayikwazi ukuhlola amaphasiwedi akho ngoba awungenanga ngemvume</translation>
+<translation id="8276522524898344151">I-Tomi izama ukukopisha amaphasiwedi.</translation>
+<translation id="8290862415967981663">Leli fayela lingaba yingozi, ngakho-ke i-Tomi iyivimbile.</translation>
+<translation id="8330519371938183845">Ngena ngemvume ukuze uvumelanise uphinde wenze kube ngeyakho i-Tomi kumadivayisi akho wonkana</translation>
+<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> ngaphambilini ibisebenzisa i-Tomi</translation>
+<translation id="8357820681460164151">Ukuze ufinyelele ezintweni zakho ze-browser ye-Tomi kuwo wonke amadivayisi wakho, ngena ngemvume, bese uvula ukuvumelanisa</translation>
+<translation id="8360718212975266891">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Tomi, uzodinga i-Windows 10 noma yakamuva. Le khompyutha isebenzisa i-Windows 8.</translation>
+<translation id="8417404458978023919">{0,plural, =1{Qalisa kabusha i-Tomi phakathi kosuku}one{Qalisa kabusha i-Tomi phakathi kwezinsuku ezingu-#}other{Qalisa kabusha i-Tomi phakathi kwezinsuku ezingu-#}}</translation>
+<translation id="8453117565092476964">Ingobo yomlando yesifaki yonakele noma ayivumelekile. Sicela ulande futhi i-Tomi.</translation>
+<translation id="8463672209299734063">Ongakukhetha: Siza ekuthuthukiseni izakhi nokusebenza kwe-TomiOS ngokuthumela ngokuzenzekelayo idatha yokusetshenziswa neyokuxilonga ku-Tomi.</translation>
+<translation id="8493179195440786826">I-Tomi ayikho kudethi</translation>
 <translation id="8550334526674375523">Le phrofayela yomsebenzi ihluke ngokugcwele kusukela kuphrofayela yakho siqu.</translation>
-<translation id="8558383651099478961">Umzali wakho uvale "Izimvume zamasayithi, izinhlelo zokusebenza, nezandiso" ze-Decentr. Ukwengeza le <ph name="EXTENSION_TYPE_PARAMETER" /> akuvumelekile.</translation>
-<translation id="8561285221328166383">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Decentr, uzodinga i-macOS 10.13 noma eyakamuva. Le khompyutha isebenzisa i-macOS 10.12.</translation>
-<translation id="8568283329061645092">I-Decentr ingahlola amaphasiwedi akho uma ungena ngemvume nge-Akhawunti yakho ye-Decentr</translation>
-<translation id="8574036838419011058">Uma ivuliwe, i-Decentr igcina amandla ebhethri ngokukhawulela umsebenzi ongemuva nemiphumela yokubuka, njengokuskrola okubushelelezi namazinga ozimele wevidiyo. <ph name="BEGIN_LINK" />Funda kabanzi<ph name="END_LINK" /></translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> Ababhali be-Decentr. Wonke amalungelo agciniwe.</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Indlela esisebenzisa ngayo le datha:<ph name="END_BOLD" /> Amasayithi angagcina ulwazi nge-Decentr mayelana nezintshisekelo zakho. Ngokwesibonelo, uma uvakashela isayithi ukuze uthenge izicathulo zomjaho webanga elide, isayithi lingachaza intshisekelo yakho njengokugijima umjaho. Kamuva, uma uvakashela isayithi elihlukile ukuze ubhalisele umjaho, lelo sayithi lingakubonisa isikhangiso sezicathulo zokugijima ezisekelwe kuzintshisekelo zakho.</translation>
-<translation id="8619360774459241877">Iqalisa i-Decentr...</translation>
-<translation id="8621669128220841554">Ukufakwa kuhlulekile ngenxa yephutha elingacacisiwe. Sicela ulande i-Decentr futhi.</translation>
-<translation id="8697124171261953979">Iphinda ilawule ukuthi yiliphi ikhasi eliboniswayo uma uqala i-Decentr noma usesho kusuka ku-Omnibox.</translation>
-<translation id="8704119203788522458">Lena yi-Decentr yakho</translation>
-<translation id="8796602469536043152">I-Decentr idinga imvume ukuze ifinyelele kukhamera yakho nemakrofoni yaleli sayithi</translation>
-<translation id="8833697763442816810">Isistimu ye-DecentrOS</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Iyiphi idatha esetshenziswayo:<ph name="END_BOLD" /> Umlando wakho wokubhrawuza, irekhodi lamasayithi owavakashele usebenzisa i-Decentr kule divayisi.</translation>
+<translation id="8558383651099478961">Umzali wakho uvale "Izimvume zamasayithi, izinhlelo zokusebenza, nezandiso" ze-Tomi. Ukwengeza le <ph name="EXTENSION_TYPE_PARAMETER" /> akuvumelekile.</translation>
+<translation id="8561285221328166383">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Tomi, uzodinga i-macOS 10.13 noma eyakamuva. Le khompyutha isebenzisa i-macOS 10.12.</translation>
+<translation id="8568283329061645092">I-Tomi ingahlola amaphasiwedi akho uma ungena ngemvume nge-Akhawunti yakho ye-Tomi</translation>
+<translation id="8574036838419011058">Uma ivuliwe, i-Tomi igcina amandla ebhethri ngokukhawulela umsebenzi ongemuva nemiphumela yokubuka, njengokuskrola okubushelelezi namazinga ozimele wevidiyo. <ph name="BEGIN_LINK" />Funda kabanzi<ph name="END_LINK" /></translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> Ababhali be-Tomi. Wonke amalungelo agciniwe.</translation>
+<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Indlela esisebenzisa ngayo le datha:<ph name="END_BOLD" /> Amasayithi angagcina ulwazi nge-Tomi mayelana nezintshisekelo zakho. Ngokwesibonelo, uma uvakashela isayithi ukuze uthenge izicathulo zomjaho webanga elide, isayithi lingachaza intshisekelo yakho njengokugijima umjaho. Kamuva, uma uvakashela isayithi elihlukile ukuze ubhalisele umjaho, lelo sayithi lingakubonisa isikhangiso sezicathulo zokugijima ezisekelwe kuzintshisekelo zakho.</translation>
+<translation id="8619360774459241877">Iqalisa i-Tomi...</translation>
+<translation id="8621669128220841554">Ukufakwa kuhlulekile ngenxa yephutha elingacacisiwe. Sicela ulande i-Tomi futhi.</translation>
+<translation id="8697124171261953979">Iphinda ilawule ukuthi yiliphi ikhasi eliboniswayo uma uqala i-Tomi noma usesho kusuka ku-Omnibox.</translation>
+<translation id="8704119203788522458">Lena yi-Tomi yakho</translation>
+<translation id="8796602469536043152">I-Tomi idinga imvume ukuze ifinyelele kukhamera yakho nemakrofoni yaleli sayithi</translation>
+<translation id="8833697763442816810">Isistimu ye-TomiOS</translation>
+<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Iyiphi idatha esetshenziswayo:<ph name="END_BOLD" /> Umlando wakho wokubhrawuza, irekhodi lamasayithi owavakashele usebenzisa i-Tomi kule divayisi.</translation>
 <translation id="8862326446509486874">Awunawo amalungelo afanele wokufakwa okukuleveli yesistimu. Zama ukuqalisa isifaki futhi njengomlawuli.</translation>
-<translation id="8880203542552872219">Uma kunjalo, sicela uhlele iphasiwedi yakho elondoloziwe ku-Decentr ukuze ifane nephasiwedi yakho entsha.</translation>
-<translation id="8897323336392112261">Iphinda ilayishe ukuthi yiliphi ikhasi eliboniswayo uma uqala i-Decentr noma uchofoza kunkinobho ye-Ikhaya.</translation>
-<translation id="8907580949721785412">I-Decentr izama ukubonisa amaphasiwedi. Thayipha iphasiwedi yakho ye-Windows ukuze uvumele lokhu.</translation>
-<translation id="8931379085695076764">I-Decentr ingasikisela izinto ozithakaselayo ngokusekelwe kumlando wakho wokubhrawuza kusukela emavikini ambalwa adlule. Lolu lwazi luhlala kudivayisi yakho.</translation>
-<translation id="8941642502866065432">Ayikwazi ukubuyekeza i-Decentr</translation>
-<translation id="897581876605952338">Ilogo ye-Decentr Enterprise</translation>
+<translation id="8880203542552872219">Uma kunjalo, sicela uhlele iphasiwedi yakho elondoloziwe ku-Tomi ukuze ifane nephasiwedi yakho entsha.</translation>
+<translation id="8897323336392112261">Iphinda ilayishe ukuthi yiliphi ikhasi eliboniswayo uma uqala i-Tomi noma uchofoza kunkinobho ye-Ikhaya.</translation>
+<translation id="8907580949721785412">I-Tomi izama ukubonisa amaphasiwedi. Thayipha iphasiwedi yakho ye-Windows ukuze uvumele lokhu.</translation>
+<translation id="8931379085695076764">I-Tomi ingasikisela izinto ozithakaselayo ngokusekelwe kumlando wakho wokubhrawuza kusukela emavikini ambalwa adlule. Lolu lwazi luhlala kudivayisi yakho.</translation>
+<translation id="8941642502866065432">Ayikwazi ukubuyekeza i-Tomi</translation>
+<translation id="897581876605952338">Ilogo ye-Tomi Enterprise</translation>
 <translation id="8986207147630327271">Ungeza iphrofayela yomsebenzi kulesi siphequluli futhi unikeza umlawuli wakho ulawulo olungaphezulu nje kwephrofayela yomsebenzi.</translation>
-<translation id="9019929317751753759">Ukuze senze i-Decentr iphephe, sikhubaza isandiso esilandelayo esingafakiwe kuhlu lwe-<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> futhi kungenzeka singezwe ngaphandle kolwazi lakho.</translation>
-<translation id="9022552996538154597">Ngena ngemvume ku-Decentr</translation>
-<translation id="9089354809943900324">I-Decentr ayikho kudethi</translation>
-<translation id="9093206154853821181">{0,plural, =1{I-Decentr izoqalisa kabusha phakathi kwehora}one{I-Decentr izoqalisa kabusha emahoreni angu-#}other{I-Decentr izoqalisa kabusha emahoreni angu-#}}</translation>
-<translation id="9106612006984859720">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Decentr, uzodinga i-Windows 10 noma yakamuva. Le khompyutha isebenzisa i-Windows 8.1.</translation>
-<translation id="91086099826398415">Vula isixhumanisi ku&amp;thebhu entsha ye-Decentr</translation>
+<translation id="9019929317751753759">Ukuze senze i-Tomi iphephe, sikhubaza isandiso esilandelayo esingafakiwe kuhlu lwe-<ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> futhi kungenzeka singezwe ngaphandle kolwazi lakho.</translation>
+<translation id="9022552996538154597">Ngena ngemvume ku-Tomi</translation>
+<translation id="9089354809943900324">I-Tomi ayikho kudethi</translation>
+<translation id="9093206154853821181">{0,plural, =1{I-Tomi izoqalisa kabusha phakathi kwehora}one{I-Tomi izoqalisa kabusha emahoreni angu-#}other{I-Tomi izoqalisa kabusha emahoreni angu-#}}</translation>
+<translation id="9106612006984859720">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Tomi, uzodinga i-Windows 10 noma yakamuva. Le khompyutha isebenzisa i-Windows 8.1.</translation>
+<translation id="91086099826398415">Vula isixhumanisi ku&amp;thebhu entsha ye-Tomi</translation>
 <translation id="911206726377975832">Phinda ususe idatha yakho yokudlulisa amehlo?</translation>
-<translation id="9144490074902256427">Phakathi nezivivinyo, ungakwazi ukubona nokususa izihloko onentshisekelo kuzo ezisetshenziswa amasayithi ukuze uboniswe izikhangiso. I-Decentr izolinganisa intshisekelo yakho ngokusekelwe kumlando wakho wakamuva wokubhrawuza.</translation>
-<translation id="9158494823179993217">Umlawuli wesistimu yakho ulungise i-Decentr ukuthi ivule esinye isiphequluli ukufinyelela i-<ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="9185526690718004400">Qalisa kabusha ukuze ubuyekeze i-&amp;Decentr</translation>
-<translation id="9190841055450128916">I-Decentr (mDNS-In)</translation>
-<translation id="93478295209880648">I-Decentr kungenzeka ingasebenzi kahle ngoba ayisasekelwa ku-Windows XP noma ku-Windows Vista</translation>
-<translation id="942598560705308788">Izitifiketi eziphethwe i-Decentr</translation>
-<translation id="945990405696787151">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Decentr, uzodinga i-macOS 10.13 noma eyakamuva. Le khompuyutha isebenzisa i-OS X 10.11.</translation>
-<translation id="965162752251293939">Ubani osebenzisa i-Decentr?</translation>
-<translation id="967427899662692980">Thola ukuvikeleka okuqine kakhulu kwe-Decentr</translation>
-<translation id="9792300276217204">Hlala usula idatha yesayithi kusukela kudivayisi yakho uma uvala i-Decentr</translation>
-<translation id="985602178874221306">Ababhali be-Decentr</translation>
+<translation id="9144490074902256427">Phakathi nezivivinyo, ungakwazi ukubona nokususa izihloko onentshisekelo kuzo ezisetshenziswa amasayithi ukuze uboniswe izikhangiso. I-Tomi izolinganisa intshisekelo yakho ngokusekelwe kumlando wakho wakamuva wokubhrawuza.</translation>
+<translation id="9158494823179993217">Umlawuli wesistimu yakho ulungise i-Tomi ukuthi ivule esinye isiphequluli ukufinyelela i-<ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="9185526690718004400">Qalisa kabusha ukuze ubuyekeze i-&amp;Tomi</translation>
+<translation id="9190841055450128916">I-Tomi (mDNS-In)</translation>
+<translation id="93478295209880648">I-Tomi kungenzeka ingasebenzi kahle ngoba ayisasekelwa ku-Windows XP noma ku-Windows Vista</translation>
+<translation id="942598560705308788">Izitifiketi eziphethwe i-Tomi</translation>
+<translation id="945990405696787151">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Tomi, uzodinga i-macOS 10.13 noma eyakamuva. Le khompuyutha isebenzisa i-OS X 10.11.</translation>
+<translation id="965162752251293939">Ubani osebenzisa i-Tomi?</translation>
+<translation id="967427899662692980">Thola ukuvikeleka okuqine kakhulu kwe-Tomi</translation>
+<translation id="9792300276217204">Hlala usula idatha yesayithi kusukela kudivayisi yakho uma uvala i-Tomi</translation>
+<translation id="985602178874221306">Ababhali be-Tomi</translation>
 </translationbundle>

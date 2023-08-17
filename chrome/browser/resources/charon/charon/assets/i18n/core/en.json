@@ -14,8 +14,8 @@
   },
   "layout": {
     "footer": {
-      "copyright": "Copyright {{ year }} Decentr All Rights Reserved",
-      "decentr": "Decentr",
+      "copyright": "Copyright {{ year }} Tomi All Rights Reserved",
+      "tomi": "Tomi",
       "social": {
         "github": "GitHub",
         "medium": "Medium",
@@ -26,20 +26,20 @@
   },
   "menu": {
     "items": {
-      "decentr_feed": {
+      "tomi_feed": {
         "description": "Recent activity of people you follow.",
         "title": "dFeed"
       },
-      "decentr_hub": {
+      "tomi_hub": {
         "description": "Personalized feed with posts from people you follow, and trending posts you might be interested in",
         "title": "dHub"
       },
-      "decentr_portal": {
+      "tomi_portal": {
         "description": "Your personal dashboard with detailed assets and activity info",
         "title": "dPortal"
       },
-      "decentr_explorer": {
-        "description": "Decentr blockchain explorer",
+      "tomi_explorer": {
+        "description": "Tomi blockchain explorer",
         "title": "dExplorer"
       },
       "help": "Help center",
@@ -58,7 +58,7 @@
   },
   "profile_form": {
     "avatar": {
-      "subtitle": "It will appear on your posts and comments across Decentr.",
+      "subtitle": "It will appear on your posts and comments across Tomi.",
       "title": "Your profile picture"
     },
     "bio": {

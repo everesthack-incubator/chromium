@@ -1,427 +1,427 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="cs">
-<translation id="1001534784610492198">Archiv instalačního programu je poškozený nebo neplatný. Stáhněte prosím Decentr ještě jednou.</translation>
+<translation id="1001534784610492198">Archiv instalačního programu je poškozený nebo neplatný. Stáhněte prosím Tomi ještě jednou.</translation>
 <translation id="1026101648481255140">Pokračovat v instalaci</translation>
-<translation id="102763973188675173">Přizpůsobte si Decentr a ovládejte jej. Je k dispozici aktualizace.</translation>
-<translation id="1051826050538111504">Máte v počítači škodlivý software. Decentr ho může odstranit, obnovit vaše nastavení a zakázat rozšíření, aby prohlížeč opět fungoval jako obvykle.</translation>
+<translation id="102763973188675173">Přizpůsobte si Tomi a ovládejte jej. Je k dispozici aktualizace.</translation>
+<translation id="1051826050538111504">Máte v počítači škodlivý software. Tomi ho může odstranit, obnovit vaše nastavení a zakázat rozšíření, aby prohlížeč opět fungoval jako obvykle.</translation>
 <translation id="1065672644894730302">Nelze číst vaše nastavení.
 
 Některé funkce možná nebudou k dispozici a změny nastavení se neuloží.</translation>
-<translation id="1088300314857992706">Před vámi prohlížeč Decentr používal uživatel <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="110877069173485804">Toto je váš Decentr</translation>
-<translation id="1125124144982679672">Kdo Decentr používá?</translation>
-<translation id="1142745911746664600">Decentr nelze aktualizovat</translation>
-<translation id="1152920704813762236">O systému DecentrOS</translation>
+<translation id="1088300314857992706">Před vámi prohlížeč Tomi používal uživatel <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="110877069173485804">Toto je váš Tomi</translation>
+<translation id="1125124144982679672">Kdo Tomi používá?</translation>
+<translation id="1142745911746664600">Tomi nelze aktualizovat</translation>
+<translation id="1152920704813762236">O systému TomiOS</translation>
 <translation id="1154147086299354128">&amp;Otevřít v Chromu</translation>
 <translation id="1203500561924088507">Děkujeme za instalaci aplikace <ph name="BUNDLE_NAME" />. Před jejím použitím je potřeba restartovat prohlížeč.</translation>
-<translation id="1236866257838264361">Prohlížeč Decentr můžete využít na maximum</translation>
-<translation id="1278833599417554002">Znovu spustit a aktualizovat &amp;Decentr</translation>
-<translation id="1302523850133262269">Počkejte prosím, než Decentr nainstaluje nejnovější aktualizace systému.</translation>
-<translation id="1335640173511558774">Doména <ph name="MANAGER" /> vyžaduje, abyste si před použitím tohoto zařízení přečetli následující smluvní podmínky a odsouhlasili je. Tyto smluvní podmínky nerozšiřují, neupravují ani neomezují smluvní podmínky systému DecentrOS Flex.</translation>
-<translation id="1363996462118479832">DecentrOS vaše data nemohl synchronizovat z důvodu chyby při přihlášení.</translation>
-<translation id="137466361146087520">Decentr Beta</translation>
-<translation id="1399397803214730675">V tomto počítači je již nainstalována novější verze prohlížeče Decentr. Jestliže software nefunguje, odinstalujte prosím prohlížeč Decentr a zkuste to znovu.</translation>
+<translation id="1236866257838264361">Prohlížeč Tomi můžete využít na maximum</translation>
+<translation id="1278833599417554002">Znovu spustit a aktualizovat &amp;Tomi</translation>
+<translation id="1302523850133262269">Počkejte prosím, než Tomi nainstaluje nejnovější aktualizace systému.</translation>
+<translation id="1335640173511558774">Doména <ph name="MANAGER" /> vyžaduje, abyste si před použitím tohoto zařízení přečetli následující smluvní podmínky a odsouhlasili je. Tyto smluvní podmínky nerozšiřují, neupravují ani neomezují smluvní podmínky systému TomiOS Flex.</translation>
+<translation id="1363996462118479832">TomiOS vaše data nemohl synchronizovat z důvodu chyby při přihlášení.</translation>
+<translation id="137466361146087520">Tomi Beta</translation>
+<translation id="1399397803214730675">V tomto počítači je již nainstalována novější verze prohlížeče Tomi. Jestliže software nefunguje, odinstalujte prosím prohlížeč Tomi a zkuste to znovu.</translation>
 <translation id="139993653570221430">V nastavení Chromu můžete předvolby kdykoli upravit. Zkoušky probíhají souběžně se současným způsobem zobrazování reklam, takže změny neuvidíte hned.</translation>
-<translation id="1434626383986940139">Aplikace Decentr Canary</translation>
-<translation id="1507198376417198979">Přizpůsobte si svůj nový profil Decentr</translation>
-<translation id="1516530951338665275">Decentr potřebuje přístup k Bluetooth, aby bylo možné
+<translation id="1434626383986940139">Aplikace Tomi Canary</translation>
+<translation id="1507198376417198979">Přizpůsobte si svůj nový profil Tomi</translation>
+<translation id="1516530951338665275">Tomi potřebuje přístup k Bluetooth, aby bylo možné
  pokračovat v párování. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="1547295885616600893">Systém DecentrOS by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="1553358976309200471">Aktualizovat Decentr</translation>
-<translation id="1583073672411044740">Uživatel <ph name="EXISTING_USER" /> už je k tomuto profilu Decentr přihlášen. Tímto vytvoříte nový profil Decentr pro uživatele <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="1587223624401073077">Decentr používá vaši kameru.</translation>
-<translation id="1587325591171447154">Soubor <ph name="FILE_NAME" /> je nebezpečný, proto jej Decentr zablokoval.</translation>
+<translation id="1547295885616600893">Systém TomiOS by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="1553358976309200471">Aktualizovat Tomi</translation>
+<translation id="1583073672411044740">Uživatel <ph name="EXISTING_USER" /> už je k tomuto profilu Tomi přihlášen. Tímto vytvoříte nový profil Tomi pro uživatele <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="1587223624401073077">Tomi používá vaši kameru.</translation>
+<translation id="1587325591171447154">Soubor <ph name="FILE_NAME" /> je nebezpečný, proto jej Tomi zablokoval.</translation>
 <translation id="1597911401261118146">Chcete-li zkontrolovat, zda jsou hesla v bezpečí před porušením zabezpečení údajů a ostatními bezpečnostními hrozbami, <ph name="BEGIN_LINK" />přihlaste se do Chromu<ph name="END_LINK" />.</translation>
-<translation id="1599904803480101533">Decentr tento soubor archivu zablokoval, protože v něm může být skryt malware</translation>
-<translation id="1619887657840448962">Aby byl prohlížeč Decentr bezpečnější, deaktivovali jsme následující rozšíření, které není uvedeno na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohlo být přidáno bez vašeho vědomí.</translation>
+<translation id="1599904803480101533">Tomi tento soubor archivu zablokoval, protože v něm může být skryt malware</translation>
+<translation id="1619887657840448962">Aby byl prohlížeč Tomi bezpečnější, deaktivovali jsme následující rozšíření, které není uvedeno na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohlo být přidáno bez vašeho vědomí.</translation>
 <translation id="1627304841979541023"><ph name="BEGIN_BOLD" />Jak můžete své údaje spravovat:<ph name="END_BOLD" /> Abychom chránili vaše soukromí, vaše zájmy starší než 4 měsíce automaticky mažeme. Jak budete pracovat s internetem, zájmy se mohou na seznamu znovu objevit. Pokud se zájmy nemají zohledňovat, můžete je z Chromu odstranit.</translation>
-<translation id="1628000112320670027">Pomoc s prohlížečem Decentr</translation>
+<translation id="1628000112320670027">Pomoc s prohlížečem Tomi</translation>
 <translation id="1640672724030957280">Stahování...</translation>
-<translation id="1662146548738125461">O systému DecentrOS Flex</translation>
-<translation id="1674870198290878346">Otevřít odkaz v &amp;anonymním okně Decentr</translation>
-<translation id="1682634494516646069">Aplikace Decentr nemůže číst ani zapisovat do svého datového adresáře:
+<translation id="1662146548738125461">O systému TomiOS Flex</translation>
+<translation id="1674870198290878346">Otevřít odkaz v &amp;anonymním okně Tomi</translation>
+<translation id="1682634494516646069">Aplikace Tomi nemůže číst ani zapisovat do svého datového adresáře:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="1691802391966922744">{COUNT,plural, =1{Administrátor nakonfiguroval Decentr tak, aby se po 1 minutě nečinnosti zavřel.}few{Administrátor nakonfiguroval Decentr tak, aby se po # minutách nečinnosti zavřel.}many{Administrátor nakonfiguroval Decentr tak, aby se po # minuty nečinnosti zavřel.}other{Administrátor nakonfiguroval Decentr tak, aby se po # minutách nečinnosti zavřel.}}</translation>
-<translation id="1698376642261615901">Webový prohlížeč Decentr spouští stránky a aplikace rychlostí blesku. Je rychlý, stabilní a snadno použitelný. S ochranou proti malwaru a phishingu integrovanou do prohlížeče Decentr můžete procházet web bezpečněji.</translation>
-<translation id="1713301662689114961">{0,plural, =1{Decentr se za hodinu restartuje}few{Decentr se za # hodiny restartuje}many{Decentr se za # hodiny restartuje}other{Decentr se za # hodin restartuje}}</translation>
-<translation id="1734234790201236882">Decentr heslo uloží do vašeho účtu Decentr. Nebudete si ho muset pamatovat.</translation>
-<translation id="1759842336958782510">Decentr</translation>
+<translation id="1691802391966922744">{COUNT,plural, =1{Administrátor nakonfiguroval Tomi tak, aby se po 1 minutě nečinnosti zavřel.}few{Administrátor nakonfiguroval Tomi tak, aby se po # minutách nečinnosti zavřel.}many{Administrátor nakonfiguroval Tomi tak, aby se po # minuty nečinnosti zavřel.}other{Administrátor nakonfiguroval Tomi tak, aby se po # minutách nečinnosti zavřel.}}</translation>
+<translation id="1698376642261615901">Webový prohlížeč Tomi spouští stránky a aplikace rychlostí blesku. Je rychlý, stabilní a snadno použitelný. S ochranou proti malwaru a phishingu integrovanou do prohlížeče Tomi můžete procházet web bezpečněji.</translation>
+<translation id="1713301662689114961">{0,plural, =1{Tomi se za hodinu restartuje}few{Tomi se za # hodiny restartuje}many{Tomi se za # hodiny restartuje}other{Tomi se za # hodin restartuje}}</translation>
+<translation id="1734234790201236882">Tomi heslo uloží do vašeho účtu Tomi. Nebudete si ho muset pamatovat.</translation>
+<translation id="1759842336958782510">Tomi</translation>
 <translation id="1786003790898721085">Zkontrolujte, zda jste v zařízení <ph name="TARGET_DEVICE_NAME" /> přihlášeni do Chromu, a potom zkuste číslo odeslat znovu.</translation>
-<translation id="1812689907177901597">Pokud tuto možnost vypnete, budete se moci přihlásit k většině webů Decentr, jako je Gmail, aniž byste se přihlásili do Chromu</translation>
-<translation id="1860536484129686729">Decentr pro tento web potřebuje oprávnění k přístupu k fotoaparátu</translation>
-<translation id="1873233029667955273">Decentr není vaším výchozím prohlížečem</translation>
-<translation id="1874309113135274312">Decentr Beta (mDNS-In)</translation>
-<translation id="1877026089748256423">Decentr je zastaralý</translation>
+<translation id="1812689907177901597">Pokud tuto možnost vypnete, budete se moci přihlásit k většině webů Tomi, jako je Gmail, aniž byste se přihlásili do Chromu</translation>
+<translation id="1860536484129686729">Tomi pro tento web potřebuje oprávnění k přístupu k fotoaparátu</translation>
+<translation id="1873233029667955273">Tomi není vaším výchozím prohlížečem</translation>
+<translation id="1874309113135274312">Tomi Beta (mDNS-In)</translation>
+<translation id="1877026089748256423">Tomi je zastaralý</translation>
 <translation id="1919130412786645364">Povolit přihlášení do Chromu</translation>
-<translation id="1952239763774043237">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Decentr, budete potřebovat systém MacOS 10.13 nebo novější. Tento počítač používá systém macOS 10.12.</translation>
+<translation id="1952239763774043237">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Tomi, budete potřebovat systém MacOS 10.13 nebo novější. Tento počítač používá systém macOS 10.12.</translation>
 <translation id="1953553007165777902">Stahování… Počet zbývajících minut: <ph name="MINUTE" /></translation>
 <translation id="2018528049276128029">V každém profilu jsou uloženy soukromé údaje z Chromu, například záložky, historie, hesla a další</translation>
 <translation id="2018879682492276940">Instalace se nezdařila. Zkuste to znovu.</translation>
-<translation id="2071318482926839249">Už je přihlášen jiný účet. Pokud chcete své prohlížení oddělit, Decentr vám může vytvořit vlastní profil.</translation>
-<translation id="207902854391093810">Když jsou zapnuté zkušební verze, měření reklam umožňuje navštíveným webům žádat Decentr o informace, na základě kterých mohou měřit výkonnost svých reklam. Měření reklam zabraňuje sledování mezi weby, protože se při něm mezi weby přenáší co možná nejméně informací.</translation>
-<translation id="2091012649849228750">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Decentr, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 8.</translation>
-<translation id="2094648590148273905">Smluvní podmínky systému DecentrOS Flex</translation>
-<translation id="2094919256425865063">Přesto Decentr ukončit?</translation>
-<translation id="2106831557840787829">Systém DecentrOS Flex by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />, jako je <ph name="BEGIN_LINK_LINUX_OSS" />vývojové prostředí Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="2071318482926839249">Už je přihlášen jiný účet. Pokud chcete své prohlížení oddělit, Tomi vám může vytvořit vlastní profil.</translation>
+<translation id="207902854391093810">Když jsou zapnuté zkušební verze, měření reklam umožňuje navštíveným webům žádat Tomi o informace, na základě kterých mohou měřit výkonnost svých reklam. Měření reklam zabraňuje sledování mezi weby, protože se při něm mezi weby přenáší co možná nejméně informací.</translation>
+<translation id="2091012649849228750">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Tomi, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 8.</translation>
+<translation id="2094648590148273905">Smluvní podmínky systému TomiOS Flex</translation>
+<translation id="2094919256425865063">Přesto Tomi ukončit?</translation>
+<translation id="2106831557840787829">Systém TomiOS Flex by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />, jako je <ph name="BEGIN_LINK_LINUX_OSS" />vývojové prostředí Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="2120620239521071941">Ze zařízení bude smazán následující počet položek: <ph name="ITEMS_COUNT" />. Budete-li chtít své údaje později načíst, přihlaste se do Chromu jako <ph name="USER_EMAIL" />.</translation>
-<translation id="2121284319307530122">Znovu spustit a aktualizovat &amp;Decentr</translation>
-<translation id="2123055963409958220">Pomozte s vylepšováním prohlížeče Decentr tím, že nahlásíte <ph name="BEGIN_LINK" />aktuální nastavení<ph name="END_LINK" /></translation>
+<translation id="2121284319307530122">Znovu spustit a aktualizovat &amp;Tomi</translation>
+<translation id="2123055963409958220">Pomozte s vylepšováním prohlížeče Tomi tím, že nahlásíte <ph name="BEGIN_LINK" />aktuální nastavení<ph name="END_LINK" /></translation>
 <translation id="2131230230468101642">Abychom chránili vaše soukromí, vaše zájmy starší než 4 měsíce automaticky mažeme. Jak budete pracovat s internetem, zájmy se mohou na seznamu znovu objevit. Pokud se zájmy nemají zohledňovat, můžete je z Chromu odstranit.</translation>
-<translation id="2139300032719313227">Restartujte systém DecentrOS</translation>
-<translation id="2151406531797534936">Restartujte Decentr</translation>
+<translation id="2139300032719313227">Restartujte systém TomiOS</translation>
+<translation id="2151406531797534936">Restartujte Tomi</translation>
 <translation id="2174917724755363426">Instalace není dokončena. Opravdu ji chcete zrušit?</translation>
-<translation id="223889379102603431">Informace o tom, jak Decentr spravuje své kořenové certifikáty</translation>
+<translation id="223889379102603431">Informace o tom, jak Tomi spravuje své kořenové certifikáty</translation>
 <translation id="2258103955319320201">Pokud ke svým údajům v Chromu chcete mít přístup na všech zařízeních, přihlaste se a poté zapněte synchronizaci</translation>
-<translation id="2290014774651636340">Chybí klíče rozhraní Decentr API. Některé funkce Decentr nebudou k dispozici.</translation>
-<translation id="2290095356545025170">Opravdu chcete odinstalovat Decentr?</translation>
-<translation id="2309047409763057870">Toto je druhá instalace prohlížeče Decentr. Tuto instalaci nelze nastavit jako výchozí prohlížeč.</translation>
-<translation id="2345992953227471816">Prohlížeč Decentr zjistil, že tato rozšíření obsahují malware:</translation>
-<translation id="2348335408836342058">Decentr pro tento web potřebuje oprávnění k přístupu k fotoaparátu a mikrofonu</translation>
-<translation id="234869673307233423">Decentr nemůže zkontrolovat vaše hesla. Zkuste to později.</translation>
-<translation id="235650106824528204">Veškerá data prohlížeče Decentr vygenerovaná během používání tohoto profilu (jako je vytvoření záložek, historie, hesel a další nastavení) může administrátor pracovního profilu odstranit. <ph name="LEARN_MORE" /></translation>
+<translation id="2290014774651636340">Chybí klíče rozhraní Tomi API. Některé funkce Tomi nebudou k dispozici.</translation>
+<translation id="2290095356545025170">Opravdu chcete odinstalovat Tomi?</translation>
+<translation id="2309047409763057870">Toto je druhá instalace prohlížeče Tomi. Tuto instalaci nelze nastavit jako výchozí prohlížeč.</translation>
+<translation id="2345992953227471816">Prohlížeč Tomi zjistil, že tato rozšíření obsahují malware:</translation>
+<translation id="2348335408836342058">Tomi pro tento web potřebuje oprávnění k přístupu k fotoaparátu a mikrofonu</translation>
+<translation id="234869673307233423">Tomi nemůže zkontrolovat vaše hesla. Zkuste to později.</translation>
+<translation id="235650106824528204">Veškerá data prohlížeče Tomi vygenerovaná během používání tohoto profilu (jako je vytvoření záložek, historie, hesel a další nastavení) může administrátor pracovního profilu odstranit. <ph name="LEARN_MORE" /></translation>
 <translation id="2359808026110333948">Pokračovat</translation>
-<translation id="2401189691232800402">Systém DecentrOS</translation>
-<translation id="2467438592969358367">Decentr chce exportovat vaše hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="2401189691232800402">Systém TomiOS</translation>
+<translation id="2467438592969358367">Tomi chce exportovat vaše hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
 <translation id="2485422356828889247">Odinstalovat</translation>
-<translation id="2534507159460261402">Decentr Pay (zkopírováno do Chromu)</translation>
-<translation id="2559253115192232574">Později může navštívený web požádat Decentr o sdělení vašich zájmů, aby vám mohl přizpůsobit zobrazované reklamy. Decentr může sdílet až 3 zájmy.</translation>
-<translation id="2563121210305478421">Restartovat Decentr?</translation>
-<translation id="2574930892358684005">Uživatel <ph name="EXISTING_USER" /> už je k tomuto profilu Decentr přihlášen. Chcete-li své procházení oddělit, Decentr vám může vytvořit vlastní profil.</translation>
-<translation id="2580411288591421699">Nelze nainstalovat verzi aplikace Decentr, která je právě spuštěná. Ukončete aplikaci Decentr a opakujte akci.</translation>
+<translation id="2534507159460261402">Tomi Pay (zkopírováno do Chromu)</translation>
+<translation id="2559253115192232574">Později může navštívený web požádat Tomi o sdělení vašich zájmů, aby vám mohl přizpůsobit zobrazované reklamy. Tomi může sdílet až 3 zájmy.</translation>
+<translation id="2563121210305478421">Restartovat Tomi?</translation>
+<translation id="2574930892358684005">Uživatel <ph name="EXISTING_USER" /> už je k tomuto profilu Tomi přihlášen. Chcete-li své procházení oddělit, Tomi vám může vytvořit vlastní profil.</translation>
+<translation id="2580411288591421699">Nelze nainstalovat verzi aplikace Tomi, která je právě spuštěná. Ukončete aplikaci Tomi a opakujte akci.</translation>
 <translation id="2586406160782125153">Ze zařízení budou smazány vaše údaje o prohlížení. Budete-li chtít své údaje později načíst, přihlaste se do Chromu jako <ph name="USER_EMAIL" />.</translation>
-<translation id="2597976513418770460">Získejte údaje prohlížeče Decentr z účtu <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="2622559029861875898">Decentr nemůže vyhledat dostupné aktualizace. Zkuste zkontrolovat připojení k internetu.</translation>
-<translation id="2645435784669275700">DecentrOS</translation>
-<translation id="2652691236519827073">Otevřít odkaz na nové kar&amp;tě Decentr</translation>
-<translation id="2665296953892887393">Pomozte aplikaci Decentr zlepšovat tím, že budete společnosti Decentr zasílat zprávy o selhání a <ph name="UMA_LINK" />.</translation>
-<translation id="2689103672227170538">Toto rozšíření změnilo stránku, která se zobrazí při spuštění prohlížeče Decentr.</translation>
-<translation id="2742320827292110288">Upozornění: Decentr nemůže rozšířením zabránit v zaznamenávání vaší historie prohlížení. Chcete-li toto rozšíření v anonymním režimu deaktivovat, zrušte výběr této možnosti.</translation>
-<translation id="2765403129283291972">Decentr pro tento web potřebuje oprávnění k přístupu k mikrofonu</translation>
+<translation id="2597976513418770460">Získejte údaje prohlížeče Tomi z účtu <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="2622559029861875898">Tomi nemůže vyhledat dostupné aktualizace. Zkuste zkontrolovat připojení k internetu.</translation>
+<translation id="2645435784669275700">TomiOS</translation>
+<translation id="2652691236519827073">Otevřít odkaz na nové kar&amp;tě Tomi</translation>
+<translation id="2665296953892887393">Pomozte aplikaci Tomi zlepšovat tím, že budete společnosti Tomi zasílat zprávy o selhání a <ph name="UMA_LINK" />.</translation>
+<translation id="2689103672227170538">Toto rozšíření změnilo stránku, která se zobrazí při spuštění prohlížeče Tomi.</translation>
+<translation id="2742320827292110288">Upozornění: Tomi nemůže rozšířením zabránit v zaznamenávání vaší historie prohlížení. Chcete-li toto rozšíření v anonymním režimu deaktivovat, zrušte výběr této možnosti.</translation>
+<translation id="2765403129283291972">Tomi pro tento web potřebuje oprávnění k přístupu k mikrofonu</translation>
 <translation id="2770231113462710648">Změnit výchozí prohlížeč na:</translation>
-<translation id="2775140325783767197">Decentr nemůže zkontrolovat vaše hesla. Zkuste zkontrolovat připojení k internetu.</translation>
+<translation id="2775140325783767197">Tomi nemůže zkontrolovat vaše hesla. Zkuste zkontrolovat připojení k internetu.</translation>
 <translation id="2799223571221894425">Restartovat</translation>
-<translation id="2847461019998147611">Zobrazit Decentr v tomto jazyce</translation>
+<translation id="2847461019998147611">Zobrazit Tomi v tomto jazyce</translation>
 <translation id="2857540653560290388">Spouštění Chromu...</translation>
-<translation id="2857972467023607093">Profil Decentr s tímto účtem už existuje</translation>
+<translation id="2857972467023607093">Profil Tomi s tímto účtem už existuje</translation>
 <translation id="2861074815332034794">Aktualizace Chromu (<ph name="PROGRESS_PERCENT" />)</translation>
 <translation id="2871893339301912279">Nyní jste přihlášeni do Chromu.</translation>
 <translation id="2885378588091291677">Správce úloh</translation>
-<translation id="2888126860611144412">O aplikaci Decentr</translation>
+<translation id="2888126860611144412">O aplikaci Tomi</translation>
 <translation id="2915996080311180594">Restartovat později</translation>
-<translation id="2926676257163822632">Slabá hesla lze snadno uhodnout. Decentr vám může <ph name="BEGIN_LINK" />vytvářet a ukládat silná hesla<ph name="END_LINK" />.</translation>
-<translation id="2926952073016206995">Decentr pro tento web potřebuje přístup k fotoaparátu</translation>
+<translation id="2926676257163822632">Slabá hesla lze snadno uhodnout. Tomi vám může <ph name="BEGIN_LINK" />vytvářet a ukládat silná hesla<ph name="END_LINK" />.</translation>
+<translation id="2926952073016206995">Tomi pro tento web potřebuje přístup k fotoaparátu</translation>
 <translation id="2928420929544864228">Instalace byla dokončena.</translation>
-<translation id="2929907241665500097">Prohlížeč Decentr se neaktualizoval, něco se pokazilo. <ph name="BEGIN_LINK" />Vyřešte problémy se stahováním aktualizací Chromu a neúspěšnými aktualizacemi.<ph name="END_LINK" /></translation>
-<translation id="2969728957078202736"><ph name="PAGE_TITLE" /> – přihlášení k síti – Decentr</translation>
-<translation id="3019382870990049182">Spustit znovu a aktualizovat &amp;DecentrOS Flex</translation>
-<translation id="303514781271618814">Decentr zkoumá nové funkce, které webům umožňují poskytovat stejné prostředí a využívat při tom méně dat</translation>
-<translation id="3037838751736561277">Decentr je v režimu na pozadí.</translation>
+<translation id="2929907241665500097">Prohlížeč Tomi se neaktualizoval, něco se pokazilo. <ph name="BEGIN_LINK" />Vyřešte problémy se stahováním aktualizací Chromu a neúspěšnými aktualizacemi.<ph name="END_LINK" /></translation>
+<translation id="2969728957078202736"><ph name="PAGE_TITLE" /> – přihlášení k síti – Tomi</translation>
+<translation id="3019382870990049182">Spustit znovu a aktualizovat &amp;TomiOS Flex</translation>
+<translation id="303514781271618814">Tomi zkoumá nové funkce, které webům umožňují poskytovat stejné prostředí a využívat při tom méně dat</translation>
+<translation id="3037838751736561277">Tomi je v režimu na pozadí.</translation>
 <translation id="3038232873781883849">Čekání na instalaci…</translation>
-<translation id="3059710691562604940">Bezpečné prohlížení je vypnuté. Decentr ho doporučuje zapnout.</translation>
-<translation id="3065168410429928842">Karta prohlížeče Decentr</translation>
-<translation id="3080151273017101988">Po ukončení prohlížeče Decentr nechat aplikace na pozadí spuštěné</translation>
-<translation id="3089968997497233615">K dispozici je nová, bezpečnější verze prohlížeče Decentr.</translation>
-<translation id="3100998948628680988">Zadejte název profilu Decentr</translation>
+<translation id="3059710691562604940">Bezpečné prohlížení je vypnuté. Tomi ho doporučuje zapnout.</translation>
+<translation id="3065168410429928842">Karta prohlížeče Tomi</translation>
+<translation id="3080151273017101988">Po ukončení prohlížeče Tomi nechat aplikace na pozadí spuštěné</translation>
+<translation id="3089968997497233615">K dispozici je nová, bezpečnější verze prohlížeče Tomi.</translation>
+<translation id="3100998948628680988">Zadejte název profilu Tomi</translation>
 <translation id="3114643501466072395">Chcete-li zkontrolovat, zda jsou ostatní hesla v bezpečí před porušením zabezpečení údajů a ostatními bezpečnostními hrozbami, <ph name="BEGIN_LINK" />přihlaste se do Chromu<ph name="END_LINK" />.</translation>
-<translation id="3140883423282498090">Změny se projeví po příštím restartu prohlížeče Decentr.</translation>
-<translation id="3149510190863420837">Aplikace Decentr</translation>
-<translation id="3169523567916669830">Během zkoušek můžete zobrazovat a odstraňovat zájmy, které weby používají k zobrazování reklam. Decentr zájmy odhaduje na základě vaší nedávné historie prohlížení.</translation>
-<translation id="3211604354460514046">{NUM_DEVICES,plural, =1{Decentr je připojen k zařízení HID}few{Decentr je připojen k zařízením HID}many{Decentr je připojen k zařízením HID}other{Decentr je připojen k zařízením HID}}</translation>
+<translation id="3140883423282498090">Změny se projeví po příštím restartu prohlížeče Tomi.</translation>
+<translation id="3149510190863420837">Aplikace Tomi</translation>
+<translation id="3169523567916669830">Během zkoušek můžete zobrazovat a odstraňovat zájmy, které weby používají k zobrazování reklam. Tomi zájmy odhaduje na základě vaší nedávné historie prohlížení.</translation>
+<translation id="3211604354460514046">{NUM_DEVICES,plural, =1{Tomi je připojen k zařízení HID}few{Tomi je připojen k zařízením HID}many{Tomi je připojen k zařízením HID}other{Tomi je připojen k zařízením HID}}</translation>
 <translation id="3245429137663807393">Pokud také sdílíte přehledy využití Chromu, budou zahrnovat adresy URL, které navštěvujete</translation>
 <translation id="3282568296779691940">Přihlásit se do Chromu</translation>
 <translation id="3286538390144397061">Restartovat</translation>
-<translation id="3360895254066713204">Decentr Helper</translation>
-<translation id="3379938682270551431">{0,plural, =0{Decentr se nyní restartuje}=1{Decentr se za 1 sekundu restartuje}few{Decentr se za # sekundy restartuje}many{Decentr se za # sekundy restartuje}other{Decentr se za # sekund restartuje}}</translation>
-<translation id="3396977131400919238">Během instalace došlo k chybě operačního systému. Stáhněte prosím Decentr ještě jednou.</translation>
-<translation id="3426646014273736870">Decentr byl zrychlen pomocí Spořiče paměti</translation>
-<translation id="3428747202529429621">Zajišťuje vám bezpečí v Chromu a může zvýšit vaši bezpečnost v jiných aplikacích Decentr, když jste přihlášeni.</translation>
-<translation id="3434246496373299699">Když se přihlásíte k účtu Decentr, může vám Decentr kontrolovat hesla</translation>
-<translation id="3451115285585441894">Přidává se do prohlížeče Decentr...</translation>
+<translation id="3360895254066713204">Tomi Helper</translation>
+<translation id="3379938682270551431">{0,plural, =0{Tomi se nyní restartuje}=1{Tomi se za 1 sekundu restartuje}few{Tomi se za # sekundy restartuje}many{Tomi se za # sekundy restartuje}other{Tomi se za # sekund restartuje}}</translation>
+<translation id="3396977131400919238">Během instalace došlo k chybě operačního systému. Stáhněte prosím Tomi ještě jednou.</translation>
+<translation id="3426646014273736870">Tomi byl zrychlen pomocí Spořiče paměti</translation>
+<translation id="3428747202529429621">Zajišťuje vám bezpečí v Chromu a může zvýšit vaši bezpečnost v jiných aplikacích Tomi, když jste přihlášeni.</translation>
+<translation id="3434246496373299699">Když se přihlásíte k účtu Tomi, může vám Tomi kontrolovat hesla</translation>
+<translation id="3451115285585441894">Přidává se do prohlížeče Tomi...</translation>
 <translation id="345171907106878721">Přidejte do Chromu svůj účet</translation>
-<translation id="3453763134178591239">Smluvní podmínky systému DecentrOS</translation>
+<translation id="3453763134178591239">Smluvní podmínky systému TomiOS</translation>
 <translation id="34857402635545079">Vymazat také data z Chromu (<ph name="URL" />)</translation>
-<translation id="3503306920980160878">Decentr potřebuje přístup k vaší poloze, aby ji mohl sdílet s tímto webem</translation>
-<translation id="3533694711092285624">Nemáte žádná uložená hesla. Decentr může hesla zkontrolovat, pouze když si je uložíte.</translation>
-<translation id="3541482654983822893">Decentr nemůže zkontrolovat vaše hesla. Zkuste to znovu za 24 hodin.</translation>
-<translation id="3576528680708590453">Administrátor systému nakonfiguroval prohlížeč Decentr tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME" /> otevřel alternativní prohlížeč.</translation>
-<translation id="3579965087968408543">Při zavření prohlížeče Decentr vždy vymazat ze zařízení data webů</translation>
-<translation id="3582972582564653026">Synchronizujte a upravte si Decentr na různých zařízeních</translation>
-<translation id="3596080736082218006">{COUNT,plural, =0{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Decentr restartovali}=1{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Decentr restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Decentr restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Decentr restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Decentr restartovali. # anonymních oken se neotevře znovu.}}</translation>
-<translation id="3622797965165704966">Používání Chromu se spravovaným účtem Decentr a sdílenými počítači je teď snazší.</translation>
-<translation id="3673813398384385993">Prohlížeč Decentr zjistil, že rozšíření <ph name="EXTENSION_NAME" /> obsahuje malware</translation>
-<translation id="3703994572283698466">Systém DecentrOS by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />, jako je <ph name="BEGIN_LINK_LINUX_OSS" />vývojové prostředí Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="3716540481907974026">Verze systému DecentrOS Flex</translation>
+<translation id="3503306920980160878">Tomi potřebuje přístup k vaší poloze, aby ji mohl sdílet s tímto webem</translation>
+<translation id="3533694711092285624">Nemáte žádná uložená hesla. Tomi může hesla zkontrolovat, pouze když si je uložíte.</translation>
+<translation id="3541482654983822893">Tomi nemůže zkontrolovat vaše hesla. Zkuste to znovu za 24 hodin.</translation>
+<translation id="3576528680708590453">Administrátor systému nakonfiguroval prohlížeč Tomi tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME" /> otevřel alternativní prohlížeč.</translation>
+<translation id="3579965087968408543">Při zavření prohlížeče Tomi vždy vymazat ze zařízení data webů</translation>
+<translation id="3582972582564653026">Synchronizujte a upravte si Tomi na různých zařízeních</translation>
+<translation id="3596080736082218006">{COUNT,plural, =0{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Tomi restartovali}=1{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Tomi restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Tomi restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Tomi restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vyžaduje, abyste kvůli použití této aktualizace Tomi restartovali. # anonymních oken se neotevře znovu.}}</translation>
+<translation id="3622797965165704966">Používání Chromu se spravovaným účtem Tomi a sdílenými počítači je teď snazší.</translation>
+<translation id="3673813398384385993">Prohlížeč Tomi zjistil, že rozšíření <ph name="EXTENSION_NAME" /> obsahuje malware</translation>
+<translation id="3703994572283698466">Systém TomiOS by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />, jako je <ph name="BEGIN_LINK_LINUX_OSS" />vývojové prostředí Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="3716540481907974026">Verze systému TomiOS Flex</translation>
 <translation id="3718181793972440140">Ze zařízení bude smazána 1 položka. Budete-li chtít své údaje později načíst, přihlaste se do Chromu jako <ph name="USER_EMAIL" />.</translation>
-<translation id="3735758079232443276">Rozšíření <ph name="EXTENSION_NAME" /> změnilo stránku, která se zobrazí při spuštění prohlížeče Decentr.</translation>
-<translation id="3744202345691150878">Pomoc se systémem DecentrOS</translation>
-<translation id="3780814664026482060">Decentr – <ph name="PAGE_TITLE" /></translation>
-<translation id="3785324443014631273">Systém DecentrOS Flex nemůže synchronizovat data kvůli chybě při přihlašování.</translation>
-<translation id="3795971588916395511">DecentrOS</translation>
-<translation id="3835168907083856002">Tímto vytvoříte nový profil Decentr pro uživatele <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="386202838227397562">Zavřete prosím všechna okna prohlížeče Decentr a zkuste to znovu.</translation>
+<translation id="3735758079232443276">Rozšíření <ph name="EXTENSION_NAME" /> změnilo stránku, která se zobrazí při spuštění prohlížeče Tomi.</translation>
+<translation id="3744202345691150878">Pomoc se systémem TomiOS</translation>
+<translation id="3780814664026482060">Tomi – <ph name="PAGE_TITLE" /></translation>
+<translation id="3785324443014631273">Systém TomiOS Flex nemůže synchronizovat data kvůli chybě při přihlašování.</translation>
+<translation id="3795971588916395511">TomiOS</translation>
+<translation id="3835168907083856002">Tímto vytvoříte nový profil Tomi pro uživatele <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="386202838227397562">Zavřete prosím všechna okna prohlížeče Tomi a zkuste to znovu.</translation>
 <translation id="3865754807470779944">Je nainstalována tato verze Chromu: <ph name="PRODUCT_VERSION" /></translation>
-<translation id="3873044882194371212">Otevřít odkaz v &amp;anonymním okně Decentr</translation>
-<translation id="3889417619312448367">Odinstalovat Decentr</translation>
-<translation id="3999683152997576765">Můžete zobrazovat a odstraňovat zájmy, které weby používají k zobrazování reklam. Decentr zájmy odhaduje na základě vaší nedávné historie prohlížení.</translation>
-<translation id="4035053306113201399">Aktualizace se použije po restartování systému DecentrOS.</translation>
+<translation id="3873044882194371212">Otevřít odkaz v &amp;anonymním okně Tomi</translation>
+<translation id="3889417619312448367">Odinstalovat Tomi</translation>
+<translation id="3999683152997576765">Můžete zobrazovat a odstraňovat zájmy, které weby používají k zobrazování reklam. Tomi zájmy odhaduje na základě vaší nedávné historie prohlížení.</translation>
+<translation id="4035053306113201399">Aktualizace se použije po restartování systému TomiOS.</translation>
 <translation id="4050175100176540509">V nejnovější verzi jsou k dispozici důležitá vylepšení zabezpečení a nové funkce.</translation>
-<translation id="4053720452172726777">Přizpůsobit a ovládat Decentr</translation>
-<translation id="4106587138345390261">Decentr zkoumá nové funkce, které webům umožňují poskytovat stejné prostředí a využívat při tom méně vašich dat a údajů</translation>
-<translation id="4110895483821904099">Nastavit nový profil prohlížeče Decentr</translation>
-<translation id="4147555960264124640">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem Decentr. Vaše údaje prohlížeče Decentr, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME" />. Tyto údaje budete moci smazat pomocí Hlavního panelu Decentr, ale nebudete je moci přidružit k jinému účtu. <ph name="LEARN_MORE" /></translation>
+<translation id="4053720452172726777">Přizpůsobit a ovládat Tomi</translation>
+<translation id="4106587138345390261">Tomi zkoumá nové funkce, které webům umožňují poskytovat stejné prostředí a využívat při tom méně vašich dat a údajů</translation>
+<translation id="4110895483821904099">Nastavit nový profil prohlížeče Tomi</translation>
+<translation id="4147555960264124640">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem Tomi. Vaše údaje prohlížeče Tomi, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME" />. Tyto údaje budete moci smazat pomocí Hlavního panelu Tomi, ale nebudete je moci přidružit k jinému účtu. <ph name="LEARN_MORE" /></translation>
 <translation id="4148957013307229264">Instalace...</translation>
-<translation id="4149882025268051530">Instalačnímu programu se nepodařilo rozbalit archiv. Stáhněte prosím Decentr ještě jednou.</translation>
-<translation id="4191857738314598978">{0,plural, =1{Do jednoho dne Decentr restartujte}few{Do # dní Decentr restartujte}many{Do # dne Decentr restartujte}other{Do # dní Decentr restartujte}}</translation>
-<translation id="4205939740494406371">Decentr nemůže zkontrolovat vaše hesla. Zkuste to znovu zítra, případně <ph name="BEGIN_LINK" />hesla zkontrolujte v účtu Decentr<ph name="END_LINK" />.</translation>
+<translation id="4149882025268051530">Instalačnímu programu se nepodařilo rozbalit archiv. Stáhněte prosím Tomi ještě jednou.</translation>
+<translation id="4191857738314598978">{0,plural, =1{Do jednoho dne Tomi restartujte}few{Do # dní Tomi restartujte}many{Do # dne Tomi restartujte}other{Do # dní Tomi restartujte}}</translation>
+<translation id="4205939740494406371">Tomi nemůže zkontrolovat vaše hesla. Zkuste to znovu zítra, případně <ph name="BEGIN_LINK" />hesla zkontrolujte v účtu Tomi<ph name="END_LINK" />.</translation>
 <translation id="4222932583846282852">Rušení...</translation>
-<translation id="4242034826641750751">Decentr pro tento web potřebuje přístup k fotoaparátu a mikrofonu</translation>
+<translation id="4242034826641750751">Tomi pro tento web potřebuje přístup k fotoaparátu a mikrofonu</translation>
 <translation id="424864128008805179">Odhlásit se z Chromu?</translation>
-<translation id="4251615635259297716">Chcete propojit údaje prohlížeče Decentr s tímto účtem?</translation>
+<translation id="4251615635259297716">Chcete propojit údaje prohlížeče Tomi s tímto účtem?</translation>
 <translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Jaké údaje používáme:<ph name="END_BOLD" /> Vaši historii prohlížení, což je seznam webů, které jste navštívili v Chromu na tomto zařízení.</translation>
 <translation id="4281844954008187215">Smluvní podmínky</translation>
-<translation id="4293420128516039005">Po přihlášení si budete moci Decentr synchronizovat a upravit na různých zařízeních</translation>
-<translation id="430327780270213103">Povolit rozšíření zobrazovat na liště prohlížeče Decentr žádosti o přístup</translation>
-<translation id="4328355335528187361">Decentr Dev (mDNS-In)</translation>
+<translation id="4293420128516039005">Po přihlášení si budete moci Tomi synchronizovat a upravit na různých zařízeních</translation>
+<translation id="430327780270213103">Povolit rozšíření zobrazovat na liště prohlížeče Tomi žádosti o přístup</translation>
+<translation id="4328355335528187361">Tomi Dev (mDNS-In)</translation>
 <translation id="4334294535648607276">Stahování bylo dokončeno.</translation>
-<translation id="4335235004908507846">Decentr vás pomáhá chránit před porušeními zabezpečení údajů, škodlivými rozšířeními a dalšími hrozbami</translation>
+<translation id="4335235004908507846">Tomi vás pomáhá chránit před porušeními zabezpečení údajů, škodlivými rozšířeními a dalšími hrozbami</translation>
 <translation id="4343195214584226067">Do Chromu bylo přidáno rozšíření <ph name="EXTENSION_NAME" /></translation>
-<translation id="4384570495110188418">Decentr nemůže zkontrolovat vaše hesla, protože nejste přihlášeni</translation>
+<translation id="4384570495110188418">Tomi nemůže zkontrolovat vaše hesla, protože nejste přihlášeni</translation>
 <translation id="4427306783828095590">Vylepšená ochrana vás lépe ochrání před phishingem a malwarem</translation>
-<translation id="4450664632294415862">Decentr – přihlášení k síti – <ph name="PAGE_TITLE" /></translation>
-<translation id="4458462641685292929">V prohlížeči Decentr právě probíhá jiná operace. Zkuste to znovu později.</translation>
-<translation id="4459234553906210702">Měření reklam umožňuje navštíveným webům žádat Decentr o informace, na základě kterých mohou měřit výkonnost svých reklam. Měření reklam zabraňuje sledování mezi weby, protože se při něm mezi weby přenáší co možná nejméně informací.</translation>
-<translation id="4561051373932531560">Decentr umožňuje kliknout na telefonní číslo na webu a volat na něj prostřednictvím aplikace Skype.</translation>
+<translation id="4450664632294415862">Tomi – přihlášení k síti – <ph name="PAGE_TITLE" /></translation>
+<translation id="4458462641685292929">V prohlížeči Tomi právě probíhá jiná operace. Zkuste to znovu později.</translation>
+<translation id="4459234553906210702">Měření reklam umožňuje navštíveným webům žádat Tomi o informace, na základě kterých mohou měřit výkonnost svých reklam. Měření reklam zabraňuje sledování mezi weby, protože se při něm mezi weby přenáší co možná nejméně informací.</translation>
+<translation id="4561051373932531560">Tomi umožňuje kliknout na telefonní číslo na webu a volat na něj prostřednictvím aplikace Skype.</translation>
 <translation id="4567424176335768812">Jste přihlášeni pomocí účtu <ph name="USER_EMAIL_ADDRESS" />. Nyní můžete přistupovat ke všem svým záložkám, historii a dalším nastavením ve všech přihlášených zařízeních.</translation>
-<translation id="4571503333518166079">Přejít na nastavení oznámení prohlížeče Decentr</translation>
-<translation id="459622048091363950">Až bude mít Decentr přístup, budou vás weby moci požádat o přístup.</translation>
-<translation id="4600710005438004015">Decentr nebylo možné aktualizovat na nejnovější verzi. Nemáte proto k dispozici nové funkce a opravy zabezpečení.</translation>
-<translation id="4627412468266359539">Volitelné: Pomozte se zlepšováním funkcí a výkonu systému DecentrOS Flex tím, že budete do Googlu automaticky odesílat diagnostická data a údaje o využití.</translation>
-<translation id="4633000520311261472">Aby byl Decentr bezpečnější, deaktivovali jsme některá rozšíření, která nejsou uvedena na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohla být přidána bez vašeho vědomí.</translation>
+<translation id="4571503333518166079">Přejít na nastavení oznámení prohlížeče Tomi</translation>
+<translation id="459622048091363950">Až bude mít Tomi přístup, budou vás weby moci požádat o přístup.</translation>
+<translation id="4600710005438004015">Tomi nebylo možné aktualizovat na nejnovější verzi. Nemáte proto k dispozici nové funkce a opravy zabezpečení.</translation>
+<translation id="4627412468266359539">Volitelné: Pomozte se zlepšováním funkcí a výkonu systému TomiOS Flex tím, že budete do Googlu automaticky odesílat diagnostická data a údaje o využití.</translation>
+<translation id="4633000520311261472">Aby byl Tomi bezpečnější, deaktivovali jsme některá rozšíření, která nejsou uvedena na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> a mohla být přidána bez vašeho vědomí.</translation>
 <translation id="4680828127924988555">Zrušit instalaci</translation>
-<translation id="469553575393225953">Rozšíření, aplikace a motivy z neznámých zdrojů mohou poškodit vaše zařízení. Decentr doporučuje instalovat je pouze z Internetového obchodu Decentr</translation>
-<translation id="4728575227883772061">Došlo k nespecifikované chybě, instalace se nezdařila. Pokud je Decentr právě spuštěný, zavřete jej prosím a zkuste to znovu.</translation>
-<translation id="4747730611090640388">Decentr dokáže odhadovat vaše zájmy.  Později může navštívený web požádat Decentr o sdělení vašich zájmů, aby vám mohl přizpůsobit zobrazované reklamy.</translation>
-<translation id="4754614261631455953">Decentr Canary (mDNS-In)</translation>
-<translation id="4771048833395599659">Tento soubor může být nebezpečný, proto jej Decentr zablokoval.</translation>
-<translation id="479167709087336770">Tato funkce využívá stejnou službu kontroly pravopisu, jaká se používá ve vyhledávání Decentr. Text, který v prohlížeči zadáte, se odešle do Googlu. Toto chování můžete kdykoliv změnit v nastavení.</translation>
-<translation id="4842397268809523050">Systém DecentrOS Flex nemůže synchronizovat data, protože ve vaší doméně není k dispozici Synchronizace.</translation>
+<translation id="469553575393225953">Rozšíření, aplikace a motivy z neznámých zdrojů mohou poškodit vaše zařízení. Tomi doporučuje instalovat je pouze z Internetového obchodu Tomi</translation>
+<translation id="4728575227883772061">Došlo k nespecifikované chybě, instalace se nezdařila. Pokud je Tomi právě spuštěný, zavřete jej prosím a zkuste to znovu.</translation>
+<translation id="4747730611090640388">Tomi dokáže odhadovat vaše zájmy.  Později může navštívený web požádat Tomi o sdělení vašich zájmů, aby vám mohl přizpůsobit zobrazované reklamy.</translation>
+<translation id="4754614261631455953">Tomi Canary (mDNS-In)</translation>
+<translation id="4771048833395599659">Tento soubor může být nebezpečný, proto jej Tomi zablokoval.</translation>
+<translation id="479167709087336770">Tato funkce využívá stejnou službu kontroly pravopisu, jaká se používá ve vyhledávání Tomi. Text, který v prohlížeči zadáte, se odešle do Googlu. Toto chování můžete kdykoliv změnit v nastavení.</translation>
+<translation id="4842397268809523050">Systém TomiOS Flex nemůže synchronizovat data, protože ve vaší doméně není k dispozici Synchronizace.</translation>
 <translation id="4873783916118289636">Zkontrolujte klíčové ovládací prvky ochrany soukromí a zabezpečení v Chromu</translation>
-<translation id="4891791193823137474">Nechat aplikaci Decentr spuštěnou na pozadí</translation>
-<translation id="4895437082222824641">Otevřít odkaz na nové kar&amp;tě Decentr</translation>
-<translation id="4953650215774548573">Nastavit Decentr jako výchozí prohlížeč</translation>
+<translation id="4891791193823137474">Nechat aplikaci Tomi spuštěnou na pozadí</translation>
+<translation id="4895437082222824641">Otevřít odkaz na nové kar&amp;tě Tomi</translation>
+<translation id="4953650215774548573">Nastavit Tomi jako výchozí prohlížeč</translation>
 <translation id="495931528404527476">V Chromu</translation>
-<translation id="4969674060580488087">Systém DecentrOS Flex nemůže synchronizovat data, protože vaše přihlašovací údaje k účtu jsou zastaralé.</translation>
-<translation id="4970761609246024540">Vítejte v profilech Decentr</translation>
-<translation id="4970880042055371251">Verze systému DecentrOS</translation>
-<translation id="4970947549776831107">Decentr tento soubor zablokoval, protože tento typ souboru je nebezpečný</translation>
-<translation id="4990567037958725628">Decentr Canary</translation>
-<translation id="5037581483200764584">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Decentr, budete potřebovat systém MacOS 10.13 nebo novější. Tento počítač používá systém OS X 10.11.</translation>
+<translation id="4969674060580488087">Systém TomiOS Flex nemůže synchronizovat data, protože vaše přihlašovací údaje k účtu jsou zastaralé.</translation>
+<translation id="4970761609246024540">Vítejte v profilech Tomi</translation>
+<translation id="4970880042055371251">Verze systému TomiOS</translation>
+<translation id="4970947549776831107">Tomi tento soubor zablokoval, protože tento typ souboru je nebezpečný</translation>
+<translation id="4990567037958725628">Tomi Canary</translation>
+<translation id="5037581483200764584">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Tomi, budete potřebovat systém MacOS 10.13 nebo novější. Tento počítač používá systém OS X 10.11.</translation>
 <translation id="5098668839038261629">Když zapnete tuto možnost, budete také odhlášeni z Chromu</translation>
-<translation id="5132929315877954718">Objevte skvělé aplikace, hry, rozšíření a motivy prohlížeče Decentr.</translation>
-<translation id="5139423532931106058">Upravit profil Decentr</translation>
-<translation id="5163087008893166964">Vítá vás Decentr; bylo otevřeno nové okno prohlížeče</translation>
-<translation id="5170938038195470297">Nelze použít váš profil, protože byl vytvořen v novější verzi aplikace Decentr.
+<translation id="5132929315877954718">Objevte skvělé aplikace, hry, rozšíření a motivy prohlížeče Tomi.</translation>
+<translation id="5139423532931106058">Upravit profil Tomi</translation>
+<translation id="5163087008893166964">Vítá vás Tomi; bylo otevřeno nové okno prohlížeče</translation>
+<translation id="5170938038195470297">Nelze použít váš profil, protože byl vytvořen v novější verzi aplikace Tomi.
 
-Některé funkce mohou být nedostupné. Zadejte prosím jiný adresář profilu, nebo používejte novější verzi aplikace Decentr.</translation>
-<translation id="521447420733633466">Pokud zařízení sdílíte s přáteli a členy rodiny, každý může procházet internet nezávisle a nastavit si Decentr tak, jak potřebuje</translation>
-<translation id="5251420635869119124">Hosté mohou Decentr používat, aniž by po nich zůstaly jakékoliv stopy.</translation>
-<translation id="5334309298019785904">DecentrOS nemohl synchronizovat vaše data, protože Synchronizace ve vaší doméně není k dispozici.</translation>
-<translation id="5334487786912937552">Ke stahování souborů potřebuje Decentr přístup k úložišti</translation>
-<translation id="5337648990166757586">Volitelné: Pomozte se zlepšováním funkcí a výkonu systému DecentrOS tím, že budete do Googlu automaticky odesílat diagnostické údaje a údaje o využití.</translation>
-<translation id="5357889879764279201">Nápověda k systému DecentrOS Flex</translation>
-<translation id="5386244825306882791">Také řídí, která stránka se zobrazí, když spustíte Decentr nebo budete vyhledávat v omniboxu.</translation>
-<translation id="5394833366792865639">Sdílet kartu prohlížeče Decentr</translation>
-<translation id="5412485296464121825">Weby mohou v prohlížeči Decentr ukládat informace o vašich zájmech. Např. když navštívíte web, kde se prodávají boty na maraton, web může definovat váš zájem jako běhání maratonů. Když později navštívíte jiný web s registrací na závod, může se vám na něm na základě vašich zájmů zobrazit reklama na boty na běhání.</translation>
+Některé funkce mohou být nedostupné. Zadejte prosím jiný adresář profilu, nebo používejte novější verzi aplikace Tomi.</translation>
+<translation id="521447420733633466">Pokud zařízení sdílíte s přáteli a členy rodiny, každý může procházet internet nezávisle a nastavit si Tomi tak, jak potřebuje</translation>
+<translation id="5251420635869119124">Hosté mohou Tomi používat, aniž by po nich zůstaly jakékoliv stopy.</translation>
+<translation id="5334309298019785904">TomiOS nemohl synchronizovat vaše data, protože Synchronizace ve vaší doméně není k dispozici.</translation>
+<translation id="5334487786912937552">Ke stahování souborů potřebuje Tomi přístup k úložišti</translation>
+<translation id="5337648990166757586">Volitelné: Pomozte se zlepšováním funkcí a výkonu systému TomiOS tím, že budete do Googlu automaticky odesílat diagnostické údaje a údaje o využití.</translation>
+<translation id="5357889879764279201">Nápověda k systému TomiOS Flex</translation>
+<translation id="5386244825306882791">Také řídí, která stránka se zobrazí, když spustíte Tomi nebo budete vyhledávat v omniboxu.</translation>
+<translation id="5394833366792865639">Sdílet kartu prohlížeče Tomi</translation>
+<translation id="5412485296464121825">Weby mohou v prohlížeči Tomi ukládat informace o vašich zájmech. Např. když navštívíte web, kde se prodávají boty na maraton, web může definovat váš zájem jako běhání maratonů. Když později navštívíte jiný web s registrací na závod, může se vám na něm na základě vašich zájmů zobrazit reklama na boty na běhání.</translation>
 <translation id="5430073640787465221">Soubor nastavení je poškozený nebo neplatný.
 
-Aplikace Decentr nemůže vaše nastavení obnovit.</translation>
-<translation id="5524761631371622910">Když jsou zapnuté zkušební verze a Decentr vás do nějaké náhodně umístí, vaše historie prohlížení bude mít vliv na zobrazované reklamy a zájmy, jak je odhadnuto níže. Aby Decentr chránil vaše soukromí, vaše zájmy každý měsíc pravidelně maže.</translation>
-<translation id="5530733413481476019">Zrychlete si Decentr</translation>
-<translation id="556024056938947818">Decentr se pokouší zobrazit hesla.</translation>
-<translation id="5566025111015594046">Decentr (mDNS-In)</translation>
-<translation id="565744775970812598">Soubor <ph name="FILE_NAME" /> může být nebezpečný, proto jej Decentr zablokoval.</translation>
-<translation id="5678190148303298925">{COUNT,plural, =0{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Decentr restartovali}=1{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Decentr restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Decentr restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Decentr restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Decentr restartovali. # anonymních oken se neotevře znovu.}}</translation>
-<translation id="5686916850681061684">Přizpůsobte si Decentr a ovládejte jej. Něco vyžaduje vaši pozornost – podrobnosti zobrazíte kliknutím.</translation>
-<translation id="5690427481109656848">Decentr LLC</translation>
-<translation id="5715063361988620182">{SECONDS,plural, =1{Decentr se za 1 sekundu restartuje}few{Decentr se za # sekundy restartuje}many{Decentr se za # sekundy restartuje}other{Decentr se za # sekund restartuje}}</translation>
-<translation id="5727531838415286053">Pokud vás Decentr náhodně umístí do zkušební verze, vaše historie prohlížení bude mít vliv na zobrazované reklamy a zájmy, jak je odhadnuto níže. Aby Decentr chránil vaše soukromí, vaše zájmy každý měsíc pravidelně maže. Zájmy se budou obnovovat, dokud je neodstraníte.</translation>
-<translation id="5736850870166430177">Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může Decentr Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky</translation>
-<translation id="5756509061973259733">Profil Decentr s tímto účtem už v tomto zařízení existuje</translation>
-<translation id="5795887333006832406"><ph name="PAGE_TITLE" /> – Decentr Canary</translation>
-<translation id="5804318322022881572">Decentr nelze spustit. Zkuste to znovu.</translation>
-<translation id="5867197326698922595">Decentr se pokouší upravit hesla.</translation>
+Aplikace Tomi nemůže vaše nastavení obnovit.</translation>
+<translation id="5524761631371622910">Když jsou zapnuté zkušební verze a Tomi vás do nějaké náhodně umístí, vaše historie prohlížení bude mít vliv na zobrazované reklamy a zájmy, jak je odhadnuto níže. Aby Tomi chránil vaše soukromí, vaše zájmy každý měsíc pravidelně maže.</translation>
+<translation id="5530733413481476019">Zrychlete si Tomi</translation>
+<translation id="556024056938947818">Tomi se pokouší zobrazit hesla.</translation>
+<translation id="5566025111015594046">Tomi (mDNS-In)</translation>
+<translation id="565744775970812598">Soubor <ph name="FILE_NAME" /> může být nebezpečný, proto jej Tomi zablokoval.</translation>
+<translation id="5678190148303298925">{COUNT,plural, =0{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Tomi restartovali}=1{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Tomi restartovali. Anonymní okno se neotevře znovu.}few{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Tomi restartovali. # anonymní okna se neotevřou znovu.}many{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Tomi restartovali. # anonymního okna se neotevře znovu.}other{Váš administrátor vás žádá, abyste kvůli použití této aktualizace Tomi restartovali. # anonymních oken se neotevře znovu.}}</translation>
+<translation id="5686916850681061684">Přizpůsobte si Tomi a ovládejte jej. Něco vyžaduje vaši pozornost – podrobnosti zobrazíte kliknutím.</translation>
+<translation id="5690427481109656848">Tomi LLC</translation>
+<translation id="5715063361988620182">{SECONDS,plural, =1{Tomi se za 1 sekundu restartuje}few{Tomi se za # sekundy restartuje}many{Tomi se za # sekundy restartuje}other{Tomi se za # sekund restartuje}}</translation>
+<translation id="5727531838415286053">Pokud vás Tomi náhodně umístí do zkušební verze, vaše historie prohlížení bude mít vliv na zobrazované reklamy a zájmy, jak je odhadnuto níže. Aby Tomi chránil vaše soukromí, vaše zájmy každý měsíc pravidelně maže. Zájmy se budou obnovovat, dokud je neodstraníte.</translation>
+<translation id="5736850870166430177">Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může Tomi Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky</translation>
+<translation id="5756509061973259733">Profil Tomi s tímto účtem už v tomto zařízení existuje</translation>
+<translation id="5795887333006832406"><ph name="PAGE_TITLE" /> – Tomi Canary</translation>
+<translation id="5804318322022881572">Tomi nelze spustit. Zkuste to znovu.</translation>
+<translation id="5867197326698922595">Tomi se pokouší upravit hesla.</translation>
 <translation id="5895138241574237353">Restartovat</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> – přihlášení k síti</translation>
 <translation id="5924017743176219022">Připojování k internetu…</translation>
 <translation id="5940385492829620908">Zde jsou k dispozici vaše weby, záložky a další obsah Chromu.</translation>
 <translation id="5941711191222866238">Minimalizovat</translation>
-<translation id="5941830788786076944">Nastavit Decentr jako výchozí prohlížeč</translation>
+<translation id="5941830788786076944">Nastavit Tomi jako výchozí prohlížeč</translation>
 <translation id="6003112304606738118">Stahování… Zbývající čas: <ph name="HOURS" /> h.</translation>
-<translation id="6022388122721048220">{0,plural, =0{Decentr se teď zavře.}=1{Decentr se za 1 sekundu zavře.}few{Decentr se za # sekundy zavře.}many{Decentr se za # sekundy zavře.}other{Decentr se za # sekund zavře.}}</translation>
+<translation id="6022388122721048220">{0,plural, =0{Tomi se teď zavře.}=1{Tomi se za 1 sekundu zavře.}few{Tomi se za # sekundy zavře.}many{Tomi se za # sekundy zavře.}other{Tomi se za # sekund zavře.}}</translation>
 <translation id="6040143037577758943">Zavřít</translation>
-<translation id="6070348360322141662">V zájmu lepšího zabezpečení bude Decentr vaše data šifrovat</translation>
+<translation id="6070348360322141662">V zájmu lepšího zabezpečení bude Tomi vaše data šifrovat</translation>
 <translation id="608006075545470555">Přidat do tohoto prohlížeče pracovní profil</translation>
-<translation id="6113794647360055231">Decentr je opět o něco lepší</translation>
+<translation id="6113794647360055231">Tomi je opět o něco lepší</translation>
 <translation id="6145313976051292476">Otevírání souborů PDF v Chromu</translation>
-<translation id="6155960517327665396">Prohlížeč Decentr byl zrychlen pomocí Spořiče paměti</translation>
-<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> - Decentr</translation>
-<translation id="6173637689840186878"><ph name="PAGE_TITLE" /> – Decentr Beta</translation>
-<translation id="6235018212288296708">Pravidlo příchozího provozu pro aplikaci Decentr, které povolí provoz mDNS.</translation>
-<translation id="6247557882553405851">Správce hesel Decentr</translation>
+<translation id="6155960517327665396">Prohlížeč Tomi byl zrychlen pomocí Spořiče paměti</translation>
+<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> - Tomi</translation>
+<translation id="6173637689840186878"><ph name="PAGE_TITLE" /> – Tomi Beta</translation>
+<translation id="6235018212288296708">Pravidlo příchozího provozu pro aplikaci Tomi, které povolí provoz mDNS.</translation>
+<translation id="6247557882553405851">Správce hesel Tomi</translation>
 <translation id="6273793429163604305">Připravit…</translation>
-<translation id="6291089322031436445">Decentr Dev – aplikace</translation>
-<translation id="6291549208091401781">Prohlížeč Decentr je na tomto počítači již nainstalován pro všechny uživatele.</translation>
+<translation id="6291089322031436445">Tomi Dev – aplikace</translation>
+<translation id="6291549208091401781">Prohlížeč Tomi je na tomto počítači již nainstalován pro všechny uživatele.</translation>
 <translation id="6326175484149238433">Odstranit z Chromu</translation>
 <translation id="6327105987658262776">Nejsou k dispozici žádné aktualizace.</translation>
-<translation id="6412673304250309937">Kontroluje adresy URL oproti seznamu nebezpečných webů uloženému v Chromu. Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může Decentr Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky.</translation>
-<translation id="6418662306461808273">Přepnout na stávající profil Decentr?</translation>
-<translation id="6506909944137591434">K vytvoření 3D mapy vašeho okolí potřebuje Decentr přístup k fotoaparátu</translation>
-<translation id="6515495397637126556"><ph name="PAGE_TITLE" /> – Decentr Dev</translation>
-<translation id="659498884637196217">Ve Správci hesel Decentr na tomto zařízení</translation>
-<translation id="6632473616050862500">Systém DecentrOS Flex by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="6412673304250309937">Kontroluje adresy URL oproti seznamu nebezpečných webů uloženému v Chromu. Pokud se web pokusí odcizit vám heslo nebo když stáhnete škodlivý soubor, může Tomi Bezpečnému prohlížení odeslat také adresy URL, včetně částí obsahu stránky.</translation>
+<translation id="6418662306461808273">Přepnout na stávající profil Tomi?</translation>
+<translation id="6506909944137591434">K vytvoření 3D mapy vašeho okolí potřebuje Tomi přístup k fotoaparátu</translation>
+<translation id="6515495397637126556"><ph name="PAGE_TITLE" /> – Tomi Dev</translation>
+<translation id="659498884637196217">Ve Správci hesel Tomi na tomto zařízení</translation>
+<translation id="6632473616050862500">Systém TomiOS Flex by nemohl existovat bez dalšího <ph name="BEGIN_LINK_CROS_OSS" />open source softwaru<ph name="END_LINK_CROS_OSS" />.</translation>
 <translation id="6676384891291319759">Přístup k internetu</translation>
-<translation id="6679975945624592337">Nechat Decentr běžet na pozadí</translation>
-<translation id="6696915334902295848">Decentr pro tento web potřebuje přístup k mikrofonu</translation>
-<translation id="6718739135284199302">Zrychlete svůj prohlížeč Decentr</translation>
-<translation id="6735387454586646204">Systém DecentrOS Flex</translation>
-<translation id="6739177684496155661">Pokračovat v novém profilu Decentr?</translation>
-<translation id="6750954913813541382">Text zadaný v prohlížeči odesílá Decentr kvůli opravě pravopisných chyb do Googlu</translation>
-<translation id="677276454032249905">Přesto Decentr ukončit?</translation>
-<translation id="683440813066116847">Pravidlo příchozího provozu pro aplikaci Decentr Canary, které povolí provoz mDNS.</translation>
+<translation id="6679975945624592337">Nechat Tomi běžet na pozadí</translation>
+<translation id="6696915334902295848">Tomi pro tento web potřebuje přístup k mikrofonu</translation>
+<translation id="6718739135284199302">Zrychlete svůj prohlížeč Tomi</translation>
+<translation id="6735387454586646204">Systém TomiOS Flex</translation>
+<translation id="6739177684496155661">Pokračovat v novém profilu Tomi?</translation>
+<translation id="6750954913813541382">Text zadaný v prohlížeči odesílá Tomi kvůli opravě pravopisných chyb do Googlu</translation>
+<translation id="677276454032249905">Přesto Tomi ukončit?</translation>
+<translation id="683440813066116847">Pravidlo příchozího provozu pro aplikaci Tomi Canary, které povolí provoz mDNS.</translation>
 <translation id="6881299373831449287">Aktualizace Chromu</translation>
-<translation id="6885412569789873916">Decentr Beta – aplikace</translation>
-<translation id="6933858244219479645">Systém DecentrOS</translation>
-<translation id="6938166777909186039">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Decentr, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 8.1.</translation>
+<translation id="6885412569789873916">Tomi Beta – aplikace</translation>
+<translation id="6933858244219479645">Systém TomiOS</translation>
+<translation id="6938166777909186039">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Tomi, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 8.1.</translation>
 <translation id="6943584222992551122">Ze zařízení budou smazány údaje této osoby o prohlížení. Budete-li je chtít znovu získat, přihlaste se do Chromu jako <ph name="USER_EMAIL" />.</translation>
-<translation id="6967962315388095737">Pravidlo příchozího provozu pro aplikaci Decentr Beta, které povolí provoz mDNS.</translation>
-<translation id="6989339256997917931">Prohlížeč Decentr byl aktualizován, ale minimálně po 30 dnů jste jej nepoužili.</translation>
+<translation id="6967962315388095737">Pravidlo příchozího provozu pro aplikaci Tomi Beta, které povolí provoz mDNS.</translation>
+<translation id="6989339256997917931">Prohlížeč Tomi byl aktualizován, ale minimálně po 30 dnů jste jej nepoužili.</translation>
 <translation id="7025789849649390912">Instalace byla zastavena.</translation>
-<translation id="7025800014283535195">Zde můžete přepínat mezi profily Decentr</translation>
-<translation id="7036251913954633326">Pokud tento účet chcete použít pouze jednorázově, můžete v prohlížeči Decentr použít <ph name="GUEST_LINK_BEGIN" />režim hosta<ph name="GUEST_LINK_END" />. Pokud chcete přidat účet někoho dalšího, přidejte do zařízení <ph name="DEVICE_TYPE" /> <ph name="LINK_BEGIN" />novou osobu<ph name="LINK_END" />.
+<translation id="7025800014283535195">Zde můžete přepínat mezi profily Tomi</translation>
+<translation id="7036251913954633326">Pokud tento účet chcete použít pouze jednorázově, můžete v prohlížeči Tomi použít <ph name="GUEST_LINK_BEGIN" />režim hosta<ph name="GUEST_LINK_END" />. Pokud chcete přidat účet někoho dalšího, přidejte do zařízení <ph name="DEVICE_TYPE" /> <ph name="LINK_BEGIN" />novou osobu<ph name="LINK_END" />.
 
-Na tento účet se mohou vztahovat oprávnění, která jste již udělili webům a aplikacím. Své účty Decentr můžete spravovat v <ph name="SETTINGS_LINK_BEGIN" />Nastavení<ph name="SETTINGS_LINK_END" />.</translation>
-<translation id="7062128746136194023">Tvůj rodič pro Decentr vypnul možnost Oprávnění pro weby, aplikace a rozšíření. Přidání tohoto <ph name="EXTENSION_TYPE_PARAMETER" /> není povoleno.</translation>
-<translation id="7085332316435785646">Zvolte, zda pro lépe personalizované prostředí ve službách Decentr chcete zahrnout historii Chromu</translation>
-<translation id="7088681679121566888">Decentr je aktuální</translation>
-<translation id="7098166902387133879">Decentr používá váš mikrofon.</translation>
-<translation id="7099479769133613710">Znovu spustit a aktualizovat &amp;DecentrOS</translation>
-<translation id="7106741999175697885">Správce úloh - Decentr</translation>
+Na tento účet se mohou vztahovat oprávnění, která jste již udělili webům a aplikacím. Své účty Tomi můžete spravovat v <ph name="SETTINGS_LINK_BEGIN" />Nastavení<ph name="SETTINGS_LINK_END" />.</translation>
+<translation id="7062128746136194023">Tvůj rodič pro Tomi vypnul možnost Oprávnění pro weby, aplikace a rozšíření. Přidání tohoto <ph name="EXTENSION_TYPE_PARAMETER" /> není povoleno.</translation>
+<translation id="7085332316435785646">Zvolte, zda pro lépe personalizované prostředí ve službách Tomi chcete zahrnout historii Chromu</translation>
+<translation id="7088681679121566888">Tomi je aktuální</translation>
+<translation id="7098166902387133879">Tomi používá váš mikrofon.</translation>
+<translation id="7099479769133613710">Znovu spustit a aktualizovat &amp;TomiOS</translation>
+<translation id="7106741999175697885">Správce úloh - Tomi</translation>
 <translation id="7140653346177713799">{COUNT,plural, =0{Je k dispozici nová aktualizace Chromu, která bude použita po restartování.}=1{Je k dispozici nová aktualizace Chromu, která bude použita po restartování. Anonymní okno se neotevře znovu.}few{Je k dispozici nová aktualizace Chromu, která bude použita po restartování. # anonymní okna se neotevřou znovu.}many{Je k dispozici nová aktualizace Chromu, která bude použita po restartování. # anonymního okna se neotevře znovu.}other{Je k dispozici nová aktualizace Chromu, která bude použita po restartování. # anonymních oken se neotevře znovu.}}</translation>
-<translation id="7155997830309522122">Pokud ano, upravte uložené heslo v prohlížeči Decentr tak, aby odpovídalo novému heslu.</translation>
-<translation id="7161904924553537242">Vítá vás Decentr</translation>
+<translation id="7155997830309522122">Pokud ano, upravte uložené heslo v prohlížeči Tomi tak, aby odpovídalo novému heslu.</translation>
+<translation id="7161904924553537242">Vítá vás Tomi</translation>
 <translation id="7177959540995930968">Další informace o těchto funkcích najdete v nastavení Chromu.</translation>
-<translation id="7242029209006116544">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem Decentr. Vaše údaje prohlížeče Decentr, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME" />. Tyto údaje budete moci smazat pomocí Hlavního panelu v Účtech Decentr, ale nebudete je moci přidružit k jinému účtu. Pokud chcete uchovat existující údaje Decentr odděleně, můžete vytvořit nový profil. <ph name="LEARN_MORE" /></translation>
-<translation id="7295052994004373688">V tomto jazyce se zobrazuje uživatelské rozhraní prohlížeče Decentr</translation>
+<translation id="7242029209006116544">Přihlašujete se pomocí spravovaného účtu a poskytujete jeho správci kontrolu nad vaším profilem Tomi. Vaše údaje prohlížeče Tomi, například aplikace, záložky, historie, hesla a jiná nastavení, budou trvale přidružena k účtu <ph name="USER_NAME" />. Tyto údaje budete moci smazat pomocí Hlavního panelu v Účtech Tomi, ale nebudete je moci přidružit k jinému účtu. Pokud chcete uchovat existující údaje Tomi odděleně, můžete vytvořit nový profil. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">V tomto jazyce se zobrazuje uživatelské rozhraní prohlížeče Tomi</translation>
 <translation id="7296210096911315575">Důležité informace o použití a bezpečnosti</translation>
-<translation id="7308322188646931570">Aby bylo možné stahovat soubory, potřebuje Decentr přístup k úložišti</translation>
+<translation id="7308322188646931570">Aby bylo možné stahovat soubory, potřebuje Tomi přístup k úložišti</translation>
 <translation id="7339898014177206373">Nové okno</translation>
-<translation id="7388770099345495132">Pokud tento účet chcete použít pouze jednorázově, můžete v prohlížeči Decentr použít režim hosta. Pokud chcete přidat účet někoho dalšího, přidejte do zařízení <ph name="DEVICE_TYPE" /> <ph name="LINK_BEGIN" />novou osobu<ph name="LINK_END" />.
+<translation id="7388770099345495132">Pokud tento účet chcete použít pouze jednorázově, můžete v prohlížeči Tomi použít režim hosta. Pokud chcete přidat účet někoho dalšího, přidejte do zařízení <ph name="DEVICE_TYPE" /> <ph name="LINK_BEGIN" />novou osobu<ph name="LINK_END" />.
 
-Na tento účet se mohou vztahovat oprávnění, která jste již udělili webům a aplikacím. Své účty Decentr můžete spravovat v <ph name="SETTINGS_LINK_BEGIN" />Nastavení<ph name="SETTINGS_LINK_END" />.</translation>
-<translation id="7398801000654795464">K prohlížeči Decentr jste byli přihlášeni pomocí účtu <ph name="USER_EMAIL_ADDRESS" />. Přihlaste se prosím znovu pomocí stejného účtu.</translation>
-<translation id="7410958280246779049">Decentr tento soubor zablokoval, protože je nebezpečný</translation>
-<translation id="7426611252293106642">Prohlížeč Decentr nemusí fungovat správně, protože v této distribuci Linuxu už není podporován</translation>
+Na tento účet se mohou vztahovat oprávnění, která jste již udělili webům a aplikacím. Své účty Tomi můžete spravovat v <ph name="SETTINGS_LINK_BEGIN" />Nastavení<ph name="SETTINGS_LINK_END" />.</translation>
+<translation id="7398801000654795464">K prohlížeči Tomi jste byli přihlášeni pomocí účtu <ph name="USER_EMAIL_ADDRESS" />. Přihlaste se prosím znovu pomocí stejného účtu.</translation>
+<translation id="7410958280246779049">Tomi tento soubor zablokoval, protože je nebezpečný</translation>
+<translation id="7426611252293106642">Prohlížeč Tomi nemusí fungovat správně, protože v této distribuci Linuxu už není podporován</translation>
 <translation id="7481213027396403996">Aktivujte si v Chromu maximální zabezpečení</translation>
-<translation id="7486227612705979895">Decentr bude za účelem zobrazování návrhů v adresním řádku číst váš obsah na Disku</translation>
-<translation id="7535429826459677826">Decentr Dev</translation>
+<translation id="7486227612705979895">Tomi bude za účelem zobrazování návrhů v adresním řádku číst váš obsah na Disku</translation>
+<translation id="7535429826459677826">Tomi Dev</translation>
 <translation id="7583399374488819119">instalační program prohlížeče <ph name="COMPANY_NAME" /></translation>
-<translation id="7606334485649076285">DecentrOS Flex</translation>
-<translation id="7626032353295482388">Vítá vás Decentr</translation>
-<translation id="7626072681686626474">Doména <ph name="MANAGER" /> vyžaduje, abyste si před použitím tohoto zařízení přečetli následující smluvní podmínky a odsouhlasili je. Tyto smluvní podmínky nerozšiřují, neupravují ani neomezují smluvní podmínky systému DecentrOS.</translation>
-<translation id="7629695634924605473">Pokud vaše hesla někdo prolomí, Decentr vás o tom bude informovat</translation>
-<translation id="7641148173327520642">Administrátor systému nakonfiguroval prohlížeč Decentr tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME" /> otevřel prohlížeč <ph name="ALTERNATIVE_BROWSER_NAME" />.</translation>
+<translation id="7606334485649076285">TomiOS Flex</translation>
+<translation id="7626032353295482388">Vítá vás Tomi</translation>
+<translation id="7626072681686626474">Doména <ph name="MANAGER" /> vyžaduje, abyste si před použitím tohoto zařízení přečetli následující smluvní podmínky a odsouhlasili je. Tyto smluvní podmínky nerozšiřují, neupravují ani neomezují smluvní podmínky systému TomiOS.</translation>
+<translation id="7629695634924605473">Pokud vaše hesla někdo prolomí, Tomi vás o tom bude informovat</translation>
+<translation id="7641148173327520642">Administrátor systému nakonfiguroval prohlížeč Tomi tak, aby pro přístup k adrese <ph name="TARGET_URL_HOSTNAME" /> otevřel prohlížeč <ph name="ALTERNATIVE_BROWSER_NAME" />.</translation>
 <translation id="7649070708921625228">Nápověda</translation>
-<translation id="7651907282515937834">Logo Decentr Enterprise</translation>
+<translation id="7651907282515937834">Logo Tomi Enterprise</translation>
 <translation id="7655455401911432608">Vaši historii prohlížení, což je seznam webů, které jste navštívili v Chromu na tomto zařízení.</translation>
 <translation id="7747138024166251722">Instalační soubor nemohl vytvořit dočasný adresář. Zkontrolujte prosím volné místo na disku a povolení instalovat software.</translation>
-<translation id="7761834446675418963">Chcete-li otevřít Decentr a začít procházet Internet, klikněte na svoje jméno.</translation>
-<translation id="7777080907402804672">Pokud obrázek nemá užitečný popis, Decentr se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu. Tuto funkci můžete kdykoliv vypnout v nastavení.</translation>
-<translation id="7781002470561365167">K dispozici je nová verze prohlížeče Decentr.</translation>
-<translation id="778331955594035129">Decentr pro tento web potřebuje přístup k poloze</translation>
-<translation id="7787950393032327779">Profil je zřejmě využíván jiným procesem prohlížeče Decentr (<ph name="PROCESS_ID" />) nebo v jiném počítač (<ph name="HOST_NAME" />). Decentr profil uzamkl, aby nedošlo k jeho poškození. Pokud jste si jisti, že žádný jiný proces tento profil nevyužívá, můžete jej odemknout a Decentr znovu spustit.</translation>
-<translation id="7801699035218095297">Decentr se pokouší zkopírovat hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="7761834446675418963">Chcete-li otevřít Tomi a začít procházet Internet, klikněte na svoje jméno.</translation>
+<translation id="7777080907402804672">Pokud obrázek nemá užitečný popis, Tomi se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu. Tuto funkci můžete kdykoliv vypnout v nastavení.</translation>
+<translation id="7781002470561365167">K dispozici je nová verze prohlížeče Tomi.</translation>
+<translation id="778331955594035129">Tomi pro tento web potřebuje přístup k poloze</translation>
+<translation id="7787950393032327779">Profil je zřejmě využíván jiným procesem prohlížeče Tomi (<ph name="PROCESS_ID" />) nebo v jiném počítač (<ph name="HOST_NAME" />). Tomi profil uzamkl, aby nedošlo k jeho poškození. Pokud jste si jisti, že žádný jiný proces tento profil nevyužívá, můžete jej odemknout a Tomi znovu spustit.</translation>
+<translation id="7801699035218095297">Tomi se pokouší zkopírovat hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
 <translation id="7808348361785373670">Odstranit z Chromu...</translation>
-<translation id="7825851276765848807">Instalace se z neznámého důvodu nezdařila. Stáhněte prosím aplikaci Decentr znovu.</translation>
+<translation id="7825851276765848807">Instalace se z neznámého důvodu nezdařila. Stáhněte prosím aplikaci Tomi znovu.</translation>
 <translation id="7845233973568007926">Děkujeme za instalaci aplikace <ph name="BUNDLE_NAME" />. Před jejím použitím je třeba restartovat počítač.</translation>
 <translation id="7872446069773932638">Stahování… Zbývající čas: <ph name="SECONDS" /> s</translation>
 <translation id="7880591377632733558">Vítejte v Chromu, <ph name="ACCOUNT_FIRST_NAME" /></translation>
-<translation id="7890208801193284374">Pokud počítač sdílíte s kamarády a členy rodiny, každý může web procházet samostatně a nastavit si Decentr podle svých požadavků.</translation>
-<translation id="7896673875602241923">Prohlížeč Decentr v tomto počítači je již přihlášen k účtu <ph name="ACCOUNT_EMAIL_LAST" />. Chcete-li své informace uchovat odděleně, vytvořte nového uživatele Chromu.</translation>
-<translation id="7917876797003313048">Můžete spravovat účty Decentr, ke kterým jste přihlášeni. Účty Decentr jsou používány v prohlížeči Decentr, Obchodu Play, Gmailu a dalších službách. Pokud chcete přidat účet někoho jiného, například člena rodiny, přidejte nového uživatele do zařízení <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Další informace<ph name="LINK_END" /></translation>
-<translation id="7930071585467473040">Decentr se pokouší zkopírovat hesla.</translation>
-<translation id="7951272445806340501">Aktualizace se použije po restartování systému DecentrOS Flex.</translation>
-<translation id="7962368738413920945">Weby budou pravděpodobně fungovat podle očekávání, ale po zavření všech oken prohlížeče Decentr si vás nebudou pamatovat</translation>
-<translation id="7962410387636238736">Decentr se v tomto počítači již nebude aktualizovat, protože systémy Windows XP a Windows Vista již nejsou podporovány.</translation>
-<translation id="8005666035647241369">Do Správce hesel Decentr na tomto zařízení</translation>
-<translation id="8008534537613507642">Přeinstalovat Decentr</translation>
-<translation id="8013993649590906847">Pokud obrázek nemá užitečný popis, Decentr se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu.</translation>
+<translation id="7890208801193284374">Pokud počítač sdílíte s kamarády a členy rodiny, každý může web procházet samostatně a nastavit si Tomi podle svých požadavků.</translation>
+<translation id="7896673875602241923">Prohlížeč Tomi v tomto počítači je již přihlášen k účtu <ph name="ACCOUNT_EMAIL_LAST" />. Chcete-li své informace uchovat odděleně, vytvořte nového uživatele Chromu.</translation>
+<translation id="7917876797003313048">Můžete spravovat účty Tomi, ke kterým jste přihlášeni. Účty Tomi jsou používány v prohlížeči Tomi, Obchodu Play, Gmailu a dalších službách. Pokud chcete přidat účet někoho jiného, například člena rodiny, přidejte nového uživatele do zařízení <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Další informace<ph name="LINK_END" /></translation>
+<translation id="7930071585467473040">Tomi se pokouší zkopírovat hesla.</translation>
+<translation id="7951272445806340501">Aktualizace se použije po restartování systému TomiOS Flex.</translation>
+<translation id="7962368738413920945">Weby budou pravděpodobně fungovat podle očekávání, ale po zavření všech oken prohlížeče Tomi si vás nebudou pamatovat</translation>
+<translation id="7962410387636238736">Tomi se v tomto počítači již nebude aktualizovat, protože systémy Windows XP a Windows Vista již nejsou podporovány.</translation>
+<translation id="8005666035647241369">Do Správce hesel Tomi na tomto zařízení</translation>
+<translation id="8008534537613507642">Přeinstalovat Tomi</translation>
+<translation id="8013993649590906847">Pokud obrázek nemá užitečný popis, Tomi se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu.</translation>
 <translation id="80471789339884597">Děkujeme za instalaci aplikace <ph name="BUNDLE_NAME" />. Před jejím použitím je třeba restartovat všechny prohlížeče.</translation>
-<translation id="8064015586118426197">DecentrOS Flex</translation>
-<translation id="808089508890593134">Decentr</translation>
-<translation id="8129812357326543296">O aplikaci &amp;Decentr</translation>
+<translation id="8064015586118426197">TomiOS Flex</translation>
+<translation id="808089508890593134">Tomi</translation>
+<translation id="8129812357326543296">O aplikaci &amp;Tomi</translation>
 <translation id="813913629614996137">Probíhá inicializace...</translation>
-<translation id="8255190535488645436">Decentr používá vaši kameru a mikrofon.</translation>
-<translation id="8270775718612349140">Certifikáty spravované prohlížečem Decentr</translation>
-<translation id="8286862437124483331">Aplikace Decentr se pokouší zobrazit hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
-<translation id="828798499196665338">Tvůj rodič pro Decentr vypnul možnost Oprávnění pro weby, aplikace a rozšíření. Aktivace tohoto <ph name="EXTENSION_TYPE_PARAMETER" /> není povolena.</translation>
-<translation id="8290100596633877290">Ouha! Prohlížeč Decentr spadl. Restartovat?</translation>
-<translation id="8341646175450781745">Když je tato funkce zapnutá, uvolňuje Decentr paměť obsazenou neaktivními kartami. Aktivní karty a jiné aplikace tak mají k dispozici více výpočetních zdrojů a prohlížeč Decentr zůstává rychlý. Když se k neaktivním kartám vrátíte, automaticky se aktivují. Můžete si přečíst <ph name="BEGIN_LINK" />další informace<ph name="END_LINK" /> nebo <ph name="BEGIN_LINK_2" />odeslat zpětnou vazbu<ph name="END_LINK_2" />.</translation>
-<translation id="8342675569599923794">Tento soubor je nebezpečný, proto jej Decentr zablokoval.</translation>
-<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Jak tyto údaje využíváme:<ph name="END_BOLD" /> Weby mohou v prohlížeči Decentr ukládat informace o vašich zájmech. Např. když navštívíte web, kde se prodávají boty na maraton, web může definovat váš zájem jako běhání maratonů. Když později navštívíte jiný web s registrací na závod, může se vám na něm na základě vašich zájmů zobrazit reklama na boty na běhání.</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Decentr LLC. Všechna práva vyhrazena.</translation>
-<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Jak tyto údaje využíváme:<ph name="END_BOLD" /> Decentr dokáže odhadovat vaše zájmy. Později může navštívený web požádat Decentr o sdělení vašich zájmů, aby vám mohl přizpůsobit zobrazované reklamy.</translation>
+<translation id="8255190535488645436">Tomi používá vaši kameru a mikrofon.</translation>
+<translation id="8270775718612349140">Certifikáty spravované prohlížečem Tomi</translation>
+<translation id="8286862437124483331">Aplikace Tomi se pokouší zobrazit hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="828798499196665338">Tvůj rodič pro Tomi vypnul možnost Oprávnění pro weby, aplikace a rozšíření. Aktivace tohoto <ph name="EXTENSION_TYPE_PARAMETER" /> není povolena.</translation>
+<translation id="8290100596633877290">Ouha! Prohlížeč Tomi spadl. Restartovat?</translation>
+<translation id="8341646175450781745">Když je tato funkce zapnutá, uvolňuje Tomi paměť obsazenou neaktivními kartami. Aktivní karty a jiné aplikace tak mají k dispozici více výpočetních zdrojů a prohlížeč Tomi zůstává rychlý. Když se k neaktivním kartám vrátíte, automaticky se aktivují. Můžete si přečíst <ph name="BEGIN_LINK" />další informace<ph name="END_LINK" /> nebo <ph name="BEGIN_LINK_2" />odeslat zpětnou vazbu<ph name="END_LINK_2" />.</translation>
+<translation id="8342675569599923794">Tento soubor je nebezpečný, proto jej Tomi zablokoval.</translation>
+<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Jak tyto údaje využíváme:<ph name="END_BOLD" /> Weby mohou v prohlížeči Tomi ukládat informace o vašich zájmech. Např. když navštívíte web, kde se prodávají boty na maraton, web může definovat váš zájem jako běhání maratonů. Když později navštívíte jiný web s registrací na závod, může se vám na něm na základě vašich zájmů zobrazit reklama na boty na běhání.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Tomi LLC. Všechna práva vyhrazena.</translation>
+<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Jak tyto údaje využíváme:<ph name="END_BOLD" /> Tomi dokáže odhadovat vaše zájmy. Později může navštívený web požádat Tomi o sdělení vašich zájmů, aby vám mohl přizpůsobit zobrazované reklamy.</translation>
 <translation id="8387459386171870978">Pokračovat v používání Chromu</translation>
 <translation id="8394720698884623075">Kontroluje adresy URL oproti seznamu nebezpečných webů uloženému v Chromu</translation>
-<translation id="840084489713044809">Decentr chce exportovat vaše hesla.</translation>
+<translation id="840084489713044809">Tomi chce exportovat vaše hesla.</translation>
 <translation id="8416347857511542594">Další informace o personalizaci reklam v Chromu</translation>
-<translation id="8418845734693287262">DecentrOS vaše data nemohl synchronizovat, protože vaše přihlašovací údaje nejsou aktuální.</translation>
+<translation id="8418845734693287262">TomiOS vaše data nemohl synchronizovat, protože vaše přihlašovací údaje nejsou aktuální.</translation>
 <translation id="8433638294851456451">Pokud odtud chcete odeslat číslo do telefonu Android, v obou zařízeních se přihlaste do Chromu.</translation>
-<translation id="8451192282033883849">Váš účet je spravován doménou <ph name="MANAGER_NAME" />. Tento profil prohlížeče Decentr a jeho data, jako jsou záložky, historie a hesla, může zobrazit a upravovat váš administrátor.</translation>
-<translation id="8498858610309223613">Právě byla nainstalována mimořádná bezpečnostní aktualizace prohlížeče Decentr. Restartujte jej, vaše karty budou obnoveny.</translation>
-<translation id="8504220326736535258">Decentr tento soubor zablokoval, protože obsahuje malware</translation>
+<translation id="8451192282033883849">Váš účet je spravován doménou <ph name="MANAGER_NAME" />. Tento profil prohlížeče Tomi a jeho data, jako jsou záložky, historie a hesla, může zobrazit a upravovat váš administrátor.</translation>
+<translation id="8498858610309223613">Právě byla nainstalována mimořádná bezpečnostní aktualizace prohlížeče Tomi. Restartujte jej, vaše karty budou obnoveny.</translation>
+<translation id="8504220326736535258">Tomi tento soubor zablokoval, protože obsahuje malware</translation>
 <translation id="8516431725144212809">Vaše zájmy podle odhadu Chromu</translation>
-<translation id="8521348052903287641">Pravidlo příchozího provozu pro aplikaci Decentr Dev, které povolí provoz mDNS.</translation>
-<translation id="8540666473246803645">Decentr</translation>
+<translation id="8521348052903287641">Pravidlo příchozího provozu pro aplikaci Tomi Dev, které povolí provoz mDNS.</translation>
+<translation id="8540666473246803645">Tomi</translation>
 <translation id="8550334526674375523">Tento pracovní profil je zcela oddělen od vašeho osobního profilu.</translation>
-<translation id="8556340503434111824">Je k dispozici nová verze prohlížeče Decentr, ještě rychlejší než ty předchozí.</translation>
-<translation id="8571790202382503603">Pomocí profilů Decentr můžete všechny své údaje v Chromu uchovávat odděleně. Budete tak moci snáze oddělit zábavu od práce.</translation>
-<translation id="8614913330719544658">Decentr neodpovídá. Restartovat?</translation>
-<translation id="861702415419836452">Decentr potřebuje oprávnění k přístupu k fotoaparátu, aby mohl vytvořit 3D mapu vašeho okolí</translation>
-<translation id="8625237574518804553">{0,plural, =1{Decentr se za 1 minutu restartuje}few{Decentr se za # minut restartuje}many{Decentr se za # minuty restartuje}other{Decentr se za # minut restartuje}}</translation>
-<translation id="8641606876632989680">Pokud se přihlásíte pomocí prolomeného hesla, Decentr vám to oznámí</translation>
-<translation id="8649026945479135076">Je běžné, že si navštívené weby pamatují, co vás zajímá, aby pro vás personalizovaly svůj obsah. Weby mohou v prohlížeči Decentr ukládat také informace o vašich zájmech.</translation>
-<translation id="8669527147644353129">Decentr Helper</translation>
+<translation id="8556340503434111824">Je k dispozici nová verze prohlížeče Tomi, ještě rychlejší než ty předchozí.</translation>
+<translation id="8571790202382503603">Pomocí profilů Tomi můžete všechny své údaje v Chromu uchovávat odděleně. Budete tak moci snáze oddělit zábavu od práce.</translation>
+<translation id="8614913330719544658">Tomi neodpovídá. Restartovat?</translation>
+<translation id="861702415419836452">Tomi potřebuje oprávnění k přístupu k fotoaparátu, aby mohl vytvořit 3D mapu vašeho okolí</translation>
+<translation id="8625237574518804553">{0,plural, =1{Tomi se za 1 minutu restartuje}few{Tomi se za # minut restartuje}many{Tomi se za # minuty restartuje}other{Tomi se za # minut restartuje}}</translation>
+<translation id="8641606876632989680">Pokud se přihlásíte pomocí prolomeného hesla, Tomi vám to oznámí</translation>
+<translation id="8649026945479135076">Je běžné, že si navštívené weby pamatují, co vás zajímá, aby pro vás personalizovaly svůj obsah. Weby mohou v prohlížeči Tomi ukládat také informace o vašich zájmech.</translation>
+<translation id="8669527147644353129">Tomi Helper</translation>
 <translation id="8679801911857917785">Také řídí, která stránka se zobrazí při spuštění Chromu.</translation>
-<translation id="8684875378076460854">Decentr doporučuje zkontrolovat tento soubor, protože může být nebezpečný</translation>
-<translation id="8686817260976772516">Pomocí profilů Decentr můžete všechny své údaje v Chromu uchovávat odděleně. Vytvořte profily pro přátele a rodinu nebo rozdělte činnosti mezi práci a zábavu.</translation>
-<translation id="8712767363896337380">Aktualizace je téměř hotová. Aktualizaci dokončíte restartováním prohlížeče Decentr.</translation>
-<translation id="873133009373065397">Decentr nemůže určit ani nastavit výchozí prohlížeč</translation>
-<translation id="8821043148920470810">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Decentr, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 7.</translation>
-<translation id="8823341990149967727">Decentr je zastaralý</translation>
-<translation id="8825634023950448068">Abychom chránili vaše soukromí, vaše zájmy starší než 4 měsíce automaticky mažeme. Jak budete pracovat s internetem, zájmy se mohou na seznamu znovu objevit. Pokud Decentr zájem neodhadne správně nebo pokud některé reklamy nechcete vídat, můžete zájem odstranit.</translation>
-<translation id="8834965163890861871">Decentr se pokouší upravit hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
+<translation id="8684875378076460854">Tomi doporučuje zkontrolovat tento soubor, protože může být nebezpečný</translation>
+<translation id="8686817260976772516">Pomocí profilů Tomi můžete všechny své údaje v Chromu uchovávat odděleně. Vytvořte profily pro přátele a rodinu nebo rozdělte činnosti mezi práci a zábavu.</translation>
+<translation id="8712767363896337380">Aktualizace je téměř hotová. Aktualizaci dokončíte restartováním prohlížeče Tomi.</translation>
+<translation id="873133009373065397">Tomi nemůže určit ani nastavit výchozí prohlížeč</translation>
+<translation id="8821043148920470810">Pokud chcete v budoucnu dostávat aktualizace prohlížeče Tomi, budete potřebovat systém Windows 10 nebo novější. Tento počítač používá Windows 7.</translation>
+<translation id="8823341990149967727">Tomi je zastaralý</translation>
+<translation id="8825634023950448068">Abychom chránili vaše soukromí, vaše zájmy starší než 4 měsíce automaticky mažeme. Jak budete pracovat s internetem, zájmy se mohou na seznamu znovu objevit. Pokud Tomi zájem neodhadne správně nebo pokud některé reklamy nechcete vídat, můžete zájem odstranit.</translation>
+<translation id="8834965163890861871">Tomi se pokouší upravit hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
 <translation id="884296878221830158">Také řídí, která stránka se zobrazí při spuštění Chromu nebo po kliknutí na tlačítko Domovská stránka.</translation>
-<translation id="8847000024471094355">Decentr není aktivní</translation>
+<translation id="8847000024471094355">Tomi není aktivní</translation>
 <translation id="8862326446509486874">Nemáte práva nutná k provádění instalací na úrovni systému. Zkuste spustit instalační program jako správce.</translation>
-<translation id="8914504000324227558">Znovu spustit Decentr</translation>
+<translation id="8914504000324227558">Znovu spustit Tomi</translation>
 <translation id="8922193594870374009">Chcete-li poslat číslo z webu <ph name="ORIGIN" /> na svůj telefon Android, v obou zařízeních se přihlaste do Chromu.</translation>
-<translation id="8983720963221508955">Ve svém účtu jste zapnuli Vylepšené Bezpečné prohlížení. Teď ho můžete zapnout v prohlížeči Decentr.</translation>
+<translation id="8983720963221508955">Ve svém účtu jste zapnuli Vylepšené Bezpečné prohlížení. Teď ho můžete zapnout v prohlížeči Tomi.</translation>
 <translation id="8986207147630327271">Přidáváte do tohoto prohlížeče pracovní profil a povolujete administrátorovi ovládat pouze pracovní profil.</translation>
-<translation id="8989968390305463310">Vaše historie prohlížení ovlivňuje zobrazované reklamy a odhadované zájmy uvedené níže. Aby Decentr chránil vaše soukromí, vaše zájmy každý měsíc pravidelně maže. Zájmy se mohou obnovovat, dokud je neodstraníte.</translation>
+<translation id="8989968390305463310">Vaše historie prohlížení ovlivňuje zobrazované reklamy a odhadované zájmy uvedené níže. Aby Tomi chránil vaše soukromí, vaše zájmy každý měsíc pravidelně maže. Zájmy se mohou obnovovat, dokud je neodstraníte.</translation>
 <translation id="8999208279178790196">{0,plural, =0{Je k dispozici aktualizace Chromu}=1{Je k dispozici aktualizace Chromu}few{Již # dny je k dispozici aktualizace Chromu}many{Již # dne je k dispozici aktualizace Chromu}other{Již # dní je k dispozici aktualizace Chromu}}</translation>
-<translation id="9003498785844995646">Když je tato funkce zapnutá, Decentr šetří baterii tím, že omezuje aktivitu na pozadí a vizuální efekty, jako jsou plynulé posouvání a snímková frekvence videí. Můžete si přečíst <ph name="BEGIN_LINK" />další informace<ph name="END_LINK" /> nebo <ph name="BEGIN_LINK_2" />odeslat zpětnou vazbu<ph name="END_LINK_2" />.</translation>
-<translation id="9053892488859122171">Systém DecentrOS Flex</translation>
-<translation id="9067395829937117663">Decentr vyžaduje systém Windows 7 nebo vyšší.</translation>
+<translation id="9003498785844995646">Když je tato funkce zapnutá, Tomi šetří baterii tím, že omezuje aktivitu na pozadí a vizuální efekty, jako jsou plynulé posouvání a snímková frekvence videí. Můžete si přečíst <ph name="BEGIN_LINK" />další informace<ph name="END_LINK" /> nebo <ph name="BEGIN_LINK_2" />odeslat zpětnou vazbu<ph name="END_LINK_2" />.</translation>
+<translation id="9053892488859122171">Systém TomiOS Flex</translation>
+<translation id="9067395829937117663">Tomi vyžaduje systém Windows 7 nebo vyšší.</translation>
 <translation id="911206726377975832">Vymazat také všechna data procházení?</translation>
-<translation id="9138603949443464873">Chcete-li změny použít, restartujte Decentr</translation>
-<translation id="9195993889682885387">Decentr dokáže odhadovat vaše zájmy podle historie prohlížení za posledních několik týdnů. Tyto údaje zůstávají v zařízení.</translation>
-<translation id="919706545465235479">Chcete-li zahájit synchronizaci, aktualizujte Decentr</translation>
-<translation id="922152298093051471">Přizpůsobit Decentr</translation>
-<translation id="93760716455950538">Restartovat systém DecentrOS Flex</translation>
-<translation id="940313311831216333">Chcete-li mít ve všech zařízeních přístup k údajům z prohlížeče Decentr, přihlaste se a zapněte synchronizaci.</translation>
-<translation id="943390475793766444">Decentr doporučuje zkontrolovat tento soubor, protože může být nebezpečný.</translation>
-<translation id="989369509083708165">Decentr je vaším výchozím prohlížečem</translation>
-<translation id="989816563149873169">Zkratkou <ph name="SHORTCUT" /> lze přepínat mezi profily Decentr</translation>
+<translation id="9138603949443464873">Chcete-li změny použít, restartujte Tomi</translation>
+<translation id="9195993889682885387">Tomi dokáže odhadovat vaše zájmy podle historie prohlížení za posledních několik týdnů. Tyto údaje zůstávají v zařízení.</translation>
+<translation id="919706545465235479">Chcete-li zahájit synchronizaci, aktualizujte Tomi</translation>
+<translation id="922152298093051471">Přizpůsobit Tomi</translation>
+<translation id="93760716455950538">Restartovat systém TomiOS Flex</translation>
+<translation id="940313311831216333">Chcete-li mít ve všech zařízeních přístup k údajům z prohlížeče Tomi, přihlaste se a zapněte synchronizaci.</translation>
+<translation id="943390475793766444">Tomi doporučuje zkontrolovat tento soubor, protože může být nebezpečný.</translation>
+<translation id="989369509083708165">Tomi je vaším výchozím prohlížečem</translation>
+<translation id="989816563149873169">Zkratkou <ph name="SHORTCUT" /> lze přepínat mezi profily Tomi</translation>
 </translationbundle>

@@ -2,12 +2,12 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="hr">
 <translation id="130631256467250065">Promjene će početi vrijediti sljedeći put kad ponovo pokrenete uređaj.</translation>
-<translation id="275588974610408078">Prijavljivanje padova nije dostupno u pregledniku Decentr.</translation>
-<translation id="3064346599913645280">Gledate sigurnu stranicu Decentra</translation>
-<translation id="358997566136285270">Logotip Decentra</translation>
-<translation id="4365115785552740256">Decentr omogućuju projekt utemeljen na otvorenom kôdu <ph name="BEGIN_LINK_CHROMIUM" />Decentr<ph name="END_LINK_CHROMIUM" /> i drugi <ph name="BEGIN_LINK_OSS" />softveri utemeljeni na otvorenom kôdu<ph name="END_LINK_OSS" />.</translation>
+<translation id="275588974610408078">Prijavljivanje padova nije dostupno u pregledniku Tomi.</translation>
+<translation id="3064346599913645280">Gledate sigurnu stranicu Tomia</translation>
+<translation id="358997566136285270">Logotip Tomia</translation>
+<translation id="4365115785552740256">Tomi omogućuju projekt utemeljen na otvorenom kôdu <ph name="BEGIN_LINK_CHROMIUM" />Tomi<ph name="END_LINK_CHROMIUM" /> i drugi <ph name="BEGIN_LINK_OSS" />softveri utemeljeni na otvorenom kôdu<ph name="END_LINK_OSS" />.</translation>
 <translation id="4559775032954821361">Idite na
-          izbornik Decentr &gt;
+          izbornik Tomi &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -16,19 +16,19 @@
           &gt;
           Postavke LAN-a
           i poništite odabir potvrdnog okvira "Upotrijebi proxy poslužitelj za LAN".</translation>
-<translation id="4622039161600275920">Decentr je blokirao ovu stranicu</translation>
-<translation id="48558539577516920">U postavkama vatrozida ili antivirusnog programa omogućite Decentru da pristupa mreži.</translation>
+<translation id="4622039161600275920">Tomi je blokirao ovu stranicu</translation>
+<translation id="48558539577516920">U postavkama vatrozida ili antivirusnog programa omogućite Tomiu da pristupa mreži.</translation>
 <translation id="580822234363523061">Idite na
-          izbornik Decentr &gt;
+          izbornik Tomi &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
           i provjerite je li konfiguracija postavljena na "bez proxyja" ili "izravno".</translation>
-<translation id="6613594504749178791">Promjene će početi vrijediti sljedeći put kad ponovo pokrenete Decentr.</translation>
+<translation id="6613594504749178791">Promjene će početi vrijediti sljedeći put kad ponovo pokrenete Tomi.</translation>
 <translation id="7861509383340276692">Otvorite
-        izbornik Decentra &gt;
+        izbornik Tomia &gt;
         <ph name="SETTINGS_TITLE" />
         &gt;
         <ph name="ADVANCED_TITLE" />
@@ -38,5 +38,5 @@
 <translation id="8187289872471304532">Idite na
           Aplikacije &gt; Postavke sustava &gt; Mreža &gt; Napredno &gt; Proxy poslužitelji
           i poništite odabir proxy poslužitelja.</translation>
-<translation id="8684913864886094367">Decentr se nije ispravno zatvorio.</translation>
+<translation id="8684913864886094367">Tomi se nije ispravno zatvorio.</translation>
 </translationbundle>

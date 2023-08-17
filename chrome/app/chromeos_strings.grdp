@@ -45,7 +45,7 @@
   </message>
 
   <message name="IDS_WALLPAPER_MANAGER_INVALID_WALLPAPER" desc="The string displayed to user when user selected wallpaper can not be set as a wallpaper.">
-    Decentrcannot set wallpaper.
+    Tomicannot set wallpaper.
   </message>
 
   <!-- MultiDevice setup dialog. -->
@@ -285,7 +285,7 @@
     <ph name="SERVICE_NAME">$1<ex>Google Drive</ex></ph> wants to check if you are using an eligible ChromeOS device.
   </message>
   <message name="IDS_ECHO_DISABLED_CONSENT_DIALOG_TEXT" desc="Dialog text shown when user is informed that redeeming offers is disabled for the device.">
-    Your IT administrator has disabled DecentrGoodies for your device.
+    Your IT administrator has disabled TomiGoodies for your device.
   </message>
   <message name="IDS_ECHO_CONSENT_DISMISS_BUTTON" desc="Dismiss dialog button label for disabled echo dialog.">
     Got it
@@ -486,7 +486,7 @@
     Updating...
   </message>
   <message name="IDS_UPDATE_SCREEN_ACCESSIBLE_TITLE" desc="Title to be spoken on opening the OOBE update screen">
-    Decentrupdates automatically so you always have the freshest version
+    Tomiupdates automatically so you always have the freshest version
   </message>
   <message name="IDS_LOGIN_GAIA_LOADING_MESSAGE" desc="Message on the OOBE gaia loading screen">
     Please wait...
@@ -679,18 +679,18 @@
   </message>
   <if expr="reven">
     <message name="IDS_OOBE_EULA_IFRAME_LABEL" desc="Accessibility label on an iframe with full ChromeOS Terms text">
-      DecentrOS Flex Terms contents
+      TomiOS Flex Terms contents
     </message>
-    <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Decentr and ChromeOS additional terms">
-      Decentr and ChromeOS Flex Additional Terms
+    <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Tomi and ChromeOS additional terms">
+      Tomi and ChromeOS Flex Additional Terms
     </message>
   </if>
   <if expr="not reven">
     <message name="IDS_OOBE_EULA_IFRAME_LABEL" desc="Accessibility label on an iframe with full ChromeOS Terms text">
-      DecentrOS Terms contents
+      TomiOS Terms contents
     </message>
-    <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Decentr and ChromeOS additional terms">
-      Decentr and ChromeOS Additional Terms
+    <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Tomi and ChromeOS additional terms">
+      Tomi and ChromeOS Additional Terms
     </message>
   </if>
   <message name="IDS_OOBE_EULA_ACCEPT_AND_CONTINUE_BUTTON_TEXT" desc="Label on a button on the Title of Terms of Service OOBE screen to accept EULA and continue.">
@@ -1730,7 +1730,7 @@
     </message>
   </if>
   <message name="IDS_EULA_RLZ_DESCRIPTION" desc="Dialog box text">
-    Your computer also comes with <ph name="SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph>'s RLZ library built in. RLZ assigns a non-unique, non-personally identifiable tag to measure the searches and <ph name="SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> usage driven by a particular promotional campaign. These labels sometimes appear in Google Search queries in <ph name="PRODUCT_NAME">$2<ex>Decentr</ex></ph>.
+    Your computer also comes with <ph name="SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph>'s RLZ library built in. RLZ assigns a non-unique, non-personally identifiable tag to measure the searches and <ph name="SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> usage driven by a particular promotional campaign. These labels sometimes appear in Google Search queries in <ph name="PRODUCT_NAME">$2<ex>Tomi</ex></ph>.
   </message>
   <message name="IDS_EULA_RLZ_ENABLE" desc="Check box text for enabling RLZ tracking on TPM/RLZ info dialog.">
     Enable RLZ tracking on <ph name="SHORT_PRODUCT_OS_NAME">$1<ex>ChromeOS</ex></ph>.
@@ -2287,7 +2287,7 @@
     The update check failed using the current proxy settings. Please adjust your <ph name="PROXY_SETTINGS_LINK_START">$1<ex>&gt;a&lt;</ex></ph>proxy settings<ph name="PROXY_SETTINGS_LINK_END">$2<ex>&gt;/a&lt;</ex></ph>.
   </message>
   <message name="IDS_LOGIN_VERSION_LABEL_FORMAT" desc="Login screen version text format.">
-    <ph name="PRODUCT_NAME">$1<ex>Decentr</ex></ph> <ph name="PRODUCT_VERSION">$2<ex>15.0.0.0</ex></ph> (Platform <ph name="PLATFORM_VERSION">$3<ex>900.0-11.09.01</ex></ph>) <ph name="DEVICE_SERIAL_NUMBER">$4<ex>SN:123456789ABC</ex></ph>
+    <ph name="PRODUCT_NAME">$1<ex>Tomi</ex></ph> <ph name="PRODUCT_VERSION">$2<ex>15.0.0.0</ex></ph> (Platform <ph name="PLATFORM_VERSION">$3<ex>900.0-11.09.01</ex></ph>) <ph name="DEVICE_SERIAL_NUMBER">$4<ex>SN:123456789ABC</ex></ph>
   </message>
   <message name="IDS_LOGIN_API_KEYS_NOTICE" desc="Notice displayed on the login screen in case if API keys are missing.">
     You will not be able to add users because Google API keys are missing. See <ph name="DETAILS_URL">$1<ex>http://www.example.com</ex></ph> for details.
@@ -2675,7 +2675,7 @@
     Mobile data
   </message>
   <message name="IDS_3G_NOTIFICATION_MESSAGE" desc="Text of the 3G data notification telling that 3G data is enabled.">
-    Decentr will use mobile data if you're not connected to another network.
+    Tomi will use mobile data if you're not connected to another network.
   </message>
   <message name="IDS_3G_DATASAVER_TITLE" desc="Title of the 3G data notification prompting user to install Data Saver.">
     You are using mobile data
@@ -4153,8 +4153,8 @@
   <message name="IDS_CONSOLIDATED_CONSENT_GOOGLE_EULA_TITLE" desc="Title of Google terms of service screen">
     Google terms of service
   </message>
-  <message name="IDS_CONSOLIDATED_CONSENT_CROS_EULA_TITLE" desc="Title of Decentr and ChromeOS additional terms screen">
-    Decentr and ChromeOS additional terms of service
+  <message name="IDS_CONSOLIDATED_CONSENT_CROS_EULA_TITLE" desc="Title of Tomi and ChromeOS additional terms screen">
+    Tomi and ChromeOS additional terms of service
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_ARC_TITLE" desc="Title of Goolge Play terms of service in opt-in screen">
     Google Play terms of service
@@ -4185,8 +4185,8 @@
   <message name="IDS_GUEST_TOS_GOOGLE_EULA_TITLE" desc="Title of Google terms of service screen">
     Google terms of service
   </message>
-  <message name="IDS_GUEST_TOS_CROS_EULA_TITLE" desc="Title of Decentr and ChromeOS additional terms screen">
-    Decentr and ChromeOS Additional Terms
+  <message name="IDS_GUEST_TOS_CROS_EULA_TITLE" desc="Title of Tomi and ChromeOS additional terms screen">
+    Tomi and ChromeOS Additional Terms
   </message>
   <message name="IDS_GUEST_TOS_USAGE_OPT_IN_TITLE" desc="Title for the message in the guest terms of service screen to opt-in for metrics during the guest session.">
     Send diagnostic and usage data.

@@ -8,26 +8,26 @@
 namespace extensions {
 namespace api {
   
-class DecentrGetFunction
+class TomiGetFunction
     : public ExtensionFunction {
  public:
-  DECLARE_EXTENSION_FUNCTION("decentr.get", DECENTR_GET)
+  DECLARE_EXTENSION_FUNCTION("tomi.get", DECENTR_GET)
 
  protected:
-  ~DecentrGetFunction() override {}
+  ~TomiGetFunction() override {}
 
   ResponseAction Run() override;
  private:
   void OnGet(std::pair<std::string, std::string>);
 };
 
-class DecentrSetFunction
+class TomiSetFunction
   : public ExtensionFunction {
  public:
-  DECLARE_EXTENSION_FUNCTION("decentr.set", DECENTR_SET)
+  DECLARE_EXTENSION_FUNCTION("tomi.set", DECENTR_SET)
 
  protected:
-  ~DecentrSetFunction() override {}
+  ~TomiSetFunction() override {}
 
   ResponseAction Run() override;
 };

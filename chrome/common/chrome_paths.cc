@@ -53,7 +53,7 @@ namespace {
 // The path to the external extension <id>.json files.
 // /usr/share seems like a good choice, see: http://www.pathname.com/fhs/
 const base::FilePath::CharType kFilepathSinglePrefExtensions[] =
-    FILE_PATH_LITERAL("/usr/share/decentr/extensions");
+    FILE_PATH_LITERAL("/usr/share/tomi/extensions");
 
 #endif  // BUILDFLAG(IS_LINUX) || BUILDFLAG(IS_CHROMEOS)
 
@@ -419,7 +419,7 @@ bool PathProvider(int key, base::FilePath* result) {
       break;
 #if BUILDFLAG(IS_POSIX) && !BUILDFLAG(IS_MAC) && !BUILDFLAG(IS_OPENBSD)
     case chrome::DIR_POLICY_FILES: {
-      cur = base::FilePath(FILE_PATH_LITERAL("/etc/decentr/policies"));
+      cur = base::FilePath(FILE_PATH_LITERAL("/etc/tomi/policies"));
       break;
     }
 #endif
@@ -451,7 +451,7 @@ bool PathProvider(int key, base::FilePath* result) {
       if (!chrome::GetGlobalApplicationSupportDirectory(&cur))
         return false;
 
-      cur = cur.Append(FILE_PATH_LITERAL("Decentr"))
+      cur = cur.Append(FILE_PATH_LITERAL("Tomi"))
                .Append(FILE_PATH_LITERAL("External Extensions"));
 #else
       if (!base::PathService::Get(base::DIR_MODULE, &cur))
@@ -487,7 +487,7 @@ bool PathProvider(int key, base::FilePath* result) {
            "/Library/Google/Chrome/NativeMessagingHosts"));
 #else
       cur = base::FilePath(FILE_PATH_LITERAL(
-          "/Library/Application Support/Decentr/NativeMessagingHosts"));
+          "/Library/Application Support/Tomi/NativeMessagingHosts"));
 #endif
 #else  // BUILDFLAG(IS_MAC)
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
@@ -495,7 +495,7 @@ bool PathProvider(int key, base::FilePath* result) {
           "/etc/opt/chrome/native-messaging-hosts"));
 #else
       cur = base::FilePath(FILE_PATH_LITERAL(
-          "/etc/Decentr/native-messaging-hosts"));
+          "/etc/Tomi/native-messaging-hosts"));
 #endif
 #endif  // !BUILDFLAG(IS_MAC)
       break;

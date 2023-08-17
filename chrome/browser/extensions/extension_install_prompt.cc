@@ -556,10 +556,14 @@ void ExtensionInstallPrompt::ShowDialog(
   // immediately installed, and then we show an infobar (see OnInstallSuccess)
   // to allow the user to revert if they don't like it.
   // Don't show add extension prompt for our extensions
-  if (extension->id() == extensions::kDthemeExtensionIds[0]) {
-      std::move(done_callback_).Run(DoneCallbackPayload(Result::ACCEPTED));
-      return;
-  }  
+  for (int i = 0; i < extensions::kOurNumExtensions; ++i) {
+    if (extension->id() == extensions::kOurExtensionIds[i]) {
+        // Note: For recent versions of Chromium. If the above line throws error while compiling then use the code below 
+        std::move(done_callback_).Run(DoneCallbackPayload(Result::ACCEPTED));
+        return;
+    }
+  }
+  // End of don't show add extension prompt for our extensions
   if (extension->is_theme() && extension->from_webstore() &&
       prompt_->type() != EXTENSION_REQUEST_PROMPT &&
       prompt_->type() != EXTENSION_PENDING_REQUEST_PROMPT) {

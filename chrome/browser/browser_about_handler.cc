@@ -23,7 +23,7 @@ bool HandleChromeAboutAndChromeSyncRewrite(
     GURL* url,
     content::BrowserContext* browser_context) {
 
-  if (url->SchemeIs(content::kDecentrUIScheme)) {
+  if (url->SchemeIs(content::kTomiUIScheme)) {
     GURL::Replacements replacements;
     replacements.SetSchemeStr(content::kChromeUIScheme);
     *url = url->ReplaceComponents(replacements);

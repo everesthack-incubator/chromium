@@ -101,7 +101,7 @@ namespace {
 
 
 void UpdateBraveScheme(NavigateParams* params) {
-  if (params->url.SchemeIs(content::kDecentrUIScheme)) {
+  if (params->url.SchemeIs(content::kTomiUIScheme)) {
     GURL::Replacements replacements;
     replacements.SetSchemeStr(content::kChromeUIScheme);
     params->url = params->url.ReplaceComponents(replacements);
@@ -884,7 +884,7 @@ bool IsHostAllowedInIncognito(const GURL& url) {
   std::string scheme = url.scheme();
   base::StringPiece host = url.host_piece();
   
-  if (scheme != content::kChromeUIScheme && scheme != content::kDecentrUIScheme)
+  if (scheme != content::kChromeUIScheme && scheme != content::kTomiUIScheme)
     return true;
 
   if (host == chrome::kChromeUIChromeSigninHost) {

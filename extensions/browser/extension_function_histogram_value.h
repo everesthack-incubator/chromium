@@ -1819,8 +1819,6 @@ enum HistogramValue {
   PASSWORDSPRIVATE_GETCREDENTIALSWITHREUSEDPASSWORD = 1756,
   OS_TELEMETRY_GETAUDIOINFO = 1757,
   OS_TELEMETRY_GETMARKETINGINFO = 1758,
-  DECENTR_GET = 1760,
-  DECENTR_SET = 1761,
   // Last entry: Add new entries above, then run:
   // tools/metrics/histograms/update_extension_histograms.py
   ENUM_BOUNDARY

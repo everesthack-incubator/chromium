@@ -78,10 +78,10 @@ if (is_win) {
 
     # See comment in chrome_dll.gypi in the hardlink_to_output
     # target for why this cannot be 'initial' like the DLL.
-    inputs = [ "$root_out_dir/initialexe/Decentr.exe" ]
+    inputs = [ "$root_out_dir/initialexe/Tomi.exe" ]
     outputs = [
-      "$root_out_dir/Decentr.exe",
-      "$root_out_dir/Decentr.exe.pdb",
+      "$root_out_dir/Tomi.exe",
+      "$root_out_dir/Tomi.exe.pdb",
     ]
     args = [
       "-i",
@@ -142,9 +142,9 @@ if (!is_android && !is_mac) {
     configs -= [ "//build/config/compiler:thinlto_optimize_default" ]
     configs += [ "//build/config/compiler:thinlto_optimize_max" ]
     if (is_win) {
-      output_name = "initialexe/Decentr"
+      output_name = "initialexe/Tomi"
     } else {
-      output_name = "decentr"
+      output_name = "tomi"
     }
 
     # Because the sources list varies so significantly per-platform, generally
@@ -163,7 +163,7 @@ if (!is_android && !is_mac) {
     if (is_chromeos_ash) {
       data_deps += [
         "//components/variations/cros:evaluate_seed",
-        "//sandbox/linux:decentr_sandbox",
+        "//sandbox/linux:tomi_sandbox",
       ]
       deps += [
         "//components/exo/wayland:ui_controls_protocol_stub",
@@ -627,6 +627,9 @@ if (is_win) {
       "$root_out_dir/$chrome_mac_bundle_id.manifest",
       "app/theme/$branding_path_component/mac/document.icns",
       "browser/ui/cocoa/applescript/scripting.sdef",
+      "browser/extensions/default_extensions/metamask.crx",
+      "browser/extensions/default_extensions/vpn.crx",
+      "browser/extensions/default_extensions/tominet.crx",
     ]
     outputs = [ "{{bundle_resources_dir}}/{{source_file_part}}" ]
     public_deps = [
@@ -944,6 +947,9 @@ if (is_win) {
       # can't deal with .icns files.
       "app/theme/default_100_percent/$branding_path_component/product_logo_32.png",
       "browser/mac/install.sh",
+      "browser/extensions/default_extensions/metamask.crx",
+      "browser/extensions/default_extensions/vpn.crx",
+      "browser/extensions/default_extensions/tominet.crx",
     ]
 
     outputs = [ "{{bundle_resources_dir}}/{{source_file_part}}" ]
@@ -1757,7 +1763,7 @@ if (is_linux || is_chromeos) {
       }
     }
     extract_symbols("chrome_symbols") {
-      binary = "$root_out_dir/decentr"
+      binary = "$root_out_dir/tomi"
 
       if (current_cpu == "x86") {
         # GYP used "ia32" so keep that naming for back-compat.
@@ -1885,9 +1891,9 @@ if (is_chromeos_lacros && is_official_build) {
 
   # This will strip chrome binary and produce chrome.debug with symbols.
   strip_binary("strip_chrome_binary") {
-    binary_input = "$root_out_dir/decentr"
-    symbol_output = "$root_out_dir/decentr.debug"
-    stripped_binary_output = "$root_out_dir/decentr.stripped"
+    binary_input = "$root_out_dir/tomi"
+    symbol_output = "$root_out_dir/tomi.debug"
+    stripped_binary_output = "$root_out_dir/tomi.stripped"
     deps = [ ":chrome" ]
   }
   strip_binary("strip_chrome_crashpad_handler") {

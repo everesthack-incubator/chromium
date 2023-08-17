@@ -29,11 +29,11 @@
 #endif
 
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
-const char KeyStorageLinux::kFolderName[] = "Decentr Keys";
-const char KeyStorageLinux::kKey[] = "Decentr Safe Storage";
+const char KeyStorageLinux::kFolderName[] = "Tomi Keys";
+const char KeyStorageLinux::kKey[] = "Tomi Safe Storage";
 #else
-const char KeyStorageLinux::kFolderName[] = "Decentr Keys";
-const char KeyStorageLinux::kKey[] = "Decentr Safe Storage";
+const char KeyStorageLinux::kFolderName[] = "Tomi Keys";
+const char KeyStorageLinux::kKey[] = "Tomi Safe Storage";
 #endif
 
 namespace {

@@ -40,7 +40,7 @@ namespace {
 
 #if BUILDFLAG(IS_WIN)
 const wchar_t kDefaultRegistryPath[] =
-    L"SOFTWARE\\Decentr\\Endpoint Verification";
+    L"SOFTWARE\\Tomi\\Endpoint Verification";
 const wchar_t kValueName[] = L"Safe Storage";
 
 LONG ReadEncryptedSecret(std::string* encrypted_secret) {
@@ -268,9 +268,9 @@ base::FilePath GetEndpointVerificationDir() {
     return path;
 
 #if BUILDFLAG(IS_LINUX) || BUILDFLAG(IS_CHROMEOS)
-  path = path.AppendASCII("Decentr");
+  path = path.AppendASCII("Tomi");
 #else
-  path = path.AppendASCII("Decentr");
+  path = path.AppendASCII("Tomi");
 #endif
   path = path.AppendASCII("Endpoint Verification");
   return path;

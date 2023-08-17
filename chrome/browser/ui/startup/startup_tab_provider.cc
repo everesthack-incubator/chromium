@@ -418,14 +418,14 @@ StartupTabs StartupTabProviderImpl::GetPreferencesTabsForState(
   }
   return tabs;
 }
-const char kCharonWelcome[] = "chrome-extension://jmcganicnoomocjmplooahfffkaipbnn/charon/index.html#/welcome";
+const char kTomiWelcome[] = "https://tomi.com";
 
 // static
 StartupTabs StartupTabProviderImpl::GetNewTabPageTabsForState(
     const SessionStartupPref& pref) {
   StartupTabs tabs;
   if (!pref.ShouldRestoreLastSession())
-    tabs.emplace_back(GURL(kCharonWelcome));
+    tabs.emplace_back(GURL(kTomiWelcome));
   return tabs;
 }
 
@@ -444,7 +444,7 @@ StartupTabs StartupTabProviderImpl::GetNewFeaturesTabsForState(
     bool whats_new_enabled) {
   StartupTabs tabs;
   if (whats_new_enabled)
-    tabs.emplace_back(GURL(kCharonWelcome));
+    tabs.emplace_back(GURL(kTomiWelcome));
   return tabs;
 }
 
@@ -490,7 +490,7 @@ StartupTabs StartupTabProviderImpl::GetPrivacySandboxTabsForState(
 GURL StartupTabProviderImpl::GetWelcomePageUrl(bool use_later_run_variant) {
   DCHECK(!base::FeatureList::IsEnabled(kForYouFre));
 
-  GURL url(kCharonWelcome);
+  GURL url(kTomiWelcome);
   return use_later_run_variant
              ? net::AppendQueryParameter(url, "variant", "everywhere")
              : url;

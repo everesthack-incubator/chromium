@@ -14,7 +14,7 @@ namespace content {
 const char kChromeDevToolsScheme[] = "devtools";
 const char kChromeErrorScheme[] = "chrome-error";
 const char kChromeUIScheme[] = "chrome";
-const char kDecentrUIScheme[] = "decentr";
+const char kTomiUIScheme[] = "tomi";
 const char kChromeUIUntrustedScheme[] = "chrome-untrusted";
 const char kGuestScheme[] = "chrome-guest";
 const char kViewSourceScheme[] = "view-source";

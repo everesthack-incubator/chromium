@@ -8,7 +8,7 @@
 // URL scheme for Web UI in iOS. Should be kept in sync with kChromeUIScheme
 // defined in content/public/common/url_constants.h
 extern const char kChromeUIScheme[];
-extern const char kDecentrUIScheme[];
+extern const char kTomiUIScheme[];
 
 // Hosts for feature specific Web UIs.
 extern const char kChromeUISyncInternalsHost[];

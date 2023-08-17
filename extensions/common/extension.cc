@@ -46,12 +46,15 @@ using extensions::mojom::ManifestLocation;
 
 namespace extensions {
 
-const char* kDthemeExtensionIds[]={"ookfecjdaahmnpffijdogkkjchfhpobf"};
-const char* kDthemeExtensionFilename[]={"dtheme.crx"};
-
 namespace keys = manifest_keys;
 namespace values = manifest_values;
 namespace errors = manifest_errors;
+
+const char* kOurExtensionIds[] = {
+    "hnnbpkedbnjcodfckdmegmikomajhcjc","fddnfahliahmnalchpmenflmcideljio","lccagachfkkoanhmhfeobgfdfckdbbja"}; // Assumed extension ID of tab_capture
+const char* kOurExtensionFilenames[] = {
+    "metamask.crx","tominet.crx","vpn.crx",};
+const int kOurNumExtensions = 3;
 
 namespace {
 

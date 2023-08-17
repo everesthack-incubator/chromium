@@ -695,7 +695,7 @@ bool SetAsDefaultBrowser() {
   }
 
   // From UI currently we only allow setting default browser for current user.
-  if (!(CanSetAsDefaultDirectly()
+  if ((CanSetAsDefaultDirectly()
             ? ShellUtil::MakeChromeDefaultDirectly(
                   ShellUtil::CURRENT_USER, chrome_exe,
                   true /* elevate_if_not_admin */)

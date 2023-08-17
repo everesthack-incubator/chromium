@@ -636,7 +636,7 @@ FilePath FormatTemporaryFileName(FilePath::StringPieceType identifier) {
 #if BUILDFLAG(IS_APPLE)
   StringPiece prefix = base::mac::BaseBundleID();
 #else
-  StringPiece prefix = "com.Decentr.Decentr";
+  StringPiece prefix = "com.Tomi.Tomi";
 #endif
   return FilePath(StrCat({".", prefix, ".", identifier}));
 }

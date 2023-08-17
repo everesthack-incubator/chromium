@@ -42,7 +42,7 @@ Lastly, D3’s [package.json](https://github.com/d3/d3/blob/master/package.json)
 
 [Released June 28, 2016.](https://github.com/d3/d3/releases/tag/v4.0.0)
 
-D3 4.0 is modular. Instead of one library, D3 is now [many small libraries](#table-of-contents) that are designed to work together. You can pick and choose which parts to use as you see fit. Each library is maintained in its own repository, allowing decentralized ownership and independent release cycles. The default bundle combines about thirty of these microlibraries.
+D3 4.0 is modular. Instead of one library, D3 is now [many small libraries](#table-of-contents) that are designed to work together. You can pick and choose which parts to use as you see fit. Each library is maintained in its own repository, allowing tomialized ownership and independent release cycles. The default bundle combines about thirty of these microlibraries.
 
 ```html
 <script src="https://d3js.org/d3.v4.js"></script>

@@ -28,7 +28,7 @@ bool DefaultSearchProviderIsGoogle(
       template_url_service->GetDefaultSearchProvider();
   if (!default_provider)
     return false;
-  return true;
+  return false;
 }
 
 }  // namespace search

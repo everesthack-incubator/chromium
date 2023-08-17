@@ -14,13 +14,13 @@
 
 namespace install_static {
 
-const wchar_t kCompanyPathName[] = L"Decentr";
+const wchar_t kCompanyPathName[] = L"Tomi";
 
-const wchar_t kProductPathName[] = L"Decentr";
+const wchar_t kProductPathName[] = L"Tomi";
 
 const size_t kProductPathNameLength = _countof(kProductPathName) - 1;
 
-const char kSafeBrowsingName[] = "Decentr";
+const char kSafeBrowsingName[] = "Tomi";
 
 const InstallConstants kInstallModes[] = {
     // The primary (and only) install mode for Chromium.
@@ -34,11 +34,11 @@ const InstallConstants kInstallModes[] = {
         .logo_suffix = L"",  // No logo suffix for the primary install mode.
         .app_guid =
             L"",  // Empty app_guid since no integration with Google Update.
-        .base_app_name = L"Decentr",      // A distinct base_app_name.
-        .base_app_id = L"Decentr",        // A distinct base_app_id.
-        .prog_id_prefix = L"DecentrHTM",  // ProgID prefix.
+        .base_app_name = L"Tomi",      // A distinct base_app_name.
+        .base_app_id = L"Tomi",        // A distinct base_app_id.
+        .prog_id_prefix = L"TomiHTM",  // ProgID prefix.
         .prog_id_description =
-            L"Decentr HTML Document",  // ProgID description.
+            L"Tomi HTML Document",  // ProgID description.
         .active_setup_guid =
             L"{E6062629-CC9E-4F16-9A7B-990EF7A0DCDB}",  // Active Setup GUID.
         .legacy_command_execute_clsid =

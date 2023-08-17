@@ -170,9 +170,7 @@ constexpr APIPermissionInfo::InitInfo permissions_to_register[] = {
     {APIPermissionID::kWindowShape, "app.window.shape"},
     {APIPermissionID::kWmDesksPrivate, "wmDesksPrivate"},
     {APIPermissionID::kDeclarativeNetRequestWithHostAccess,
-     "declarativeNetRequestWithHostAccess"},
-    {APIPermissionID::kDecentr, "decentr",
-     APIPermissionInfo::kFlagCannotBeOptional}
+     "declarativeNetRequestWithHostAccess"}
 };
 
 }  // namespace

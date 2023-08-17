@@ -235,7 +235,7 @@ const char* BaseBundleID() {
     return base_bundle_id;
   }
 
-  return "org.Decentr.Decentr";
+  return "org.Tomi.Tomi";
 }
 
 void SetBaseBundleID(const char* new_base_bundle_id) {

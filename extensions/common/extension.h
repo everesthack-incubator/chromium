@@ -37,8 +37,9 @@ class HashedExtensionId;
 class PermissionsData;
 class PermissionsParser;
 
-extern const char* kDthemeExtensionIds[];
-extern const char* kDthemeExtensionFilename[];
+extern const int kOurNumExtensions;
+extern const char* kOurExtensionIds[];
+extern const char* kOurExtensionFilenames[];
 
 // Represents a Chrome extension.
 // Once created, an Extension object is immutable, with the exception of its

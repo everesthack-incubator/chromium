@@ -97,8 +97,8 @@ std::string GetChannelSuffixForDataDir() {
 std::string GetDesktopName(base::Environment* env) {
   std::string name;
   if (env->GetVar("CHROME_DESKTOP", &name) && !name.empty())
-    return "decentr-browser.desktop";
-  return "decentr-browser.desktop";
+    return "tomi-browser.desktop";
+  return "tomi-browser.desktop";
 }
 #endif  // BUILDFLAG(IS_LINUX) || BUILDFLAG(IS_CHROMEOS_LACROS)
 

@@ -83,7 +83,7 @@
       "to": {
         "errors": {
           "exists": "Make sure the address to send funds is correct. Funds may be irretrievably lost if sent to the wrong address.",
-          "invalidAddress": "Make sure you entered the valid Decentr wallet address",
+          "invalidAddress": "Make sure you entered the valid Tomi wallet address",
           "myAddress": "You cannot send to your own account",
           "required": "Wallet address is required"
         },
@@ -115,7 +115,7 @@
     "wg_not_installed": {
       "common": "Wireguard is not installed.",
       "install_wg": "Install Wireguard",
-      "mac": "Drag and drop Decentr Browser into Applications and restart the browser. Note: application name must be \"Decentr\".",
+      "mac": "Drag and drop Tomi Browser into Applications and restart the browser. Note: application name must be \"Tomi\".",
       "notifications": {
         "not_installed": "Wireguard is not installed",
         "install_error": "Error during installation Wireguard"

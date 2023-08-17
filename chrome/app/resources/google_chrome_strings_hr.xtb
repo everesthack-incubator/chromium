@@ -1,419 +1,419 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="hr">
-<translation id="1001534784610492198">Arhiva programa za instalaciju je oštećena ili nevažeća. Ponovno preuzmite program Decentr.</translation>
+<translation id="1001534784610492198">Arhiva programa za instalaciju je oštećena ili nevažeća. Ponovno preuzmite program Tomi.</translation>
 <translation id="1026101648481255140">Nastavi instaliranje</translation>
-<translation id="102763973188675173">Prilagodite i kontrolirajte Decentr. Dostupno je ažuriranje.</translation>
-<translation id="1051826050538111504">Na računalu imate štetni softver. Decentr ga može ukloniti, vratiti vaše postavke i onemogućiti proširenja kako bi vaš preglednik ponovo funkcionirao normalno.</translation>
+<translation id="102763973188675173">Prilagodite i kontrolirajte Tomi. Dostupno je ažuriranje.</translation>
+<translation id="1051826050538111504">Na računalu imate štetni softver. Tomi ga može ukloniti, vratiti vaše postavke i onemogućiti proširenja kako bi vaš preglednik ponovo funkcionirao normalno.</translation>
 <translation id="1065672644894730302">Vaše postavke nije moguće čitati. Neke značajke možda nisu dostupne i promjene postavki neće biti spremljene.</translation>
-<translation id="1088300314857992706">E-adresa <ph name="USER_EMAIL_ADDRESS" /> prethodno je upotrebljavala Decentr</translation>
-<translation id="110877069173485804">Ovo je vaš Decentr</translation>
-<translation id="1125124144982679672">Tko upotrebljava Decentr?</translation>
-<translation id="1142745911746664600">Nije moguće ažurirati Decentr</translation>
-<translation id="1152920704813762236">O Decentr OS-u</translation>
-<translation id="1154147086299354128">&amp;Otvori u Decentru</translation>
+<translation id="1088300314857992706">E-adresa <ph name="USER_EMAIL_ADDRESS" /> prethodno je upotrebljavala Tomi</translation>
+<translation id="110877069173485804">Ovo je vaš Tomi</translation>
+<translation id="1125124144982679672">Tko upotrebljava Tomi?</translation>
+<translation id="1142745911746664600">Nije moguće ažurirati Tomi</translation>
+<translation id="1152920704813762236">O Tomi OS-u</translation>
+<translation id="1154147086299354128">&amp;Otvori u Tomiu</translation>
 <translation id="1203500561924088507">Zahvaljujemo što ste izvršili instaliranje. Da biste mogli koristiti <ph name="BUNDLE_NAME" />, morate ponovno pokrenuti preglednik.</translation>
-<translation id="1236866257838264361">Iskoristite sve prednosti Decentra</translation>
-<translation id="1278833599417554002">Ponovo pokrenite da biste ažurirali &amp;Decentr</translation>
-<translation id="1302523850133262269">Pričekajte da Decentr instalira najnovija ažuriranja sustava.</translation>
-<translation id="1335640173511558774"><ph name="MANAGER" /> zahtijeva da pročitate i prihvatite sljedeće uvjete pružanja usluge prije upotrebe ovog uređaja. Ti uvjeti ne predstavljaju proširenje, izmjenu ili ograničenje uvjeta DecentrOS Flexa.</translation>
-<translation id="1363996462118479832">Decentr OS nije mogao sinkronizirati vaše podatke zbog pogreške prilikom prijave.</translation>
-<translation id="137466361146087520">Beta verzija preglednika Decentr</translation>
-<translation id="1399397803214730675">Na ovom računalu već postoji novija verzija programa Decentr. Ako softver ne radi, deinstalirajte Decentr i pokušajte ponovo.</translation>
-<translation id="139993653570221430">Možete se predomisliti bilo kad u postavkama Decentra. Probe se prikazuju uz trenutačan način prikazivanja oglasa, stoga nećete odmah vidjeti promjene.</translation>
-<translation id="1434626383986940139">Aplikacije kanala Decentr Canary</translation>
-<translation id="1507198376417198979">Prilagodite svoj novi profil u Decentru</translation>
-<translation id="1516530951338665275">Decentr treba pristup Bluetoothu za nastavak 
+<translation id="1236866257838264361">Iskoristite sve prednosti Tomia</translation>
+<translation id="1278833599417554002">Ponovo pokrenite da biste ažurirali &amp;Tomi</translation>
+<translation id="1302523850133262269">Pričekajte da Tomi instalira najnovija ažuriranja sustava.</translation>
+<translation id="1335640173511558774"><ph name="MANAGER" /> zahtijeva da pročitate i prihvatite sljedeće uvjete pružanja usluge prije upotrebe ovog uređaja. Ti uvjeti ne predstavljaju proširenje, izmjenu ili ograničenje uvjeta TomiOS Flexa.</translation>
+<translation id="1363996462118479832">Tomi OS nije mogao sinkronizirati vaše podatke zbog pogreške prilikom prijave.</translation>
+<translation id="137466361146087520">Beta verzija preglednika Tomi</translation>
+<translation id="1399397803214730675">Na ovom računalu već postoji novija verzija programa Tomi. Ako softver ne radi, deinstalirajte Tomi i pokušajte ponovo.</translation>
+<translation id="139993653570221430">Možete se predomisliti bilo kad u postavkama Tomia. Probe se prikazuju uz trenutačan način prikazivanja oglasa, stoga nećete odmah vidjeti promjene.</translation>
+<translation id="1434626383986940139">Aplikacije kanala Tomi Canary</translation>
+<translation id="1507198376417198979">Prilagodite svoj novi profil u Tomiu</translation>
+<translation id="1516530951338665275">Tomi treba pristup Bluetoothu za nastavak 
  uparivanja. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="1547295885616600893">Decentr OS omogućen je dodatnim <ph name="BEGIN_LINK_CROS_OSS" />softverom utemeljenim na otvorenom izvornom kodu<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="1553358976309200471">Ažuriraj Decentr</translation>
-<translation id="1583073672411044740">Korisnik <ph name="EXISTING_USER" /> već je prijavljen na taj profil u Decentru. Izradit će se novi profil u Decentru za <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="1587223624401073077">Decentr upotrebljava vašu kameru.</translation>
-<translation id="1587325591171447154">Datoteka <ph name="FILE_NAME" /> opasna je, pa ju je Decentr blokirao.</translation>
-<translation id="1597911401261118146">Da biste provjerili jesu li vaše zaporke sigurne od povrede podataka i drugih poteškoća sa sigurnošću, <ph name="BEGIN_LINK" />prijavite se na Decentr<ph name="END_LINK" />.</translation>
-<translation id="1599904803480101533">Decentr je blokirao ovu arhivsku datoteku jer može skrivati zlonamjerni softver</translation>
-<translation id="1619887657840448962">Kako bismo Decentr učinili sigurnijim, onemogućili smo sljedeće proširenje koje nije navedeno na stranici <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i možda je dodano bez vašeg znanja.</translation>
-<translation id="1627304841979541023"><ph name="BEGIN_BOLD" />Kako možete upravljati svojim podacima<ph name="END_BOLD" />: da bismo zaštitili vašu privatnost, automatski brišemo vaše interese starije od četiri tjedna. Tijekom vašeg daljnjeg pregledavanja neki se interes može ponovo pojaviti na popisu. Možete i ukloniti interese za koje ne želite da ih Decentr razmatra.</translation>
-<translation id="1628000112320670027">Potraži pomoć za upotrebu Decentra</translation>
+<translation id="1547295885616600893">Tomi OS omogućen je dodatnim <ph name="BEGIN_LINK_CROS_OSS" />softverom utemeljenim na otvorenom izvornom kodu<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="1553358976309200471">Ažuriraj Tomi</translation>
+<translation id="1583073672411044740">Korisnik <ph name="EXISTING_USER" /> već je prijavljen na taj profil u Tomiu. Izradit će se novi profil u Tomiu za <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="1587223624401073077">Tomi upotrebljava vašu kameru.</translation>
+<translation id="1587325591171447154">Datoteka <ph name="FILE_NAME" /> opasna je, pa ju je Tomi blokirao.</translation>
+<translation id="1597911401261118146">Da biste provjerili jesu li vaše zaporke sigurne od povrede podataka i drugih poteškoća sa sigurnošću, <ph name="BEGIN_LINK" />prijavite se na Tomi<ph name="END_LINK" />.</translation>
+<translation id="1599904803480101533">Tomi je blokirao ovu arhivsku datoteku jer može skrivati zlonamjerni softver</translation>
+<translation id="1619887657840448962">Kako bismo Tomi učinili sigurnijim, onemogućili smo sljedeće proširenje koje nije navedeno na stranici <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i možda je dodano bez vašeg znanja.</translation>
+<translation id="1627304841979541023"><ph name="BEGIN_BOLD" />Kako možete upravljati svojim podacima<ph name="END_BOLD" />: da bismo zaštitili vašu privatnost, automatski brišemo vaše interese starije od četiri tjedna. Tijekom vašeg daljnjeg pregledavanja neki se interes može ponovo pojaviti na popisu. Možete i ukloniti interese za koje ne želite da ih Tomi razmatra.</translation>
+<translation id="1628000112320670027">Potraži pomoć za upotrebu Tomia</translation>
 <translation id="1640672724030957280">Preuzimanje...</translation>
-<translation id="1662146548738125461">O DecentrOS Flexu</translation>
-<translation id="1674870198290878346">Otvori vezu u ano&amp;nimnom prozoru Decentra</translation>
-<translation id="1682634494516646069">Decentr ne može čitati iz svojeg podatkovnog direktorija niti u njega pisati: <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="1691802391966922744">{COUNT,plural, =1{Vaš je administrator konfigurirao Decentr da se zatvori ako je neaktivan dulje od jedne minute.}one{Vaš je administrator konfigurirao Decentr da se zatvori ako je neaktivan dulje od # minute.}few{Vaš je administrator konfigurirao Decentr da se zatvori ako je neaktivan dulje od # minute.}other{Vaš je administrator konfigurirao Decentr da se zatvori ako je neaktivan dulje od # minuta.}}</translation>
-<translation id="1698376642261615901">Decentr jest web-preglednik koji web-stranice i aplikacije pokreće brzinom svjetlosti. Brz je, stabilan i jednostavan za upotrebu. Sigurnije pregledavajte web uz zaštitu protiv zlonamjernog i špijunskog softvera koja je ugrađena u Decentr.</translation>
-<translation id="1713301662689114961">{0,plural, =1{Decentr će se ponovo pokrenuti za sat vremena}one{Decentr će se ponovo pokrenuti za # h}few{Decentr će se ponovo pokrenuti za # h}other{Decentr će se ponovo pokrenuti za # h}}</translation>
-<translation id="1734234790201236882">Decentr će spremiti tu zaporku na vaš Decentr račun. Ne morate je pamtiti.</translation>
-<translation id="1759842336958782510">Decentr</translation>
-<translation id="1786003790898721085">Obavezno se prijavite na Decentr na uređaju <ph name="TARGET_DEVICE_NAME" /> i nakon toga ponovno pokušajte sa slanjem.</translation>
-<translation id="1812689907177901597">Ako isključite tu opciju, možete se prijaviti na Decentrove web-lokacije kao što je Gmail bez prijavljivanja u Decentr</translation>
-<translation id="1860536484129686729">Decentr treba dopuštenje za pristup kameri za ovu web-lokaciju</translation>
-<translation id="1873233029667955273">Decentr nije vaš zadani preglednik</translation>
-<translation id="1874309113135274312">Decentr Beta (mDNS-In)</translation>
-<translation id="1877026089748256423">Decentr je zastario</translation>
-<translation id="1919130412786645364">Dopusti prijavu u Decentr</translation>
-<translation id="1952239763774043237">Da biste primali buduća ažuriranja Decentra, trebat će vam macOS 10.13 ili novija verzija. Na ovom se računalu upotrebljava macOS 10.12.</translation>
+<translation id="1662146548738125461">O TomiOS Flexu</translation>
+<translation id="1674870198290878346">Otvori vezu u ano&amp;nimnom prozoru Tomia</translation>
+<translation id="1682634494516646069">Tomi ne može čitati iz svojeg podatkovnog direktorija niti u njega pisati: <ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="1691802391966922744">{COUNT,plural, =1{Vaš je administrator konfigurirao Tomi da se zatvori ako je neaktivan dulje od jedne minute.}one{Vaš je administrator konfigurirao Tomi da se zatvori ako je neaktivan dulje od # minute.}few{Vaš je administrator konfigurirao Tomi da se zatvori ako je neaktivan dulje od # minute.}other{Vaš je administrator konfigurirao Tomi da se zatvori ako je neaktivan dulje od # minuta.}}</translation>
+<translation id="1698376642261615901">Tomi jest web-preglednik koji web-stranice i aplikacije pokreće brzinom svjetlosti. Brz je, stabilan i jednostavan za upotrebu. Sigurnije pregledavajte web uz zaštitu protiv zlonamjernog i špijunskog softvera koja je ugrađena u Tomi.</translation>
+<translation id="1713301662689114961">{0,plural, =1{Tomi će se ponovo pokrenuti za sat vremena}one{Tomi će se ponovo pokrenuti za # h}few{Tomi će se ponovo pokrenuti za # h}other{Tomi će se ponovo pokrenuti za # h}}</translation>
+<translation id="1734234790201236882">Tomi će spremiti tu zaporku na vaš Tomi račun. Ne morate je pamtiti.</translation>
+<translation id="1759842336958782510">Tomi</translation>
+<translation id="1786003790898721085">Obavezno se prijavite na Tomi na uređaju <ph name="TARGET_DEVICE_NAME" /> i nakon toga ponovno pokušajte sa slanjem.</translation>
+<translation id="1812689907177901597">Ako isključite tu opciju, možete se prijaviti na Tomiove web-lokacije kao što je Gmail bez prijavljivanja u Tomi</translation>
+<translation id="1860536484129686729">Tomi treba dopuštenje za pristup kameri za ovu web-lokaciju</translation>
+<translation id="1873233029667955273">Tomi nije vaš zadani preglednik</translation>
+<translation id="1874309113135274312">Tomi Beta (mDNS-In)</translation>
+<translation id="1877026089748256423">Tomi je zastario</translation>
+<translation id="1919130412786645364">Dopusti prijavu u Tomi</translation>
+<translation id="1952239763774043237">Da biste primali buduća ažuriranja Tomia, trebat će vam macOS 10.13 ili novija verzija. Na ovom se računalu upotrebljava macOS 10.12.</translation>
 <translation id="1953553007165777902">Preuzimanje... Još <ph name="MINUTE" /> min</translation>
-<translation id="2018528049276128029">Svaki profil ima vlastite podatke u Decentru kao što su oznake, povijest, zaporke i slično</translation>
+<translation id="2018528049276128029">Svaki profil ima vlastite podatke u Tomiu kao što su oznake, povijest, zaporke i slično</translation>
 <translation id="2018879682492276940">Instaliranje nije uspjelo. Pokušajte ponovo.</translation>
-<translation id="2071318482926839249">Već je prijavljen neki drugi račun. Da bi vaše pregledavanje ostalo odvojeno, Decentr vam može izraditi vlastiti profil.</translation>
-<translation id="207902854391093810">Tijekom eksperimenata Ad measurement API omogućuje web-lokacijama koje posjećujete da od Decentra traže podatke koji im pomažu mjeriti izvedbu svojih oglasa. Ad measurement API ograničava praćenje na različitim web-lokacijama tako što se između web-lokacija prenosi što je manje moguće podataka.</translation>
-<translation id="2091012649849228750">Da biste primali buduća ažuriranja Decentra, trebat će vam Windows 10 ili novija verzija. Na ovom se računalu upotrebljava Windows 8.</translation>
-<translation id="2094648590148273905">Uvjeti za DecentrOS Flex</translation>
-<translation id="2094919256425865063">Želite li ipak zatvoriti Decentr?</translation>
-<translation id="2106831557840787829">DecentrOS Flex omogućuje dodatni <ph name="BEGIN_LINK_CROS_OSS" />softver otvorenog izvornog koda<ph name="END_LINK_CROS_OSS" />, isto kao i <ph name="BEGIN_LINK_LINUX_OSS" />razvojno okruženje Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="2120620239521071941">Time će se izbrisati sljedeći broj stavki s uređaja: <ph name="ITEMS_COUNT" />. Da biste kasnije dohvatili svoje podatke, prijavite se na Decentr kao <ph name="USER_EMAIL" />.</translation>
-<translation id="2121284319307530122">Ponovno pokretanje radi ažuriranja &amp;Decentra</translation>
-<translation id="2123055963409958220">Pomognite poboljšati Decentr tako što ćete prijaviti <ph name="BEGIN_LINK" />trenutačne postavke<ph name="END_LINK" /></translation>
-<translation id="2131230230468101642">Da bismo zaštitili vašu privatnost, automatski brišemo vaše interese starije od četiri tjedna. Tijekom vašeg daljnjeg pregledavanja neki se interes može ponovo pojaviti na popisu. Možete i ukloniti interese za koje ne želite da ih Decentr razmatra.</translation>
-<translation id="2139300032719313227">Ponovo pokrenite Decentr OS</translation>
-<translation id="2151406531797534936">Sada ponovo pokrenite Decentr</translation>
+<translation id="2071318482926839249">Već je prijavljen neki drugi račun. Da bi vaše pregledavanje ostalo odvojeno, Tomi vam može izraditi vlastiti profil.</translation>
+<translation id="207902854391093810">Tijekom eksperimenata Ad measurement API omogućuje web-lokacijama koje posjećujete da od Tomia traže podatke koji im pomažu mjeriti izvedbu svojih oglasa. Ad measurement API ograničava praćenje na različitim web-lokacijama tako što se između web-lokacija prenosi što je manje moguće podataka.</translation>
+<translation id="2091012649849228750">Da biste primali buduća ažuriranja Tomia, trebat će vam Windows 10 ili novija verzija. Na ovom se računalu upotrebljava Windows 8.</translation>
+<translation id="2094648590148273905">Uvjeti za TomiOS Flex</translation>
+<translation id="2094919256425865063">Želite li ipak zatvoriti Tomi?</translation>
+<translation id="2106831557840787829">TomiOS Flex omogućuje dodatni <ph name="BEGIN_LINK_CROS_OSS" />softver otvorenog izvornog koda<ph name="END_LINK_CROS_OSS" />, isto kao i <ph name="BEGIN_LINK_LINUX_OSS" />razvojno okruženje Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="2120620239521071941">Time će se izbrisati sljedeći broj stavki s uređaja: <ph name="ITEMS_COUNT" />. Da biste kasnije dohvatili svoje podatke, prijavite se na Tomi kao <ph name="USER_EMAIL" />.</translation>
+<translation id="2121284319307530122">Ponovno pokretanje radi ažuriranja &amp;Tomia</translation>
+<translation id="2123055963409958220">Pomognite poboljšati Tomi tako što ćete prijaviti <ph name="BEGIN_LINK" />trenutačne postavke<ph name="END_LINK" /></translation>
+<translation id="2131230230468101642">Da bismo zaštitili vašu privatnost, automatski brišemo vaše interese starije od četiri tjedna. Tijekom vašeg daljnjeg pregledavanja neki se interes može ponovo pojaviti na popisu. Možete i ukloniti interese za koje ne želite da ih Tomi razmatra.</translation>
+<translation id="2139300032719313227">Ponovo pokrenite Tomi OS</translation>
+<translation id="2151406531797534936">Sada ponovo pokrenite Tomi</translation>
 <translation id="2174917724755363426">Instaliranje nije dovršeno. Jeste li sigurni da ga želite otkazati?</translation>
-<translation id="223889379102603431">informacije o tome kako Decentr upravlja korijenskim certifikatima</translation>
-<translation id="2258103955319320201">Da biste mogli pristupiti svojim sadržajima u pregledniku Decentr na svim svojim uređajima, prijavite se i zatim uključite sinkronizaciju.</translation>
-<translation id="2290014774651636340">Nedostaju ključevi Decentr API-ja. Neke funkcije Decentra bit će onemogućene.</translation>
-<translation id="2290095356545025170">Jeste li sigurni da želite deinstalirati Decentr?</translation>
-<translation id="2309047409763057870">Ovo je sekundarna instalacija Decentra, pa on ne može biti vaš zadani preglednik.</translation>
-<translation id="2345992953227471816">Decentr je otkrio da ova proširenja sadrže zlonamjerni softver:</translation>
-<translation id="2348335408836342058">Decentr treba dopuštenje za pristup kameri i mikrofonu za ovu web-lokaciju</translation>
-<translation id="234869673307233423">Decentr ne može provjeriti vaše zaporke. Pokušajte ponovno kasnije.</translation>
-<translation id="235650106824528204">Sve podatke iz Decentra koji se generiraju tijekom upotrebe ovog profila (primjerice izradom oznaka, povijesti, zaporki i drugih postavki) može ukloniti administrator poslovnog profila. <ph name="LEARN_MORE" /></translation>
+<translation id="223889379102603431">informacije o tome kako Tomi upravlja korijenskim certifikatima</translation>
+<translation id="2258103955319320201">Da biste mogli pristupiti svojim sadržajima u pregledniku Tomi na svim svojim uređajima, prijavite se i zatim uključite sinkronizaciju.</translation>
+<translation id="2290014774651636340">Nedostaju ključevi Tomi API-ja. Neke funkcije Tomia bit će onemogućene.</translation>
+<translation id="2290095356545025170">Jeste li sigurni da želite deinstalirati Tomi?</translation>
+<translation id="2309047409763057870">Ovo je sekundarna instalacija Tomia, pa on ne može biti vaš zadani preglednik.</translation>
+<translation id="2345992953227471816">Tomi je otkrio da ova proširenja sadrže zlonamjerni softver:</translation>
+<translation id="2348335408836342058">Tomi treba dopuštenje za pristup kameri i mikrofonu za ovu web-lokaciju</translation>
+<translation id="234869673307233423">Tomi ne može provjeriti vaše zaporke. Pokušajte ponovno kasnije.</translation>
+<translation id="235650106824528204">Sve podatke iz Tomia koji se generiraju tijekom upotrebe ovog profila (primjerice izradom oznaka, povijesti, zaporki i drugih postavki) može ukloniti administrator poslovnog profila. <ph name="LEARN_MORE" /></translation>
 <translation id="2359808026110333948">Nastavi</translation>
-<translation id="2401189691232800402">Sustav Decentr OS</translation>
-<translation id="2467438592969358367">Decentr želi izvesti vaše zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
+<translation id="2401189691232800402">Sustav Tomi OS</translation>
+<translation id="2467438592969358367">Tomi želi izvesti vaše zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
 <translation id="2485422356828889247">Deinstaliraj</translation>
-<translation id="2534507159460261402">Decentr Pay (kopirano na Decentr)</translation>
-<translation id="2559253115192232574">Web-lokacija koju posjetite nakon toga može od Decentra tražiti podatke o vašim interesima kako bi prilagodila oglase koji će vam se prikazivati. Decentr može dijeliti najviše tri interesa.</translation>
-<translation id="2563121210305478421">Ponovo pokrenuti Decentr?</translation>
-<translation id="2574930892358684005">Korisnik <ph name="EXISTING_USER" /> već je prijavljen na taj profil u Decentru. Da bi vaše pregledavanje ostalo odvojeno, Decentr vam može izraditi vlastiti profil.</translation>
-<translation id="2580411288591421699">Nije moguće instalirati istu verziju programa Decentr koja je trenutačno pokrenuta. Zatvorite Decentr i pokušajte ponovo.</translation>
-<translation id="2586406160782125153">Time će se izbrisati podaci o pregledavanju s uređaja. Da biste kasnije dohvatili svoje podatke, prijavite se na Decentr kao <ph name="USER_EMAIL" />.</translation>
-<translation id="2597976513418770460">Sadržajima u pregledniku Decentr možete pristupiti putem računa <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="2622559029861875898">Decentr ne može provjeriti ažuriranja. Provjerite internetsku vezu.</translation>
-<translation id="2645435784669275700">Decentr OS</translation>
-<translation id="2652691236519827073">Otvori vezu na novoj &amp;kartici Decentra</translation>
-<translation id="2665296953892887393">Pomognite nam poboljšati Decentr šaljući izvješća o rušenju programa i <ph name="UMA_LINK" /> Decentru</translation>
-<translation id="2689103672227170538">Ovo proširenje promijenilo je stranicu koja se prikazuje prilikom pokretanja Decentra.</translation>
-<translation id="2742320827292110288">Upozorenje: Decentr ne može onemogućiti proširenjima da bilježe vašu povijest pregledavanja. Da biste onemogućili to proširenje u anonimnom načinu, poništite odabir te opcije.</translation>
-<translation id="2765403129283291972">Decentr treba dopuštenje za pristup mikrofonu za ovu web-lokaciju</translation>
+<translation id="2534507159460261402">Tomi Pay (kopirano na Tomi)</translation>
+<translation id="2559253115192232574">Web-lokacija koju posjetite nakon toga može od Tomia tražiti podatke o vašim interesima kako bi prilagodila oglase koji će vam se prikazivati. Tomi može dijeliti najviše tri interesa.</translation>
+<translation id="2563121210305478421">Ponovo pokrenuti Tomi?</translation>
+<translation id="2574930892358684005">Korisnik <ph name="EXISTING_USER" /> već je prijavljen na taj profil u Tomiu. Da bi vaše pregledavanje ostalo odvojeno, Tomi vam može izraditi vlastiti profil.</translation>
+<translation id="2580411288591421699">Nije moguće instalirati istu verziju programa Tomi koja je trenutačno pokrenuta. Zatvorite Tomi i pokušajte ponovo.</translation>
+<translation id="2586406160782125153">Time će se izbrisati podaci o pregledavanju s uređaja. Da biste kasnije dohvatili svoje podatke, prijavite se na Tomi kao <ph name="USER_EMAIL" />.</translation>
+<translation id="2597976513418770460">Sadržajima u pregledniku Tomi možete pristupiti putem računa <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="2622559029861875898">Tomi ne može provjeriti ažuriranja. Provjerite internetsku vezu.</translation>
+<translation id="2645435784669275700">Tomi OS</translation>
+<translation id="2652691236519827073">Otvori vezu na novoj &amp;kartici Tomia</translation>
+<translation id="2665296953892887393">Pomognite nam poboljšati Tomi šaljući izvješća o rušenju programa i <ph name="UMA_LINK" /> Tomiu</translation>
+<translation id="2689103672227170538">Ovo proširenje promijenilo je stranicu koja se prikazuje prilikom pokretanja Tomia.</translation>
+<translation id="2742320827292110288">Upozorenje: Tomi ne može onemogućiti proširenjima da bilježe vašu povijest pregledavanja. Da biste onemogućili to proširenje u anonimnom načinu, poništite odabir te opcije.</translation>
+<translation id="2765403129283291972">Tomi treba dopuštenje za pristup mikrofonu za ovu web-lokaciju</translation>
 <translation id="2770231113462710648">Promijeni zadani preglednik na:</translation>
-<translation id="2775140325783767197">Decentr ne može provjeriti vaše zaporke. Provjerite internetsku vezu.</translation>
+<translation id="2775140325783767197">Tomi ne može provjeriti vaše zaporke. Provjerite internetsku vezu.</translation>
 <translation id="2799223571221894425">Pokreni ponovo</translation>
-<translation id="2847461019998147611">Prikaži Decentr na tom jeziku</translation>
-<translation id="2857540653560290388">Pokretanje Decentra...</translation>
-<translation id="2857972467023607093">Već postoji profil u Decentru s tim računom</translation>
-<translation id="2861074815332034794">Ažuriranje Decentra (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="2871893339301912279">Prijavljeni ste na Decentr!</translation>
+<translation id="2847461019998147611">Prikaži Tomi na tom jeziku</translation>
+<translation id="2857540653560290388">Pokretanje Tomia...</translation>
+<translation id="2857972467023607093">Već postoji profil u Tomiu s tim računom</translation>
+<translation id="2861074815332034794">Ažuriranje Tomia (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="2871893339301912279">Prijavljeni ste na Tomi!</translation>
 <translation id="2885378588091291677">Upravitelj zadataka</translation>
-<translation id="2888126860611144412">O Decentru</translation>
+<translation id="2888126860611144412">O Tomiu</translation>
 <translation id="2915996080311180594">Ponovo pokreni kasnije</translation>
-<translation id="2926676257163822632">Slabe zaporke lako je pogoditi. Neka Decentr <ph name="BEGIN_LINK" />izradi i zapamti snažne zaporke za vas<ph name="END_LINK" />.</translation>
-<translation id="2926952073016206995">Decentr treba dopuštenje za fotoaparat za ovu web-lokaciju</translation>
+<translation id="2926676257163822632">Slabe zaporke lako je pogoditi. Neka Tomi <ph name="BEGIN_LINK" />izradi i zapamti snažne zaporke za vas<ph name="END_LINK" />.</translation>
+<translation id="2926952073016206995">Tomi treba dopuštenje za fotoaparat za ovu web-lokaciju</translation>
 <translation id="2928420929544864228">Instaliranje je dovršeno.</translation>
-<translation id="2929907241665500097">Decentr se nije ažurirao zbog pogreške. <ph name="BEGIN_LINK" />Riješite probleme s ažuriranjem i neuspjela ažuriranja Decentra.<ph name="END_LINK" /></translation>
-<translation id="2969728957078202736"><ph name="PAGE_TITLE" /> – Prijava na mrežu – Decentr</translation>
-<translation id="3019382870990049182">Ponovo pokrenite da biste ažurirali &amp;DecentrOS Flex</translation>
-<translation id="303514781271618814">Decentr istražuje nove značajke koje web-lokacijama omogućuju pružanje istog doživljaja pregledavanja uz upotrebu manje količine vaših podataka</translation>
-<translation id="3037838751736561277">Decentr radi u pozadini.</translation>
+<translation id="2929907241665500097">Tomi se nije ažurirao zbog pogreške. <ph name="BEGIN_LINK" />Riješite probleme s ažuriranjem i neuspjela ažuriranja Tomia.<ph name="END_LINK" /></translation>
+<translation id="2969728957078202736"><ph name="PAGE_TITLE" /> – Prijava na mrežu – Tomi</translation>
+<translation id="3019382870990049182">Ponovo pokrenite da biste ažurirali &amp;TomiOS Flex</translation>
+<translation id="303514781271618814">Tomi istražuje nove značajke koje web-lokacijama omogućuju pružanje istog doživljaja pregledavanja uz upotrebu manje količine vaših podataka</translation>
+<translation id="3037838751736561277">Tomi radi u pozadini.</translation>
 <translation id="3038232873781883849">Čekanje na instaliranje...</translation>
-<translation id="3059710691562604940">Sigurno pregledavanje je isključeno. Decentr preporučuje da ga uključite.</translation>
-<translation id="3065168410429928842">Decentrova kartica</translation>
-<translation id="3080151273017101988">Nastavi prikazivati ​​pozadinske aplikacije po zatvaranju preglednika Decentr</translation>
-<translation id="3089968997497233615">Dostupna je nova, sigurnija verzija preglednika Decentr.</translation>
-<translation id="3100998948628680988">Odaberite naziv profila za Decentr</translation>
-<translation id="3114643501466072395">Da biste provjerili jesu li vaše druge zaporke sigurne od povrede podataka i drugih poteškoća sa sigurnošću, <ph name="BEGIN_LINK" />prijavite se na Decentr<ph name="END_LINK" />.</translation>
-<translation id="3140883423282498090">Vaše izmjene stupit će na snagu sljedeći put kada se ponovo pokrene Decentr.</translation>
-<translation id="3149510190863420837">Aplikacije sustava Decentr</translation>
-<translation id="3169523567916669830">Tijekom probi možete vidjeti i ukloniti teme koje web-lokacije koriste da bi vam prikazivale oglase. Decentr procjenjuje vaše interese na temelju vaše nedavne povijesti pregledavanja.</translation>
-<translation id="3211604354460514046">{NUM_DEVICES,plural, =1{Decentr povezan je s HID uređajem}one{Decentr povezan je s HID uređajima}few{Decentr povezan je s HID uređajima}other{Decentr povezan je s HID uređajima}}</translation>
-<translation id="3245429137663807393">Ako dijelite i izvješća o upotrebi Decentra, ta izvješća uključuju URL-ove koje posjećujete</translation>
-<translation id="3282568296779691940">Prijavite se u Decentr</translation>
+<translation id="3059710691562604940">Sigurno pregledavanje je isključeno. Tomi preporučuje da ga uključite.</translation>
+<translation id="3065168410429928842">Tomiova kartica</translation>
+<translation id="3080151273017101988">Nastavi prikazivati ​​pozadinske aplikacije po zatvaranju preglednika Tomi</translation>
+<translation id="3089968997497233615">Dostupna je nova, sigurnija verzija preglednika Tomi.</translation>
+<translation id="3100998948628680988">Odaberite naziv profila za Tomi</translation>
+<translation id="3114643501466072395">Da biste provjerili jesu li vaše druge zaporke sigurne od povrede podataka i drugih poteškoća sa sigurnošću, <ph name="BEGIN_LINK" />prijavite se na Tomi<ph name="END_LINK" />.</translation>
+<translation id="3140883423282498090">Vaše izmjene stupit će na snagu sljedeći put kada se ponovo pokrene Tomi.</translation>
+<translation id="3149510190863420837">Aplikacije sustava Tomi</translation>
+<translation id="3169523567916669830">Tijekom probi možete vidjeti i ukloniti teme koje web-lokacije koriste da bi vam prikazivale oglase. Tomi procjenjuje vaše interese na temelju vaše nedavne povijesti pregledavanja.</translation>
+<translation id="3211604354460514046">{NUM_DEVICES,plural, =1{Tomi povezan je s HID uređajem}one{Tomi povezan je s HID uređajima}few{Tomi povezan je s HID uređajima}other{Tomi povezan je s HID uređajima}}</translation>
+<translation id="3245429137663807393">Ako dijelite i izvješća o upotrebi Tomia, ta izvješća uključuju URL-ove koje posjećujete</translation>
+<translation id="3282568296779691940">Prijavite se u Tomi</translation>
 <translation id="3286538390144397061">Ponovo pokreni sad</translation>
-<translation id="3360895254066713204">Decentr Helper</translation>
-<translation id="3379938682270551431">{0,plural, =0{Decentr će se sada ponovo pokrenuti}=1{Decentr će se ponovo pokrenuti za jednu sekundu}one{Decentr će se ponovo pokrenuti za # s}few{Decentr će se ponovo pokrenuti za # s}other{Decentr će se ponovo pokrenuti za # s}}</translation>
-<translation id="3396977131400919238">Došlo je do pogreške operacijskog sustava tijekom instalacije. Ponovno preuzmite program Decentr.</translation>
-<translation id="3426646014273736870">Štednja memorije učinila je Decentr bržim</translation>
-<translation id="3428747202529429621">Štiti vas na Decentru i može se upotrebljavati za poboljšanje vaše sigurnosti u drugim Decentrovim aplikacijama kada ste prijavljeni</translation>
-<translation id="3434246496373299699">Decentr može provjeriti vaše zaporke kad se prijavite Decentr računom</translation>
-<translation id="3451115285585441894">Dodavanje u Decentr...</translation>
-<translation id="345171907106878721">Dodajte sebe kao korisnika Decentra</translation>
-<translation id="3453763134178591239">Uvjeti za Decentr OS</translation>
-<translation id="34857402635545079">Izbriši i podatke s Decentra (<ph name="URL" />)</translation>
-<translation id="3503306920980160878">Decentr treba dopuštenje za pristup vašoj lokaciji da bi je podijelio s ovom web-lokacijom</translation>
-<translation id="3533694711092285624">Nema nijedne spremljene zaporke. Decentr može provjeriti vaše zaporke kad ih spremite.</translation>
-<translation id="3541482654983822893">Decentr ne može provjeriti vaše zaporke. Pokušajte ponovno nakon 24 sata.</translation>
-<translation id="3576528680708590453">Vaš administrator sustava konfigurirao je Decentr da otvara zamjenski preglednik za pristup URL-u <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="3579965087968408543">Podaci web-lokacije uvijek se brišu s uređaja kad zatvorite Decentr</translation>
-<translation id="3582972582564653026">Uključite sinkronizaciju Decentra kako bi vam bio prilagođen na svim vašim uređajima</translation>
-<translation id="3596080736082218006">{COUNT,plural, =0{Vaš administrator zahtijeva da ponovno pokrenete Decentr radi primjene ažuriranja}=1{Vaš administrator zahtijeva da ponovno pokrenete Decentr radi primjene ažuriranja. Anonimni se prozor neće ponovno otvoriti.}one{Vaš administrator zahtijeva da ponovno pokrenete Decentr radi primjene ažuriranja. Vaš # anonimni prozor neće se ponovno otvoriti.}few{Vaš administrator zahtijeva da ponovno pokrenete Decentr radi primjene ažuriranja. Vaša # anonimna prozora neće se ponovno otvoriti.}other{Vaš administrator zahtijeva da ponovno pokrenete Decentr radi primjene ažuriranja. Vaših # anonimnih prozora neće se ponovno otvoriti.}}</translation>
-<translation id="3622797965165704966">Upotreba Decentra s vašim Decentr računom te na dijeljenim računalima sada je još jednostavnija.</translation>
-<translation id="3673813398384385993">Decentr je otkrio da <ph name="EXTENSION_NAME" /> sadrži zlonamjerni softver</translation>
-<translation id="3703994572283698466">Decentr OS omogućen je dodatnim <ph name="BEGIN_LINK_CROS_OSS" />softverom utemeljenim na otvorenom izvornom kodu<ph name="END_LINK_CROS_OSS" />, isto kao i <ph name="BEGIN_LINK_LINUX_OSS" />razvojnim okruženjem Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="3716540481907974026">Verzija DecentrOS Flexa</translation>
-<translation id="3718181793972440140">Time će se izbrisati jedna stavka s uređaja. Da biste kasnije dohvatili svoje podatke, prijavite se na Decentr kao <ph name="USER_EMAIL" />.</translation>
-<translation id="3735758079232443276">Proširenje "<ph name="EXTENSION_NAME" />" promijenilo je stranicu koja se prikazuje prilikom pokretanja Decentra.</translation>
-<translation id="3744202345691150878">Potraži pomoć za upotrebu Decentr OS-a</translation>
-<translation id="3780814664026482060">Decentr – <ph name="PAGE_TITLE" /></translation>
-<translation id="3785324443014631273">DecentrOS Flex nije mogao sinkronizirati vaše podatke zbog pogreške prilikom prijave.</translation>
-<translation id="3795971588916395511">Decentr OS</translation>
-<translation id="3835168907083856002">Izradit će se novi profil u Decentru za <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="386202838227397562">Zatvorite sve Decentr prozore i pokušajte ponovo.</translation>
-<translation id="3865754807470779944">Instalirana je Decentrova verzija <ph name="PRODUCT_VERSION" /></translation>
-<translation id="3873044882194371212">Otvori vezu u ano&amp;nimnom prozoru Decentra</translation>
-<translation id="3889417619312448367">Deinstaliranje preglednika Decentr</translation>
-<translation id="3999683152997576765">Možete vidjeti i ukloniti teme koje web-lokacije koriste da bi vam prikazivale oglase. Decentr procjenjuje vaše interese na temelju vaše nedavne povijesti pregledavanja.</translation>
-<translation id="4035053306113201399">Potrebno je ponovo pokrenuti Decentr OS kako bi se ažuriranje primijenilo.</translation>
+<translation id="3360895254066713204">Tomi Helper</translation>
+<translation id="3379938682270551431">{0,plural, =0{Tomi će se sada ponovo pokrenuti}=1{Tomi će se ponovo pokrenuti za jednu sekundu}one{Tomi će se ponovo pokrenuti za # s}few{Tomi će se ponovo pokrenuti za # s}other{Tomi će se ponovo pokrenuti za # s}}</translation>
+<translation id="3396977131400919238">Došlo je do pogreške operacijskog sustava tijekom instalacije. Ponovno preuzmite program Tomi.</translation>
+<translation id="3426646014273736870">Štednja memorije učinila je Tomi bržim</translation>
+<translation id="3428747202529429621">Štiti vas na Tomiu i može se upotrebljavati za poboljšanje vaše sigurnosti u drugim Tomiovim aplikacijama kada ste prijavljeni</translation>
+<translation id="3434246496373299699">Tomi može provjeriti vaše zaporke kad se prijavite Tomi računom</translation>
+<translation id="3451115285585441894">Dodavanje u Tomi...</translation>
+<translation id="345171907106878721">Dodajte sebe kao korisnika Tomia</translation>
+<translation id="3453763134178591239">Uvjeti za Tomi OS</translation>
+<translation id="34857402635545079">Izbriši i podatke s Tomia (<ph name="URL" />)</translation>
+<translation id="3503306920980160878">Tomi treba dopuštenje za pristup vašoj lokaciji da bi je podijelio s ovom web-lokacijom</translation>
+<translation id="3533694711092285624">Nema nijedne spremljene zaporke. Tomi može provjeriti vaše zaporke kad ih spremite.</translation>
+<translation id="3541482654983822893">Tomi ne može provjeriti vaše zaporke. Pokušajte ponovno nakon 24 sata.</translation>
+<translation id="3576528680708590453">Vaš administrator sustava konfigurirao je Tomi da otvara zamjenski preglednik za pristup URL-u <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="3579965087968408543">Podaci web-lokacije uvijek se brišu s uređaja kad zatvorite Tomi</translation>
+<translation id="3582972582564653026">Uključite sinkronizaciju Tomia kako bi vam bio prilagođen na svim vašim uređajima</translation>
+<translation id="3596080736082218006">{COUNT,plural, =0{Vaš administrator zahtijeva da ponovno pokrenete Tomi radi primjene ažuriranja}=1{Vaš administrator zahtijeva da ponovno pokrenete Tomi radi primjene ažuriranja. Anonimni se prozor neće ponovno otvoriti.}one{Vaš administrator zahtijeva da ponovno pokrenete Tomi radi primjene ažuriranja. Vaš # anonimni prozor neće se ponovno otvoriti.}few{Vaš administrator zahtijeva da ponovno pokrenete Tomi radi primjene ažuriranja. Vaša # anonimna prozora neće se ponovno otvoriti.}other{Vaš administrator zahtijeva da ponovno pokrenete Tomi radi primjene ažuriranja. Vaših # anonimnih prozora neće se ponovno otvoriti.}}</translation>
+<translation id="3622797965165704966">Upotreba Tomia s vašim Tomi računom te na dijeljenim računalima sada je još jednostavnija.</translation>
+<translation id="3673813398384385993">Tomi je otkrio da <ph name="EXTENSION_NAME" /> sadrži zlonamjerni softver</translation>
+<translation id="3703994572283698466">Tomi OS omogućen je dodatnim <ph name="BEGIN_LINK_CROS_OSS" />softverom utemeljenim na otvorenom izvornom kodu<ph name="END_LINK_CROS_OSS" />, isto kao i <ph name="BEGIN_LINK_LINUX_OSS" />razvojnim okruženjem Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="3716540481907974026">Verzija TomiOS Flexa</translation>
+<translation id="3718181793972440140">Time će se izbrisati jedna stavka s uređaja. Da biste kasnije dohvatili svoje podatke, prijavite se na Tomi kao <ph name="USER_EMAIL" />.</translation>
+<translation id="3735758079232443276">Proširenje "<ph name="EXTENSION_NAME" />" promijenilo je stranicu koja se prikazuje prilikom pokretanja Tomia.</translation>
+<translation id="3744202345691150878">Potraži pomoć za upotrebu Tomi OS-a</translation>
+<translation id="3780814664026482060">Tomi – <ph name="PAGE_TITLE" /></translation>
+<translation id="3785324443014631273">TomiOS Flex nije mogao sinkronizirati vaše podatke zbog pogreške prilikom prijave.</translation>
+<translation id="3795971588916395511">Tomi OS</translation>
+<translation id="3835168907083856002">Izradit će se novi profil u Tomiu za <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="386202838227397562">Zatvorite sve Tomi prozore i pokušajte ponovo.</translation>
+<translation id="3865754807470779944">Instalirana je Tomiova verzija <ph name="PRODUCT_VERSION" /></translation>
+<translation id="3873044882194371212">Otvori vezu u ano&amp;nimnom prozoru Tomia</translation>
+<translation id="3889417619312448367">Deinstaliranje preglednika Tomi</translation>
+<translation id="3999683152997576765">Možete vidjeti i ukloniti teme koje web-lokacije koriste da bi vam prikazivale oglase. Tomi procjenjuje vaše interese na temelju vaše nedavne povijesti pregledavanja.</translation>
+<translation id="4035053306113201399">Potrebno je ponovo pokrenuti Tomi OS kako bi se ažuriranje primijenilo.</translation>
 <translation id="4050175100176540509">Najnovija verzija sadrži važna sigurnosna poboljšanja i nove značajke.</translation>
-<translation id="4053720452172726777">Prilagodite Decentr i upravljajte njime</translation>
-<translation id="4106587138345390261">Decentr istražuje nove značajke koje web-lokacijama omogućuju pružanje istog doživljaja pregledavanja uz upotrebu manje količine vaših informacija</translation>
-<translation id="4110895483821904099">Postavite novi profil u Decentru</translation>
-<translation id="4147555960264124640">Prijavljujete se upravljanim računom i dajete administratoru kontrolu nad svojim profilom u sustavu Decentr. Vaši podaci u sustavu Decentr, primjerice, aplikacije, oznake, povijest, zaporke i ostale postavke, trajno će se povezati s korisnikom <ph name="USER_NAME" />. Moći ćete izbrisati te podatke putem Nadzorne ploče Decentr računa, ali ih nećete moći povezati s nekim drugim računom. <ph name="LEARN_MORE" /></translation>
+<translation id="4053720452172726777">Prilagodite Tomi i upravljajte njime</translation>
+<translation id="4106587138345390261">Tomi istražuje nove značajke koje web-lokacijama omogućuju pružanje istog doživljaja pregledavanja uz upotrebu manje količine vaših informacija</translation>
+<translation id="4110895483821904099">Postavite novi profil u Tomiu</translation>
+<translation id="4147555960264124640">Prijavljujete se upravljanim računom i dajete administratoru kontrolu nad svojim profilom u sustavu Tomi. Vaši podaci u sustavu Tomi, primjerice, aplikacije, oznake, povijest, zaporke i ostale postavke, trajno će se povezati s korisnikom <ph name="USER_NAME" />. Moći ćete izbrisati te podatke putem Nadzorne ploče Tomi računa, ali ih nećete moći povezati s nekim drugim računom. <ph name="LEARN_MORE" /></translation>
 <translation id="4148957013307229264">Instaliranje...</translation>
-<translation id="4149882025268051530">Program za instalaciju nije dekomprimirao arhivu. Ponovno preuzmite program Decentr.</translation>
-<translation id="4191857738314598978">{0,plural, =1{Ponovo pokrenite Decentr u roku od jednog dana}one{Ponovo pokrenite Decentr u roku od # dana}few{Ponovo pokrenite Decentr u roku od # dana}other{Ponovo pokrenite Decentr u roku od # dana}}</translation>
-<translation id="4205939740494406371">Decentr ne može provjeriti vaše zaporke. Pokušajte ponovno nakon 24 sata ili <ph name="BEGIN_LINK" />provjerite zaporke na svojem Decentr računu<ph name="END_LINK" />.</translation>
+<translation id="4149882025268051530">Program za instalaciju nije dekomprimirao arhivu. Ponovno preuzmite program Tomi.</translation>
+<translation id="4191857738314598978">{0,plural, =1{Ponovo pokrenite Tomi u roku od jednog dana}one{Ponovo pokrenite Tomi u roku od # dana}few{Ponovo pokrenite Tomi u roku od # dana}other{Ponovo pokrenite Tomi u roku od # dana}}</translation>
+<translation id="4205939740494406371">Tomi ne može provjeriti vaše zaporke. Pokušajte ponovno nakon 24 sata ili <ph name="BEGIN_LINK" />provjerite zaporke na svojem Tomi računu<ph name="END_LINK" />.</translation>
 <translation id="4222932583846282852">Otkazivanje...</translation>
-<translation id="4242034826641750751">Decentr treba dopuštenje za fotoaparat i mikrofon za ovu web-lokaciju</translation>
-<translation id="424864128008805179">Želite li se odjaviti s Decentra?</translation>
-<translation id="4251615635259297716">Želite li povezati svoje podatke sustava Decentr s tim računom?</translation>
-<translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Koji se podaci upotrebljavaju<ph name="END_BOLD" />: vaša povijest pregledavanja, zapisnik web-lokacija koje ste posjetili u Decentru na ovom uređaju.</translation>
+<translation id="4242034826641750751">Tomi treba dopuštenje za fotoaparat i mikrofon za ovu web-lokaciju</translation>
+<translation id="424864128008805179">Želite li se odjaviti s Tomia?</translation>
+<translation id="4251615635259297716">Želite li povezati svoje podatke sustava Tomi s tim računom?</translation>
+<translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Koji se podaci upotrebljavaju<ph name="END_BOLD" />: vaša povijest pregledavanja, zapisnik web-lokacija koje ste posjetili u Tomiu na ovom uređaju.</translation>
 <translation id="4281844954008187215">Uvjeti upotrebe usluge</translation>
-<translation id="4293420128516039005">Prijavite se da biste sinkronizirali i prilagodili Decentr na svim svojim uređajima</translation>
-<translation id="430327780270213103">Omogućuje proširenju da prikazuje zahtjeve za pristup na alatnoj traci Decentra</translation>
-<translation id="4328355335528187361">Decentr Dev (mDNS-In)</translation>
+<translation id="4293420128516039005">Prijavite se da biste sinkronizirali i prilagodili Tomi na svim svojim uređajima</translation>
+<translation id="430327780270213103">Omogućuje proširenju da prikazuje zahtjeve za pristup na alatnoj traci Tomia</translation>
+<translation id="4328355335528187361">Tomi Dev (mDNS-In)</translation>
 <translation id="4334294535648607276">Preuzimanje je dovršeno.</translation>
-<translation id="4335235004908507846">Decentr vam može pomoći da se bolje zaštitite od povrede podataka, zlonamjernih proširenja i još mnogo toga</translation>
-<translation id="4343195214584226067">Proširenje <ph name="EXTENSION_NAME" /> dodano je u Decentr</translation>
-<translation id="4384570495110188418">Decentr ne može provjeriti vaše zaporke jer niste prijavljeni</translation>
+<translation id="4335235004908507846">Tomi vam može pomoći da se bolje zaštitite od povrede podataka, zlonamjernih proširenja i još mnogo toga</translation>
+<translation id="4343195214584226067">Proširenje <ph name="EXTENSION_NAME" /> dodano je u Tomi</translation>
+<translation id="4384570495110188418">Tomi ne može provjeriti vaše zaporke jer niste prijavljeni</translation>
 <translation id="4427306783828095590">Poboljšana zaštita blokira krađu identiteta i zlonamjerni softver na više načina</translation>
-<translation id="4450664632294415862">Decentr – Prijava na mrežu – <ph name="PAGE_TITLE" /></translation>
-<translation id="4458462641685292929">U tijeku je neka druga operacija na Decentru. Pokušajte ponovo kasnije.</translation>
-<translation id="4459234553906210702">Ad measurement API omogućuje web-lokacijama koje posjećujete da od Decentra traže podatke koji im pomažu mjeriti izvedbu svojih oglasa. Ad measurement API ograničava praćenje na različitim web-lokacijama tako što se između web-lokacija prenosi što je manje moguće podataka.</translation>
-<translation id="4561051373932531560">Decentr omogućuje da kliknete telefonski broj na webu i nazovete ga koristeći se Skypeom!</translation>
+<translation id="4450664632294415862">Tomi – Prijava na mrežu – <ph name="PAGE_TITLE" /></translation>
+<translation id="4458462641685292929">U tijeku je neka druga operacija na Tomiu. Pokušajte ponovo kasnije.</translation>
+<translation id="4459234553906210702">Ad measurement API omogućuje web-lokacijama koje posjećujete da od Tomia traže podatke koji im pomažu mjeriti izvedbu svojih oglasa. Ad measurement API ograničava praćenje na različitim web-lokacijama tako što se između web-lokacija prenosi što je manje moguće podataka.</translation>
+<translation id="4561051373932531560">Tomi omogućuje da kliknete telefonski broj na webu i nazovete ga koristeći se Skypeom!</translation>
 <translation id="4567424176335768812">Prijavljeni ste kao <ph name="USER_EMAIL_ADDRESS" />. Sada možete pristupiti svojim oznakama, povijesti i drugim postavkama na svim uređajima na kojima se prijavljujete.</translation>
-<translation id="4571503333518166079">Otvori postavke obavijesti za Decentr</translation>
-<translation id="459622048091363950">Kada Decentr dobije pristup, web-lokacije će vas moći tražiti pristup.</translation>
-<translation id="4600710005438004015">Decentr se nije mogao ažurirati na najnoviju verziju, tako da nemate nove značajke i sigurnosne popravke.</translation>
-<translation id="4627412468266359539">Neobavezno: pomozite poboljšati značajke i izvedbu DecentrOS Flexa automatskim slanjem podataka o upotrebi i dijagnostici Decentru.</translation>
-<translation id="4633000520311261472">Kako bismo Decentr učinili sigurnijim, onemogućili smo neka proširenja koja nisu navedena u trgovini <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i možda su dodana bez vašeg znanja.</translation>
+<translation id="4571503333518166079">Otvori postavke obavijesti za Tomi</translation>
+<translation id="459622048091363950">Kada Tomi dobije pristup, web-lokacije će vas moći tražiti pristup.</translation>
+<translation id="4600710005438004015">Tomi se nije mogao ažurirati na najnoviju verziju, tako da nemate nove značajke i sigurnosne popravke.</translation>
+<translation id="4627412468266359539">Neobavezno: pomozite poboljšati značajke i izvedbu TomiOS Flexa automatskim slanjem podataka o upotrebi i dijagnostici Tomiu.</translation>
+<translation id="4633000520311261472">Kako bismo Tomi učinili sigurnijim, onemogućili smo neka proširenja koja nisu navedena u trgovini <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> i možda su dodana bez vašeg znanja.</translation>
 <translation id="4680828127924988555">Otkaži instaliranje</translation>
-<translation id="469553575393225953">Proširenja, aplikacije i teme iz nepoznatih izvora mogu naštetiti vašem uređaju. Decentr preporučuje da ih instalirate samo iz Decentr web-trgovine</translation>
-<translation id="4728575227883772061">Instalacija nije uspjela zbog nepoznate pogreške. Ako je program Decentr trenutno otvoren, zatvorite ga i pokušajte ponovno.</translation>
-<translation id="4747730611090640388">Decentr može procijeniti vaše interese.  Web-lokacija koju posjetite nakon toga može od Decentra tražiti podatke o vašim interesima kako bi prilagodila oglase koji će vam se prikazivati.</translation>
-<translation id="4754614261631455953">Decentr Canary (mDNS-In)</translation>
-<translation id="4771048833395599659">Datoteka je možda opasna i Decentr ju je blokirao.</translation>
-<translation id="479167709087336770">Upotrebljava istu provjeru pravopisa koja se upotrebljava na Decentr pretraživanju. Tekst koji unesete u preglednik šalje se Decentru. To ponašanje možete promijeniti u postavkama kad god želite.</translation>
-<translation id="4842397268809523050">DecentrOS Flex nije mogao sinkronizirati vaše podatke jer sinkronizacija nije dostupna za vašu domenu.</translation>
-<translation id="4873783916118289636">Pregledajte ključne kontrole privatnosti i sigurnosti u Decentru</translation>
-<translation id="4891791193823137474">Neka Decentr radi u pozadini</translation>
-<translation id="4895437082222824641">Otvori vezu na novoj &amp;kartici Decentra</translation>
-<translation id="4953650215774548573">Postavite Decentr kao svoj zadani preglednik</translation>
-<translation id="495931528404527476">U Decentru</translation>
-<translation id="4969674060580488087">DecentrOS Flex nije mogao sinkronizirati vaše podatke jer su vaši podaci za prijavu na račun zastarjeli.</translation>
-<translation id="4970761609246024540">Dobro došli u Decentrove profile</translation>
-<translation id="4970880042055371251">Verzija Decentr OS-a</translation>
-<translation id="4970947549776831107">Decentr je blokirao datoteku jer je ta vrsta datoteke opasna</translation>
-<translation id="4990567037958725628">Decentr Canary</translation>
-<translation id="5037581483200764584">Da biste primali buduća ažuriranja Decentra, trebat će vam macOS 10.13 ili novija verzija. Na ovom se računalu upotrebljava OS X 10.11.</translation>
-<translation id="5098668839038261629">Kad uključite tu opciju, odjavit ćete se i s Decentra</translation>
-<translation id="5132929315877954718">Otkrijte sjajne aplikacije, igre, proširenja i teme za Decentr.</translation>
-<translation id="5139423532931106058">Prilagodite profil u Decentru</translation>
-<translation id="5163087008893166964">Dobro došli u Decentr; otvorio se novi prozor preglednika</translation>
-<translation id="5170938038195470297">Vaš se profil ne može upotrijebiti jer pripada novijoj verziji proizvoda Decentr. Neke značajke možda nisu dostupne. Navedite drugi direktorij profila ili upotrijebite noviju verziju proizvoda Decentr.</translation>
-<translation id="521447420733633466">Ako dijelite uređaj, prijatelji i članovi obitelji mogu zasebno pregledavati i postaviti Decentr prema svojim željama</translation>
-<translation id="5251420635869119124">Gosti mogu upotrebljavati Decentr bez ostavljanja tragova o upotrebi.</translation>
-<translation id="5334309298019785904">Decentr OS nije mogao sinkronizirati vaše podatke jer sinkronizacija nije dostupna za vašu domenu.</translation>
-<translation id="5334487786912937552">Decentr treba dopuštenje za pristup pohrani radi preuzimanja datoteka</translation>
-<translation id="5337648990166757586">Nije obavezno: pomozite poboljšati značajke i izvedbu Decentr OS-a automatskim slanjem podataka o upotrebi i dijagnostici Decentru.</translation>
-<translation id="5357889879764279201">Zatražite pomoć za DecentrOS Flex</translation>
-<translation id="5386244825306882791">Upravlja i time koja se stranica prikazuje prilikom pokretanja Decentra ili pretraživanja putem višenamjenskog okvira.</translation>
-<translation id="5394833366792865639">Podijeli karticu Decentr</translation>
-<translation id="5412485296464121825">Web-lokacije mogu pohraniti informacije o vašim interesima u Decentr. Na primjer, ako posjetite neku web-lokaciju da biste kupili tenisice za maraton, ta web-lokacija može definirati vaš interes kao trčanje maratona. Ako poslije posjetite neku drugu web-lokaciju da biste se registrirali za utrku, ta vam web-lokacija može prikazati oglas za tenisice za trčanje na temelju vaših interesa.</translation>
-<translation id="5430073640787465221">Datoteka vaših postavki oštećena je ili nevažeća. Decentr nema mogućnost oporavka vaših postavki.</translation>
-<translation id="5524761631371622910">Tijekom eksperimenata i ako vas je Decentr nasumično rasporedio u aktivni eksperiment, vaša povijest pregledavanja utječe na oglase koji vam se prikazuju i interese procijenjene u nastavku. Da bi zaštitio vašu privatnost, Decentr kontinuirano briše vaše interese svakog mjeseca.</translation>
-<translation id="5530733413481476019">Ubrzavanje Decentra</translation>
-<translation id="556024056938947818">Decentr pokušava prikazati zaporke.</translation>
-<translation id="5566025111015594046">Decentr (mDNS-In)</translation>
-<translation id="565744775970812598">Datoteka <ph name="FILE_NAME" /> mogla bi biti opasna, pa ju je Decentr blokirao.</translation>
-<translation id="5678190148303298925">{COUNT,plural, =0{Vaš administrator traži da ponovno pokrenete Decentr radi primjene tog ažuriranja}=1{Vaš administrator traži da ponovno pokrenete Decentr radi primjene tog ažuriranja. Anonimni se prozor neće ponovno otvoriti.}one{Vaš administrator traži da ponovno pokrenete Decentr radi primjene tog ažuriranja. Vaš # anonimni prozor neće se ponovno otvoriti.}few{Vaš administrator traži da ponovno pokrenete Decentr radi primjene tog ažuriranja. Vaša # anonimna prozora neće se ponovno otvoriti.}other{Vaš administrator traži da ponovno pokrenete Decentr radi primjene tog ažuriranja. Vaših # anonimnih prozora neće se ponovno otvoriti.}}</translation>
-<translation id="5686916850681061684">Prilagodite Decentr i upravljajte njime. Trebate obratiti pozornost na nešto – kliknite za pojedinosti.</translation>
-<translation id="5690427481109656848">Decentr LLC</translation>
-<translation id="5715063361988620182">{SECONDS,plural, =1{Decentr ponovo će se pokrenuti za 1 sekundu}one{Decentr ponovo će se pokrenuti za # sekundu}few{Decentr ponovo će se pokrenuti za # sekunde}other{Decentr ponovo će se pokrenuti za # sekundi}}</translation>
-<translation id="5727531838415286053">Ako vas je Decentr nasumično rasporedio u aktivni eksperiment, vaša povijest pregledavanja utječe na oglase koji vam se prikazuju i interese procijenjene u nastavku. Da bi zaštitio vašu privatnost, Decentr kontinuirano briše vaše interese svakog mjeseca. Interesi se osvježavaju ako ih ne uklonite.</translation>
-<translation id="5736850870166430177">Ako neka web-lokacija pokuša ukrasti vašu zaporku ili ako preuzmete štetnu datoteku, Decentr također može sigurnom pregledavanju poslati URL-ove, uključujući dijelove sadržaja web-stranice</translation>
-<translation id="5756509061973259733">Profil u Decentru s tim računom već postoji na ovom uređaju</translation>
-<translation id="5795887333006832406"><ph name="PAGE_TITLE" /> – Decentr Canary</translation>
-<translation id="5804318322022881572">Pokretanje Decentra nije uspjelo. Pokušajte ponovo.</translation>
-<translation id="5867197326698922595">Decentr pokušava urediti zaporke.</translation>
+<translation id="469553575393225953">Proširenja, aplikacije i teme iz nepoznatih izvora mogu naštetiti vašem uređaju. Tomi preporučuje da ih instalirate samo iz Tomi web-trgovine</translation>
+<translation id="4728575227883772061">Instalacija nije uspjela zbog nepoznate pogreške. Ako je program Tomi trenutno otvoren, zatvorite ga i pokušajte ponovno.</translation>
+<translation id="4747730611090640388">Tomi može procijeniti vaše interese.  Web-lokacija koju posjetite nakon toga može od Tomia tražiti podatke o vašim interesima kako bi prilagodila oglase koji će vam se prikazivati.</translation>
+<translation id="4754614261631455953">Tomi Canary (mDNS-In)</translation>
+<translation id="4771048833395599659">Datoteka je možda opasna i Tomi ju je blokirao.</translation>
+<translation id="479167709087336770">Upotrebljava istu provjeru pravopisa koja se upotrebljava na Tomi pretraživanju. Tekst koji unesete u preglednik šalje se Tomiu. To ponašanje možete promijeniti u postavkama kad god želite.</translation>
+<translation id="4842397268809523050">TomiOS Flex nije mogao sinkronizirati vaše podatke jer sinkronizacija nije dostupna za vašu domenu.</translation>
+<translation id="4873783916118289636">Pregledajte ključne kontrole privatnosti i sigurnosti u Tomiu</translation>
+<translation id="4891791193823137474">Neka Tomi radi u pozadini</translation>
+<translation id="4895437082222824641">Otvori vezu na novoj &amp;kartici Tomia</translation>
+<translation id="4953650215774548573">Postavite Tomi kao svoj zadani preglednik</translation>
+<translation id="495931528404527476">U Tomiu</translation>
+<translation id="4969674060580488087">TomiOS Flex nije mogao sinkronizirati vaše podatke jer su vaši podaci za prijavu na račun zastarjeli.</translation>
+<translation id="4970761609246024540">Dobro došli u Tomiove profile</translation>
+<translation id="4970880042055371251">Verzija Tomi OS-a</translation>
+<translation id="4970947549776831107">Tomi je blokirao datoteku jer je ta vrsta datoteke opasna</translation>
+<translation id="4990567037958725628">Tomi Canary</translation>
+<translation id="5037581483200764584">Da biste primali buduća ažuriranja Tomia, trebat će vam macOS 10.13 ili novija verzija. Na ovom se računalu upotrebljava OS X 10.11.</translation>
+<translation id="5098668839038261629">Kad uključite tu opciju, odjavit ćete se i s Tomia</translation>
+<translation id="5132929315877954718">Otkrijte sjajne aplikacije, igre, proširenja i teme za Tomi.</translation>
+<translation id="5139423532931106058">Prilagodite profil u Tomiu</translation>
+<translation id="5163087008893166964">Dobro došli u Tomi; otvorio se novi prozor preglednika</translation>
+<translation id="5170938038195470297">Vaš se profil ne može upotrijebiti jer pripada novijoj verziji proizvoda Tomi. Neke značajke možda nisu dostupne. Navedite drugi direktorij profila ili upotrijebite noviju verziju proizvoda Tomi.</translation>
+<translation id="521447420733633466">Ako dijelite uređaj, prijatelji i članovi obitelji mogu zasebno pregledavati i postaviti Tomi prema svojim željama</translation>
+<translation id="5251420635869119124">Gosti mogu upotrebljavati Tomi bez ostavljanja tragova o upotrebi.</translation>
+<translation id="5334309298019785904">Tomi OS nije mogao sinkronizirati vaše podatke jer sinkronizacija nije dostupna za vašu domenu.</translation>
+<translation id="5334487786912937552">Tomi treba dopuštenje za pristup pohrani radi preuzimanja datoteka</translation>
+<translation id="5337648990166757586">Nije obavezno: pomozite poboljšati značajke i izvedbu Tomi OS-a automatskim slanjem podataka o upotrebi i dijagnostici Tomiu.</translation>
+<translation id="5357889879764279201">Zatražite pomoć za TomiOS Flex</translation>
+<translation id="5386244825306882791">Upravlja i time koja se stranica prikazuje prilikom pokretanja Tomia ili pretraživanja putem višenamjenskog okvira.</translation>
+<translation id="5394833366792865639">Podijeli karticu Tomi</translation>
+<translation id="5412485296464121825">Web-lokacije mogu pohraniti informacije o vašim interesima u Tomi. Na primjer, ako posjetite neku web-lokaciju da biste kupili tenisice za maraton, ta web-lokacija može definirati vaš interes kao trčanje maratona. Ako poslije posjetite neku drugu web-lokaciju da biste se registrirali za utrku, ta vam web-lokacija može prikazati oglas za tenisice za trčanje na temelju vaših interesa.</translation>
+<translation id="5430073640787465221">Datoteka vaših postavki oštećena je ili nevažeća. Tomi nema mogućnost oporavka vaših postavki.</translation>
+<translation id="5524761631371622910">Tijekom eksperimenata i ako vas je Tomi nasumično rasporedio u aktivni eksperiment, vaša povijest pregledavanja utječe na oglase koji vam se prikazuju i interese procijenjene u nastavku. Da bi zaštitio vašu privatnost, Tomi kontinuirano briše vaše interese svakog mjeseca.</translation>
+<translation id="5530733413481476019">Ubrzavanje Tomia</translation>
+<translation id="556024056938947818">Tomi pokušava prikazati zaporke.</translation>
+<translation id="5566025111015594046">Tomi (mDNS-In)</translation>
+<translation id="565744775970812598">Datoteka <ph name="FILE_NAME" /> mogla bi biti opasna, pa ju je Tomi blokirao.</translation>
+<translation id="5678190148303298925">{COUNT,plural, =0{Vaš administrator traži da ponovno pokrenete Tomi radi primjene tog ažuriranja}=1{Vaš administrator traži da ponovno pokrenete Tomi radi primjene tog ažuriranja. Anonimni se prozor neće ponovno otvoriti.}one{Vaš administrator traži da ponovno pokrenete Tomi radi primjene tog ažuriranja. Vaš # anonimni prozor neće se ponovno otvoriti.}few{Vaš administrator traži da ponovno pokrenete Tomi radi primjene tog ažuriranja. Vaša # anonimna prozora neće se ponovno otvoriti.}other{Vaš administrator traži da ponovno pokrenete Tomi radi primjene tog ažuriranja. Vaših # anonimnih prozora neće se ponovno otvoriti.}}</translation>
+<translation id="5686916850681061684">Prilagodite Tomi i upravljajte njime. Trebate obratiti pozornost na nešto – kliknite za pojedinosti.</translation>
+<translation id="5690427481109656848">Tomi LLC</translation>
+<translation id="5715063361988620182">{SECONDS,plural, =1{Tomi ponovo će se pokrenuti za 1 sekundu}one{Tomi ponovo će se pokrenuti za # sekundu}few{Tomi ponovo će se pokrenuti za # sekunde}other{Tomi ponovo će se pokrenuti za # sekundi}}</translation>
+<translation id="5727531838415286053">Ako vas je Tomi nasumično rasporedio u aktivni eksperiment, vaša povijest pregledavanja utječe na oglase koji vam se prikazuju i interese procijenjene u nastavku. Da bi zaštitio vašu privatnost, Tomi kontinuirano briše vaše interese svakog mjeseca. Interesi se osvježavaju ako ih ne uklonite.</translation>
+<translation id="5736850870166430177">Ako neka web-lokacija pokuša ukrasti vašu zaporku ili ako preuzmete štetnu datoteku, Tomi također može sigurnom pregledavanju poslati URL-ove, uključujući dijelove sadržaja web-stranice</translation>
+<translation id="5756509061973259733">Profil u Tomiu s tim računom već postoji na ovom uređaju</translation>
+<translation id="5795887333006832406"><ph name="PAGE_TITLE" /> – Tomi Canary</translation>
+<translation id="5804318322022881572">Pokretanje Tomia nije uspjelo. Pokušajte ponovo.</translation>
+<translation id="5867197326698922595">Tomi pokušava urediti zaporke.</translation>
 <translation id="5895138241574237353">Ponovno pokreni</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> – Prijava na mrežu</translation>
 <translation id="5924017743176219022">Povezivanje s internetom...</translation>
-<translation id="5940385492829620908">Ovdje se nalaze vaš web, oznake i ostali sadržaji u Decentru.</translation>
+<translation id="5940385492829620908">Ovdje se nalaze vaš web, oznake i ostali sadržaji u Tomiu.</translation>
 <translation id="5941711191222866238">Minimiziraj</translation>
-<translation id="5941830788786076944">Neka Decentr bude zadani preglednik.</translation>
+<translation id="5941830788786076944">Neka Tomi bude zadani preglednik.</translation>
 <translation id="6003112304606738118">Preuzimanje... Još <ph name="HOURS" /> h</translation>
-<translation id="6022388122721048220">{0,plural, =0{Decentr će se sada zatvoriti.}=1{Decentr će se zatvoriti za jednu sekundu.}one{Decentr će se zatvoriti za # sekundu.}few{Decentr će se zatvoriti za # sekunde.}other{Decentr će se zatvoriti za # sekundi.}}</translation>
+<translation id="6022388122721048220">{0,plural, =0{Tomi će se sada zatvoriti.}=1{Tomi će se zatvoriti za jednu sekundu.}one{Tomi će se zatvoriti za # sekundu.}few{Tomi će se zatvoriti za # sekunde.}other{Tomi će se zatvoriti za # sekundi.}}</translation>
 <translation id="6040143037577758943">Zatvori</translation>
-<translation id="6070348360322141662">Radi dodatne sigurnosti Decentr kriptirat će vaše podatke</translation>
+<translation id="6070348360322141662">Radi dodatne sigurnosti Tomi kriptirat će vaše podatke</translation>
 <translation id="608006075545470555">Dodavanje poslovnog profila u ovaj preglednik</translation>
-<translation id="6113794647360055231">Decentr je upravo postao bolji</translation>
-<translation id="6145313976051292476">Otvaranje PDF-ova u Decentru</translation>
-<translation id="6155960517327665396">Štednja memorije učinila je Decentr bržim</translation>
-<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> - Decentr</translation>
-<translation id="6173637689840186878"><ph name="PAGE_TITLE" /> – Decentr Beta</translation>
-<translation id="6235018212288296708">Ulazno pravilo kako bi Decentr dopustio mDNS promet.</translation>
-<translation id="6247557882553405851">Decentr upravitelj zaporki</translation>
+<translation id="6113794647360055231">Tomi je upravo postao bolji</translation>
+<translation id="6145313976051292476">Otvaranje PDF-ova u Tomiu</translation>
+<translation id="6155960517327665396">Štednja memorije učinila je Tomi bržim</translation>
+<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> - Tomi</translation>
+<translation id="6173637689840186878"><ph name="PAGE_TITLE" /> – Tomi Beta</translation>
+<translation id="6235018212288296708">Ulazno pravilo kako bi Tomi dopustio mDNS promet.</translation>
+<translation id="6247557882553405851">Tomi upravitelj zaporki</translation>
 <translation id="6273793429163604305">Priprema...</translation>
-<translation id="6291089322031436445">Aplikacije preglednika Decentr Dev</translation>
-<translation id="6291549208091401781">Decentr već je instaliran za sve korisnike na računalu.</translation>
-<translation id="6326175484149238433">Ukloni iz programa Decentr</translation>
+<translation id="6291089322031436445">Aplikacije preglednika Tomi Dev</translation>
+<translation id="6291549208091401781">Tomi već je instaliran za sve korisnike na računalu.</translation>
+<translation id="6326175484149238433">Ukloni iz programa Tomi</translation>
 <translation id="6327105987658262776">Ažuriranja nisu dostupna.</translation>
-<translation id="6412673304250309937">Provjerava URL-ove s popisom nesigurnih web-lokacija pohranjenih u Decentru. Ako neka web-lokacija pokuša ukrasti vašu zaporku ili ako preuzmete štetnu datoteku, Decentr također može poslati URL-ove, uključujući dijelove sadržaja web-stranice, Sigurnom pregledavanju.</translation>
-<translation id="6418662306461808273">Želite li prijeći na postojeći profil u Decentru?</translation>
-<translation id="6506909944137591434">Decentr treba dopuštenje za fotoaparat kako bi mogao izraditi 3D kartu vašeg okruženja</translation>
-<translation id="6515495397637126556"><ph name="PAGE_TITLE" /> – Decentr Dev</translation>
-<translation id="659498884637196217">Na Decentr upravitelju zaporki na ovom uređaju</translation>
-<translation id="6632473616050862500">DecentrOS Flex omogućuje dodatni <ph name="BEGIN_LINK_CROS_OSS" />softver otvorenog izvornog koda<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="6412673304250309937">Provjerava URL-ove s popisom nesigurnih web-lokacija pohranjenih u Tomiu. Ako neka web-lokacija pokuša ukrasti vašu zaporku ili ako preuzmete štetnu datoteku, Tomi također može poslati URL-ove, uključujući dijelove sadržaja web-stranice, Sigurnom pregledavanju.</translation>
+<translation id="6418662306461808273">Želite li prijeći na postojeći profil u Tomiu?</translation>
+<translation id="6506909944137591434">Tomi treba dopuštenje za fotoaparat kako bi mogao izraditi 3D kartu vašeg okruženja</translation>
+<translation id="6515495397637126556"><ph name="PAGE_TITLE" /> – Tomi Dev</translation>
+<translation id="659498884637196217">Na Tomi upravitelju zaporki na ovom uređaju</translation>
+<translation id="6632473616050862500">TomiOS Flex omogućuje dodatni <ph name="BEGIN_LINK_CROS_OSS" />softver otvorenog izvornog koda<ph name="END_LINK_CROS_OSS" />.</translation>
 <translation id="6676384891291319759">Pristup Internetu</translation>
-<translation id="6679975945624592337">Neka Decentr radi u pozadini</translation>
-<translation id="6696915334902295848">Decentr treba dopuštenje za mikrofon za ovu web-lokaciju</translation>
-<translation id="6718739135284199302">Ubrzajte Decentr</translation>
-<translation id="6735387454586646204">Sustav DecentrOS Flex</translation>
-<translation id="6739177684496155661">Želite li nastaviti na novom profilu u Decentru?</translation>
-<translation id="6750954913813541382">Decentr šalje Decentru tekst koji utipkate u preglednik radi ispravljanja pravopisnih pogrešaka</translation>
-<translation id="677276454032249905">Želite li ipak zatvoriti Decentr?</translation>
-<translation id="683440813066116847">Ulazno pravilo kako bi Decentr Canary dopustio mDNS promet.</translation>
-<translation id="6881299373831449287">Ažuriranje Decentra</translation>
-<translation id="6885412569789873916">Aplikacije preglednika Decentr Beta</translation>
-<translation id="6933858244219479645">Sustav Decentr OS</translation>
-<translation id="6938166777909186039">Da biste primali buduća ažuriranja Decentra, trebat će vam Windows 10 ili novija verzija. Na ovom se računalu upotrebljava Windows 8.1.</translation>
-<translation id="6943584222992551122">Podaci o pregledavanju za tu osobu izbrisat će se s ovog uređaja. Da biste vratili te podatke, prijavite se na Decentr kao <ph name="USER_EMAIL" />.</translation>
-<translation id="6967962315388095737">Ulazno pravilo kako bi Decentr Beta dopustio mDNS promet.</translation>
-<translation id="6989339256997917931">Decentr ažuriran je, ali vi ga niste upotrebljavali barem 30 dana.</translation>
+<translation id="6679975945624592337">Neka Tomi radi u pozadini</translation>
+<translation id="6696915334902295848">Tomi treba dopuštenje za mikrofon za ovu web-lokaciju</translation>
+<translation id="6718739135284199302">Ubrzajte Tomi</translation>
+<translation id="6735387454586646204">Sustav TomiOS Flex</translation>
+<translation id="6739177684496155661">Želite li nastaviti na novom profilu u Tomiu?</translation>
+<translation id="6750954913813541382">Tomi šalje Tomiu tekst koji utipkate u preglednik radi ispravljanja pravopisnih pogrešaka</translation>
+<translation id="677276454032249905">Želite li ipak zatvoriti Tomi?</translation>
+<translation id="683440813066116847">Ulazno pravilo kako bi Tomi Canary dopustio mDNS promet.</translation>
+<translation id="6881299373831449287">Ažuriranje Tomia</translation>
+<translation id="6885412569789873916">Aplikacije preglednika Tomi Beta</translation>
+<translation id="6933858244219479645">Sustav Tomi OS</translation>
+<translation id="6938166777909186039">Da biste primali buduća ažuriranja Tomia, trebat će vam Windows 10 ili novija verzija. Na ovom se računalu upotrebljava Windows 8.1.</translation>
+<translation id="6943584222992551122">Podaci o pregledavanju za tu osobu izbrisat će se s ovog uređaja. Da biste vratili te podatke, prijavite se na Tomi kao <ph name="USER_EMAIL" />.</translation>
+<translation id="6967962315388095737">Ulazno pravilo kako bi Tomi Beta dopustio mDNS promet.</translation>
+<translation id="6989339256997917931">Tomi ažuriran je, ali vi ga niste upotrebljavali barem 30 dana.</translation>
 <translation id="7025789849649390912">Instaliranje je zaustavljeno.</translation>
-<translation id="7025800014283535195">Ovdje se možete prebacivati između profila u Decentru</translation>
-<translation id="7036251913954633326">Ako ovaj račun želite upotrijebiti samo jednom, možete upotrijebiti <ph name="GUEST_LINK_BEGIN" />način rada za goste<ph name="GUEST_LINK_END" /> u pregledniku Decentr. Ako želite dodati račun za nekog drugog, <ph name="LINK_BEGIN" />dodajte novu osobu<ph name="LINK_END" /> na svoj <ph name="DEVICE_TYPE" />.
+<translation id="7025800014283535195">Ovdje se možete prebacivati između profila u Tomiu</translation>
+<translation id="7036251913954633326">Ako ovaj račun želite upotrijebiti samo jednom, možete upotrijebiti <ph name="GUEST_LINK_BEGIN" />način rada za goste<ph name="GUEST_LINK_END" /> u pregledniku Tomi. Ako želite dodati račun za nekog drugog, <ph name="LINK_BEGIN" />dodajte novu osobu<ph name="LINK_END" /> na svoj <ph name="DEVICE_TYPE" />.
 
-Dopuštenja koja ste već dali web-lokacijama i aplikacijama mogu se primijeniti na ovaj račun. Svojim Decentr računima možete upravljati u <ph name="SETTINGS_LINK_BEGIN" />postavkama<ph name="SETTINGS_LINK_END" />.</translation>
-<translation id="7062128746136194023">Tvoj je roditelj isključio "Dopuštenja za web-lokacije, aplikacije i proširenja" za Decentr. Nije dopušteno dodati <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
-<translation id="7085332316435785646">Odaberite želite li uključiti povijest na Decentru za prilagođenije doživljaje na Decentrovim uslugama</translation>
-<translation id="7088681679121566888">Decentr je ažuriran</translation>
-<translation id="7098166902387133879">Decentr upotrebljava vaš mikrofon.</translation>
-<translation id="7099479769133613710">Ponovo pokrenite da biste ažurirali &amp;Decentr OS</translation>
-<translation id="7106741999175697885">Upravitelj zadacima - Decentr:</translation>
-<translation id="7140653346177713799">{COUNT,plural, =0{Dostupno je novo ažuriranje za Decentr koje će se primijeniti nakon ponovnog pokretanja.}=1{Dostupno je novo ažuriranje za Decentr koje će se primijeniti nakon ponovnog pokretanja. Anonimni se prozor neće ponovno otvoriti.}one{Dostupno je novo ažuriranje za Decentr koje će se primijeniti nakon ponovnog pokretanja. Vaš # anonimni prozor neće se ponovno otvoriti.}few{Dostupno je novo ažuriranje za Decentr koje će se primijeniti nakon ponovnog pokretanja. Vaša # anonimna prozora neće se ponovno otvoriti.}other{Dostupno je novo ažuriranje za Decentr koje će se primijeniti nakon ponovnog pokretanja. Vaših # anonimnih prozora neće se ponovno otvoriti.}}</translation>
-<translation id="7155997830309522122">Ako jeste, uredite zaporku spremljenu u Decentru kako bi odgovarala vašoj novoj zaporki.</translation>
-<translation id="7161904924553537242">Dobro došli u Decentr</translation>
-<translation id="7177959540995930968">Više informacija o tim značajkama dostupno je u postavkama Decentra.</translation>
-<translation id="7242029209006116544">Prijavljujete se upravljanim računom i dajete administratoru kontrolu nad svojim profilom u sustavu Decentr. Vaši podaci u sustavu Decentr, primjerice, aplikacije, oznake, povijest, zaporke i ostale postavke, trajno će se povezati s korisnikom <ph name="USER_NAME" />. Moći ćete izbrisati te podatke putem Nadzorne ploče Decentr računa, ali ih nećete moći povezati s nekim drugim računom. Ako želite, možete izraditi novi profil kako biste zadržali postojeće podatke u sustavu Decentr zasebno. <ph name="LEARN_MORE" /></translation>
-<translation id="7295052994004373688">Taj se jezik koristi za prikaz korisničkog sučelja Decentra</translation>
+Dopuštenja koja ste već dali web-lokacijama i aplikacijama mogu se primijeniti na ovaj račun. Svojim Tomi računima možete upravljati u <ph name="SETTINGS_LINK_BEGIN" />postavkama<ph name="SETTINGS_LINK_END" />.</translation>
+<translation id="7062128746136194023">Tvoj je roditelj isključio "Dopuštenja za web-lokacije, aplikacije i proširenja" za Tomi. Nije dopušteno dodati <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
+<translation id="7085332316435785646">Odaberite želite li uključiti povijest na Tomiu za prilagođenije doživljaje na Tomiovim uslugama</translation>
+<translation id="7088681679121566888">Tomi je ažuriran</translation>
+<translation id="7098166902387133879">Tomi upotrebljava vaš mikrofon.</translation>
+<translation id="7099479769133613710">Ponovo pokrenite da biste ažurirali &amp;Tomi OS</translation>
+<translation id="7106741999175697885">Upravitelj zadacima - Tomi:</translation>
+<translation id="7140653346177713799">{COUNT,plural, =0{Dostupno je novo ažuriranje za Tomi koje će se primijeniti nakon ponovnog pokretanja.}=1{Dostupno je novo ažuriranje za Tomi koje će se primijeniti nakon ponovnog pokretanja. Anonimni se prozor neće ponovno otvoriti.}one{Dostupno je novo ažuriranje za Tomi koje će se primijeniti nakon ponovnog pokretanja. Vaš # anonimni prozor neće se ponovno otvoriti.}few{Dostupno je novo ažuriranje za Tomi koje će se primijeniti nakon ponovnog pokretanja. Vaša # anonimna prozora neće se ponovno otvoriti.}other{Dostupno je novo ažuriranje za Tomi koje će se primijeniti nakon ponovnog pokretanja. Vaših # anonimnih prozora neće se ponovno otvoriti.}}</translation>
+<translation id="7155997830309522122">Ako jeste, uredite zaporku spremljenu u Tomiu kako bi odgovarala vašoj novoj zaporki.</translation>
+<translation id="7161904924553537242">Dobro došli u Tomi</translation>
+<translation id="7177959540995930968">Više informacija o tim značajkama dostupno je u postavkama Tomia.</translation>
+<translation id="7242029209006116544">Prijavljujete se upravljanim računom i dajete administratoru kontrolu nad svojim profilom u sustavu Tomi. Vaši podaci u sustavu Tomi, primjerice, aplikacije, oznake, povijest, zaporke i ostale postavke, trajno će se povezati s korisnikom <ph name="USER_NAME" />. Moći ćete izbrisati te podatke putem Nadzorne ploče Tomi računa, ali ih nećete moći povezati s nekim drugim računom. Ako želite, možete izraditi novi profil kako biste zadržali postojeće podatke u sustavu Tomi zasebno. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">Taj se jezik koristi za prikaz korisničkog sučelja Tomia</translation>
 <translation id="7296210096911315575">Važne informacije o upotrebi i sigurnosti</translation>
-<translation id="7308322188646931570">Decentr treba pristup pohrani radi preuzimanja datoteka</translation>
+<translation id="7308322188646931570">Tomi treba pristup pohrani radi preuzimanja datoteka</translation>
 <translation id="7339898014177206373">Novi prozor</translation>
-<translation id="7388770099345495132">Ako ovaj račun želite upotrijebiti samo jednom, možete upotrijebiti način rada za goste u pregledniku Decentr. Ako želite dodati račun za nekog drugog, <ph name="LINK_BEGIN" />dodajte novu osobu<ph name="LINK_END" /> na svoj <ph name="DEVICE_TYPE" />.
+<translation id="7388770099345495132">Ako ovaj račun želite upotrijebiti samo jednom, možete upotrijebiti način rada za goste u pregledniku Tomi. Ako želite dodati račun za nekog drugog, <ph name="LINK_BEGIN" />dodajte novu osobu<ph name="LINK_END" /> na svoj <ph name="DEVICE_TYPE" />.
 
-Dopuštenja koja ste već dali web-lokacijama i aplikacijama mogu se primijeniti na ovaj račun. Svojim Decentr računima možete upravljati u <ph name="SETTINGS_LINK_BEGIN" />postavkama<ph name="SETTINGS_LINK_END" />.</translation>
-<translation id="7398801000654795464">Bili ste prijavljeni na Decentr kao <ph name="USER_EMAIL_ADDRESS" />. Prijavite se ponovo istim računom.</translation>
-<translation id="7410958280246779049">Decentr je blokirao tu datoteku jer je opasna</translation>
-<translation id="7426611252293106642">Decentr možda neće ispravno raditi jer više nije podržan na toj distribuciji Linuxa</translation>
-<translation id="7481213027396403996">Odaberite najsnažniju Decentrovu zaštitu sigurnosti</translation>
-<translation id="7486227612705979895">Decentr će pristupati vašem Disku radi prikazivanja prijedloga u adresnoj traci</translation>
-<translation id="7535429826459677826">Decentr Dev</translation>
+Dopuštenja koja ste već dali web-lokacijama i aplikacijama mogu se primijeniti na ovaj račun. Svojim Tomi računima možete upravljati u <ph name="SETTINGS_LINK_BEGIN" />postavkama<ph name="SETTINGS_LINK_END" />.</translation>
+<translation id="7398801000654795464">Bili ste prijavljeni na Tomi kao <ph name="USER_EMAIL_ADDRESS" />. Prijavite se ponovo istim računom.</translation>
+<translation id="7410958280246779049">Tomi je blokirao tu datoteku jer je opasna</translation>
+<translation id="7426611252293106642">Tomi možda neće ispravno raditi jer više nije podržan na toj distribuciji Linuxa</translation>
+<translation id="7481213027396403996">Odaberite najsnažniju Tomiovu zaštitu sigurnosti</translation>
+<translation id="7486227612705979895">Tomi će pristupati vašem Disku radi prikazivanja prijedloga u adresnoj traci</translation>
+<translation id="7535429826459677826">Tomi Dev</translation>
 <translation id="7583399374488819119">Program za instalaciju <ph name="COMPANY_NAME" /></translation>
-<translation id="7606334485649076285">DecentrOS Flex</translation>
-<translation id="7626032353295482388">Dobro došli u Decentr</translation>
-<translation id="7626072681686626474"><ph name="MANAGER" /> zahtijeva da pročitate i prihvatite sljedeće uvjete pružanja usluge prije upotrebe ovog uređaja. Ti uvjeti ne predstavljaju proširenje, izmjenu ni ograničenje uvjeta Decentr OS-a.</translation>
-<translation id="7629695634924605473">Decentr će vas obavijestiti ako vaše zaporke budu ugrožene</translation>
-<translation id="7641148173327520642">Vaš administrator sustava konfigurirao je Decentr da otvara <ph name="ALTERNATIVE_BROWSER_NAME" /> za pristup URL-u <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7606334485649076285">TomiOS Flex</translation>
+<translation id="7626032353295482388">Dobro došli u Tomi</translation>
+<translation id="7626072681686626474"><ph name="MANAGER" /> zahtijeva da pročitate i prihvatite sljedeće uvjete pružanja usluge prije upotrebe ovog uređaja. Ti uvjeti ne predstavljaju proširenje, izmjenu ni ograničenje uvjeta Tomi OS-a.</translation>
+<translation id="7629695634924605473">Tomi će vas obavijestiti ako vaše zaporke budu ugrožene</translation>
+<translation id="7641148173327520642">Vaš administrator sustava konfigurirao je Tomi da otvara <ph name="ALTERNATIVE_BROWSER_NAME" /> za pristup URL-u <ph name="TARGET_URL_HOSTNAME" />.</translation>
 <translation id="7649070708921625228">Pomoć</translation>
-<translation id="7651907282515937834">Logotip Decentr Enterprise</translation>
-<translation id="7655455401911432608">Vaša povijest pregledavanja, zapisnik web-lokacija koje ste posjetili u Decentru na ovom uređaju.</translation>
+<translation id="7651907282515937834">Logotip Tomi Enterprise</translation>
+<translation id="7655455401911432608">Vaša povijest pregledavanja, zapisnik web-lokacija koje ste posjetili u Tomiu na ovom uređaju.</translation>
 <translation id="7747138024166251722">Program za instalaciju nije izradio privremeni direktorij. Provjerite ima li slobodnog prostora na disku i postoji li dopuštenje za instalaciju softvera.</translation>
-<translation id="7761834446675418963">Kliknite svoje ime da biste otvorili Decentr i počeli s pregledavanjem.</translation>
-<translation id="7777080907402804672">Ako slika nema koristan opis, Decentr će ga pokušati pružiti. Da bi se izradili opisi, slike se šalju Decentru. To možete isključiti u bilo kojem trenutku u postavkama.</translation>
-<translation id="7781002470561365167">Dostupna je nova verzija preglednika Decentr.</translation>
-<translation id="778331955594035129">Decentr treba dopuštenje za lokaciju za ovu web-lokaciju</translation>
-<translation id="7787950393032327779">Izgleda da neki drugi proces preglednika Decentr (<ph name="PROCESS_ID" />) na nekom drugom računalu (<ph name="HOST_NAME" />) upotrebljava taj profil. Decentr je zaključao profil da se profil ne bi promijenio. Ako ste sigurni da nijedan drugi proces ne upotrebljava taj profil, možete ga otključati i ponovo pokrenuti Decentr.</translation>
-<translation id="7801699035218095297">Decentr pokušava kopirati zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
-<translation id="7808348361785373670">Ukloni iz Decentra...</translation>
-<translation id="7825851276765848807">Instalacija nije uspjela zbog neodređene pogreške. Ponovo preuzmite Decentr.</translation>
+<translation id="7761834446675418963">Kliknite svoje ime da biste otvorili Tomi i počeli s pregledavanjem.</translation>
+<translation id="7777080907402804672">Ako slika nema koristan opis, Tomi će ga pokušati pružiti. Da bi se izradili opisi, slike se šalju Tomiu. To možete isključiti u bilo kojem trenutku u postavkama.</translation>
+<translation id="7781002470561365167">Dostupna je nova verzija preglednika Tomi.</translation>
+<translation id="778331955594035129">Tomi treba dopuštenje za lokaciju za ovu web-lokaciju</translation>
+<translation id="7787950393032327779">Izgleda da neki drugi proces preglednika Tomi (<ph name="PROCESS_ID" />) na nekom drugom računalu (<ph name="HOST_NAME" />) upotrebljava taj profil. Tomi je zaključao profil da se profil ne bi promijenio. Ako ste sigurni da nijedan drugi proces ne upotrebljava taj profil, možete ga otključati i ponovo pokrenuti Tomi.</translation>
+<translation id="7801699035218095297">Tomi pokušava kopirati zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
+<translation id="7808348361785373670">Ukloni iz Tomia...</translation>
+<translation id="7825851276765848807">Instalacija nije uspjela zbog neodređene pogreške. Ponovo preuzmite Tomi.</translation>
 <translation id="7845233973568007926">Zahvaljujemo što ste izvršili instaliranje. Da biste mogli koristiti <ph name="BUNDLE_NAME" />, morate ponovno pokrenuti računalo.</translation>
 <translation id="7872446069773932638">Preuzimanje... Još <ph name="SECONDS" /> s</translation>
-<translation id="7880591377632733558">Dobro došli u Decentr, <ph name="ACCOUNT_FIRST_NAME" /></translation>
-<translation id="7890208801193284374">Ako dijelite računalo, prijatelji i članovi obitelji mogu zasebno pregledavati i postaviti Decentr prema svojim željama.</translation>
-<translation id="7896673875602241923">Netko se prethodno prijavio u Decentr na ovom računalu kao <ph name="ACCOUNT_EMAIL_LAST" />. Izradite novog korisnika Decentra kako bi vaši podaci bili odvojeni.</translation>
-<translation id="7917876797003313048">Možete upravljati Decentr računima na koje ste prijavljeni. Vaši Decentr računi koriste se za preglednik Decentr, Trgovinu Play, Gmail i brojne druge usluge. Ako želite dodati račun za nekog drugog, na primjer člana obitelji, dodajte novu osobu na uređaj <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Saznajte više<ph name="LINK_END" /></translation>
-<translation id="7930071585467473040">Decentr pokušava kopirati zaporke.</translation>
-<translation id="7951272445806340501">Potrebno je ponovo pokrenuti DecentrOS Flex kako bi se ažuriranje primijenilo.</translation>
-<translation id="7962368738413920945">Web-lokacije će vjerojatno funkcionirati kao što očekujete, ali vas neće zapamtiti nakon što zatvorite sve prozore Decentra</translation>
-<translation id="7962410387636238736">Ovo računalo više neće primati ažuriranja za Decentr jer sustavi Windows XP i Windows Vista više nisu podržani</translation>
-<translation id="8005666035647241369">Na Decentr upravitelj zaporki na ovom uređaju</translation>
-<translation id="8008534537613507642">Ponovo instaliraj Decentr</translation>
-<translation id="8013993649590906847">Ako slika nema koristan opis, Decentr će ga pokušati pružiti. Da bi se izradili opisi, slike se šalju Decentru.</translation>
+<translation id="7880591377632733558">Dobro došli u Tomi, <ph name="ACCOUNT_FIRST_NAME" /></translation>
+<translation id="7890208801193284374">Ako dijelite računalo, prijatelji i članovi obitelji mogu zasebno pregledavati i postaviti Tomi prema svojim željama.</translation>
+<translation id="7896673875602241923">Netko se prethodno prijavio u Tomi na ovom računalu kao <ph name="ACCOUNT_EMAIL_LAST" />. Izradite novog korisnika Tomia kako bi vaši podaci bili odvojeni.</translation>
+<translation id="7917876797003313048">Možete upravljati Tomi računima na koje ste prijavljeni. Vaši Tomi računi koriste se za preglednik Tomi, Trgovinu Play, Gmail i brojne druge usluge. Ako želite dodati račun za nekog drugog, na primjer člana obitelji, dodajte novu osobu na uređaj <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Saznajte više<ph name="LINK_END" /></translation>
+<translation id="7930071585467473040">Tomi pokušava kopirati zaporke.</translation>
+<translation id="7951272445806340501">Potrebno je ponovo pokrenuti TomiOS Flex kako bi se ažuriranje primijenilo.</translation>
+<translation id="7962368738413920945">Web-lokacije će vjerojatno funkcionirati kao što očekujete, ali vas neće zapamtiti nakon što zatvorite sve prozore Tomia</translation>
+<translation id="7962410387636238736">Ovo računalo više neće primati ažuriranja za Tomi jer sustavi Windows XP i Windows Vista više nisu podržani</translation>
+<translation id="8005666035647241369">Na Tomi upravitelj zaporki na ovom uređaju</translation>
+<translation id="8008534537613507642">Ponovo instaliraj Tomi</translation>
+<translation id="8013993649590906847">Ako slika nema koristan opis, Tomi će ga pokušati pružiti. Da bi se izradili opisi, slike se šalju Tomiu.</translation>
 <translation id="80471789339884597">Zahvaljujemo što ste izvršili instaliranje. Da biste mogli koristiti <ph name="BUNDLE_NAME" />, morate ponovno pokrenuti sve preglednike.</translation>
-<translation id="8064015586118426197">DecentrOS Flex</translation>
-<translation id="808089508890593134">Decentr</translation>
-<translation id="8129812357326543296">O programu Decentr</translation>
+<translation id="8064015586118426197">TomiOS Flex</translation>
+<translation id="808089508890593134">Tomi</translation>
+<translation id="8129812357326543296">O programu Tomi</translation>
 <translation id="813913629614996137">Pokretanje...</translation>
-<translation id="8255190535488645436">Decentr upotrebljava vašu kameru i mikrofon.</translation>
-<translation id="8270775718612349140">Certifikati kojima upravlja Decentr</translation>
-<translation id="8286862437124483331">Decentr pokušava prikazati zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
-<translation id="828798499196665338">Tvoj je roditelj isključio "Dopuštenja za web-lokacije, aplikacije i proširenja" za Decentr. Nije dopušteno omogućiti <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
-<translation id="8290100596633877290">Opa! Decentr je pao. Ponovo pokrenuti sada?</translation>
-<translation id="8341646175450781745">Kad je to uključeno, Decentr oslobađa memoriju neaktivnih kartica. Time se aktivnim karticama i drugim aplikacijama daje više računalnih resursa, a Decentr ostaje brz. Neaktivne kartice automatski će se ponovo aktivirati kada se vratite na njih. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /> ili <ph name="BEGIN_LINK_2" />pošaljite povratne informacije<ph name="END_LINK_2" /></translation>
-<translation id="8342675569599923794">Datoteka je opasna i Decentr ju je blokirao.</translation>
-<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Kako upotrebljavamo te podatke<ph name="END_BOLD" />: web-lokacije mogu pohraniti informacije o vašim interesima u Decentr. Na primjer, ako posjetite neku web-lokaciju da biste kupili tenisice za maraton, ta web-lokacija može definirati vaš interes kao trčanje maratona. Ako poslije posjetite neku drugu web-lokaciju da biste se registrirali za utrku, ta vam web-lokacija može prikazati oglas za tenisice za trčanje na temelju vaših interesa.</translation>
-<translation id="8370517070665726704">Autorska prava <ph name="YEAR" />. Decentr LLC. Sva prava pridržana.</translation>
-<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Kako upotrebljavamo te podatke<ph name="END_BOLD" />: Decentr može procijeniti vaše interese. Web-lokacija koju posjetite nakon toga može od Decentra tražiti podatke o vašim interesima kako bi prilagodila oglase koji će vam se prikazivati.</translation>
-<translation id="8387459386171870978">Nastavi upotrebljavati Decentr</translation>
-<translation id="8394720698884623075">Provjerava nalaze li se URL-ovi na popisu nesigurnih web-lokacija pohranjenom u Decentru</translation>
-<translation id="840084489713044809">Decentr želi izvesti vaše zaporke.</translation>
-<translation id="8416347857511542594">Saznajte više o prilagodbi oglasa u Decentru</translation>
-<translation id="8418845734693287262">Decentr OS nije mogao sinkronizirati vaše podatke jer su vaši podaci za prijavu na račun zastarjeli.</translation>
-<translation id="8433638294851456451">Da biste poslali broj s ovog uređaja na svoj Android telefon, prijavite se na Decentr na oba uređaja.</translation>
-<translation id="8451192282033883849">Vašim računom upravlja <ph name="MANAGER_NAME" />. Vaš administrator može pregledavati i uređivati profil ovog preglednika Decentr i njegove podatke, kao što su oznake, povijest i zaporke.</translation>
-<translation id="8498858610309223613">Upravo je primijenjeno posebno sigurnosno ažuriranje za Decentr. Ponovo pokrenite sustav i vratit ćemo vaše kartice.</translation>
-<translation id="8504220326736535258">Decentr je blokirao ovu datoteku jer sadrži zlonamjerni softver</translation>
-<translation id="8516431725144212809">Vaši interesi prema Decentrovoj procjeni</translation>
-<translation id="8521348052903287641">Ulazno pravilo kako bi Decentr Dev dopustio mDNS promet.</translation>
-<translation id="8540666473246803645">Decentr</translation>
+<translation id="8255190535488645436">Tomi upotrebljava vašu kameru i mikrofon.</translation>
+<translation id="8270775718612349140">Certifikati kojima upravlja Tomi</translation>
+<translation id="8286862437124483331">Tomi pokušava prikazati zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
+<translation id="828798499196665338">Tvoj je roditelj isključio "Dopuštenja za web-lokacije, aplikacije i proširenja" za Tomi. Nije dopušteno omogućiti <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
+<translation id="8290100596633877290">Opa! Tomi je pao. Ponovo pokrenuti sada?</translation>
+<translation id="8341646175450781745">Kad je to uključeno, Tomi oslobađa memoriju neaktivnih kartica. Time se aktivnim karticama i drugim aplikacijama daje više računalnih resursa, a Tomi ostaje brz. Neaktivne kartice automatski će se ponovo aktivirati kada se vratite na njih. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /> ili <ph name="BEGIN_LINK_2" />pošaljite povratne informacije<ph name="END_LINK_2" /></translation>
+<translation id="8342675569599923794">Datoteka je opasna i Tomi ju je blokirao.</translation>
+<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Kako upotrebljavamo te podatke<ph name="END_BOLD" />: web-lokacije mogu pohraniti informacije o vašim interesima u Tomi. Na primjer, ako posjetite neku web-lokaciju da biste kupili tenisice za maraton, ta web-lokacija može definirati vaš interes kao trčanje maratona. Ako poslije posjetite neku drugu web-lokaciju da biste se registrirali za utrku, ta vam web-lokacija može prikazati oglas za tenisice za trčanje na temelju vaših interesa.</translation>
+<translation id="8370517070665726704">Autorska prava <ph name="YEAR" />. Tomi LLC. Sva prava pridržana.</translation>
+<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Kako upotrebljavamo te podatke<ph name="END_BOLD" />: Tomi može procijeniti vaše interese. Web-lokacija koju posjetite nakon toga može od Tomia tražiti podatke o vašim interesima kako bi prilagodila oglase koji će vam se prikazivati.</translation>
+<translation id="8387459386171870978">Nastavi upotrebljavati Tomi</translation>
+<translation id="8394720698884623075">Provjerava nalaze li se URL-ovi na popisu nesigurnih web-lokacija pohranjenom u Tomiu</translation>
+<translation id="840084489713044809">Tomi želi izvesti vaše zaporke.</translation>
+<translation id="8416347857511542594">Saznajte više o prilagodbi oglasa u Tomiu</translation>
+<translation id="8418845734693287262">Tomi OS nije mogao sinkronizirati vaše podatke jer su vaši podaci za prijavu na račun zastarjeli.</translation>
+<translation id="8433638294851456451">Da biste poslali broj s ovog uređaja na svoj Android telefon, prijavite se na Tomi na oba uređaja.</translation>
+<translation id="8451192282033883849">Vašim računom upravlja <ph name="MANAGER_NAME" />. Vaš administrator može pregledavati i uređivati profil ovog preglednika Tomi i njegove podatke, kao što su oznake, povijest i zaporke.</translation>
+<translation id="8498858610309223613">Upravo je primijenjeno posebno sigurnosno ažuriranje za Tomi. Ponovo pokrenite sustav i vratit ćemo vaše kartice.</translation>
+<translation id="8504220326736535258">Tomi je blokirao ovu datoteku jer sadrži zlonamjerni softver</translation>
+<translation id="8516431725144212809">Vaši interesi prema Tomiovoj procjeni</translation>
+<translation id="8521348052903287641">Ulazno pravilo kako bi Tomi Dev dopustio mDNS promet.</translation>
+<translation id="8540666473246803645">Tomi</translation>
 <translation id="8550334526674375523">Ovaj poslovni profil potpuno je zaseban od vašeg osobnog profila.</translation>
-<translation id="8556340503434111824">Dostupna je nova verzija preglednika Decentr, brža no ikad.</translation>
-<translation id="8571790202382503603">Decentrovi profili omogućuju vam da razdvojite sve svoje sadržaje u Decentru. To olakšava odvajanje posla i zabave.</translation>
-<translation id="8614913330719544658">Decentr ne reagira. Ponovo pokrenuti sada?</translation>
-<translation id="861702415419836452">Decentr treba dopuštenje za pristup kameri radi izrade 3D karte vašeg okruženja</translation>
-<translation id="8625237574518804553">{0,plural, =1{Decentr će se ponovo pokrenuti za jednu minutu}one{Decentr će se ponovo pokrenuti za # min}few{Decentr će se ponovo pokrenuti za # min}other{Decentr će se ponovo pokrenuti za # min}}</translation>
-<translation id="8641606876632989680">Decentr će vas obavijestiti kada se prijavite ugroženom zaporkom</translation>
-<translation id="8649026945479135076">Uobičajeno je da web-lokacije koje posjećujete pamte vaše interese radi prilagodbe vašeg doživljaja. Web-lokacije mogu i pohraniti podatke o vašim interesima u Decentr.</translation>
-<translation id="8669527147644353129">Decentr Helper</translation>
-<translation id="8679801911857917785">Upravlja i time koja se stranica prikazuje prilikom pokretanja Decentra.</translation>
-<translation id="8684875378076460854">Decentr preporučuje skeniranje datoteke jer je možda opasna</translation>
-<translation id="8686817260976772516">Decentrovi profili omogućuju vam da razdvojite sve svoje sadržaje u Decentru. Izradite profile za prijatelje i obitelj ili odvojite posao i zabavu.</translation>
-<translation id="8712767363896337380">Ažuriranje je skoro gotovo! Ponovo pokrenite Decentr da biste završili ažuriranje.</translation>
-<translation id="873133009373065397">Decentr ne može utvrditi niti postaviti zadani preglednik</translation>
-<translation id="8821043148920470810">Da biste primali buduća ažuriranja Decentra, trebat će vam Windows 10 ili novija verzija. Na ovom se računalu upotrebljava Windows 7.</translation>
-<translation id="8823341990149967727">Decentr je zastario</translation>
-<translation id="8825634023950448068">Da bismo zaštitili vašu privatnost, automatski brišemo vaše interese starije od četiri tjedna. Tijekom vašeg daljnjeg pregledavanja neki se interes može ponovo pojaviti na popisu. A ako Decentr pogriješi ili ne želite vidjeti određene oglase, možete ukloniti interes.</translation>
-<translation id="8834965163890861871">Decentr pokušava urediti zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
-<translation id="884296878221830158">Upravlja i time koja se stranica prikazuje prilikom pokretanja Decentra ili kada se klikne gumb Početna.</translation>
-<translation id="8847000024471094355">Decentr je neaktivan</translation>
+<translation id="8556340503434111824">Dostupna je nova verzija preglednika Tomi, brža no ikad.</translation>
+<translation id="8571790202382503603">Tomiovi profili omogućuju vam da razdvojite sve svoje sadržaje u Tomiu. To olakšava odvajanje posla i zabave.</translation>
+<translation id="8614913330719544658">Tomi ne reagira. Ponovo pokrenuti sada?</translation>
+<translation id="861702415419836452">Tomi treba dopuštenje za pristup kameri radi izrade 3D karte vašeg okruženja</translation>
+<translation id="8625237574518804553">{0,plural, =1{Tomi će se ponovo pokrenuti za jednu minutu}one{Tomi će se ponovo pokrenuti za # min}few{Tomi će se ponovo pokrenuti za # min}other{Tomi će se ponovo pokrenuti za # min}}</translation>
+<translation id="8641606876632989680">Tomi će vas obavijestiti kada se prijavite ugroženom zaporkom</translation>
+<translation id="8649026945479135076">Uobičajeno je da web-lokacije koje posjećujete pamte vaše interese radi prilagodbe vašeg doživljaja. Web-lokacije mogu i pohraniti podatke o vašim interesima u Tomi.</translation>
+<translation id="8669527147644353129">Tomi Helper</translation>
+<translation id="8679801911857917785">Upravlja i time koja se stranica prikazuje prilikom pokretanja Tomia.</translation>
+<translation id="8684875378076460854">Tomi preporučuje skeniranje datoteke jer je možda opasna</translation>
+<translation id="8686817260976772516">Tomiovi profili omogućuju vam da razdvojite sve svoje sadržaje u Tomiu. Izradite profile za prijatelje i obitelj ili odvojite posao i zabavu.</translation>
+<translation id="8712767363896337380">Ažuriranje je skoro gotovo! Ponovo pokrenite Tomi da biste završili ažuriranje.</translation>
+<translation id="873133009373065397">Tomi ne može utvrditi niti postaviti zadani preglednik</translation>
+<translation id="8821043148920470810">Da biste primali buduća ažuriranja Tomia, trebat će vam Windows 10 ili novija verzija. Na ovom se računalu upotrebljava Windows 7.</translation>
+<translation id="8823341990149967727">Tomi je zastario</translation>
+<translation id="8825634023950448068">Da bismo zaštitili vašu privatnost, automatski brišemo vaše interese starije od četiri tjedna. Tijekom vašeg daljnjeg pregledavanja neki se interes može ponovo pojaviti na popisu. A ako Tomi pogriješi ili ne želite vidjeti određene oglase, možete ukloniti interes.</translation>
+<translation id="8834965163890861871">Tomi pokušava urediti zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
+<translation id="884296878221830158">Upravlja i time koja se stranica prikazuje prilikom pokretanja Tomia ili kada se klikne gumb Početna.</translation>
+<translation id="8847000024471094355">Tomi je neaktivan</translation>
 <translation id="8862326446509486874">Nemate odgovarajuća prava za instaliranje na razini sustava. Pokušajte ponovno pokrenuti program za instalaciju kao administrator.</translation>
-<translation id="8914504000324227558">Ponovo pokrenite Decentr</translation>
-<translation id="8922193594870374009">Da biste poslali broj s uređaja <ph name="ORIGIN" /> na svoj Android telefon, prijavite se na Decentr na oba uređaja.</translation>
-<translation id="8983720963221508955">Uključili ste poboljšano sigurno pregledavanje na svom računu. Sada ga preuzmite za Decentr.</translation>
+<translation id="8914504000324227558">Ponovo pokrenite Tomi</translation>
+<translation id="8922193594870374009">Da biste poslali broj s uređaja <ph name="ORIGIN" /> na svoj Android telefon, prijavite se na Tomi na oba uređaja.</translation>
+<translation id="8983720963221508955">Uključili ste poboljšano sigurno pregledavanje na svom računu. Sada ga preuzmite za Tomi.</translation>
 <translation id="8986207147630327271">Dodat ćete poslovni profil u ovaj preglednik i dati administratoru kontrolu samo nad poslovnim profilom.</translation>
-<translation id="8989968390305463310">Vaša povijest pregledavanja utječe na oglase koji vam se prikazuju i interese procijenjene u nastavku. Da bi zaštitio vašu privatnost, Decentr automatski kontinuirano briše vaše interese svakog mjeseca. Interesi se mogu osvježiti ako ih ne uklonite.</translation>
-<translation id="8999208279178790196">{0,plural, =0{Dostupno je ažuriranje Decentra}=1{Dostupno je ažuriranje Decentra}one{Ažuriranje Decentra dostupno je # dana}few{Ažuriranje Decentra dostupno je # dana}other{Ažuriranje Decentra dostupno je # dana}}</translation>
-<translation id="9003498785844995646">Kad je to uključeno, Decentr štedi bateriju ograničavajući pozadinsku aktivnost i vizualne efekte, kao što je glatko pomicanje i broj sličica u sekundi videozapisa. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /> ili <ph name="BEGIN_LINK_2" />pošaljite povratne informacije<ph name="END_LINK_2" /></translation>
-<translation id="9053892488859122171">Sustav DecentrOS Flex</translation>
-<translation id="9067395829937117663">Decentr zahtijeva Windows 7 ili noviju verziju.</translation>
+<translation id="8989968390305463310">Vaša povijest pregledavanja utječe na oglase koji vam se prikazuju i interese procijenjene u nastavku. Da bi zaštitio vašu privatnost, Tomi automatski kontinuirano briše vaše interese svakog mjeseca. Interesi se mogu osvježiti ako ih ne uklonite.</translation>
+<translation id="8999208279178790196">{0,plural, =0{Dostupno je ažuriranje Tomia}=1{Dostupno je ažuriranje Tomia}one{Ažuriranje Tomia dostupno je # dana}few{Ažuriranje Tomia dostupno je # dana}other{Ažuriranje Tomia dostupno je # dana}}</translation>
+<translation id="9003498785844995646">Kad je to uključeno, Tomi štedi bateriju ograničavajući pozadinsku aktivnost i vizualne efekte, kao što je glatko pomicanje i broj sličica u sekundi videozapisa. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /> ili <ph name="BEGIN_LINK_2" />pošaljite povratne informacije<ph name="END_LINK_2" /></translation>
+<translation id="9053892488859122171">Sustav TomiOS Flex</translation>
+<translation id="9067395829937117663">Tomi zahtijeva Windows 7 ili noviju verziju.</translation>
 <translation id="911206726377975832">Izbrisati i podatke o pregledavanju?</translation>
-<translation id="9138603949443464873">Da bi se vaše promjene primijenile, ponovo pokrenite Decentr</translation>
-<translation id="9195993889682885387">Decentr može procijeniti vaše interese na temelju vaše povijesti pregledavanja iz posljednjih nekoliko tjedana. Te informacije ostaju na vašem uređaju.</translation>
-<translation id="919706545465235479">Ažurirajte Decentr da bi se pokrenula sinkronizacija</translation>
-<translation id="922152298093051471">Prilagodi Decentr</translation>
-<translation id="93760716455950538">Ponovo pokretanje DecentrOS Flexa</translation>
-<translation id="940313311831216333">Da biste mogli pristupiti svojim sadržajima u Decentru na svim svojim uređajima, prijavite se i zatim uključite sinkronizaciju.</translation>
-<translation id="943390475793766444">Decentr preporučuje skeniranje datoteke jer je možda opasna.</translation>
-<translation id="989369509083708165">Decentr vaš je zadani preglednik</translation>
-<translation id="989816563149873169">Pomoću prečaca <ph name="SHORTCUT" /> možete se prebacivati između profila u Decentru</translation>
+<translation id="9138603949443464873">Da bi se vaše promjene primijenile, ponovo pokrenite Tomi</translation>
+<translation id="9195993889682885387">Tomi može procijeniti vaše interese na temelju vaše povijesti pregledavanja iz posljednjih nekoliko tjedana. Te informacije ostaju na vašem uređaju.</translation>
+<translation id="919706545465235479">Ažurirajte Tomi da bi se pokrenula sinkronizacija</translation>
+<translation id="922152298093051471">Prilagodi Tomi</translation>
+<translation id="93760716455950538">Ponovo pokretanje TomiOS Flexa</translation>
+<translation id="940313311831216333">Da biste mogli pristupiti svojim sadržajima u Tomiu na svim svojim uređajima, prijavite se i zatim uključite sinkronizaciju.</translation>
+<translation id="943390475793766444">Tomi preporučuje skeniranje datoteke jer je možda opasna.</translation>
+<translation id="989369509083708165">Tomi vaš je zadani preglednik</translation>
+<translation id="989816563149873169">Pomoću prečaca <ph name="SHORTCUT" /> možete se prebacivati između profila u Tomiu</translation>
 </translationbundle>

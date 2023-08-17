@@ -2,386 +2,386 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="et">
 <translation id="1026101648481255140">Jätka installimist</translation>
-<translation id="1029669172902658969">Taaskäivitage &amp;Decentr OS-i värskendamiseks</translation>
+<translation id="1029669172902658969">Taaskäivitage &amp;Tomi OS-i värskendamiseks</translation>
 <translation id="1065672644894730302">Teie eelistusi ei saa lugeda. Mõned funktsioonid ei pruugi saadaval olla ja eelistuste muudatusi ei salvestata.</translation>
-<translation id="1098170124587656448">Decentr aitab teid kaitsta andmetega seotud rikkumiste, ohtlike laienduste ja muu eest</translation>
-<translation id="1104942323762546749">Decentr soovib teie paroole eksportida. Selle lubamiseks sisestage oma Windowsi parool.</translation>
-<translation id="113122355610423240">Decentr on teie vaikebrauser</translation>
-<translation id="1131805035311359397">Kui soovite kontrollida, kas teie paroolid on andmetega seotud rikkumiste ja muude turvaprobleemide eest kaitstud, <ph name="BEGIN_LINK" />logige Decentri sisse<ph name="END_LINK" />.</translation>
-<translation id="1185134272377778587">Teave Decentri kohta</translation>
+<translation id="1098170124587656448">Tomi aitab teid kaitsta andmetega seotud rikkumiste, ohtlike laienduste ja muu eest</translation>
+<translation id="1104942323762546749">Tomi soovib teie paroole eksportida. Selle lubamiseks sisestage oma Windowsi parool.</translation>
+<translation id="113122355610423240">Tomi on teie vaikebrauser</translation>
+<translation id="1131805035311359397">Kui soovite kontrollida, kas teie paroolid on andmetega seotud rikkumiste ja muude turvaprobleemide eest kaitstud, <ph name="BEGIN_LINK" />logige Tomii sisse<ph name="END_LINK" />.</translation>
+<translation id="1185134272377778587">Teave Tomii kohta</translation>
 <translation id="1203500561924088507">Täname teid installimise eest. Enne brauseri <ph name="BUNDLE_NAME" /> kasutamist peate selle taaskäivitama.</translation>
-<translation id="1231839967188101156">Kui see on sisse lülitatud, vabastab Decentr inaktiivsete vahelehtede mälu. See annab aktiivsetele vahelehtedele ja muudele rakendustele rohkem arvutiressursse ja tagab Decentri kiiruse. Teie inaktiivsed vahelehed muutuvad automaatselt aktiivseks niipea, kui nendele naasete. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
-<translation id="1261119230216066228">Mälusäästja muutis Decentri kiiremaks</translation>
-<translation id="1315551408014407711">Uue Decentri profiili seadistamine</translation>
-<translation id="1396446129537741364">Decentr püüab paroole kuvada.</translation>
-<translation id="1414495520565016063">Olete Decentri sisse logitud.</translation>
-<translation id="1493803763272692301">Kasutage Decentri kõiki funktsioone</translation>
-<translation id="1524282610922162960">Decentri vahekaardi jagamine</translation>
-<translation id="1553461853655228091">Decentr vajab luba teie kaamerale juurdepääsemiseks, et luua teid ümbritsevast 3D-kaart</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Administraator nõuab, et käivitaksite Decentri värskenduse rakendamiseks uuesti}=1{Administraator nõuab, et käivitaksite Decentri värskenduse rakendamiseks uuesti. Teie inkognito akent ei avata uuesti.}other{Administraator nõuab, et käivitaksite Decentri värskenduse rakendamiseks uuesti. Teie # inkognito akent ei avata uuesti.}}</translation>
-<translation id="1625909126243026060">Vaadake üle Decentri peamised privaatsus- ja turvaseaded</translation>
-<translation id="1632539827495546968">Kui soovite seda kontot kasutada ainult ühe korra, võite Decentri brauseris kasutada <ph name="GUEST_LINK_BEGIN" />külalisrežiimi<ph name="GUEST_LINK_END" />. Kui soovite konto lisada kellegi teise jaoks, <ph name="LINK_BEGIN" />lisage oma seadmesse <ph name="DEVICE_TYPE" /> uus inimene<ph name="LINK_END" />.
+<translation id="1231839967188101156">Kui see on sisse lülitatud, vabastab Tomi inaktiivsete vahelehtede mälu. See annab aktiivsetele vahelehtedele ja muudele rakendustele rohkem arvutiressursse ja tagab Tomii kiiruse. Teie inaktiivsed vahelehed muutuvad automaatselt aktiivseks niipea, kui nendele naasete. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
+<translation id="1261119230216066228">Mälusäästja muutis Tomii kiiremaks</translation>
+<translation id="1315551408014407711">Uue Tomii profiili seadistamine</translation>
+<translation id="1396446129537741364">Tomi püüab paroole kuvada.</translation>
+<translation id="1414495520565016063">Olete Tomii sisse logitud.</translation>
+<translation id="1493803763272692301">Kasutage Tomii kõiki funktsioone</translation>
+<translation id="1524282610922162960">Tomii vahekaardi jagamine</translation>
+<translation id="1553461853655228091">Tomi vajab luba teie kaamerale juurdepääsemiseks, et luua teid ümbritsevast 3D-kaart</translation>
+<translation id="1607715478322902680">{COUNT,plural, =0{Administraator nõuab, et käivitaksite Tomii värskenduse rakendamiseks uuesti}=1{Administraator nõuab, et käivitaksite Tomii värskenduse rakendamiseks uuesti. Teie inkognito akent ei avata uuesti.}other{Administraator nõuab, et käivitaksite Tomii värskenduse rakendamiseks uuesti. Teie # inkognito akent ei avata uuesti.}}</translation>
+<translation id="1625909126243026060">Vaadake üle Tomii peamised privaatsus- ja turvaseaded</translation>
+<translation id="1632539827495546968">Kui soovite seda kontot kasutada ainult ühe korra, võite Tomii brauseris kasutada <ph name="GUEST_LINK_BEGIN" />külalisrežiimi<ph name="GUEST_LINK_END" />. Kui soovite konto lisada kellegi teise jaoks, <ph name="LINK_BEGIN" />lisage oma seadmesse <ph name="DEVICE_TYPE" /> uus inimene<ph name="LINK_END" />.
 
-Load, mille olete juba veebisaitidele ja rakendustele andnud, võivad selle konto puhul kehtida. Saate oma Decentr'i kontosid hallata jaotises <ph name="SETTINGS_LINK_BEGIN" />Seaded<ph name="SETTINGS_LINK_END" />.</translation>
+Load, mille olete juba veebisaitidele ja rakendustele andnud, võivad selle konto puhul kehtida. Saate oma Tomi'i kontosid hallata jaotises <ph name="SETTINGS_LINK_BEGIN" />Seaded<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1640672724030957280">Allalaadimine ...</translation>
-<translation id="1708666629004767631">Saadaval on Decentri uus, turvalisem versioon.</translation>
-<translation id="17264556997921157">Saate vaadata ja eemaldada huvipakkuvaid teemasid, mida saidid teile reklaamide näitamiseks kasutavad. Decentr prognoosib teie huvisid teie hiljutise sirvimisajaloo põhjal.</translation>
-<translation id="1774152462503052664">Luba Decentril taustal töötada</translation>
-<translation id="1779356040007214683">Decentri turvalisemaks muutmiseks keelasime mõned laiendused, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ja mille lisamisest te ei pruugi teadlik olla.</translation>
-<translation id="1808667845054772817">Installi Decentr uuesti</translation>
-<translation id="185970820835152459">Saate oma sisselogitud Decentr'i kontosid hallata. Teie Decentr'i kontosid kasutatakse Decentri brauseris, Play poes, Gmailis ja mujal. Kui soovite lisada konto kellegi teise (näiteks pereliikme) jaoks, lisage selle asemel oma seadmesse <ph name="DEVICE_TYPE" /> uus inimene. <ph name="LINK_BEGIN" />Lisateave<ph name="LINK_END" /></translation>
-<translation id="1863308913976887472">Saidid võivad talletada Decentrisse teavet teie huvide kohta. Näiteks kui külastate saiti, et osta maratoni jooksmiseks jalatseid, võib sait määratleda teie huviks maratonijooksu. Kui külastate hiljem jooksule registreerumiseks muud saiti, võib see sait näidata teile teie huvide alusel jooksujalatsite reklaami.</translation>
-<translation id="1881322772814446296">Logite sisse hallatud kontoga ja annate selle administraatorile üle Decentri profiili juhtimise. Teie Decentri andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME" />. Saate need andmed kustutada Decentr'i kontode juhtpaneeli kaudu, kuid te ei saa neid seostada teise kontoga. Võite olemasolevate Decentr'i andmete eraldi hoidmiseks luua aga uue profiili. <ph name="LEARN_MORE" /></translation>
-<translation id="1911763535808217981">Kui selle välja lülitate, saate Decentr'i saitidele (nt Gmaili) sisse logida ilma Decentrisse sisse logimata</translation>
-<translation id="1929939181775079593">Decentr ei reageeri. Kas soovite kohe taaskäivitada?</translation>
-<translation id="193439633299369377">Decentr OS tuleb värskenduse rakendamiseks taaskäivitada.</translation>
-<translation id="1940680973325097484">Kui soovite seda kontot kasutada ainult ühe korra, võite Decentri brauseris kasutada külalisrežiimi. Kui soovite konto lisada kellegi teise jaoks, <ph name="LINK_BEGIN" />lisage oma seadmesse <ph name="DEVICE_TYPE" /> uus inimene<ph name="LINK_END" />.
+<translation id="1708666629004767631">Saadaval on Tomii uus, turvalisem versioon.</translation>
+<translation id="17264556997921157">Saate vaadata ja eemaldada huvipakkuvaid teemasid, mida saidid teile reklaamide näitamiseks kasutavad. Tomi prognoosib teie huvisid teie hiljutise sirvimisajaloo põhjal.</translation>
+<translation id="1774152462503052664">Luba Tomiil taustal töötada</translation>
+<translation id="1779356040007214683">Tomii turvalisemaks muutmiseks keelasime mõned laiendused, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ja mille lisamisest te ei pruugi teadlik olla.</translation>
+<translation id="1808667845054772817">Installi Tomi uuesti</translation>
+<translation id="185970820835152459">Saate oma sisselogitud Tomi'i kontosid hallata. Teie Tomi'i kontosid kasutatakse Tomii brauseris, Play poes, Gmailis ja mujal. Kui soovite lisada konto kellegi teise (näiteks pereliikme) jaoks, lisage selle asemel oma seadmesse <ph name="DEVICE_TYPE" /> uus inimene. <ph name="LINK_BEGIN" />Lisateave<ph name="LINK_END" /></translation>
+<translation id="1863308913976887472">Saidid võivad talletada Tomiisse teavet teie huvide kohta. Näiteks kui külastate saiti, et osta maratoni jooksmiseks jalatseid, võib sait määratleda teie huviks maratonijooksu. Kui külastate hiljem jooksule registreerumiseks muud saiti, võib see sait näidata teile teie huvide alusel jooksujalatsite reklaami.</translation>
+<translation id="1881322772814446296">Logite sisse hallatud kontoga ja annate selle administraatorile üle Tomii profiili juhtimise. Teie Tomii andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME" />. Saate need andmed kustutada Tomi'i kontode juhtpaneeli kaudu, kuid te ei saa neid seostada teise kontoga. Võite olemasolevate Tomi'i andmete eraldi hoidmiseks luua aga uue profiili. <ph name="LEARN_MORE" /></translation>
+<translation id="1911763535808217981">Kui selle välja lülitate, saate Tomi'i saitidele (nt Gmaili) sisse logida ilma Tomiisse sisse logimata</translation>
+<translation id="1929939181775079593">Tomi ei reageeri. Kas soovite kohe taaskäivitada?</translation>
+<translation id="193439633299369377">Tomi OS tuleb värskenduse rakendamiseks taaskäivitada.</translation>
+<translation id="1940680973325097484">Kui soovite seda kontot kasutada ainult ühe korra, võite Tomii brauseris kasutada külalisrežiimi. Kui soovite konto lisada kellegi teise jaoks, <ph name="LINK_BEGIN" />lisage oma seadmesse <ph name="DEVICE_TYPE" /> uus inimene<ph name="LINK_END" />.
 
-Load, mille olete juba veebisaitidele ja rakendustele andnud, võivad selle konto puhul kehtida. Saate oma Decentr'i kontosid hallata jaotises <ph name="SETTINGS_LINK_BEGIN" />Seaded<ph name="SETTINGS_LINK_END" />.</translation>
+Load, mille olete juba veebisaitidele ja rakendustele andnud, võivad selle konto puhul kehtida. Saate oma Tomi'i kontosid hallata jaotises <ph name="SETTINGS_LINK_BEGIN" />Seaded<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1953553007165777902">Allalaadimine … <ph name="MINUTE" /> minut(it) jäänud</translation>
-<translation id="1966382378801805537">Decentr ei saa määrata ega seadistada vaikebrauserit</translation>
-<translation id="2008474315282236005">See kustutab seadmest ühe üksuse. Hiljem oma andmete toomiseks logige Decentri sisse kasutajana <ph name="USER_EMAIL" />.</translation>
+<translation id="1966382378801805537">Tomi ei saa määrata ega seadistada vaikebrauserit</translation>
+<translation id="2008474315282236005">See kustutab seadmest ühe üksuse. Hiljem oma andmete toomiseks logige Tomii sisse kasutajana <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Installimine ebaõnnestus. Proovige uuesti.</translation>
-<translation id="2020032459870799438">Kui soovite kontrollida, kas teie muud paroolid on andmetega seotud rikkumiste ja muude turvaprobleemide eest kaitstud, <ph name="BEGIN_LINK" />logige Decentri sisse<ph name="END_LINK" />.</translation>
-<translation id="2049376729098081731">Valige, kas Decentr'i teenustes rohkem isikupärastatud kasutuskogemuse saamiseks kaasata Decentri ajalugu</translation>
-<translation id="2088953378266246249">Teave selle kohta, kuidas Decentr oma juursertifikaate haldab</translation>
-<translation id="2174178932569897599">Decentri kohandamine</translation>
+<translation id="2020032459870799438">Kui soovite kontrollida, kas teie muud paroolid on andmetega seotud rikkumiste ja muude turvaprobleemide eest kaitstud, <ph name="BEGIN_LINK" />logige Tomii sisse<ph name="END_LINK" />.</translation>
+<translation id="2049376729098081731">Valige, kas Tomi'i teenustes rohkem isikupärastatud kasutuskogemuse saamiseks kaasata Tomii ajalugu</translation>
+<translation id="2088953378266246249">Teave selle kohta, kuidas Tomi oma juursertifikaate haldab</translation>
+<translation id="2174178932569897599">Tomii kohandamine</translation>
 <translation id="2174917724755363426">Installimine ei ole lõpetatud. Kas soovite kindlasti tühistada?</translation>
-<translation id="2185166961232948079">Decentr – võrku sisselogimine – <ph name="PAGE_TITLE" /></translation>
-<translation id="2241627712206172106">Kui jagate arvutit, saavad sõbrad ja pereliikmed eraldi sirvida ning seadistada Decentri just nii, nagu neile meeldib.</translation>
-<translation id="2313870531055795960">Kontrollib URL-e Decentri talletatud ohtlike saitide loendi alusel. Kui sait üritab teie parooli varastada või laadite alla kahjuliku faili, võib Decentr saata URL-id ja lehe sisu osad teenusesse Decentr'i ohutu sirvimine.</translation>
-<translation id="2343156876103232566">Numbri saatmiseks siit Android-telefoni logige mõlemas seadmes Decentri sisse.</translation>
-<translation id="2347108572062610441">See laiendus muutis seda, milline leht kuvatakse Decentri käivitamisel.</translation>
+<translation id="2185166961232948079">Tomi – võrku sisselogimine – <ph name="PAGE_TITLE" /></translation>
+<translation id="2241627712206172106">Kui jagate arvutit, saavad sõbrad ja pereliikmed eraldi sirvida ning seadistada Tomii just nii, nagu neile meeldib.</translation>
+<translation id="2313870531055795960">Kontrollib URL-e Tomii talletatud ohtlike saitide loendi alusel. Kui sait üritab teie parooli varastada või laadite alla kahjuliku faili, võib Tomi saata URL-id ja lehe sisu osad teenusesse Tomi'i ohutu sirvimine.</translation>
+<translation id="2343156876103232566">Numbri saatmiseks siit Android-telefoni logige mõlemas seadmes Tomii sisse.</translation>
+<translation id="2347108572062610441">See laiendus muutis seda, milline leht kuvatakse Tomii käivitamisel.</translation>
 <translation id="2359808026110333948">Jätka</translation>
-<translation id="2384373936468275798">Decentr OS ei saanud andmeid sünkroonida, sest teie konto sisselogimisandmed on aegunud.</translation>
-<translation id="2396765026452590966">Laiendus „<ph name="EXTENSION_NAME" />” muutis seda, milline leht kuvatakse Decentri käivitamisel.</translation>
-<translation id="2401032172288869980">Decentr vajab selle saidi puhul kaamera ja mikrofoni kasutamise luba</translation>
-<translation id="2483889755041906834">Decentris</translation>
+<translation id="2384373936468275798">Tomi OS ei saanud andmeid sünkroonida, sest teie konto sisselogimisandmed on aegunud.</translation>
+<translation id="2396765026452590966">Laiendus „<ph name="EXTENSION_NAME" />” muutis seda, milline leht kuvatakse Tomii käivitamisel.</translation>
+<translation id="2401032172288869980">Tomi vajab selle saidi puhul kaamera ja mikrofoni kasutamise luba</translation>
+<translation id="2483889755041906834">Tomiis</translation>
 <translation id="2485422356828889247">Desinstalli</translation>
-<translation id="2560420686485554789">Decentr vajab failide allalaadimiseks juurdepääsu salvestusruumile</translation>
-<translation id="2572494885440352020">Decentri abiline</translation>
-<translation id="2583187216237139145">Kõik Decentri andmed, mis luuakse selle profiili kasutamise ajal (nt järjehoidjad, ajalugu, paroolid ja muud seaded), saab tööprofiili administraator eemaldada. <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Jätkan Decentri kasutamist</translation>
-<translation id="2648074677641340862">Installimisel ilmnes operatsioonisüsteemi viga. Laadige Decentr uuesti alla.</translation>
-<translation id="2661879430930417727">Kui jagate seadet, saavad sõbrad ja pereliikmed eraldi sirvida ning seadistada Decentri just nii, nagu neile meeldib.</translation>
-<translation id="2669853942967761236">Decentr blokeeris selle arhiivifaili, kuna see võib sisaldada pahavara</translation>
-<translation id="268602741124540128">Tere tulemast Decentri, <ph name="ACCOUNT_FIRST_NAME" />!</translation>
-<translation id="2711502716910134313">Decentri vaheleht</translation>
-<translation id="2718390899429598676">Turvalisuse suurendamiseks krüptib Decentr teie andmed.</translation>
+<translation id="2560420686485554789">Tomi vajab failide allalaadimiseks juurdepääsu salvestusruumile</translation>
+<translation id="2572494885440352020">Tomii abiline</translation>
+<translation id="2583187216237139145">Kõik Tomii andmed, mis luuakse selle profiili kasutamise ajal (nt järjehoidjad, ajalugu, paroolid ja muud seaded), saab tööprofiili administraator eemaldada. <ph name="LEARN_MORE" /></translation>
+<translation id="2592940277904433508">Jätkan Tomii kasutamist</translation>
+<translation id="2648074677641340862">Installimisel ilmnes operatsioonisüsteemi viga. Laadige Tomi uuesti alla.</translation>
+<translation id="2661879430930417727">Kui jagate seadet, saavad sõbrad ja pereliikmed eraldi sirvida ning seadistada Tomii just nii, nagu neile meeldib.</translation>
+<translation id="2669853942967761236">Tomi blokeeris selle arhiivifaili, kuna see võib sisaldada pahavara</translation>
+<translation id="268602741124540128">Tere tulemast Tomii, <ph name="ACCOUNT_FIRST_NAME" />!</translation>
+<translation id="2711502716910134313">Tomii vaheleht</translation>
+<translation id="2718390899429598676">Turvalisuse suurendamiseks krüptib Tomi teie andmed.</translation>
 <translation id="2770231113462710648">Asenda vaikebrauser:</translation>
 <translation id="2799223571221894425">Taaskäivita</translation>
-<translation id="2837693172913560447">See loob konto <ph name="USER_EMAIL_ADDRESS" /> jaoks uue Decentri profiili.</translation>
-<translation id="2847479871509788944">Decentrist eemaldamine ...</translation>
-<translation id="2850691299438350830">Kaitseb teid Decentris ja seda võidakse kasutada teie turvalisuse suurendamiseks muudes Decentr'i rakendustes, kui olete sisse logitud.</translation>
+<translation id="2837693172913560447">See loob konto <ph name="USER_EMAIL_ADDRESS" /> jaoks uue Tomii profiili.</translation>
+<translation id="2847479871509788944">Tomiist eemaldamine ...</translation>
+<translation id="2850691299438350830">Kaitseb teid Tomiis ja seda võidakse kasutada teie turvalisuse suurendamiseks muudes Tomi'i rakendustes, kui olete sisse logitud.</translation>
 <translation id="2885378588091291677">Tegumihaldur</translation>
-<translation id="2910007522516064972">Teave &amp;Decentri kohta</translation>
+<translation id="2910007522516064972">Teave &amp;Tomii kohta</translation>
 <translation id="2915996080311180594">Taaskäivita hiljem</translation>
 <translation id="2928420929544864228">Installimine lõpetati.</translation>
-<translation id="2977470724722393594">Decentr on ajakohane</translation>
-<translation id="2977506796191543575">Kui sait üritab teie parooli varastada või laadite alla kahjuliku faili, võib Decentr saata URL-id ja lehe sisu osad teenusele Decentr'i ohutu sirvimine.</translation>
-<translation id="2983934633046890458">Decentr üritab paroole muuta.</translation>
-<translation id="3021964162552004083">{NUM_DEVICES,plural, =1{Decentr on ühendatud HID-seadmega}other{Decentr on ühendatud HID-seadmetega}}</translation>
-<translation id="3032706164202344641">Decentr ei saa teie paroole kontrollida. Proovige hiljem uuesti.</translation>
-<translation id="3032787606318309379">Decentri lisamine ...</translation>
+<translation id="2977470724722393594">Tomi on ajakohane</translation>
+<translation id="2977506796191543575">Kui sait üritab teie parooli varastada või laadite alla kahjuliku faili, võib Tomi saata URL-id ja lehe sisu osad teenusele Tomi'i ohutu sirvimine.</translation>
+<translation id="2983934633046890458">Tomi üritab paroole muuta.</translation>
+<translation id="3021964162552004083">{NUM_DEVICES,plural, =1{Tomi on ühendatud HID-seadmega}other{Tomi on ühendatud HID-seadmetega}}</translation>
+<translation id="3032706164202344641">Tomi ei saa teie paroole kontrollida. Proovige hiljem uuesti.</translation>
+<translation id="3032787606318309379">Tomii lisamine ...</translation>
 <translation id="3038232873781883849">Installimise ootamine …</translation>
-<translation id="3068515742935458733">Aidake Decentri täiustada, saates Decentr'ile krahhiaruandeid ja lingi <ph name="UMA_LINK" /></translation>
-<translation id="3101560983689755071">Teie sirvimisajalugu mõjutab kuvatavaid reklaame ja huvisid vastavalt allolevatele prognoosidele. Teie privaatsuse kaitsmiseks kustutab Decentr automaatselt teie huvisid jooksvalt iga kuu. Huvisid võidakse värskendada, kui te neid ei eemalda.</translation>
-<translation id="3103660991484857065">Installeril ei õnnestunud arhiivi lahti pakkida. Laadige Decentr uuesti alla.</translation>
-<translation id="3130323860337406239">Decentr kasutab teie mikrofoni.</translation>
-<translation id="3155163173539279776">Decentri taaskäivitamine</translation>
-<translation id="3179665906251668410">Ava link Decentri inko&amp;gnito aknas</translation>
-<translation id="3185330573522821672">Kohandage oma uut Decentri profiili</translation>
-<translation id="3190315855212034486">Decentr jooksis kokku. Kas soovite kohe taaskäivitada?</translation>
-<translation id="3229526316128325841">Decentr soovib teie paroole eksportida.</translation>
-<translation id="3258596308407688501">Decentr ei saa andmekataloogi lugeda ega sellesse kirjutada:
+<translation id="3068515742935458733">Aidake Tomii täiustada, saates Tomi'ile krahhiaruandeid ja lingi <ph name="UMA_LINK" /></translation>
+<translation id="3101560983689755071">Teie sirvimisajalugu mõjutab kuvatavaid reklaame ja huvisid vastavalt allolevatele prognoosidele. Teie privaatsuse kaitsmiseks kustutab Tomi automaatselt teie huvisid jooksvalt iga kuu. Huvisid võidakse värskendada, kui te neid ei eemalda.</translation>
+<translation id="3103660991484857065">Installeril ei õnnestunud arhiivi lahti pakkida. Laadige Tomi uuesti alla.</translation>
+<translation id="3130323860337406239">Tomi kasutab teie mikrofoni.</translation>
+<translation id="3155163173539279776">Tomii taaskäivitamine</translation>
+<translation id="3179665906251668410">Ava link Tomii inko&amp;gnito aknas</translation>
+<translation id="3185330573522821672">Kohandage oma uut Tomii profiili</translation>
+<translation id="3190315855212034486">Tomi jooksis kokku. Kas soovite kohe taaskäivitada?</translation>
+<translation id="3229526316128325841">Tomi soovib teie paroole eksportida.</translation>
+<translation id="3258596308407688501">Tomi ei saa andmekataloogi lugeda ega sellesse kirjutada:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3283186697780795848">Decentri versioon <ph name="PRODUCT_VERSION" /> on installitud</translation>
+<translation id="3283186697780795848">Tomii versioon <ph name="PRODUCT_VERSION" /> on installitud</translation>
 <translation id="3286538390144397061">Taaskäivitada kohe</translation>
-<translation id="328888136576916638">Decentr API võtmed on puudu. Teatud Decentri funktsioonid keelatakse.</translation>
-<translation id="3296368748942286671">Jätka taustarakenduste käitamist pärast Decentri sulgemist</translation>
-<translation id="3350761136195634146">Selle kontoga Decentri profiil on juba olemas</translation>
-<translation id="3387527074123400161">Decentr OS</translation>
-<translation id="3406848076815591792">Kas lülituda olemasolevale Decentri profiilile?</translation>
+<translation id="328888136576916638">Tomi API võtmed on puudu. Teatud Tomii funktsioonid keelatakse.</translation>
+<translation id="3296368748942286671">Jätka taustarakenduste käitamist pärast Tomii sulgemist</translation>
+<translation id="3350761136195634146">Selle kontoga Tomii profiil on juba olemas</translation>
+<translation id="3387527074123400161">Tomi OS</translation>
+<translation id="3406848076815591792">Kas lülituda olemasolevale Tomii profiilile?</translation>
 <translation id="3412460710772753638">Selle seadme paroolihalduris</translation>
-<translation id="3420193029125244288">{COUNT,plural, =1{Teie administraator on seadistanud Decentri sulgema, kui see on enam kui ühe minuti jooksul tegevusetu.}other{Teie administraator on seadistanud Decentri sulgema, kui see on enam kui # minuti jooksul tegevusetu.}}</translation>
-<translation id="3430503420100763906">Decentri profiilidega saate eraldada kogu oma Decentri sisu. Looge profiile sõprade või pereliikmete jaoks või eraldage nende abil töö ja lõbu.</translation>
-<translation id="347328004046849135">Decentr teavitab teid, kui logite sisse ohustatud parooliga</translation>
-<translation id="3474745554856756813">See kustutab seadmest <ph name="ITEMS_COUNT" /> üksust. Hiljem oma andmete toomiseks logige Decentri sisse kasutajana <ph name="USER_EMAIL" />.</translation>
-<translation id="3497319089134299931">Decentri profiilide vahel vahetamiseks vajutage klahve <ph name="SHORTCUT" /></translation>
-<translation id="3509308970982693815">Sulgege kõik Decentri aknad ja proovige uuesti.</translation>
-<translation id="3533435340678213462">Teie privaatsuse kaitsmiseks kustutame automaatselt teie huvid, mis on vanemad kui 4 nädalat. Kui jätkate sirvimist, võib huvi uuesti loendis ilmuda. Võite ka eemaldada huvid, mida te ei soovi lasta Decentril arvesse võtta.</translation>
-<translation id="3567254597502212821">Teie sirvimisajalugu, selles seadmes Decentriga külastatud saitide andmed.</translation>
-<translation id="3575459661164320785">Teie arvutis on kahjulik tarkvara. Decentr saab selle eemaldada, taastada teie seaded ja keelata laiendused, et brauser töötaks jälle normaalselt.</translation>
-<translation id="3593091352817399191">Teine konto on juba sisse logitud. Teie sirvimise eraldi hoidmiseks saab Decentr teile luua oma profiili.</translation>
-<translation id="3639635944603682591">Selle isiku sirvimisandmed kustutatakse seadmest. Andmete taastamiseks logige Decentri sisse kasutajana <ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{Saadaval on uus Decentri värskendus, mis rakendatakse taaskäivitamisel.}=1{Saadaval on uus Decentri värskendus, mis rakendatakse taaskäivitamisel. Teie inkognito akent ei avata uuesti.}other{Saadaval on uus Decentri värskendus, mis rakendatakse taaskäivitamisel. Teie # inkognito akent ei avata uuesti.}}</translation>
-<translation id="3651803019964686660">Numbri saatmiseks asukohast <ph name="ORIGIN" /> Android-telefoni logige mõlemas seadmes Decentri sisse.</translation>
-<translation id="3685209450716071127">Decentr ei saa teie paroole kontrollida. Kontrollige internetiühendust.</translation>
-<translation id="3702352323269013324">Lisateave Decentris reklaamide isikupärastamise kohta</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{Administraator palub teil Decentri selle värskenduse rakendamiseks uuesti käivitada}=1{Administraator palub teil Decentri selle värskenduse rakendamiseks uuesti käivitada. Teie inkognito akent ei avata uuesti.}other{Administraator palub teil Decentri selle värskenduse rakendamiseks uuesti käivitada. Teie # inkognito akent ei avata uuesti.}}</translation>
-<translation id="3713809861844741608">Ava link Decentri uuel &amp;vahekaardil</translation>
-<translation id="3728336900324680424">Decentr pääseb teie Drive'ile juurde, et aadressiribal soovitusi anda</translation>
-<translation id="378917192836375108">Decentr võimaldab teil veebis telefoninumbril klõpsata ja sellele Skype'i kaudu helistada!</translation>
-<translation id="3830894615770080216">Decentr OS-i süsteem</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> – Decentr</translation>
-<translation id="386822487697155367">Decentr OS-i puhul abi hankimine</translation>
-<translation id="3871664619793219264">Hankige oma Decentri brauseri sisu kontolt <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="388648406173476553">Decentri kohandamine ja haldamine. Miski vajab teie tähelepanu – klõpsake üksikasjade nägemiseks.</translation>
-<translation id="3889543394854987837">Decentri avamiseks ja sirvimise alustamiseks klõpsake oma nimel.</translation>
-<translation id="390528597099634151"><ph name="EXISTING_USER" /> on juba sellele Decentri profiilile sisse logitud. Teie sirvimise eraldi hoidmiseks saab Decentr teile luua oma profiili.</translation>
-<translation id="391789666908693569">Teie kontot haldab <ph name="MANAGER_NAME" />. Administraator saab seda Decentri brauseri profiili ja selle andmeid (nt järjehoidjaid, ajalugu ja paroole) vaadata ning muuta.</translation>
-<translation id="3945058413678539331">Decentr püüab kopeerida paroole. Selle lubamiseks sisestage Windowsi parool.</translation>
-<translation id="3962623956404948996">Decentr soovitab seda faili skannida, kuna see võib olla ohtlik</translation>
-<translation id="3997429360543082038">Teave &amp;Decentr OS-i kohta</translation>
-<translation id="4019629340646866719">Decentr OS-i ja ka <ph name="BEGIN_LINK_LINUX_OSS" />Linuxi arenduskeskkonna<ph name="END_LINK_LINUX_OSS" /> aluseks on <ph name="BEGIN_LINK_CROS_OSS" />avatud lähtekoodiga lisatarkvara<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="4036079820698952681">Aidake Decentri paremaks muuta, teavitades meid <ph name="BEGIN_LINK" />praegustest seadetest<ph name="END_LINK" /></translation>
+<translation id="3420193029125244288">{COUNT,plural, =1{Teie administraator on seadistanud Tomii sulgema, kui see on enam kui ühe minuti jooksul tegevusetu.}other{Teie administraator on seadistanud Tomii sulgema, kui see on enam kui # minuti jooksul tegevusetu.}}</translation>
+<translation id="3430503420100763906">Tomii profiilidega saate eraldada kogu oma Tomii sisu. Looge profiile sõprade või pereliikmete jaoks või eraldage nende abil töö ja lõbu.</translation>
+<translation id="347328004046849135">Tomi teavitab teid, kui logite sisse ohustatud parooliga</translation>
+<translation id="3474745554856756813">See kustutab seadmest <ph name="ITEMS_COUNT" /> üksust. Hiljem oma andmete toomiseks logige Tomii sisse kasutajana <ph name="USER_EMAIL" />.</translation>
+<translation id="3497319089134299931">Tomii profiilide vahel vahetamiseks vajutage klahve <ph name="SHORTCUT" /></translation>
+<translation id="3509308970982693815">Sulgege kõik Tomii aknad ja proovige uuesti.</translation>
+<translation id="3533435340678213462">Teie privaatsuse kaitsmiseks kustutame automaatselt teie huvid, mis on vanemad kui 4 nädalat. Kui jätkate sirvimist, võib huvi uuesti loendis ilmuda. Võite ka eemaldada huvid, mida te ei soovi lasta Tomiil arvesse võtta.</translation>
+<translation id="3567254597502212821">Teie sirvimisajalugu, selles seadmes Tomiiga külastatud saitide andmed.</translation>
+<translation id="3575459661164320785">Teie arvutis on kahjulik tarkvara. Tomi saab selle eemaldada, taastada teie seaded ja keelata laiendused, et brauser töötaks jälle normaalselt.</translation>
+<translation id="3593091352817399191">Teine konto on juba sisse logitud. Teie sirvimise eraldi hoidmiseks saab Tomi teile luua oma profiili.</translation>
+<translation id="3639635944603682591">Selle isiku sirvimisandmed kustutatakse seadmest. Andmete taastamiseks logige Tomii sisse kasutajana <ph name="USER_EMAIL" />.</translation>
+<translation id="364817392622123556">{COUNT,plural, =0{Saadaval on uus Tomii värskendus, mis rakendatakse taaskäivitamisel.}=1{Saadaval on uus Tomii värskendus, mis rakendatakse taaskäivitamisel. Teie inkognito akent ei avata uuesti.}other{Saadaval on uus Tomii värskendus, mis rakendatakse taaskäivitamisel. Teie # inkognito akent ei avata uuesti.}}</translation>
+<translation id="3651803019964686660">Numbri saatmiseks asukohast <ph name="ORIGIN" /> Android-telefoni logige mõlemas seadmes Tomii sisse.</translation>
+<translation id="3685209450716071127">Tomi ei saa teie paroole kontrollida. Kontrollige internetiühendust.</translation>
+<translation id="3702352323269013324">Lisateave Tomiis reklaamide isikupärastamise kohta</translation>
+<translation id="370962675267501463">{COUNT,plural, =0{Administraator palub teil Tomii selle värskenduse rakendamiseks uuesti käivitada}=1{Administraator palub teil Tomii selle värskenduse rakendamiseks uuesti käivitada. Teie inkognito akent ei avata uuesti.}other{Administraator palub teil Tomii selle värskenduse rakendamiseks uuesti käivitada. Teie # inkognito akent ei avata uuesti.}}</translation>
+<translation id="3713809861844741608">Ava link Tomii uuel &amp;vahekaardil</translation>
+<translation id="3728336900324680424">Tomi pääseb teie Drive'ile juurde, et aadressiribal soovitusi anda</translation>
+<translation id="378917192836375108">Tomi võimaldab teil veebis telefoninumbril klõpsata ja sellele Skype'i kaudu helistada!</translation>
+<translation id="3830894615770080216">Tomi OS-i süsteem</translation>
+<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> – Tomi</translation>
+<translation id="386822487697155367">Tomi OS-i puhul abi hankimine</translation>
+<translation id="3871664619793219264">Hankige oma Tomii brauseri sisu kontolt <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="388648406173476553">Tomii kohandamine ja haldamine. Miski vajab teie tähelepanu – klõpsake üksikasjade nägemiseks.</translation>
+<translation id="3889543394854987837">Tomii avamiseks ja sirvimise alustamiseks klõpsake oma nimel.</translation>
+<translation id="390528597099634151"><ph name="EXISTING_USER" /> on juba sellele Tomii profiilile sisse logitud. Teie sirvimise eraldi hoidmiseks saab Tomi teile luua oma profiili.</translation>
+<translation id="391789666908693569">Teie kontot haldab <ph name="MANAGER_NAME" />. Administraator saab seda Tomii brauseri profiili ja selle andmeid (nt järjehoidjaid, ajalugu ja paroole) vaadata ning muuta.</translation>
+<translation id="3945058413678539331">Tomi püüab kopeerida paroole. Selle lubamiseks sisestage Windowsi parool.</translation>
+<translation id="3962623956404948996">Tomi soovitab seda faili skannida, kuna see võib olla ohtlik</translation>
+<translation id="3997429360543082038">Teave &amp;Tomi OS-i kohta</translation>
+<translation id="4019629340646866719">Tomi OS-i ja ka <ph name="BEGIN_LINK_LINUX_OSS" />Linuxi arenduskeskkonna<ph name="END_LINK_LINUX_OSS" /> aluseks on <ph name="BEGIN_LINK_CROS_OSS" />avatud lähtekoodiga lisatarkvara<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="4036079820698952681">Aidake Tomii paremaks muuta, teavitades meid <ph name="BEGIN_LINK" />praegustest seadetest<ph name="END_LINK" /></translation>
 <translation id="4050175100176540509">Uusimas versioonis on saadaval olulised turvatäiendused ja uued funktsioonid.</translation>
 <translation id="4148957013307229264">Installimine ...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> – võrku sisselogimine – Decentr</translation>
-<translation id="421369550622382712">Avastage Decentri jaoks suurepäraseid rakendusi, mänge, laiendusi ja teemasid.</translation>
-<translation id="4216212958613226427">Seda keelt kasutatakse Decentr UI kuvamiseks</translation>
+<translation id="419998258129752635"><ph name="PAGE_TITLE" /> – võrku sisselogimine – Tomi</translation>
+<translation id="421369550622382712">Avastage Tomii jaoks suurepäraseid rakendusi, mänge, laiendusi ja teemasid.</translation>
+<translation id="4216212958613226427">Seda keelt kasutatakse Tomi UI kuvamiseks</translation>
 <translation id="4222932583846282852">Tühistamine …</translation>
-<translation id="4230135487732243613">Kas soovite linkida Decentri andmed selle kontoga?</translation>
-<translation id="4271805377592243930">Decentri puhul abi hankimine</translation>
-<translation id="4285930937574705105">Installimine ebaõnnestus tundmatu vea tõttu. Kui Decentr praegu töötab, siis sulgege see ja proovige uuesti.</translation>
+<translation id="4230135487732243613">Kas soovite linkida Tomii andmed selle kontoga?</translation>
+<translation id="4271805377592243930">Tomii puhul abi hankimine</translation>
+<translation id="4285930937574705105">Installimine ebaõnnestus tundmatu vea tõttu. Kui Tomi praegu töötab, siis sulgege see ja proovige uuesti.</translation>
 <translation id="4304713468139749426">Paroolihaldur</translation>
 <translation id="4334294535648607276">Allalaadimine on lõpule viidud.</translation>
-<translation id="439358628917130594"><ph name="MANAGER" /> nõuab, et loete enne selle seadme kasutamist läbi järgmised teenusetingimused ja nõustute nendega. Need tingimused ei laienda, muuda ega piira Decentr OS-i tingimusi.</translation>
-<translation id="4407044323746248786">Kas väljuda Decentrist ikkagi?</translation>
-<translation id="4415566066719264597">Luba Decentril taustal töötada</translation>
-<translation id="4423735387467980091">Decentri kohandamine ja juhtimine</translation>
+<translation id="439358628917130594"><ph name="MANAGER" /> nõuab, et loete enne selle seadme kasutamist läbi järgmised teenusetingimused ja nõustute nendega. Need tingimused ei laienda, muuda ega piira Tomi OS-i tingimusi.</translation>
+<translation id="4407044323746248786">Kas väljuda Tomiist ikkagi?</translation>
+<translation id="4415566066719264597">Luba Tomiil taustal töötada</translation>
+<translation id="4423735387467980091">Tomii kohandamine ja juhtimine</translation>
 <translation id="4427306783828095590">Täiustatud kaitse aitab andmepüüki ja pahavara paremini blokeerida</translation>
-<translation id="452711251841752011">Tere tulemast Decentri; avati uus brauseriaken</translation>
-<translation id="4544142686420020088">Decentrit ei värskendatud, midagi läks valesti. <ph name="BEGIN_LINK" />Lahendage Decentri värskendamisprobleemid ja parandage ebaõnnestunud värskendused.<ph name="END_LINK" /></translation>
-<translation id="454579500955453258">Kas jätkata uuel Decentri profiilil?</translation>
+<translation id="452711251841752011">Tere tulemast Tomii; avati uus brauseriaken</translation>
+<translation id="4544142686420020088">Tomiit ei värskendatud, midagi läks valesti. <ph name="BEGIN_LINK" />Lahendage Tomii värskendamisprobleemid ja parandage ebaõnnestunud värskendused.<ph name="END_LINK" /></translation>
+<translation id="454579500955453258">Kas jätkata uuel Tomii profiilil?</translation>
 <translation id="4567424176335768812">Olete sisse logitud aadressiga <ph name="USER_EMAIL_ADDRESS" />. Nüüd on teil juurdepääs oma järjehoidjatele, ajaloole ja muudele seadetele kõigis seadmetes, kuhu olete sisse logitud.</translation>
 <translation id="4594305310729380060">Selle seadme paroolihaldurisse</translation>
-<translation id="459535195905078186">Decentri rakendused</translation>
-<translation id="4613863813562375431">Decentr OS-i versioon</translation>
-<translation id="4621240073146040695">Rakendus on peaaegu ajakohane! Värskenduse lõpuleviimiseks taaskäivitage Decentr.</translation>
-<translation id="4665829708273112819">Hoiatus. Decentr ei saa takistada laiendustel teie sirvimisajalugu salvestada. Kui soovite laienduse inkognito režiimis keelata, siis tühistage see valik.</translation>
-<translation id="4673151026126227699">Kui jagate ka Decentri kasutusaruandeid, hõlmavad need teie külastatavaid URL-e</translation>
-<translation id="4677944499843243528">Näib, et profiili kasutab Decentri muu protsess (<ph name="PROCESS_ID" />) mingis muus arvutis (<ph name="HOST_NAME" />). Decentr on profiili lukustanud, et seda ei saaks rikkuda. Kui olete kindel, et ükski muu protsess seda profiili ei kasuta, saate profiili avada ja Decentri taaskäivitada.</translation>
+<translation id="459535195905078186">Tomii rakendused</translation>
+<translation id="4613863813562375431">Tomi OS-i versioon</translation>
+<translation id="4621240073146040695">Rakendus on peaaegu ajakohane! Värskenduse lõpuleviimiseks taaskäivitage Tomi.</translation>
+<translation id="4665829708273112819">Hoiatus. Tomi ei saa takistada laiendustel teie sirvimisajalugu salvestada. Kui soovite laienduse inkognito režiimis keelata, siis tühistage see valik.</translation>
+<translation id="4673151026126227699">Kui jagate ka Tomii kasutusaruandeid, hõlmavad need teie külastatavaid URL-e</translation>
+<translation id="4677944499843243528">Näib, et profiili kasutab Tomii muu protsess (<ph name="PROCESS_ID" />) mingis muus arvutis (<ph name="HOST_NAME" />). Tomi on profiili lukustanud, et seda ei saaks rikkuda. Kui olete kindel, et ükski muu protsess seda profiili ei kasuta, saate profiili avada ja Tomii taaskäivitada.</translation>
 <translation id="4680828127924988555">Tühista installimine</translation>
-<translation id="4708774505295300557">Keegi on varem selles arvutis Decentri sisse loginud kasutajana <ph name="ACCOUNT_EMAIL_LAST" />. Looge uus Decentri kasutaja, et oma teave eraldi hoida.</translation>
-<translation id="4746050847053251315">Kas väljuda Decentrist ikkagi?</translation>
-<translation id="4748217263233248895">Äsja rakendati Decentri spetsiaalne turvavärskendus. Taaskäivitage brauser, misjärel teie vahelehed taastatakse.</translation>
-<translation id="4765210420921718862">Decentri seadetes saate oma valikuid alati muuta. Prooviversioone käitatakse kõrvuti praeguse reklaamide esitamise viisiga, seega ei näe te kohe muutusi.</translation>
-<translation id="4788777615168560705">Decentr ei saa teie paroole kontrollida. Proovige uuesti 24 tunni pärast või <ph name="BEGIN_LINK" />kontrollige oma Decentr'i kontol paroole<ph name="END_LINK" />.</translation>
-<translation id="479167709087336770">See kasutab sama õigekirjakontrolli, mida kasutatakse Decentr'i otsingus. Brauseris sisestatav tekst saadetakse Decentr'ile. Seda käitumist saab seadetes alati muuta.</translation>
-<translation id="4888717733111232871">Sissetuleku reegel Decentrile mDNS-liikluse lubamiseks.</translation>
-<translation id="4893347770495441059">Taaskäivitage &amp;Decentri värskendamiseks</translation>
-<translation id="4943838377383847465">Decentr on taustarežiimis.</translation>
-<translation id="4987820182225656817">Külastajad saavad kasutada Decentri jälgi jätmata.</translation>
-<translation id="4994636714258228724">Lisa Decentri</translation>
-<translation id="5114678101347489141">Decentr katsetab uusi funktsioone, mis võimaldaksid saitidel pakkuda väiksema teabemahu juures samasugust sirvimiskogemust</translation>
-<translation id="5224391634244552924">Salvestatud paroole ei ole. Decentr saab teie paroole kontrollida, kui olete need salvestanud.</translation>
-<translation id="5252179775517634216"><ph name="EXISTING_USER" /> on juba sellele Decentri profiilile sisse logitud. See loob konto <ph name="USER_EMAIL_ADDRESS" /> jaoks uue Decentri profiili.</translation>
-<translation id="5277894862589591112">Muudatuste rakendamiseks käivitage Decentr uuesti</translation>
-<translation id="5296845517486664001">Kui katsed on sisse lülitatud ja Decentr on teid juhuslikkuse alusel lisanud aktiivsesse katsesse, mõjutab teie sirvimisajalugu teile esitatavaid reklaame ja allolevaid prognoositud huvisid. Teie privaatsuse kaitsmiseks kustutab Decentr teie huvisid jooksvalt iga kuu.</translation>
-<translation id="5358375970380395591">Logite sisse hallatud kontoga ja annate selle administraatorile üle Decentri profiili juhtimise. Teie Decentri andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME" />. Saate need andmed kustutada Decentr'i kontode juhtpaneeli kaudu, kuid te ei saa neid seostada teise kontoga. <ph name="LEARN_MORE" /></translation>
-<translation id="5386450000063123300">Decentri värskendamine (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Luba Decentrisse sisselogimine</translation>
-<translation id="5398878173008909840">Decentri uus versioon on saadaval.</translation>
-<translation id="5405650547142096840">Eemalda Decentrist</translation>
-<translation id="5421879995290576427">{0,plural, =0{Decentr suletakse nüüd.}=1{Decentr suletakse ühe sekundi pärast.}other{Decentr suletakse # sekundi pärast.}}</translation>
-<translation id="5427571867875391349">Määra Decentr vaikebrauseriks</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> – Decentri beetaversioon</translation>
-<translation id="5473971139929175403">Decentr ei pruugi õigesti töötada, kuna seda ei toetata enam selles Linuxi versioonis</translation>
-<translation id="5480860683791598150">Decentr vajab juurdepääsu teie asukohale, et seda selle saidiga jagada</translation>
-<translation id="5487574057737591516">Teie privaatsuse kaitsmiseks kustutame automaatselt teie huvid, mis on vanemad kui 4 nädalat. Kui jätkate sirvimist, võib huvi uuesti loendis ilmuda. Kui Decentr eksib või te ei soovi teatud reklaame näha, võite huvisid eemaldada.</translation>
-<translation id="549669000822060376">Oodake, kuni Decentr installib uusimad süsteemivärskendused.</translation>
-<translation id="5496810170689441661">Decentr püüab paroole muuta. Selle lubamiseks sisestage Windowsi parool.</translation>
-<translation id="5527463683072221100">Ava PDF-id Decentris</translation>
-<translation id="5614091477838198795">Kui see on sisse lülitatud, logitakse teid ka Decentrist välja</translation>
-<translation id="5623402015214259806">{0,plural, =0{Decentri värskendus on saadaval}=1{Decentri värskendus on saadaval}other{Decentri värskendus on # päeva saadaval olnud}}</translation>
-<translation id="5634636535844844681">Decentr vajab operatsioonisüsteemi Windows 7 või uuemat versiooni.</translation>
-<translation id="5653831366781983928">Käivitage Decentr kohe uuesti</translation>
-<translation id="5698481217667032250">Kuva Decentr selles keeles</translation>
-<translation id="5862307444128926510">Tere tulemast Decentri</translation>
-<translation id="5883558403894052917">Decentr leidis, et need üksused sisaldavad pahavara:</translation>
+<translation id="4708774505295300557">Keegi on varem selles arvutis Tomii sisse loginud kasutajana <ph name="ACCOUNT_EMAIL_LAST" />. Looge uus Tomii kasutaja, et oma teave eraldi hoida.</translation>
+<translation id="4746050847053251315">Kas väljuda Tomiist ikkagi?</translation>
+<translation id="4748217263233248895">Äsja rakendati Tomii spetsiaalne turvavärskendus. Taaskäivitage brauser, misjärel teie vahelehed taastatakse.</translation>
+<translation id="4765210420921718862">Tomii seadetes saate oma valikuid alati muuta. Prooviversioone käitatakse kõrvuti praeguse reklaamide esitamise viisiga, seega ei näe te kohe muutusi.</translation>
+<translation id="4788777615168560705">Tomi ei saa teie paroole kontrollida. Proovige uuesti 24 tunni pärast või <ph name="BEGIN_LINK" />kontrollige oma Tomi'i kontol paroole<ph name="END_LINK" />.</translation>
+<translation id="479167709087336770">See kasutab sama õigekirjakontrolli, mida kasutatakse Tomi'i otsingus. Brauseris sisestatav tekst saadetakse Tomi'ile. Seda käitumist saab seadetes alati muuta.</translation>
+<translation id="4888717733111232871">Sissetuleku reegel Tomiile mDNS-liikluse lubamiseks.</translation>
+<translation id="4893347770495441059">Taaskäivitage &amp;Tomii värskendamiseks</translation>
+<translation id="4943838377383847465">Tomi on taustarežiimis.</translation>
+<translation id="4987820182225656817">Külastajad saavad kasutada Tomii jälgi jätmata.</translation>
+<translation id="4994636714258228724">Lisa Tomii</translation>
+<translation id="5114678101347489141">Tomi katsetab uusi funktsioone, mis võimaldaksid saitidel pakkuda väiksema teabemahu juures samasugust sirvimiskogemust</translation>
+<translation id="5224391634244552924">Salvestatud paroole ei ole. Tomi saab teie paroole kontrollida, kui olete need salvestanud.</translation>
+<translation id="5252179775517634216"><ph name="EXISTING_USER" /> on juba sellele Tomii profiilile sisse logitud. See loob konto <ph name="USER_EMAIL_ADDRESS" /> jaoks uue Tomii profiili.</translation>
+<translation id="5277894862589591112">Muudatuste rakendamiseks käivitage Tomi uuesti</translation>
+<translation id="5296845517486664001">Kui katsed on sisse lülitatud ja Tomi on teid juhuslikkuse alusel lisanud aktiivsesse katsesse, mõjutab teie sirvimisajalugu teile esitatavaid reklaame ja allolevaid prognoositud huvisid. Teie privaatsuse kaitsmiseks kustutab Tomi teie huvisid jooksvalt iga kuu.</translation>
+<translation id="5358375970380395591">Logite sisse hallatud kontoga ja annate selle administraatorile üle Tomii profiili juhtimise. Teie Tomii andmed, näiteks rakendused, järjehoidjad, ajalugu, paroolid ja muud seaded seotakse jäädavalt kasutajaga <ph name="USER_NAME" />. Saate need andmed kustutada Tomi'i kontode juhtpaneeli kaudu, kuid te ei saa neid seostada teise kontoga. <ph name="LEARN_MORE" /></translation>
+<translation id="5386450000063123300">Tomii värskendamine (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="538767207339317086">Luba Tomiisse sisselogimine</translation>
+<translation id="5398878173008909840">Tomii uus versioon on saadaval.</translation>
+<translation id="5405650547142096840">Eemalda Tomiist</translation>
+<translation id="5421879995290576427">{0,plural, =0{Tomi suletakse nüüd.}=1{Tomi suletakse ühe sekundi pärast.}other{Tomi suletakse # sekundi pärast.}}</translation>
+<translation id="5427571867875391349">Määra Tomi vaikebrauseriks</translation>
+<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> – Tomii beetaversioon</translation>
+<translation id="5473971139929175403">Tomi ei pruugi õigesti töötada, kuna seda ei toetata enam selles Linuxi versioonis</translation>
+<translation id="5480860683791598150">Tomi vajab juurdepääsu teie asukohale, et seda selle saidiga jagada</translation>
+<translation id="5487574057737591516">Teie privaatsuse kaitsmiseks kustutame automaatselt teie huvid, mis on vanemad kui 4 nädalat. Kui jätkate sirvimist, võib huvi uuesti loendis ilmuda. Kui Tomi eksib või te ei soovi teatud reklaame näha, võite huvisid eemaldada.</translation>
+<translation id="549669000822060376">Oodake, kuni Tomi installib uusimad süsteemivärskendused.</translation>
+<translation id="5496810170689441661">Tomi püüab paroole muuta. Selle lubamiseks sisestage Windowsi parool.</translation>
+<translation id="5527463683072221100">Ava PDF-id Tomiis</translation>
+<translation id="5614091477838198795">Kui see on sisse lülitatud, logitakse teid ka Tomiist välja</translation>
+<translation id="5623402015214259806">{0,plural, =0{Tomii värskendus on saadaval}=1{Tomii värskendus on saadaval}other{Tomii värskendus on # päeva saadaval olnud}}</translation>
+<translation id="5634636535844844681">Tomi vajab operatsioonisüsteemi Windows 7 või uuemat versiooni.</translation>
+<translation id="5653831366781983928">Käivitage Tomi kohe uuesti</translation>
+<translation id="5698481217667032250">Kuva Tomi selles keeles</translation>
+<translation id="5862307444128926510">Tere tulemast Tomii</translation>
+<translation id="5883558403894052917">Tomi leidis, et need üksused sisaldavad pahavara:</translation>
 <translation id="5895138241574237353">Taaskäivitamine</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> – võrku sisselogimine</translation>
 <translation id="5924017743176219022">Internetiga ühenduse loomine …</translation>
 <translation id="5941711191222866238">Minimeeri</translation>
-<translation id="5972142260211327093">Kui Decentr on teid juhuslikkuse alusel lisanud aktiivsesse katsesse, mõjutab teie sirvimisajalugu teile esitatavaid reklaame ja allolevaid prognoositud huvisid. Teie privaatsuse kaitsmiseks kustutab Decentr teie huvisid jooksvalt iga kuu. Huvisid värskendatakse, kui te neid ei eemalda.</translation>
-<translation id="5987687638152509985">Sünkroonimise alustamiseks värskendage Decentri</translation>
-<translation id="5988505247484123880">On tavapärane, et teie külastatavad saidid jätavad meelde asju, mis teile huvi pakuvad, et teie kasutuskogemust isikupärastada. Saidid võivad ka talletada Decentrisse teavet teie huvide kohta.</translation>
+<translation id="5972142260211327093">Kui Tomi on teid juhuslikkuse alusel lisanud aktiivsesse katsesse, mõjutab teie sirvimisajalugu teile esitatavaid reklaame ja allolevaid prognoositud huvisid. Teie privaatsuse kaitsmiseks kustutab Tomi teie huvisid jooksvalt iga kuu. Huvisid värskendatakse, kui te neid ei eemalda.</translation>
+<translation id="5987687638152509985">Sünkroonimise alustamiseks värskendage Tomii</translation>
+<translation id="5988505247484123880">On tavapärane, et teie külastatavad saidid jätavad meelde asju, mis teile huvi pakuvad, et teie kasutuskogemust isikupärastada. Saidid võivad ka talletada Tomiisse teavet teie huvide kohta.</translation>
 <translation id="6003112304606738118">Allalaadimine … <ph name="HOURS" /> tund(i) on jäänud</translation>
 <translation id="6040143037577758943">Sulge</translation>
-<translation id="6055895534982063517">Saadaval on Decentri uus versioon ja see on kiirem kui kunagi varem.</translation>
-<translation id="6063093106622310249">&amp;Ava Decentris</translation>
-<translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> on Decentri lisatud</translation>
-<translation id="6072463441809498330">Muutke Decentr kiiremaks</translation>
+<translation id="6055895534982063517">Saadaval on Tomii uus versioon ja see on kiirem kui kunagi varem.</translation>
+<translation id="6063093106622310249">&amp;Ava Tomiis</translation>
+<translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> on Tomii lisatud</translation>
+<translation id="6072463441809498330">Muutke Tomi kiiremaks</translation>
 <translation id="608006075545470555">Tööprofiili lisamine sellesse brauserisse</translation>
-<translation id="6096348254544841612">Kohandage ja juhtige Decentri. Saadaval on värskendus.</translation>
-<translation id="6119438414301547735">Lubage laiendus, et juurdepääsutaotlused Decentri tööriistaribal kuvada</translation>
-<translation id="6120345080069858279">Decentr salvestab selle parooli teie Decentr'i kontole. Te ei pea seda meeles pidama.</translation>
-<translation id="6129621093834146363"><ph name="FILE_NAME" /> on ohtlik, mistõttu Decentr blokeeris selle.</translation>
-<translation id="6134968993075716475">Decentr'i ohutu sirvimine on välja lülitatud. Decentr soovitab selle sisse lülitada.</translation>
-<translation id="6145820983052037069">Decentri profiili saate vahetada siin</translation>
-<translation id="6183079672144801177">Veenduge, et oleksite seadmes <ph name="TARGET_DEVICE_NAME" /> Decentri sisse logitud, ja proovige siis uuesti saata.</translation>
-<translation id="6212496753309875659">Arvutis on juba Decentri uuem versioon. Kui tarkvara ei tööta, siis desinstallige Decentr ja proovige uuesti.</translation>
-<translation id="6219195342503754812">{0,plural, =0{Decentr käivitatakse kohe uuesti}=1{Decentr käivitatakse uuesti 1 sekundi pärast}other{Decentr käivitatakse uuesti # sekundi pärast}}</translation>
-<translation id="6241367896540709610">Decentr vajab failide allalaadimiseks juurdepääsu salvestusruumile</translation>
-<translation id="6245734527075554892">Kontrollib URL-e Decentri talletatud ohtlike saitide loendi alusel.</translation>
-<translation id="6248213926982192922">Määra Decentr vaikebrauseriks</translation>
-<translation id="6266342355635466082">Decentr ei saa värskendusi otsida. Kontrollige internetiühendust.</translation>
-<translation id="6268381023930128611">Kas logida Decentrist välja?</translation>
+<translation id="6096348254544841612">Kohandage ja juhtige Tomii. Saadaval on värskendus.</translation>
+<translation id="6119438414301547735">Lubage laiendus, et juurdepääsutaotlused Tomii tööriistaribal kuvada</translation>
+<translation id="6120345080069858279">Tomi salvestab selle parooli teie Tomi'i kontole. Te ei pea seda meeles pidama.</translation>
+<translation id="6129621093834146363"><ph name="FILE_NAME" /> on ohtlik, mistõttu Tomi blokeeris selle.</translation>
+<translation id="6134968993075716475">Tomi'i ohutu sirvimine on välja lülitatud. Tomi soovitab selle sisse lülitada.</translation>
+<translation id="6145820983052037069">Tomii profiili saate vahetada siin</translation>
+<translation id="6183079672144801177">Veenduge, et oleksite seadmes <ph name="TARGET_DEVICE_NAME" /> Tomii sisse logitud, ja proovige siis uuesti saata.</translation>
+<translation id="6212496753309875659">Arvutis on juba Tomii uuem versioon. Kui tarkvara ei tööta, siis desinstallige Tomi ja proovige uuesti.</translation>
+<translation id="6219195342503754812">{0,plural, =0{Tomi käivitatakse kohe uuesti}=1{Tomi käivitatakse uuesti 1 sekundi pärast}other{Tomi käivitatakse uuesti # sekundi pärast}}</translation>
+<translation id="6241367896540709610">Tomi vajab failide allalaadimiseks juurdepääsu salvestusruumile</translation>
+<translation id="6245734527075554892">Kontrollib URL-e Tomii talletatud ohtlike saitide loendi alusel.</translation>
+<translation id="6248213926982192922">Määra Tomi vaikebrauseriks</translation>
+<translation id="6266342355635466082">Tomi ei saa värskendusi otsida. Kontrollige internetiühendust.</translation>
+<translation id="6268381023930128611">Kas logida Tomiist välja?</translation>
 <translation id="6273793429163604305">Tähelepanu …</translation>
-<translation id="6281746429495226318">Kohandage oma Decentri profiili</translation>
-<translation id="6290827346642914212">Andke oma Decentri profiilile nimi</translation>
-<translation id="6295779123002464101"><ph name="FILE_NAME" /> võib olla ohtlik, mistõttu Decentr blokeeris selle.</translation>
-<translation id="6309712487085796862">Decentr kasutab teie kaamerat.</translation>
-<translation id="632355235628111698">Decentr blokeeris selle faili, kuna see on ohtlik</translation>
+<translation id="6281746429495226318">Kohandage oma Tomii profiili</translation>
+<translation id="6290827346642914212">Andke oma Tomii profiilile nimi</translation>
+<translation id="6295779123002464101"><ph name="FILE_NAME" /> võib olla ohtlik, mistõttu Tomi blokeeris selle.</translation>
+<translation id="6309712487085796862">Tomi kasutab teie kaamerat.</translation>
+<translation id="632355235628111698">Tomi blokeeris selle faili, kuna see on ohtlik</translation>
 <translation id="6327105987658262776">Ühtegi uuendust ei ole saadaval.</translation>
-<translation id="6333502561965082103">Teine toiming on Decentris pooleli. Proovige hiljem uuesti.</translation>
-<translation id="6334986366598267305">Nüüd on Decentri lihtsam kasutada Decentr'i kontoga ja jagatud arvutistes.</translation>
-<translation id="6373523479360886564">Kas soovite kindlasti Decentri desinstallida?</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Kuidas neid andmeid kasutame?<ph name="END_BOLD" /> Decentr saab teie huvisid prognoosida. Hiljem saab teie külastatav sait taotleda Decentrilt teie huvisid, et isikupärastada teile kuvatavaid reklaame.</translation>
-<translation id="6403826409255603130">Decentr on veebibrauser, mis avab veebilehti ja rakendusi välgukiirusel. See on kiire, stabiilne ja hõlpsasti kasutatav. Sirvige veebi turvalisemalt tänu Decentri sisseehitatud pahavara- ja andmepüügikaitsele.</translation>
-<translation id="6442900851116057561">Decentr OS-i taaskäivitamine</translation>
-<translation id="6455857529632101747">Tere tulemast kasutama Decentri profiile</translation>
-<translation id="6457450909262716557">{SECONDS,plural, =1{Decentr taaskäivitub 1 sekundi pärast}other{Decentr taaskäivitub # sekundi pärast}}</translation>
-<translation id="6475912303565314141">Lisaks juhib see seda, mis leht kuvatakse Decentri käivitamisel.</translation>
-<translation id="6510925080656968729">Desinstalli Decentr</translation>
-<translation id="6542839706527980775">Igal profiilil on oma Decentri teave, nagu järjehoidjad, ajalugu, paroolid ja muu</translation>
-<translation id="6570579332384693436">Õigekirjavigade parandamiseks saadab Decentr teie tekstiväljadel sisestatud teksti Decentr'ile</translation>
-<translation id="6598877126913850652">Ava Decentri märguandeseaded</translation>
-<translation id="6613594504749178791">Teie muudatused jõustuvad järgmine kord, kui Decentri taaskäivitate.</translation>
-<translation id="665732753414869868">Decentr vajab kaamera kasutamise luba, et luua teie ümbruskonnast 3D-kaart</translation>
-<translation id="6663852025006259149">Saidid toimivad tõenäoliselt ootuspäraselt, kuid teid ei mäletata pärast kõigi Decentri akende sulgemist</translation>
+<translation id="6333502561965082103">Teine toiming on Tomiis pooleli. Proovige hiljem uuesti.</translation>
+<translation id="6334986366598267305">Nüüd on Tomii lihtsam kasutada Tomi'i kontoga ja jagatud arvutistes.</translation>
+<translation id="6373523479360886564">Kas soovite kindlasti Tomii desinstallida?</translation>
+<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Kuidas neid andmeid kasutame?<ph name="END_BOLD" /> Tomi saab teie huvisid prognoosida. Hiljem saab teie külastatav sait taotleda Tomiilt teie huvisid, et isikupärastada teile kuvatavaid reklaame.</translation>
+<translation id="6403826409255603130">Tomi on veebibrauser, mis avab veebilehti ja rakendusi välgukiirusel. See on kiire, stabiilne ja hõlpsasti kasutatav. Sirvige veebi turvalisemalt tänu Tomii sisseehitatud pahavara- ja andmepüügikaitsele.</translation>
+<translation id="6442900851116057561">Tomi OS-i taaskäivitamine</translation>
+<translation id="6455857529632101747">Tere tulemast kasutama Tomii profiile</translation>
+<translation id="6457450909262716557">{SECONDS,plural, =1{Tomi taaskäivitub 1 sekundi pärast}other{Tomi taaskäivitub # sekundi pärast}}</translation>
+<translation id="6475912303565314141">Lisaks juhib see seda, mis leht kuvatakse Tomii käivitamisel.</translation>
+<translation id="6510925080656968729">Desinstalli Tomi</translation>
+<translation id="6542839706527980775">Igal profiilil on oma Tomii teave, nagu järjehoidjad, ajalugu, paroolid ja muu</translation>
+<translation id="6570579332384693436">Õigekirjavigade parandamiseks saadab Tomi teie tekstiväljadel sisestatud teksti Tomi'ile</translation>
+<translation id="6598877126913850652">Ava Tomii märguandeseaded</translation>
+<translation id="6613594504749178791">Teie muudatused jõustuvad järgmine kord, kui Tomii taaskäivitate.</translation>
+<translation id="665732753414869868">Tomi vajab kaamera kasutamise luba, et luua teie ümbruskonnast 3D-kaart</translation>
+<translation id="6663852025006259149">Saidid toimivad tõenäoliselt ootuspäraselt, kuid teid ei mäletata pärast kõigi Tomii akende sulgemist</translation>
 <translation id="6676384891291319759">Pääs Internetti</translation>
-<translation id="668175097507315160">Decentr OS ei saanud sisselogimisvea tõttu teie andmeid sünkroonida.</translation>
-<translation id="6709350901466051922">Decentr vajab selle saidi puhul mikrofoni kasutamise luba</translation>
-<translation id="6717134281241384636">Teie profiili ei saa kasutada, kuna see pärineb Decentri uuemast versioonist.
+<translation id="668175097507315160">Tomi OS ei saanud sisselogimisvea tõttu teie andmeid sünkroonida.</translation>
+<translation id="6709350901466051922">Tomi vajab selle saidi puhul mikrofoni kasutamise luba</translation>
+<translation id="6717134281241384636">Teie profiili ei saa kasutada, kuna see pärineb Tomii uuemast versioonist.
 
-On võimalik, et mõni funktsioon ei ole saadaval. Määrake muu profiilikataloog või kasutage Decentri uuemat versiooni.</translation>
-<translation id="6730677189742196061">Mälusäästja muutis Decentri kiiremaks</translation>
-<translation id="6734291798041940871">Decentr on arvutisse kõigi kasutajate jaoks juba installitud.</translation>
-<translation id="673636774878526923">Selleks et oma Decentri sisule kõigis oma seadmetes juurde pääseda, logige sisse ja lülitage siis sisse sünkroonimine.</translation>
-<translation id="67706546131546258">Decentr soovitab seda faili skannida, kuna see võib olla ohtlik.</translation>
-<translation id="6774082503108938489">Sinu vanem lülitas valiku „Saitide, rakenduste ja laienduste load” Decentri puhul välja. Laienduse <ph name="EXTENSION_TYPE_PARAMETER" /> lubamine on keelatud.</translation>
-<translation id="6779406956731413166">Decentr OS-i aluseks on täiendav <ph name="BEGIN_LINK_CROS_OSS" />avatud lähtekoodiga tarkvara<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="6847869444787758381">Decentr annab teile teada, kui teie paroolid ohtu satuvad</translation>
-<translation id="6852530923436401894">Decentr blokeeris selle faili, kuna see sisaldab pahavara</translation>
-<translation id="6857782730669500492">Decentr – <ph name="PAGE_TITLE" /></translation>
-<translation id="6863361426438995919">Decentr Pay (kopeeritud Decentri)</translation>
-<translation id="6873893289264747459">Decentr leidis, et laiendus „<ph name="EXTENSION_NAME" />“ sisaldab pahavara</translation>
-<translation id="6893813176749746474">Decentri on värskendatud, kuid te ei ole seda kasutanud vähemalt 30 päeva.</translation>
-<translation id="691026815377248078">Decentr vajab sidumise jätkamiseks juurdepääsu Bluetoothile. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">Kui katsed on sisse lülitatud, võimaldab reklaamide mõõtmine külastatavatel saitidel taotleda Decentrilt teavet, mis aitab saidil oma reklaamide toimivust mõõta. Reklaamide mõõtmine piirab saitidevahelist jälgimist, edastades saitide vahel võimalikult vähe teavet.</translation>
-<translation id="6940431691900807093">Hiljem saab teie külastatav sait taotleda Decentrilt teie huvisid, et isikupärastada teile kuvatavaid reklaame. Decentr võib jagada kuni kolme huvi.</translation>
-<translation id="6964305034639999644">Ava link Decentri inko&amp;gnito aknas</translation>
-<translation id="6978145336957848883">Nõrku paroole on lihtne ära arvata. Laske Decentril <ph name="BEGIN_LINK" />teie jaoks luua ja meelde jätta tugevaid paroole<ph name="END_LINK" />.</translation>
-<translation id="6984667024406244807">Decentr ei ole aktiivne</translation>
-<translation id="6985329841647292029">Decentr OS-i tingimused</translation>
-<translation id="6990124437352146030">Decentr vajab selle saidi puhul luba, et teie mikrofonile juurde pääseda</translation>
+On võimalik, et mõni funktsioon ei ole saadaval. Määrake muu profiilikataloog või kasutage Tomii uuemat versiooni.</translation>
+<translation id="6730677189742196061">Mälusäästja muutis Tomii kiiremaks</translation>
+<translation id="6734291798041940871">Tomi on arvutisse kõigi kasutajate jaoks juba installitud.</translation>
+<translation id="673636774878526923">Selleks et oma Tomii sisule kõigis oma seadmetes juurde pääseda, logige sisse ja lülitage siis sisse sünkroonimine.</translation>
+<translation id="67706546131546258">Tomi soovitab seda faili skannida, kuna see võib olla ohtlik.</translation>
+<translation id="6774082503108938489">Sinu vanem lülitas valiku „Saitide, rakenduste ja laienduste load” Tomii puhul välja. Laienduse <ph name="EXTENSION_TYPE_PARAMETER" /> lubamine on keelatud.</translation>
+<translation id="6779406956731413166">Tomi OS-i aluseks on täiendav <ph name="BEGIN_LINK_CROS_OSS" />avatud lähtekoodiga tarkvara<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="6847869444787758381">Tomi annab teile teada, kui teie paroolid ohtu satuvad</translation>
+<translation id="6852530923436401894">Tomi blokeeris selle faili, kuna see sisaldab pahavara</translation>
+<translation id="6857782730669500492">Tomi – <ph name="PAGE_TITLE" /></translation>
+<translation id="6863361426438995919">Tomi Pay (kopeeritud Tomii)</translation>
+<translation id="6873893289264747459">Tomi leidis, et laiendus „<ph name="EXTENSION_NAME" />“ sisaldab pahavara</translation>
+<translation id="6893813176749746474">Tomii on värskendatud, kuid te ei ole seda kasutanud vähemalt 30 päeva.</translation>
+<translation id="691026815377248078">Tomi vajab sidumise jätkamiseks juurdepääsu Bluetoothile. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
+<translation id="6929417474050522668">Kui katsed on sisse lülitatud, võimaldab reklaamide mõõtmine külastatavatel saitidel taotleda Tomiilt teavet, mis aitab saidil oma reklaamide toimivust mõõta. Reklaamide mõõtmine piirab saitidevahelist jälgimist, edastades saitide vahel võimalikult vähe teavet.</translation>
+<translation id="6940431691900807093">Hiljem saab teie külastatav sait taotleda Tomiilt teie huvisid, et isikupärastada teile kuvatavaid reklaame. Tomi võib jagada kuni kolme huvi.</translation>
+<translation id="6964305034639999644">Ava link Tomii inko&amp;gnito aknas</translation>
+<translation id="6978145336957848883">Nõrku paroole on lihtne ära arvata. Laske Tomiil <ph name="BEGIN_LINK" />teie jaoks luua ja meelde jätta tugevaid paroole<ph name="END_LINK" />.</translation>
+<translation id="6984667024406244807">Tomi ei ole aktiivne</translation>
+<translation id="6985329841647292029">Tomi OS-i tingimused</translation>
+<translation id="6990124437352146030">Tomi vajab selle saidi puhul luba, et teie mikrofonile juurde pääseda</translation>
 <translation id="7025789849649390912">Installimine on peatatud.</translation>
-<translation id="705851970750939768">Värskenda Decentri</translation>
-<translation id="7067091210845072982">Kui pildil puudub kasulik kirjeldus, üritab Decentr selle ise luua. Kirjelduste loomiseks saadetakse pildid Decentr'ile.</translation>
-<translation id="718435575166326686">Decentr vajab selle saidi puhul kaamera kasutamise luba</translation>
-<translation id="7196312274710523067">Decentri ei õnnestunud käivitada. Proovige uuesti.</translation>
-<translation id="7197677400338048821">Decentr ei saa teie paroole kontrollida. Proovige uuesti 24 tunni pärast.</translation>
-<translation id="7223968959479464213">Tegumihaldur – Decentr</translation>
-<translation id="7246575524853130370">Teie huvid Decentri prognooside kohaselt</translation>
-<translation id="7309928523159922338">Reklaamide mõõtmine võimaldab külastatavatel saitidel paluda Decentrilt teavet, mis aitab saidil oma reklaamide toimivust mõõta. Reklaamide mõõtmine piirab saitidevahelist jälgimist, edastades saitide vahel võimalikult vähe teavet.</translation>
-<translation id="731795002583552498">Decentri värskendamine</translation>
+<translation id="705851970750939768">Värskenda Tomii</translation>
+<translation id="7067091210845072982">Kui pildil puudub kasulik kirjeldus, üritab Tomi selle ise luua. Kirjelduste loomiseks saadetakse pildid Tomi'ile.</translation>
+<translation id="718435575166326686">Tomi vajab selle saidi puhul kaamera kasutamise luba</translation>
+<translation id="7196312274710523067">Tomii ei õnnestunud käivitada. Proovige uuesti.</translation>
+<translation id="7197677400338048821">Tomi ei saa teie paroole kontrollida. Proovige uuesti 24 tunni pärast.</translation>
+<translation id="7223968959479464213">Tegumihaldur – Tomi</translation>
+<translation id="7246575524853130370">Teie huvid Tomii prognooside kohaselt</translation>
+<translation id="7309928523159922338">Reklaamide mõõtmine võimaldab külastatavatel saitidel paluda Tomiilt teavet, mis aitab saidil oma reklaamide toimivust mõõta. Reklaamide mõõtmine piirab saitidevahelist jälgimist, edastades saitide vahel võimalikult vähe teavet.</translation>
+<translation id="731795002583552498">Tomii värskendamine</translation>
 <translation id="7318036098707714271">Teie eelistuste fail on rikutud või kehtetu.
 
-Decentr ei saa teie seadeid taastada.</translation>
-<translation id="7337881442233988129">Decentr</translation>
+Tomi ei saa teie seadeid taastada.</translation>
+<translation id="7337881442233988129">Tomi</translation>
 <translation id="7339898014177206373">Uus aken</translation>
-<translation id="734373864078049451">Siin asuvad teie veeb, järjehoidjad ja ülejäänud Decentri kraam.</translation>
-<translation id="7349591376906416160">Teie süsteemiadministraator on seadistanud Decentri avama brauseri <ph name="ALTERNATIVE_BROWSER_NAME" />, et lehele <ph name="TARGET_URL_HOSTNAME" /> juurde pääseda.</translation>
-<translation id="7398989605938454041">Decentri profiilidega saate eraldada kogu oma Decentri sisu. See muudab töö ja lõbu eraldamise lihtsamaks.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> – Decentr Dev</translation>
-<translation id="7451052299415159299">Decentr vajab selle saidi puhul luba, et teie kaamerale juurde pääseda</translation>
-<translation id="7461356015007898716">Decentri tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi Windows 10 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi Windows 7.</translation>
-<translation id="7467949745582939695">Kas käivitada Decentr uuesti?</translation>
-<translation id="7483335560992089831">Ei saa installida sama Decentri versiooni, mis praegu töötab. Sulgege Decentr ja proovige uuesti.</translation>
-<translation id="753534427205733210">{0,plural, =1{Decentr käivitatakse uuesti 1 minuti pärast}other{Decentr käivitatakse uuesti # minuti pärast}}</translation>
-<translation id="7561906087460245826">Kustuta andmed ka Decentrist (<ph name="URL" />)</translation>
-<translation id="7582945390259497898">Decentr suudab teie huvisid prognoosida. Hiljem saab teie külastatav sait taotleda Decentrilt teie huvisid, et isikupärastada teile kuvatavaid reklaame.</translation>
+<translation id="734373864078049451">Siin asuvad teie veeb, järjehoidjad ja ülejäänud Tomii kraam.</translation>
+<translation id="7349591376906416160">Teie süsteemiadministraator on seadistanud Tomii avama brauseri <ph name="ALTERNATIVE_BROWSER_NAME" />, et lehele <ph name="TARGET_URL_HOSTNAME" /> juurde pääseda.</translation>
+<translation id="7398989605938454041">Tomii profiilidega saate eraldada kogu oma Tomii sisu. See muudab töö ja lõbu eraldamise lihtsamaks.</translation>
+<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> – Tomi Dev</translation>
+<translation id="7451052299415159299">Tomi vajab selle saidi puhul luba, et teie kaamerale juurde pääseda</translation>
+<translation id="7461356015007898716">Tomii tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi Windows 10 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi Windows 7.</translation>
+<translation id="7467949745582939695">Kas käivitada Tomi uuesti?</translation>
+<translation id="7483335560992089831">Ei saa installida sama Tomii versiooni, mis praegu töötab. Sulgege Tomi ja proovige uuesti.</translation>
+<translation id="753534427205733210">{0,plural, =1{Tomi käivitatakse uuesti 1 minuti pärast}other{Tomi käivitatakse uuesti # minuti pärast}}</translation>
+<translation id="7561906087460245826">Kustuta andmed ka Tomiist (<ph name="URL" />)</translation>
+<translation id="7582945390259497898">Tomi suudab teie huvisid prognoosida. Hiljem saab teie külastatav sait taotleda Tomiilt teie huvisid, et isikupärastada teile kuvatavaid reklaame.</translation>
 <translation id="7583399374488819119">Brauseri <ph name="COMPANY_NAME" /> installiprogramm</translation>
-<translation id="7597596667193879455">Lülitasite oma kontol täiustatud ohutu sirvimise sisse. Kasutage seda ka Decentris.</translation>
-<translation id="761356813943268536">Decentr kasutab kaamerat ja mikrofoni.</translation>
-<translation id="7617377681829253106">Decentr muutus just paremaks</translation>
+<translation id="7597596667193879455">Lülitasite oma kontol täiustatud ohutu sirvimise sisse. Kasutage seda ka Tomiis.</translation>
+<translation id="761356813943268536">Tomi kasutab kaamerat ja mikrofoni.</translation>
+<translation id="7617377681829253106">Tomi muutus just paremaks</translation>
 <translation id="7649070708921625228">Abi</translation>
-<translation id="7682213815243802460">Nende funktsioonide kohta leiate lisateavet Decentri seadetest.</translation>
-<translation id="7682601070171973634">Decentr katsetab uusi funktsioone, mis võimaldaksid saitidel pakkuda väiksema andmemahu juures samasugust sirvimiskogemust</translation>
-<translation id="7686590090926151193">Decentr ei ole teie vaikebrauser</translation>
-<translation id="7689606757190482937">Sünkroonige ja isikupärastage Decentr kõigis oma seadmetes</translation>
-<translation id="7745317241717453663">See kustutab sellest seadmest teie sirvimisandmed. Hiljem oma andmete toomiseks logige Decentri sisse kasutajana <ph name="USER_EMAIL" />.</translation>
+<translation id="7682213815243802460">Nende funktsioonide kohta leiate lisateavet Tomii seadetest.</translation>
+<translation id="7682601070171973634">Tomi katsetab uusi funktsioone, mis võimaldaksid saitidel pakkuda väiksema andmemahu juures samasugust sirvimiskogemust</translation>
+<translation id="7686590090926151193">Tomi ei ole teie vaikebrauser</translation>
+<translation id="7689606757190482937">Sünkroonige ja isikupärastage Tomi kõigis oma seadmetes</translation>
+<translation id="7745317241717453663">See kustutab sellest seadmest teie sirvimisandmed. Hiljem oma andmete toomiseks logige Tomii sisse kasutajana <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">Installija ei suutnud luua ajutist kataloogi. Palun kontrollige vaba kettaruumi ja tarkvara installimise loa olemasolu.</translation>
-<translation id="7786760609782648049">Muutke Decentr kiiremaks</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> – Decentr Canary</translation>
-<translation id="7828947555739565424">Selle kontoga Decentri profiil on selles seadmes juba olemas</translation>
+<translation id="7786760609782648049">Muutke Tomi kiiremaks</translation>
+<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> – Tomi Canary</translation>
+<translation id="7828947555739565424">Selle kontoga Tomii profiil on selles seadmes juba olemas</translation>
 <translation id="7845233973568007926">Täname teid installimise eest. Enne brauseri <ph name="BUNDLE_NAME" /> kasutamist peate oma arvuti taaskäivitama.</translation>
-<translation id="7867198900892795913">Decentri ei saanud uusimale versioonile värskendada, mistõttu jääte ilma uutest funktsioonidest ja turvaparandustest.</translation>
+<translation id="7867198900892795913">Tomii ei saanud uusimale versioonile värskendada, mistõttu jääte ilma uutest funktsioonidest ja turvaparandustest.</translation>
 <translation id="7872446069773932638">Allalaadimine … <ph name="SECONDS" /> sekund(it) on jäänud</translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Kuidas saate oma andmeid hallata?<ph name="END_BOLD" /> Teie privaatsuse kaitsmiseks kustutame automaatselt huvid, mis on vanemad kui 4 nädalat. Kui jätkate sirvimist, võib huvi uuesti loendis ilmuda. Võite ka eemaldada huvid, mida te ei soovi lasta Decentril arvesse võtta.</translation>
-<translation id="7937630085815544518">Olite Decentrisse sisse logitud kasutajana <ph name="USER_EMAIL_ADDRESS" />. Kasutage uuesti sisselogimiseks sama kontot.</translation>
-<translation id="7975919845073681630">See on Decentri sekundaarne install ja seda ei saa määrata vaikebrauseriks.</translation>
-<translation id="7997934263947464652">Tundmatutest allikatest pärinevad laiendused, rakendused ja teemad võivad teie seadet kahjustada. Decentr soovitab neid ainult järgmisest poest installida: <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
-<translation id="8013436988911883588">Kui annate Decentrile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.</translation>
+<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Kuidas saate oma andmeid hallata?<ph name="END_BOLD" /> Teie privaatsuse kaitsmiseks kustutame automaatselt huvid, mis on vanemad kui 4 nädalat. Kui jätkate sirvimist, võib huvi uuesti loendis ilmuda. Võite ka eemaldada huvid, mida te ei soovi lasta Tomiil arvesse võtta.</translation>
+<translation id="7937630085815544518">Olite Tomiisse sisse logitud kasutajana <ph name="USER_EMAIL_ADDRESS" />. Kasutage uuesti sisselogimiseks sama kontot.</translation>
+<translation id="7975919845073681630">See on Tomii sekundaarne install ja seda ei saa määrata vaikebrauseriks.</translation>
+<translation id="7997934263947464652">Tundmatutest allikatest pärinevad laiendused, rakendused ja teemad võivad teie seadet kahjustada. Tomi soovitab neid ainult järgmisest poest installida: <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
+<translation id="8013436988911883588">Kui annate Tomiile juurdepääsu, saavad veebisaidid küsida teilt juurdepääsuluba.</translation>
 <translation id="80471789339884597">Täname teid installimise eest. Enne brauseri <ph name="BUNDLE_NAME" /> kasutamist peate taaskäivitama kõik brauserid.</translation>
-<translation id="8105840573057009683">Decentr vajab selle saidi puhul asukohale juurdepääsu luba</translation>
-<translation id="8133124826068723441">Decentr OS ei saanud teie andmeid sünkroonida, sest teie domeenil pole sünkroonimine saadaval.</translation>
+<translation id="8105840573057009683">Tomi vajab selle saidi puhul asukohale juurdepääsu luba</translation>
+<translation id="8133124826068723441">Tomi OS ei saanud teie andmeid sünkroonida, sest teie domeenil pole sünkroonimine saadaval.</translation>
 <translation id="813913629614996137">Lähtestamine …</translation>
-<translation id="81770708095080097">Decentr blokeeris faili, kuna see on ohtlik.</translation>
-<translation id="8213374284266571500">Decentr blokeeris selle faili, kuna see failitüüp on ohtlik</translation>
-<translation id="8248265253516264921">Kui pildil puudub kasulik kirjeldus, üritab Decentr selle ise luua. Kirjelduste loomiseks saadetakse pildid Decentr'ile. Võite selle seadetes igal ajal välja lülitada.</translation>
-<translation id="8266560134891435528">Decentr ei saa teie paroole kontrollida, kuna te pole sisse logitud</translation>
-<translation id="8276522524898344151">Decentr üritab kopeerida paroole.</translation>
-<translation id="8290862415967981663">Decentr blokeeris faili, kuna see võib olla ohtlik.</translation>
-<translation id="8330519371938183845">Logige sisse, et Decentr kõigis oma seadmetes sünkroonida ja isikupärastada</translation>
-<translation id="8340674089072921962">Kasutaja <ph name="USER_EMAIL_ADDRESS" /> kasutas varem Decentri</translation>
-<translation id="8357820681460164151">Selleks et oma Decentri brauseri sisule kõigis oma seadmetes juurde pääseda, logige sisse ja lülitage siis sisse sünkroonimine</translation>
-<translation id="8360718212975266891">Decentri tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi Windows 10 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi Windows 8.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Käivitage Decentr uuesti päeva jooksul}other{Käivitage Decentr uuesti # päeva jooksul}}</translation>
-<translation id="8453117565092476964">Installeri arhiiv on rikutud või kehtetu. Laadige Decentr uuesti alla.</translation>
-<translation id="8463672209299734063">Valikuline. Aidake Decentr OS-i funktsioone ning toimivust täiustada, saates Decentr'ile automaatselt diagnostika- ja kasutusandmeid.</translation>
-<translation id="8493179195440786826">Decentr on aegunud</translation>
+<translation id="81770708095080097">Tomi blokeeris faili, kuna see on ohtlik.</translation>
+<translation id="8213374284266571500">Tomi blokeeris selle faili, kuna see failitüüp on ohtlik</translation>
+<translation id="8248265253516264921">Kui pildil puudub kasulik kirjeldus, üritab Tomi selle ise luua. Kirjelduste loomiseks saadetakse pildid Tomi'ile. Võite selle seadetes igal ajal välja lülitada.</translation>
+<translation id="8266560134891435528">Tomi ei saa teie paroole kontrollida, kuna te pole sisse logitud</translation>
+<translation id="8276522524898344151">Tomi üritab kopeerida paroole.</translation>
+<translation id="8290862415967981663">Tomi blokeeris faili, kuna see võib olla ohtlik.</translation>
+<translation id="8330519371938183845">Logige sisse, et Tomi kõigis oma seadmetes sünkroonida ja isikupärastada</translation>
+<translation id="8340674089072921962">Kasutaja <ph name="USER_EMAIL_ADDRESS" /> kasutas varem Tomii</translation>
+<translation id="8357820681460164151">Selleks et oma Tomii brauseri sisule kõigis oma seadmetes juurde pääseda, logige sisse ja lülitage siis sisse sünkroonimine</translation>
+<translation id="8360718212975266891">Tomii tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi Windows 10 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi Windows 8.</translation>
+<translation id="8417404458978023919">{0,plural, =1{Käivitage Tomi uuesti päeva jooksul}other{Käivitage Tomi uuesti # päeva jooksul}}</translation>
+<translation id="8453117565092476964">Installeri arhiiv on rikutud või kehtetu. Laadige Tomi uuesti alla.</translation>
+<translation id="8463672209299734063">Valikuline. Aidake Tomi OS-i funktsioone ning toimivust täiustada, saates Tomi'ile automaatselt diagnostika- ja kasutusandmeid.</translation>
+<translation id="8493179195440786826">Tomi on aegunud</translation>
 <translation id="8550334526674375523">See tööprofiil on teie isiklikust profiilist täielikult eraldi.</translation>
-<translation id="8558383651099478961">Sinu vanem lülitas valiku „Saitide, rakenduste ja laienduste load” Decentri puhul välja. Laienduse <ph name="EXTENSION_TYPE_PARAMETER" /> lubamine on keelatud.</translation>
-<translation id="8561285221328166383">Decentri tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi macOS 10.13 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi macOS 10.12.</translation>
-<translation id="8568283329061645092">Decentr saab teie paroole kontrollida siis, kui logite sisse oma Decentr'i kontoga</translation>
-<translation id="8574036838419011058">Kui see on sisse lülitatud, säästab Decentr akutoidet, piirates taustal toimuvaid tegevusi ja visuaalseid efekte, nagu sujuv kerimine ja video kaadrisagedus. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
-<translation id="8586442755830160949">Autoriõigus <ph name="YEAR" /> The Decentr Authors. Kõik õigused on kaitstud.</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Kuidas neid andmeid kasutame?<ph name="END_BOLD" /> Saidid võivad talletada Decentrissse teavet teie huvide kohta. Näiteks kui külastate saiti, et osta maratoni jooksmiseks jalatseid, võib sait määratleda teie huviks maratonijooksu. Kui külastate hiljem jooksule registreerumiseks muud saiti, võib see sait näidata teile teie huvide alusel jooksujalatsite reklaami.</translation>
-<translation id="8619360774459241877">Decentri käivitamine …</translation>
-<translation id="8621669128220841554">Installimine ebaõnnestus tundmatu vea tõttu. Laadige Decentr uuesti alla.</translation>
-<translation id="8697124171261953979">Lisaks juhib see seda, mis leht kuvatakse Decentri käivitamisel või omnikastikeses otsingu tegemisel.</translation>
-<translation id="8704119203788522458">See on teie Decentr</translation>
-<translation id="8796602469536043152">Decentr vajab selle saidi puhul luba, et teie kaamerale ja mikrofonile juurde pääseda</translation>
-<translation id="8833697763442816810">Decentr OS-i süsteem</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Milliseid andmeid kasutatakse?<ph name="END_BOLD" /> Teie sirvimisajalugu, selles seadmes Decentriga külastatud saitide andmed.</translation>
+<translation id="8558383651099478961">Sinu vanem lülitas valiku „Saitide, rakenduste ja laienduste load” Tomii puhul välja. Laienduse <ph name="EXTENSION_TYPE_PARAMETER" /> lubamine on keelatud.</translation>
+<translation id="8561285221328166383">Tomii tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi macOS 10.13 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi macOS 10.12.</translation>
+<translation id="8568283329061645092">Tomi saab teie paroole kontrollida siis, kui logite sisse oma Tomi'i kontoga</translation>
+<translation id="8574036838419011058">Kui see on sisse lülitatud, säästab Tomi akutoidet, piirates taustal toimuvaid tegevusi ja visuaalseid efekte, nagu sujuv kerimine ja video kaadrisagedus. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
+<translation id="8586442755830160949">Autoriõigus <ph name="YEAR" /> The Tomi Authors. Kõik õigused on kaitstud.</translation>
+<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Kuidas neid andmeid kasutame?<ph name="END_BOLD" /> Saidid võivad talletada Tomiissse teavet teie huvide kohta. Näiteks kui külastate saiti, et osta maratoni jooksmiseks jalatseid, võib sait määratleda teie huviks maratonijooksu. Kui külastate hiljem jooksule registreerumiseks muud saiti, võib see sait näidata teile teie huvide alusel jooksujalatsite reklaami.</translation>
+<translation id="8619360774459241877">Tomii käivitamine …</translation>
+<translation id="8621669128220841554">Installimine ebaõnnestus tundmatu vea tõttu. Laadige Tomi uuesti alla.</translation>
+<translation id="8697124171261953979">Lisaks juhib see seda, mis leht kuvatakse Tomii käivitamisel või omnikastikeses otsingu tegemisel.</translation>
+<translation id="8704119203788522458">See on teie Tomi</translation>
+<translation id="8796602469536043152">Tomi vajab selle saidi puhul luba, et teie kaamerale ja mikrofonile juurde pääseda</translation>
+<translation id="8833697763442816810">Tomi OS-i süsteem</translation>
+<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Milliseid andmeid kasutatakse?<ph name="END_BOLD" /> Teie sirvimisajalugu, selles seadmes Tomiiga külastatud saitide andmed.</translation>
 <translation id="8862326446509486874">Teil ei ole süsteemi tasemel installimiseks sobivaid õigusi. Proovige installijat administraatorina uuesti käivitada.</translation>
-<translation id="8880203542552872219">Sellisel juhul muutke Decentris oma salvestatud parooli, et see ühtiks teie uue parooliga.</translation>
-<translation id="8897323336392112261">Lisaks juhib see seda, mis leht kuvatakse Decentri käivitamisel või avalehe nupul klõpsamisel.</translation>
-<translation id="8907580949721785412">Decentr proovib kuvada paroole. Selle lubamiseks sisestage Windowsi parool.</translation>
-<translation id="8931379085695076764">Decentr suudab prognoosida teie huvisid, võttes aluseks teie viimase mõne nädala sirvimisajaloo. See teave jääb teie seadmesse.</translation>
-<translation id="8941642502866065432">Decentri ei saa värskendada</translation>
-<translation id="897581876605952338">Decentr Enterprise'i logo</translation>
+<translation id="8880203542552872219">Sellisel juhul muutke Tomiis oma salvestatud parooli, et see ühtiks teie uue parooliga.</translation>
+<translation id="8897323336392112261">Lisaks juhib see seda, mis leht kuvatakse Tomii käivitamisel või avalehe nupul klõpsamisel.</translation>
+<translation id="8907580949721785412">Tomi proovib kuvada paroole. Selle lubamiseks sisestage Windowsi parool.</translation>
+<translation id="8931379085695076764">Tomi suudab prognoosida teie huvisid, võttes aluseks teie viimase mõne nädala sirvimisajaloo. See teave jääb teie seadmesse.</translation>
+<translation id="8941642502866065432">Tomii ei saa värskendada</translation>
+<translation id="897581876605952338">Tomi Enterprise'i logo</translation>
 <translation id="8986207147630327271">Lisate sellesse brauserisse tööprofiili ja annate administraatorile kontrolli vaid oma tööprofiili üle.</translation>
-<translation id="9019929317751753759">Decentri turvalisemaks muutmiseks keelasime järgmise laienduse, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ja mis võidi lisada teie teadmata.</translation>
-<translation id="9022552996538154597">Logige Decentri sisse</translation>
-<translation id="9089354809943900324">Decentr on aegunud</translation>
-<translation id="9093206154853821181">{0,plural, =1{Decentr käivitatakse uuesti tunni aja pärast}other{Decentr käivitatakse uuesti # tunni pärast}}</translation>
-<translation id="9106612006984859720">Decentri tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi Windows 10 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi Windows 8.1.</translation>
-<translation id="91086099826398415">Ava link Decentri uuel &amp;vahekaardil</translation>
+<translation id="9019929317751753759">Tomii turvalisemaks muutmiseks keelasime järgmise laienduse, mida ei leidu veebipoes <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ja mis võidi lisada teie teadmata.</translation>
+<translation id="9022552996538154597">Logige Tomii sisse</translation>
+<translation id="9089354809943900324">Tomi on aegunud</translation>
+<translation id="9093206154853821181">{0,plural, =1{Tomi käivitatakse uuesti tunni aja pärast}other{Tomi käivitatakse uuesti # tunni pärast}}</translation>
+<translation id="9106612006984859720">Tomii tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi Windows 10 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi Windows 8.1.</translation>
+<translation id="91086099826398415">Ava link Tomii uuel &amp;vahekaardil</translation>
 <translation id="911206726377975832">Kas kustutada ka teie sirvimisandmed?</translation>
-<translation id="9144490074902256427">Prooviperioodidel saate vaadata ja eemaldada huvipakkuvaid teemasid, mida saidid teile reklaamide näitamiseks kasutavad. Decentr prognoosib teie huvisid teie hiljutise sirvimisajaloo põhjal.</translation>
-<translation id="9158494823179993217">Teie süsteemiadministraator on konfigureerinud Decentri avama alternatiivset brauserit, et saada juurdepääs lehele <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="9185526690718004400">Taaskäivitage &amp;Decentri värskendamiseks</translation>
-<translation id="9190841055450128916">Decentr (mDNS-In)</translation>
-<translation id="93478295209880648">Decentr ei pruugi õigesti töötada, kuna seda ei toetata enam Windows XP-s ega Windows Vistas</translation>
-<translation id="942598560705308788">Decentri hallatavad sertifikaadid</translation>
-<translation id="945990405696787151">Decentri tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi macOS 10.13 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi OS X 10.11.</translation>
-<translation id="965162752251293939">Kes kasutab Decentri?</translation>
-<translation id="967427899662692980">Hankige Decentri parimad turbefunktsioonid</translation>
-<translation id="9792300276217204">Saidi andmed kustutatakse alati seadmest, kui Decentri sulgete</translation>
-<translation id="985602178874221306">The Decentr Authors</translation>
+<translation id="9144490074902256427">Prooviperioodidel saate vaadata ja eemaldada huvipakkuvaid teemasid, mida saidid teile reklaamide näitamiseks kasutavad. Tomi prognoosib teie huvisid teie hiljutise sirvimisajaloo põhjal.</translation>
+<translation id="9158494823179993217">Teie süsteemiadministraator on konfigureerinud Tomii avama alternatiivset brauserit, et saada juurdepääs lehele <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="9185526690718004400">Taaskäivitage &amp;Tomii värskendamiseks</translation>
+<translation id="9190841055450128916">Tomi (mDNS-In)</translation>
+<translation id="93478295209880648">Tomi ei pruugi õigesti töötada, kuna seda ei toetata enam Windows XP-s ega Windows Vistas</translation>
+<translation id="942598560705308788">Tomii hallatavad sertifikaadid</translation>
+<translation id="945990405696787151">Tomii tulevaste värskenduste saamiseks on teil vaja operatsioonisüsteemi macOS 10.13 või uuemat versiooni. See arvuti kasutab operatsioonisüsteemi OS X 10.11.</translation>
+<translation id="965162752251293939">Kes kasutab Tomii?</translation>
+<translation id="967427899662692980">Hankige Tomii parimad turbefunktsioonid</translation>
+<translation id="9792300276217204">Saidi andmed kustutatakse alati seadmest, kui Tomii sulgete</translation>
+<translation id="985602178874221306">The Tomi Authors</translation>
 </translationbundle>

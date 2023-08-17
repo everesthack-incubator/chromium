@@ -80,7 +80,7 @@
   "pdv_consent": {
     "banned": {
       "label": "Banned",
-      "tooltip": "You've been banned. Please contact the Decentr support team"
+      "tooltip": "You've been banned. Please contact the Tomi support team"
     },
     "confirm": "Confirm",
     "hint": "You’ll be able to change this later in the user settings page.",
@@ -116,13 +116,13 @@
   "success_page": {
     "done": "Done",
     "hint": {
-      "label": "Decentr can't recover your seed phrase!"
+      "label": "Tomi can't recover your seed phrase!"
     },
-    "subtitle": "Keep your seed phrase safe and remember that it's the only key to all you have on Decentr.",
+    "subtitle": "Keep your seed phrase safe and remember that it's the only key to all you have on Tomi.",
     "tips": {
       "tip1": "Save the backup in multiple places and never share the phrase with anyone.",
-      "tip2": "Be careful of phishing! No one from Decentr will ever ask for your seed phrase!",
-      "tip3": "If you have questions or see something suspicious, email <a href='mailto:support@decentr.net'>support@decentr.net</a>."
+      "tip2": "Be careful of phishing! No one from Tomi will ever ask for your seed phrase!",
+      "tip3": "If you have questions or see something suspicious, email <a href='mailto:support@tomi.net'>support@tomi.net</a>."
     },
     "title": "Congratulations, you're all set!"
   }

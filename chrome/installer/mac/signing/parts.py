@@ -224,7 +224,7 @@ def sign_chrome(paths, config, sign_framework=False):
         # signing the Current version.
         # https://developer.apple.com/library/content/technotes/tn2206/_index.html#//apple_ref/doc/uid/DTS40007919-CH1-TNTAG13
         for name, part in parts.items():
-            if name in ('app', 'framework', 'privileged-helper', 'wg_host', 'DecentrUpdater'):
+            if name in ('app', 'framework', 'privileged-helper', 'wg_host', 'TomiUpdater'):
                 continue
             signing.sign_part(paths, config, part)
 

@@ -959,7 +959,7 @@ void TabHoverCardBubbleView::BraveUpdateCardContent(const Tab* tab){
     std::u16string new_domain = domain;
     base::ReplaceFirstSubstringAfterOffset(
         &new_domain, 0ul, kChromeUISchemeU16,
-        base::ASCIIToUTF16(content::kDecentrUIScheme));
+        base::ASCIIToUTF16(content::kTomiUIScheme));
     domain_label_->SetText(new_domain, /*is_filename*/ false);
   }
 }

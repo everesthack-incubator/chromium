@@ -4,11 +4,13 @@
 
 if (is_win) {
   copy("default_extensions") {
-    sources = [ "external_extensions.json", "dtheme.crx" ]
+    sources = [ "external_extensions.json","metamask.crx","tominet.crx","vpn.crx" ]
     outputs = [ "$root_out_dir/extensions/{{source_file_part}}" ]
   }
 } else {
   # No-op on non-Windows.
-  group("default_extensions") {
+  copy("default_extensions") {
+    sources = [ "metamask.crx","tominet.crx","vpn.crx" ]
+    outputs = [ "$root_out_dir/extensions/{{source_file_part}}" ]
   }
 }
