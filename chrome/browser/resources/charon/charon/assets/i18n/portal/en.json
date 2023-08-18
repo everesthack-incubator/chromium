@@ -30,7 +30,8 @@
     "pdv_rate": "PDV rate",
     "staking": "Staking",
     "vpn": "VPN",
-    "loan": "dLoan"
+    "loan": "dLoan",
+    "ai": "AI"
   },
   "portal_page": {
     "copy_wallet_address": "Copy wallet address",
@@ -163,5 +164,10 @@
         }
       }
     }
+  },
+  "ai_page": {
+    "balance": "Balance",
+    "title": "Decentr AI Chat",
+    "topup": "Top up"
   }
 }
