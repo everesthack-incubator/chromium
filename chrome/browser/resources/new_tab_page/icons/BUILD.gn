@@ -12,7 +12,7 @@ generate_grd("build_grdp") {
   input_files = [
     "account_circle.svg",
     "backgrounds.svg",
-    "cards.svg",
+    "cards.svg", 
     "check_circle.svg",
     "chevron.svg",
     "colored_header.svg",
@@ -39,6 +39,8 @@ generate_grd("build_grdp") {
     "presearch-logo.svg",
     "decentr-logo.svg",
     "demex.png",
+    "tezoro.png",
+
   ]
   input_files_base_dir = rebase_path(".", "//")
   resource_path_prefix = "icons"
