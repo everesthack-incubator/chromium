@@ -28,10 +28,6 @@ files_to_sign = [
   "vulkan-1.dll",
   "swiftshader/libEGL.dll",
   "swiftshader/libGLESv2.dll",
-  "wg_install/WG_tomi_host.exe",
-  "wg_install/tomi_wg_communicator.exe",
-
-  
 ]
 
 # Change the current working directory to the script's directory
