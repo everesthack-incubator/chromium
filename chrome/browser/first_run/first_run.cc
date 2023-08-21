@@ -349,22 +349,6 @@ void CreateSentinelIfNeeded() {
   std::ignore = GetFirstRunSentinelCreationTime();
 }
 
-#if BUILDFLAG(IS_MAC)
-void CreateWgHostlIfNeeded()
-{
-  base::FilePath wg_path;
-
-  const base::FilePath::CharType WG_HOST_PATH[] = FILE_PATH_LITERAL("NativeMessagingHosts/com.tomi.wireguard.json");
-  
-  base::FilePath user_data_dir;
-  if (!base::PathService::Get(chrome::DIR_USER_DATA, &user_data_dir))
-    return;
-  wg_path = user_data_dir.Append(WG_HOST_PATH);
-
-    base::WriteFile(wg_path, " {\"name\": \"com.tomi.wireguard\",\"description\":\"Native messaging WireGuard host\",\"path\":\"/Applications/Tomi.app/Contents/Frameworks/Tomi Framework.framework/Helpers/wg_host\",\"type\": \"stdio\",\"allowed_origins\":[\"chrome-extension://jmcganicnoomocjmplooahfffkaipbnn/\"]}");
-
-}
-#endif
 
 base::Time GetFirstRunSentinelCreationTime() {
   if (g_cached_sentinel_creation_time.is_null())
