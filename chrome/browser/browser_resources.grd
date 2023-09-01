@@ -99,6 +99,7 @@
       <include name="IDR_CHARON_MANIFEST" file="resources\charon\manifest.json" type="BINDATA" />
       <include name="IDR_DBLOCK_MANIFEST" file="resources\dblock\manifest.json" type="BINDATA" />
       <include name="IDR_COSMOS_MANIFEST" file="resources\cosmos\manifest.json" type="BINDATA" />
+      <include name="IDR_TDNS_MANIFEST" file="resources\tdns\manifest.json" type="BINDATA" />
       <if expr="is_chromeos">
         <include name="IDR_ECHO_MANIFEST" file="resources\chromeos\echo\manifest.json" type="BINDATA" />
       </if>

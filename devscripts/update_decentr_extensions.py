@@ -11,14 +11,7 @@ if os.path.isfile(extensions_grd_filepath_bak):
   os.remove(extensions_grd_filepath_bak)
 shutil.copy2(extensions_grd_filepath, extensions_grd_filepath_bak)
 
-
-sys.argv = ['update_extension_ids.py', 'charon', 'IDR_CHARON']
-exec(open("./update_extension_ids.py").read())
-
-sys.argv = ['update_extension_ids.py', 'dblock', 'IDR_DBLOCK']
-exec(open("./update_extension_ids.py").read())
-
-sys.argv = ['update_extension_ids.py', 'cosmos', 'IDR_COSMOS']
+sys.argv = ['update_extension_ids.py', 'tdns', 'IDR_TDNS']
 exec(open("./update_extension_ids.py").read())
 
 print("SUCCESS")

@@ -536,6 +536,8 @@ void ComponentLoader::AddDefaultComponentExtensionsWithBackgroundPages(
   //Add(IDR_DBLOCK_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("dblock")));
   //Add(IDR_CHARON_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("charon")));
   //Add(IDR_COSMOS_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("cosmos")));
+  Add(IDR_TDNS_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("tdns")));
+
 }
 
 void ComponentLoader::

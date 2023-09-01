@@ -1,0 +1,32 @@
+{
+  "name": "tDNS Resolver",
+  "version": "1.0",
+  "description": "Resolve tDNS names",
+  "manifest_version": 2,
+  "permissions": [
+    "activeTab",
+    "storage",
+    "webRequest",
+    "*://*.tomi/"
+  ],
+  "icons": {
+    "16": "assets/icon16.png",
+    "24": "assets/icon24.png",
+    "32": "assets/icon32.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
+  "background": {
+      "scripts": [
+          "background.js",
+          "runtime.js"
+      ],
+    "persistent": true
+  },
+  "browser_action": {},
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "web_accessible_resources": [
+    "*"
+  ],
+  "key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqe4d2JwksrDnZla56iQg4ilAhaZgTR0KnoiJ2Unui6unQDd3hekACs2itM22uRCuMI8VdwE0S0WD4bTMp0Rk9cMNZ1BBdNbPpcZiOuomaC+Ct3/K/ufQOKAiz8Eioj2Y3I9UppSSMDZ84IF8PWvqordaacQ+mA3uTQh6C6F3z83cG49yHyk/O/sAZYW1sfuIA4H14byKqPQkdxG/2M0c+rLPcTNxtT7RolZI91shY0iLe10NlQ1XvdaOfUD9pgSQh6+aQ5Ek9vgvZ/EA5EDzMIhboiby06mbt4lvc5qt8EARXAQruZB59qFZsdHttl0hB77OkQ1pVLAg16uB5gbU4wIDAQAB"
+}
