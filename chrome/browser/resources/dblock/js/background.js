@@ -137,7 +137,7 @@ const µBlock = (( ) => { // jshint ignore:line
             'opera-scheme',
             'vivaldi-scheme',
             'wyciwyg-scheme',   // Firefox's "What-You-Cache-Is-What-You-Get"
-            'tomi.net',
+            'tomi.com',
             'tomi.xyz',
             'ping.pub',
             'osmosis.zone',

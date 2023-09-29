@@ -2553,8 +2553,8 @@ gfx::Rect MenuController::CalculateBubbleMenuBounds(
 
     // First the size gets reduced to the possible space.
     if (!monitor_bounds.IsEmpty()) {
-      int max_width = monitor_bounds.width();
-      int max_height = monitor_bounds.height();
+      int max_width = monitor_bounds.width()-200;
+      int max_height = monitor_bounds.height()-200;
       // In case of bubbles, the maximum width is limited by the space
       // between the display corner and the target area + the tip size.
       if (is_bubble || is_win11_menu ||

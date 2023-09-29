@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
   <id>Tomi.desktop</id>
-  <update_contact>tomi-dev@tomi.net</update_contact>
+  <update_contact>tomi-dev@tomi.com</update_contact>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>BSD-3-Clause and LGPL-2.1+ and Apache-2.0 and IJG and MIT and GPL-2.0+ and ISC and OpenSSL and (MPL-1.1 or GPL-2.0 or LGPL-2.0)</project_license>
   <name>Decenter</name>
@@ -13,15 +13,15 @@
     and more stable way to experience the web.
     </p>
   </description>
-  <url type="homepage">https://www.tomi.net</url>
+  <url type="homepage">https://www.tomi.com</url>
   <screenshots>
     <screenshot type="default">
-      <image>https://tomi.net/assets/img/video-preview.png</image>
+      <image>https://tomi.com/assets/img/video-preview.png</image>
       <caption/>
     </screenshot>
   </screenshots>
   <translation/>
   <developer_name>Tomi.net</developer_name>
-  <url type="bugtracker">https://www.tomi.net</url>
-  <url type="help">https://support.tomi.net/</url>
+  <url type="bugtracker">https://www.tomi.com</url>
+  <url type="help">https://www.tomi.com</url>
 </component>

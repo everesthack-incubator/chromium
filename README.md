@@ -3,7 +3,7 @@
 Tomi is an open-source browser project that aims to build a safer, faster,
 and more stable way for all users to experience the web.
 
-The project's web site is https://tomi.net/.
+The project's web site is https://tomi.com/.
 
 # How to check out the code
 1. To check out the source code locally, don't use `git clone`! Instead,

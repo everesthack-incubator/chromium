@@ -187,9 +187,9 @@
     on-keydown="onInputWrapperKeydown_">
   <input id="input" type="search" autocomplete="off" spellcheck="false"
       aria-live="[[inputAriaLive_]]" role="combobox"
-      placeholder="Search or type a URL"
-      on-copy="onInputCutCopy_" on-cut="onInputCutCopy_"
-      on-focus="onInputFocus_" on-blur="onInputBlur_" on-input="onInputInput_"
+      aria-expanded="[[matchesAreVisible]]" aria-controls="matches"
+      placeholder="$i18n{searchBoxHint}" on-copy="onInputCutCopy_"
+      on-cut="onInputCutCopy_" on-focus="onInputFocus_" on-input="onInputInput_"
       on-keydown="onInputKeydown_" on-keyup="onInputKeyup_"
       on-mousedown="onInputMouseDown_" on-paste="onInputPaste_">
   <cr-realbox-icon id="icon" match="[[selectedMatch_]]"
