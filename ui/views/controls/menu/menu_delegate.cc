@@ -143,7 +143,7 @@ MenuItemView* MenuDelegate::GetSiblingMenu(MenuItemView* menu,
 int MenuDelegate::GetMaxWidthForMenu(MenuItemView* menu) {
   // NOTE: this needs to be large enough to accommodate the wrench menu with
   // big fonts.
-  return 800;
+  return 400;
 }
 
 void MenuDelegate::WillShowMenu(MenuItemView* menu) {}

@@ -51,7 +51,7 @@
         "scripts/content-api-script.js"
       ],
       "matches": [
-        "*://*.tomi.net/*"
+        "*://*.tomi.com/*"
       ],
       "run_at": "document_start"
     }

@@ -32,5 +32,5 @@ FULLDESC="Tomi is a browser that combines a minimal design with sophisticated te
 # Package maintainer information.
 # TODO(mmoss) Setup a mailbox for this address
 MAINTNAME="tomi Linux Team"
-MAINTMAIL="linux-packager@tomi.net"
-PRODUCTURL="http://www.tomi.net/"
+MAINTMAIL="linux-packager@tomi.com"
+PRODUCTURL="http://www.tomi.com/"
