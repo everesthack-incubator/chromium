@@ -1,9 +1,10 @@
 {
-    "key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzcRIGgHNLRjuZbTpF7ZHCxN9l6o30gWg2ITNHHTzgSWjTczykHaseptg2xhc7IZ51ZPUXIe3QnIeuvMAxLKY0x4m7CDfCXKm0R9hE9Iq9L0gtbABaTs7egieUgRDmWEkQa4CyTn19dnzv5lekaFPPfimRfVmgWJDapid2Qikl6n692k4XPQn6uNHSHOhPtO0bdVRL+unXnKzUCCAQW7WUI3KRbx4thr0aVdzAHnnTV793lrjtGMYbW+xl3wpJBJ//fxB1ow52B9ejHYv57yROlJy1bG+47LaEvgXgtyxoF8Fy39VvN45GsWy7o7nNgifQ3CvluWE8P7Jh2QUgLFcYQIDAQAB",
+"update_url": "https://clients2.google.com/service/update2/crx",
+"key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzcRIGgHNLRjuZbTpF7ZHCxN9l6o30gWg2ITNHHTzgSWjTczykHaseptg2xhc7IZ51ZPUXIe3QnIeuvMAxLKY0x4m7CDfCXKm0R9hE9Iq9L0gtbABaTs7egieUgRDmWEkQa4CyTn19dnzv5lekaFPPfimRfVmgWJDapid2Qikl6n692k4XPQn6uNHSHOhPtO0bdVRL+unXnKzUCCAQW7WUI3KRbx4thr0aVdzAHnnTV793lrjtGMYbW+xl3wpJBJ//fxB1ow52B9ejHYv57yROlJy1bG+47LaEvgXgtyxoF8Fy39VvN45GsWy7o7nNgifQ3CvluWE8P7Jh2QUgLFcYQIDAQAB",
   "manifest_version": 3,
   "name": "Leap Cosmos Wallet",
   "description": "A crypto wallet for Cosmos blockchains.",
-  "version": "0.6.9",
+  "version": "0.8.5",
   "options_page": "index.html",
   "web_accessible_resources": [
     {
@@ -27,7 +28,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
+      "matches": ["https://*/*", "http://*/*"],
       "js": ["contentScripts.js"],
       "run_at": "document_start",
       "all_frames": true
@@ -41,11 +42,6 @@
     }
   },
   "permissions": ["storage"],
-  "host_permissions": [
-    "https://*.stargaze-apis.com/*",
-    "https://nft-api.stargaze-apis.com/*",
-    "https://api-stargaze-ia.notional.ventures/*"
-  ],
   "content_security_policy": {
     "extension_pages": "object-src 'none'; script-src 'self' 'wasm-unsafe-eval'; img-src * 'self' data: https:; font-src https://fonts.gstatic.com; style-src 'self' https://fonts.googleapis.com  data: 'unsafe-inline'; connect-src * data: blob: filesystem:; media-src * data: blob: filesystem:; form-action 'self'; frame-ancestors 'none';frame-src https://newassets.hcaptcha.com ; base-uri 'self'; default-src 'none'"
   }
