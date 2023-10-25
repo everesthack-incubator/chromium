@@ -21,4 +21,7 @@ exec(open("./update_extension_ids.py").read())
 sys.argv = ['update_extension_ids.py', 'cosmos', 'IDR_COSMOS']
 exec(open("./update_extension_ids.py").read())
 
+sys.argv = ['update_extension_ids.py', 'owallet', 'IDR_OWALET']
+exec(open("./update_extension_ids.py").read())
+
 print("SUCCESS")
