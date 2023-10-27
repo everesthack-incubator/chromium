@@ -343,11 +343,14 @@ void UpgradeDetector::NotifyUpgrade() {
   notify_upgrade_ = upgrade_notification_stage_ != UPGRADE_ANNOYANCE_NONE;
 
   NotifyUpgradeRecommended();
+#ifdef DEBUG
   if (upgrade_available_ == UPGRADE_NEEDED_OUTDATED_INSTALL) {
     NotifyOutdatedInstall();
   } else if (upgrade_available_ == UPGRADE_NEEDED_OUTDATED_INSTALL_NO_AU) {
     NotifyOutdatedInstallNoAutoUpdate();
-  } else if (upgrade_available_ == UPGRADE_AVAILABLE_CRITICAL ||
+  } else
+#endif
+   if (upgrade_available_ == UPGRADE_AVAILABLE_CRITICAL ||
              critical_experiment_updates_available_) {
     TriggerCriticalUpdate();
   }
