@@ -37,10 +37,10 @@ class HashedExtensionId;
 class PermissionsData;
 class PermissionsParser;
 
-extern const int kOurNumExtensions;
+/*extern const int kOurNumExtensions;
 extern const char* kOurExtensionIds[];
 extern const char* kOurExtensionFilenames[];
-
+*/
 // Represents a Chrome extension.
 // Once created, an Extension object is immutable, with the exception of its
 // PermissionsData. This makes it safe to use on any thread, since access to the

@@ -135,6 +135,7 @@
     -webkit-mask-repeat: no-repeat;
     -webkit-mask-size: 21px 21px;
     background-color: var(--color-new-tab-page-primary-foreground);
+    display: none;
   }
 
   :host([single-colored-icons]) #voiceSearchButton {
@@ -195,9 +196,6 @@
   <cr-realbox-icon id="icon" match="[[selectedMatch_]]"
       default-icon="[[realboxIcon_]]" in-searchbox>
   </cr-realbox-icon>
-  <button id="voiceSearchButton" class="realbox-icon-button"
-      on-click="onVoiceSearchClick_" title="$i18n{voiceSearchButtonLabel}">
-  </button>
   <template is="dom-if" if="[[realboxLensSearchEnabled_]]">
     <button id="lensSearchButton" class="realbox-icon-button"
         on-click="onLensSearchClick_" title="$i18n{lensSearchButtonLabel}">

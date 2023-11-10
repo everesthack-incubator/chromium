@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Go Incognito: Options</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body{margin:10px auto 40px;font-family:"Open Sans",sans-serif!important;font-size:19px;max-width:800px;padding:10px 20px 20px;line-height:30px}
+    a{text-decoration:none;color:#dc143c}
+    a:visited{color:#dc143c}
+    h1{color:#dc143c}
+    #status{color:#dc143c}
+    td{padding:1em}
+    select{font-size:16px}
+    button{background-color:green;border:none;color:#fff;padding:20px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;margin:4px 2px;cursor:pointer;border-radius:12px;margin-top:20px;min-width:100px}
+    button:focus{outline:0}
+  </style>
+</head>
+
+<body>
+  <h1>Go Incognito: Options</h1>
+  <p>&nbsp;</p>
+  <div>
+    <p>What to do with the current tab after opening it in the incognito mode?</p>
+    <table>
+      <tr>
+        <td>Close the tab?:</td>
+        <td>
+          <select id="close">
+            <option value="yes">Yes </option>
+            <option value="no">Don't close </option>
+          </select>
+        </td>
+      </tr>
+      <tr>
+        <td>Remove from history?:</td>
+        <td>
+          <select id="history">
+            <option value="yes">Yes </option>
+            <option value="no">Don't remove </option>
+          </select>
+        </td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+    <table>
+      <tr>
+        <td>Open incognito tab in: </td>
+        <td>
+          <select id="state">
+            <option value="maximized">Maximized Window </option>
+            <option value="normal">Normal Window </option>
+          </select>
+        </td>
+      </tr>
+    </table>    
+  </div>
+  
+  <button id="save" style="margin-top: 20px;">Save Options</button> &nbsp; <span id="status" style="color: red;"></span>
+  <p>&nbsp;</p>
+  <hr/>
+  <p>Like this extension? <a href="https://chrome.google.com/webstore/detail/oimfnddepdafdfmammggkfmdepfmipai/reviews" target="_blank">Rate it 5-stars</a> on Chrome Web Store.</p>
+  <p>Extension by <a href="https://browsernative.com/go-incognito/" target="_blank" title="Have feedback? Visit our home page.">BrowserNative</a></p>
+  
+  <script src="js/options.js"></script>
+</body>
+
+</html>

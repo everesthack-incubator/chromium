@@ -1,0 +1,31 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "static/19.png",
+         "38": "static/38.png"
+      },
+      "default_title": "Go tomiNet"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+I"
+         }
+      }
+   },
+   "description": "Opens new TomiNet Window",
+   "icons": {
+      "128": "static/128.png",
+      "16": "static/16.png",
+      "48": "static/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzEeFM1s6YkpY8JjHovIB31PhbsJU9ZPVoVKBF19CQ7TKuDtn58ld5UJJ/nvE4Xjao1A8NPtfElsKNLfT+RFYIQurUk1ixcW11DREqSJK7YuVqaZpTv2xcjuec/OWzMDqVUwv0RD8SSvmwDYD54SDozLtfJjdtpxK5kYgF/MaINwDgQsuDykRg+jUCl5QvN8xCt6cXHs3ctnBbcDBat2VhaoQ1R4ujutFIJKS4qS8TAlGArF1OSouZp6G++bbhAQ2JoSyQJPZBKToZDfR3A6CuRpd/z6KgilnRMQuaAd4/eojANNT4UZ9ssa8uCKxZMavr4sRitu+6m/OTkBAq89a1QIDAQAB",
+   "manifest_version": 2,
+   "name": "Go TomiNet",
+   "permissions": [ "contextMenus", "activeTab", "history" ],
+   "version": "0.0.7"
+}

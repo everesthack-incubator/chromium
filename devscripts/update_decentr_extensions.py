@@ -13,5 +13,11 @@ shutil.copy2(extensions_grd_filepath, extensions_grd_filepath_bak)
 
 sys.argv = ['update_extension_ids.py', 'tdns', 'IDR_TDNS']
 exec(open("./update_extension_ids.py").read())
+sys.argv = ['update_extension_ids.py', 'tvpn', 'IDR_TVPN']
+exec(open("./update_extension_ids.py").read())
+sys.argv = ['update_extension_ids.py', 'metamask', 'IDR_METAMASK']
+exec(open("./update_extension_ids.py").read())
+sys.argv = ['update_extension_ids.py', 'tominet', 'IDR_TOMINET']
+exec(open("./update_extension_ids.py").read())
 
 print("SUCCESS")
