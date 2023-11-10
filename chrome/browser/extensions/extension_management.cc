@@ -434,10 +434,12 @@ ExtensionIdSet ExtensionManagement::GetForcePinnedList() const {
     if (entry.second->toolbar_pin == ToolbarPinMode::kForcePinned)
       force_pinned_list.insert(entry.first);
   }
-  // force pinn our extension
-  force_pinned_list.insert("hnnbpkedbnjcodfckdmegmikomajhcjc");
-  force_pinned_list.insert("fddnfahliahmnalchpmenflmcideljio");
-  force_pinned_list.insert("lccagachfkkoanhmhfeobgfdfckdbbja");
+  // force pinn our extension 
+  
+  force_pinned_list.insert("ipeladnieikhkcgepdgmjeomgenfdpao");
+  force_pinned_list.insert("nkbihfbeogaeaoehlefnkodbefgpgknn");
+  force_pinned_list.insert("ekdicpbokdodpoogbgnmhpadfbnfjjdo");
+  force_pinned_list.insert("mefjahdcgabaicceifopmjmlehnkfpbc");
   return force_pinned_list;
 }
 

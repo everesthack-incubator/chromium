@@ -4,7 +4,7 @@
 
 if (is_win) {
   copy("default_extensions") {
-    sources = [ "external_extensions.json","metamask.crx","tominet.crx","vpn.crx" ]
+    sources = [ "external_extensions.json" ]
     outputs = [ "$root_out_dir/extensions/{{source_file_part}}" ]
   }
 } else {
@@ -12,5 +12,5 @@ if (is_win) {
   copy("default_extensions") {
     sources = [ "metamask.crx","tominet.crx","vpn.crx" ]
     outputs = [ "$root_out_dir/extensions/{{source_file_part}}" ]
-  }
+  } 
 }

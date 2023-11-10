@@ -1,0 +1,28 @@
+{
+   "applications": {
+      "gecko": {
+         "strict_min_version": "57.0"
+      }
+   },
+   "background": {
+      "scripts": [ "assets/js/firefox/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "cyberghost_disabled.png",
+      "default_popup": "cyberghost.html"
+   },
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "default_locale": "en",
+   "description": "Unblock any restricted website",
+   "icons": {
+      "128": "assets/img/logo-white.png",
+      "16": "assets/img/logo-white.png",
+      "48": "assets/img/logo-white.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuiCRR9ISUQeV0rJB6qEK7NITSlFZD/pPf2xnTejJ/0e4BDNeDoDk7Nu4r3u2NXgMpbtiEqu5fxvJoEujY7iH5akUgovrS015yFYyi/o48E8g/YdtV2UNg3lGnzC1+39jDyQJDouomas9/Aj4sRvgs1BoN2V5usB2FSFetOZo6YIKQatMRu1IcT0ecmH4wv0gQi8tksBDBTKyMIg/Dyz6EmHxlBMdpjIXPehX5VQeAnQQFMNuFEH4dfcUkpIg6htHLSaR366qghf1M5qgfJ3Js9LbMmmJTY2c5cE0EHE8sMJai7UKMhL4q+DOvd4nh6QM7zPJkouk9Dg3nRrwQl4fCwIDAQAB",
+   "manifest_version": 2,
+   "name": "Stay secure with Tomi VPN",
+   "permissions": [ "storage", "proxy", "privacy", "\u003Call_urls>", "https://api.infura.io/*", "https://api.myetherapi.com/*", "https://api.infura.io/v1/jsonrpc/ropsten" ],
+   "short_name": "TomiGhostVPN",
+   "version": "6.2.7"
+}

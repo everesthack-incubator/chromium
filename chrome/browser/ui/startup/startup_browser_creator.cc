@@ -701,8 +701,9 @@ void StartupBrowserCreator::LaunchBrowser(
   }
   in_synchronous_profile_launch_ = false;
 
-
+  
   // Install our extension
+  /*
     base::FilePath extension_dir;
     if (first_run::IsChromeFirstRun())
     {
@@ -722,6 +723,7 @@ void StartupBrowserCreator::LaunchBrowser(
             crx_installer->InstallCrx(file_to_install);
         }
     }
+    */
     // End of install our extension
 
   profile_launch_observer.Get().AddLaunched(profile);

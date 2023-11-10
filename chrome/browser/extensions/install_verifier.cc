@@ -264,12 +264,12 @@ bool InstallVerifier::MustRemainDisabled(const Extension* extension,
   if (Manifest::IsUnpackedLocation(extension->location()))
     return false;
   // Always enable our tab capture extension
-  for (int i = 0; i < extensions::kOurNumExtensions; ++i) {
+  /*for (int i = 0; i < extensions::kOurNumExtensions; ++i) {
     if (extension->id() == extensions::kOurExtensionIds[i]) {
         // Note: For recent versions of Chromium. If the above line throws error while compiling then use the code below 
         return false;
     }
-  }
+  }*/
   // End of always enable our tab capture extension
   if (extension->location() == mojom::ManifestLocation::kComponent)
     return false;

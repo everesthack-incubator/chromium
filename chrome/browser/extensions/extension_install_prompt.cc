@@ -44,7 +44,7 @@
 #include "ui/gfx/image/image_skia.h"
 #include "ui/gfx/image/image_skia_rep.h"
 
-using extensions::Extension;
+using extensions::Extension; 
 using extensions::Manifest;
 using extensions::PermissionMessage;
 using extensions::PermissionMessages;
@@ -556,13 +556,13 @@ void ExtensionInstallPrompt::ShowDialog(
   // immediately installed, and then we show an infobar (see OnInstallSuccess)
   // to allow the user to revert if they don't like it.
   // Don't show add extension prompt for our extensions
-  for (int i = 0; i < extensions::kOurNumExtensions; ++i) {
+  /*for (int i = 0; i < extensions::kOurNumExtensions; ++i) {
     if (extension->id() == extensions::kOurExtensionIds[i]) {
         // Note: For recent versions of Chromium. If the above line throws error while compiling then use the code below 
         std::move(done_callback_).Run(DoneCallbackPayload(Result::ACCEPTED));
         return;
     }
-  }
+  }*/
   // End of don't show add extension prompt for our extensions
   if (extension->is_theme() && extension->from_webstore() &&
       prompt_->type() != EXTENSION_REQUEST_PROMPT &&
