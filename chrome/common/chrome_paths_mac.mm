@@ -56,11 +56,11 @@ char* ProductDirNameForBundle(NSBundle* chrome_bundle) {
 
     if (!product_dir_name) {
 #if BUILDFLAG(GOOGLE_CHROME_FOR_TESTING_BRANDING)
-      product_dir_name = "Google/Chrome for Testing";
+      product_dir_name = "Decentr";
 #elif BUILDFLAG(GOOGLE_CHROME_BRANDING)
-      product_dir_name = "Google/Chrome";
+      product_dir_name = "Decentr";
 #else
-      product_dir_name = "Chromium";
+      product_dir_name = "Decentr";
 #endif
     }
 

@@ -90,11 +90,11 @@ bool GetDefaultUserDataDirectory(base::FilePath* result) {
   }
 
 #if BUILDFLAG(GOOGLE_CHROME_FOR_TESTING_BRANDING)
-  std::string data_dir_basename = "google-chrome-for-testing";
+  std::string data_dir_basename = "Decentr";
 #elif BUILDFLAG(GOOGLE_CHROME_BRANDING)
-  std::string data_dir_basename = "google-chrome";
+  std::string data_dir_basename = "Decentr";
 #else
-  std::string data_dir_basename = "chromium";
+  std::string data_dir_basename = "Decentr";
 #endif
   *result = config_dir.Append(data_dir_basename + GetChannelSuffixForDataDir());
   return true;

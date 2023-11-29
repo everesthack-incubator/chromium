@@ -692,9 +692,9 @@ FilePath FormatTemporaryFileName(FilePath::StringPieceType identifier) {
 #if BUILDFLAG(IS_APPLE)
   StringPiece prefix = base::apple::BaseBundleID();
 #elif BUILDFLAG(GOOGLE_CHROME_BRANDING)
-  StringPiece prefix = "com.google.Chrome";
+  StringPiece prefix = "com.Decentr.Decentr";
 #else
-  StringPiece prefix = "org.chromium.Chromium";
+  StringPiece prefix = "com.Decentr.Decentr";
 #endif
   return FilePath(StrCat({".", prefix, ".", identifier}));
 }

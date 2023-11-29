@@ -22,15 +22,15 @@ const NSSearchPathDirectory kSearchPath = NSLibraryDirectory;
 // the file with this filename is the documented way to set initial preferences,
 // so changing this filename will require some care.
 // See https://crbug.com/1097204 for details.
-const char kInitialPreferencesDirectory[] = "Google";
-const char kInitialPreferencesFileName[] = "Google Chrome Initial Preferences";
+const char kInitialPreferencesDirectory[] = "Decentr";
+const char kInitialPreferencesFileName[] = "Decentr Initial Preferences";
 const char kLegacyInitialPreferencesFileName[] =
-    "Google Chrome Master Preferences";
+    "Decentr Master Preferences";
 #else
 const NSSearchPathDirectory kSearchPath = NSApplicationSupportDirectory;
-const char kInitialPreferencesDirectory[] = "Chromium";
-const char kInitialPreferencesFileName[] = "Chromium Initial Preferences";
-const char kLegacyInitialPreferencesFileName[] = "Chromium Master Preferences";
+const char kInitialPreferencesDirectory[] = "Decentr";
+const char kInitialPreferencesFileName[] = "Decentr Initial Preferences";
+const char kLegacyInitialPreferencesFileName[] = "Decentr Master Preferences";
 #endif  // BUILDFLAG(GOOGLE_CHROME_BRANDING)
 
 }  // namespace
