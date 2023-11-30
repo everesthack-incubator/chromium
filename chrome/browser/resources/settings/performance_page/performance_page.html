@@ -29,12 +29,17 @@
     display: flex;
     justify-content: space-between;
   }
+
+  #learn-more {
+    display: none;
+  }
+
 </style>
 <settings-toggle-button id="toggleButton" on-change="onChange_"
     pref="{{prefs.performance_tuning.high_efficiency_mode.state}}"
     label="$i18n{highEfficiencyModeLabel}"
     sub-label="$i18n{highEfficiencyModeDescription}"
-    learn-more-url="$i18n{highEfficiencyLearnMoreUrl}"
+    
     numeric-unchecked-value="[[highEfficiencyModeStateEnum_.DISABLED]]"
     numeric-checked-value="[[toggleButtonCheckedValue_(
         isHighEfficiencyMultistateModeEnabled_)]]">
