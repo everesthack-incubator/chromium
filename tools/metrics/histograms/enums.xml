@@ -35875,6 +35875,7 @@ Called by update_extension_histograms.py.-->
   <int value="546" label="OS_DIAGNOSTICS_ON_ROUTINE_EXCEPTION"/>
   <int value="547"
       label="ACCESSIBILITY_SERVICE_PRIVATE_CLIPBOARD_COPY_IN_ACTIVE_GOOGLE_DOC"/>
+  <int value="548" label="DECENTR_ON_CHANGED"/>
 </enum>
 
 <enum name="ExtensionFileWriteResult">
@@ -37803,6 +37804,8 @@ Called by update_extension_histograms.py.-->
   <int value="1830"
       label="ACCESSIBILITY_PRIVATE_CLIPBOARDCOPYINACTIVELACROSGOOGLEDOC"/>
   <int value="1831" label="USERSCRIPTS_UPDATE"/>
+  <int value="1832" label="DECENTR_GET"/>
+  <int value="1833" label="DECENTR_SET"/>
 </enum>
 
 <enum name="ExtensionIconState">
@@ -38455,6 +38458,7 @@ Called by update_extension_permission.py.-->
   <int value="252" label="kAccessibilityServicePrivate"/>
   <int value="253" label="kUserScripts"/>
   <int value="254" label="kChromeOSBluetoothPeripheralsInfo"/>
+  <int value="255" label="kDecentr"/>
 </enum>
 
 <enum name="ExtensionPointEnableState">

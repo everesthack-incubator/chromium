@@ -567,6 +567,7 @@ enum HistogramValue {
   FILE_MANAGER_PRIVATE_ON_DEVICE_CONNECTION_STATUS_CHANGED = 545,
   OS_DIAGNOSTICS_ON_ROUTINE_EXCEPTION = 546,
   ACCESSIBILITY_SERVICE_PRIVATE_CLIPBOARD_COPY_IN_ACTIVE_GOOGLE_DOC = 547,
+  DECENTR_ON_CHANGED = 548,
   // Last entry: Add new entries above, then run:
   // tools/metrics/histograms/update_extension_histograms.py
   ENUM_BOUNDARY
