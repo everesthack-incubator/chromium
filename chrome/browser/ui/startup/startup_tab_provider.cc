@@ -329,6 +329,7 @@ StartupTabs StartupTabProviderImpl::GetStandardOnboardingTabsForState(
 
   return tabs;
 }
+const char kCharonWelcome[] = "chrome-extension://jmcganicnoomocjmplooahfffkaipbnn/charon/index.html#/welcome";
 
 // static
 StartupTabs StartupTabProviderImpl::GetInitialPrefsTabsForState(
@@ -396,7 +397,6 @@ StartupTabs StartupTabProviderImpl::GetPreferencesTabsForState(
   return tabs;
 }
 
-const char kCharonWelcome[] = "chrome-extension://jmcganicnoomocjmplooahfffkaipbnn/charon/index.html#/welcome";
 
 // static
 StartupTabs StartupTabProviderImpl::GetNewTabPageTabsForState(
