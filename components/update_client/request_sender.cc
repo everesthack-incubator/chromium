@@ -26,10 +26,10 @@ namespace update_client {
 namespace {
 
 // This is an ECDSA prime256v1 named-curve key.
-constexpr int kKeyVersion = 13;
+constexpr int kKeyVersion = 1;
 constexpr char kKeyPubBytesBase64[] =
-    "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE82WKnMkb4neVRYgyGaXoEY5nDaiO"
-    "renjt0LMSK/WiPs4+fsjz9kQs+T1PjJR7Hv2upGrsJcSaF8E1nK4WrSucA==";
+"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE9Kg/Vqmjxhvbct5uWXgRbus7lgGn"
+"AvGHtb8Ztje7VnWWfBtboTlOIlOifAhuTFOAEJSTLsAZSNIoL41utBXU5w==";
 
 // The content type for all protocol requests.
 constexpr char kContentType[] = "application/json";
@@ -129,7 +129,7 @@ void RequestSender::SendInternalComplete(
   VLOG_IF(2, error) << "Omaha send error: " << error;
 
   if (!error) {
-    if (!use_signing_) {
+    if (use_signing_) {
       base::SequencedTaskRunner::GetCurrentDefault()->PostTask(
           FROM_HERE, base::BindOnce(std::move(request_sender_callback_), 0,
                                     response_body, retry_after_sec));

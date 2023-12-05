@@ -293,9 +293,9 @@ const char* BaseBundleID() {
   }
 
 #if BUILDFLAG(GOOGLE_CHROME_BRANDING)
-  return "com.Decentr.decentr";
+  return "com.Decentr.Decentr";
 #else
-  return "com.Decentr.decentr";
+  return "com.Decentr.Decentr";
 #endif
 }
 

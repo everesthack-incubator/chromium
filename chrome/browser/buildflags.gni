@@ -10,5 +10,5 @@ declare_args() {
 
   # Detect updates and notify the user for Google Chrome across all platforms.
   # Chromium does not use an auto-updater.
-  enable_update_notifications = is_chrome_branded
+  enable_update_notifications = true
 }
