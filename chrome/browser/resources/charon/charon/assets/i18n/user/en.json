@@ -93,6 +93,7 @@
     "copy_wallet_address": "Copy wallet address",
     "delegate": "Delegate",
     "send": "Send",
+    "topup": "Top Up",
     "wallet_address_copied": "The wallet address was copied successfully",
     "your_wallet": "Your wallet"
   },

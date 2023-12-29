@@ -70,6 +70,8 @@ def sign_part(paths, config, part):
             be in |paths.work|.
     """
     command = ['codesign', '--sign', config.identity]
+    path = os.path.join(paths.work, part.path)
+    
     command.append('--force')
     if config.notary_user:
         # Assume if the config has notary authentication information that the
