@@ -1172,9 +1172,9 @@ class AppControllerNativeThemeObserver : public ui::NativeThemeObserver {
         case IDC_NEW_WINDOW:
           enable = canOpenNewBrowser;
           break;
-        case IDC_CONTENT_CONTEXT_TDNS:
-          enable = canOpenNewBrowser;
-          break;
+        //case IDC_CONTENT_CONTEXT_TDNS:
+        //  enable = canOpenNewBrowser;
+        //  break;
         case IDC_TASK_MANAGER:
           enable = YES;
           break;
@@ -1446,7 +1446,7 @@ class AppControllerNativeThemeObserver : public ui::NativeThemeObserver {
   _menuState = std::make_unique<CommandUpdaterImpl>(nullptr);
   _menuState->UpdateCommandEnabled(IDC_NEW_TAB, true);
   _menuState->UpdateCommandEnabled(IDC_NEW_WINDOW, true);
-  _menuState->UpdateCommandEnabled(IDC_CONTENT_CONTEXT_TDNS, true);
+  //_menuState->UpdateCommandEnabled(IDC_CONTENT_CONTEXT_TDNS, true);
   _menuState->UpdateCommandEnabled(IDC_NEW_INCOGNITO_WINDOW, true);
   _menuState->UpdateCommandEnabled(IDC_OPEN_FILE, true);
   _menuState->UpdateCommandEnabled(IDC_CLEAR_BROWSING_DATA, true);
