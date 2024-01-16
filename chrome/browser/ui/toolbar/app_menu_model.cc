@@ -428,6 +428,11 @@ void AppMenuModel::LogMenuMetrics(int command_id) {
         UMA_HISTOGRAM_MEDIUM_TIMES("WrenchMenu.TimeToAction.NewWindow", delta);
       LogMenuAction(MENU_ACTION_NEW_WINDOW);
       break;
+      case IDC_CONTENT_CONTEXT_TDNS:
+      if (!uma_action_recorded_)
+        UMA_HISTOGRAM_MEDIUM_TIMES("WrenchMenu.TimeToAction.NewWindow", delta);
+      LogMenuAction(MENU_ACTION_NEW_WINDOW);
+      break;
     case IDC_NEW_INCOGNITO_WINDOW:
       if (!uma_action_recorded_) {
         UMA_HISTOGRAM_MEDIUM_TIMES("WrenchMenu.TimeToAction.NewIncognitoWindow",
@@ -866,6 +871,8 @@ void AppMenuModel::Build() {
   if (AddGlobalErrorMenuItems() || need_separator)
     AddSeparator(ui::NORMAL_SEPARATOR);
 
+  AddItemWithStringId(IDC_CONTENT_CONTEXT_TDNS, IDS_CONTENT_CONTEXT_TDNS);
+  AddSeparator(ui::NORMAL_SEPARATOR);
   AddItemWithStringId(IDC_NEW_TAB, browser_->profile()->IsIncognitoProfile()
                                        ? IDS_NEW_INCOGNITO_TAB
                                        : IDS_NEW_TAB);
