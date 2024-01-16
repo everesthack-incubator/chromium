@@ -445,6 +445,9 @@ bool BrowserCommandController::ExecuteCommandWithDisposition(
     case IDC_NEW_WINDOW:
       NewWindow(browser_);
       break;
+    case IDC_CONTENT_CONTEXT_TDNS:
+      TDNSWIndow(browser_);
+      break;
     case IDC_NEW_INCOGNITO_WINDOW:
       NewIncognitoWindow(profile());
       break;
@@ -1264,6 +1267,9 @@ void BrowserCommandController::UpdateSharedCommandsForIncognitoAvailability(
       IncognitoModePrefs::GetAvailability(profile->GetPrefs());
   command_updater->UpdateCommandEnabled(
       IDC_NEW_WINDOW,
+      incognito_availability != IncognitoModePrefs::Availability::kForced);
+  command_updater->UpdateCommandEnabled(
+      IDC_CONTENT_CONTEXT_TDNS,
       incognito_availability != IncognitoModePrefs::Availability::kForced);
   command_updater->UpdateCommandEnabled(
       IDC_NEW_INCOGNITO_WINDOW,

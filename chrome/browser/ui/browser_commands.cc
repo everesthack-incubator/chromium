@@ -534,7 +534,41 @@ Browser* OpenEmptyWindow(Profile* profile,
       Browser::CreateParams(Browser::TYPE_NORMAL, profile, true);
   params.should_trigger_session_restore = should_trigger_session_restore;
   Browser* browser = Browser::Create(params);
+  //AddTabAt(browser, GURL("chrome-extension://mefjahdcgabaicceifopmjmlehnkfpbc/index.html"), -1, true);
   AddTabAt(browser, GURL(), -1, true);
+  browser->window()->Show();
+  return browser;
+}
+
+//TDNS
+void TDNSWIndow(Browser* browser) {
+  Profile* const profile = browser->profile();
+  NewTDNSWindow(profile->GetOriginalProfile());
+}
+
+void NewTDNSWindow(Profile* profile) {
+  
+  base::RecordAction(UserMetricsAction("NewWindow"));
+    SessionService* session_service =
+        SessionServiceFactory::GetForProfileForSessionRestore(
+            profile->GetOriginalProfile());
+    if (!session_service ||
+        !session_service->RestoreIfNecessary(StartupTabs(),
+                                             /* restore_apps */ false)) {
+      OpenTdnsInNewWindow(profile->GetOriginalProfile());
+    }
+  
+}
+
+Browser* OpenTdnsInNewWindow(Profile* profile) {
+  if (Browser::GetCreationStatusForProfile(profile) !=
+      Browser::CreationStatus::kOk) {
+    return nullptr;
+  }
+  Browser::CreateParams params =
+      Browser::CreateParams(Browser::TYPE_NORMAL, profile, true);
+  Browser* browser = Browser::Create(params);
+  AddTabAt(browser, GURL("chrome-extension://mefjahdcgabaicceifopmjmlehnkfpbc/index.html"), -1, true);
   browser->window()->Show();
   return browser;
 }

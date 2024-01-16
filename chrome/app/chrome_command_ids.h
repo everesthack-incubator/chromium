@@ -34,6 +34,7 @@
 
 // Window management commands
 #define IDC_NEW_WINDOW                  34000
+#define IDC_CONTENT_CONTEXT_TDNS                  340001
 #define IDC_NEW_INCOGNITO_WINDOW        34001
 #define IDC_PIN_TO_START_SCREEN         34005
 #define IDC_CLOSE_WINDOW                34012
