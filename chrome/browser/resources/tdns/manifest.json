@@ -6,8 +6,11 @@
   "permissions": [
     "activeTab",
     "storage",
+    "*://*.tomi/",
     "webRequest",
-    "*://*.tomi/"
+    "webRequestBlocking",
+    "webNavigation",
+    "tabs"
   ],
   "icons": {
     "16": "assets/icon16.png",

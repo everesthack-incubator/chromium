@@ -772,6 +772,8 @@ bool AppMenuModel::IsCommandIdEnabled(int command_id) const {
   switch (command_id) {
     case IDC_NEW_INCOGNITO_WINDOW:
       return IncognitoModePrefs::IsIncognitoAllowed(browser_->profile());
+    case IDC_CONTENT_CONTEXT_TDNS:
+      return true;
     default:
       return chrome::IsCommandEnabled(browser_, command_id);
   }
@@ -871,8 +873,10 @@ void AppMenuModel::Build() {
   if (AddGlobalErrorMenuItems() || need_separator)
     AddSeparator(ui::NORMAL_SEPARATOR);
 
+  if (!browser_->profile()->IsOffTheRecord()) {
   AddItemWithStringId(IDC_CONTENT_CONTEXT_TDNS, IDS_CONTENT_CONTEXT_TDNS);
   AddSeparator(ui::NORMAL_SEPARATOR);
+  }
   AddItemWithStringId(IDC_NEW_TAB, browser_->profile()->IsIncognitoProfile()
                                        ? IDS_NEW_INCOGNITO_TAB
                                        : IDS_NEW_TAB);
