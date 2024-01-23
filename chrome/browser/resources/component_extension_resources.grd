@@ -533,7 +533,6 @@
 
       <include name="IDR_TDNS_001" file="tdns/favicon.ico" type="BINDATA" />
       <include name="IDR_TDNS_002" file="tdns/index.html" type="BINDATA" />
-      <include name="IDR_TDNS_003" file="tdns/.DS_Store" type="BINDATA" />
       <include name="IDR_TDNS_004" file="tdns/runtime.js" type="BINDATA" />
       <include name="IDR_TDNS_005" file="tdns/styles.css" type="BINDATA" />
       <include name="IDR_TDNS_006" file="tdns/background.js" type="BINDATA" />
