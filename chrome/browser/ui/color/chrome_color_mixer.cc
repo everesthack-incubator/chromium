@@ -675,3 +675,38 @@ void AddChromeColorMixer(ui::ColorProvider* provider,
   mixer[ui::kColorFrameActive] = {SkColorSetRGB(0x0C, 0x0C, 0x17)};
   mixer[ui::kColorFrameInactive] = {SkColorSetRGB(0x0C, 0x0C, 0x17)};
 }
+
+void AddTdnsThemeColorMixer(ui::ColorProvider* provider,
+                           const ui::ColorProviderManager::Key& key) {
+  
+
+  ui::ColorMixer& mixer = provider->AddMixer();
+
+  mixer[kColorNewTabButtonBackgroundFrameActive] = {ui::kColorFrameActive};
+  mixer[kColorNewTabButtonBackgroundFrameInactive] = {ui::kColorFrameInactive};
+  mixer[kColorNewTabPageBackground] = {SkColorSetRGB(0,0,0)};
+  
+  mixer[kColorTabBackgroundActiveFrameActive] = {SkColorSetRGB(172, 0, 88)};
+
+  mixer[kColorTabBackgroundActiveFrameInactive] = {kColorTabBackgroundActiveFrameActive};
+
+  mixer[kColorTabBackgroundInactiveFrameActive] = {ui::kColorFrameActive};
+  mixer[kColorTabBackgroundInactiveFrameInactive] = {ui::kColorFrameInactive};
+
+  mixer[kColorTabForegroundActiveFrameActive] = {
+      SkColorSetRGB(0xff, 0xff, 0xff)};
+  mixer[kColorTabForegroundActiveFrameInactive] = {
+      SkColorSetRGB(0xff, 0xff, 0xff)};
+  mixer[kColorTabForegroundInactiveFrameActive] = {
+      SkColorSetRGB(0xff, 0xff, 0xff)};
+  mixer[kColorToolbar] = {
+      SkColorSetRGB(172, 0, 88)};
+  mixer[kColorToolbarButtonIcon] = {
+      SkColorSetRGB(0xFF,0xff, 0xff)};
+  mixer[kColorToolbarButtonIconInactive] = {
+      ui::SetAlpha(kColorToolbarButtonIcon, kBraveDisabledControlAlpha)};
+  mixer[kColorToolbarContentAreaSeparator] = {kColorToolbar};
+  mixer[ui::kColorFrameActive] = {SkColorSetRGB(0, 0, 0)};
+  mixer[ui::kColorFrameInactive] = {SkColorSetRGB(0,0,0)};
+}
+

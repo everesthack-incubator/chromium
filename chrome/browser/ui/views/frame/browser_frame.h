@@ -11,6 +11,7 @@
 #include "ui/base/pointer/touch_ui_controller.h"
 #include "ui/views/context_menu_controller.h"
 #include "ui/views/widget/widget.h"
+#include "base/memory/scoped_refptr.h"
 
 #if BUILDFLAG(IS_LINUX) || BUILDFLAG(IS_CHROMEOS_LACROS)
 #include "ui/base/ui_base_types.h"
@@ -23,6 +24,7 @@ class BrowserView;
 class NativeBrowserFrame;
 class NonClientFrameView;
 class SystemMenuModelBuilder;
+class CustomThemeSupplier;
 
 namespace content {
 struct NativeWebKeyboardEvent;
@@ -210,6 +212,7 @@ class BrowserFrame : public views::Widget, public views::ContextMenuController {
   // contents for smoother dragging.
   TabDragKind tab_drag_kind_ = TabDragKind::kNone;
 
+  scoped_refptr<CustomThemeSupplier> theme_supplier_;
 #if BUILDFLAG(IS_LINUX) || BUILDFLAG(IS_CHROMEOS_LACROS)
   ui::WindowTiledEdges tiled_edges_;
 #endif
