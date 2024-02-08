@@ -14,7 +14,7 @@
     <includes>
       <include name="IDR_NETWORK_SPEECH_SYNTHESIS_JS" file="network_speech_synthesis/tts_extension.js" type="BINDATA" />
 
-      <if expr="chromeos_ash">
+      <if expr="chromeos_ash"> 
         <include name="IDR_BRAILLE_IME_JS" file="chromeos/accessibility/braille_ime/braille_ime.js" type="BINDATA" />
         <include name="IDR_BRAILLE_IME_MAIN_JS" file="chromeos/accessibility/braille_ime/main.js" type="BINDATA" />
       </if>
@@ -531,7 +531,7 @@
       <include name="IDR_COSMOS_043" file="cosmos/icons/icon-word.svg" type="BINDATA" />
       <include name="IDR_COSMOS_044" file="cosmos/icons/icon-128.png" type="BINDATA" />
 
-      <include name="IDR_TDNS_001" file="tdns/favicon.ico" type="BINDATA" />
+      <include name="IDR_TDNS_001" file="tdns/favicon_1.ico" type="BINDATA" />
       <include name="IDR_TDNS_002" file="tdns/index.html" type="BINDATA" />
       <include name="IDR_TDNS_004" file="tdns/runtime.js" type="BINDATA" />
       <include name="IDR_TDNS_005" file="tdns/styles.css" type="BINDATA" />
