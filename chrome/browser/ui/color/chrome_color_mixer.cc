@@ -693,6 +693,22 @@ void AddTdnsThemeColorMixer(ui::ColorProvider* provider,
   mixer[kColorTabBackgroundInactiveFrameActive] = {ui::kColorFrameActive};
   mixer[kColorTabBackgroundInactiveFrameInactive] = {ui::kColorFrameInactive};
 
+  mixer[kColorOmniboxResultsBackground] = {SkColorSetRGB(109, 0, 56)};
+  mixer[kColorLocationBarBackground] = {SkColorSetRGB(109, 0, 56)};
+  mixer[kColorLocationBarBackgroundHovered] = {SkColorSetRGB(109, 0, 56)};
+  
+  mixer[kColorOmniboxResultsBackgroundSelected] = {SkColorSetRGB(109, 0, 56)};
+
+mixer[kColorExtensionDialogBackground] = {SkColorSetRGB(109, 0, 56)};
+mixer[kColorExtensionsToolbarControlsBackground] = {SkColorSetRGB(109, 0, 56)};
+mixer[kColorBookmarkBarBackground] = {SkColorSetRGB(109, 0, 56)};
+mixer[kColorDownloadBubbleInfoBackground] = {SkColorSetRGB(109, 0, 56)};
+mixer[kColorDownloadShelfBackground] = {SkColorSetRGB(109, 0, 56)};
+mixer[kColorInfoBarBackground] = {SkColorSetRGB(109, 0, 56)};
+
+
+
+
   mixer[kColorTabForegroundActiveFrameActive] = {
       SkColorSetRGB(0xff, 0xff, 0xff)};
   mixer[kColorTabForegroundActiveFrameInactive] = {

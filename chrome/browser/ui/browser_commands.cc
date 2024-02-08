@@ -569,8 +569,11 @@ Browser* OpenTdnsInNewWindow(Profile* profile) {
       Browser::CreateParams(Browser::TYPE_NORMAL, profile, true);
   Browser* browser = Browser::Create(params);
   browser->tomiNet=true;
+  browser->window()->SetFocusToLocationBar(true);
   AddTabAt(browser, GURL("chrome-extension://mefjahdcgabaicceifopmjmlehnkfpbc/index.html"), -1, true);
+  
   browser->window()->Show();
+  
   
   return browser;
 }
