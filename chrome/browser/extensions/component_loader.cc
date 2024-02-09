@@ -537,9 +537,6 @@ void ComponentLoader::AddDefaultComponentExtensionsWithBackgroundPages(
   //Add(IDR_CHARON_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("charon")));
   //Add(IDR_COSMOS_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("cosmos")));
   Add(IDR_TDNS_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("tdns")));
-  Add(IDR_METAMASK_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("metamask")));
-  Add(IDR_TOMINET_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("tominet")));
-  Add(IDR_TVPN_MANIFEST,      base::FilePath(FILE_PATH_LITERAL("tvpn")));
 
 }
 
