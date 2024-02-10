@@ -78,7 +78,7 @@
       </if>
 
       <include name="IDR_TDNS_001" file="tdns/favicon_1.ico" type="BINDATA" />
-      <include name="IDR_TDNS_002" file="tdns/index.html" type="BINDATA" />
+      <include name="IDR_TDNS_002" file="tdns/index.html" type="BINDATA" /> 
       <include name="IDR_TDNS_004" file="tdns/runtime.js" type="BINDATA" />
       <include name="IDR_TDNS_005" file="tdns/styles.css" type="BINDATA" />
       <include name="IDR_TDNS_006" file="tdns/background.js" type="BINDATA" />
