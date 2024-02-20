@@ -177,6 +177,7 @@ aggregate_vector_icons("chrome_vector_icons") {
     "webauthn/webauthn_error_dark.icon",
     "zoom_minus.icon",
     "zoom_plus.icon",
+    "product.icon"
   ]
 
   if (is_mac) {

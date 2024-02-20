@@ -436,7 +436,7 @@ ExtensionIdSet ExtensionManagement::GetForcePinnedList() const {
   }
   // force pinn our extension 
   
-  force_pinned_list.insert("mefjahdcgabaicceifopmjmlehnkfpbc");
+  //force_pinned_list.insert("mefjahdcgabaicceifopmjmlehnkfpbc");
   return force_pinned_list;
 }
 
