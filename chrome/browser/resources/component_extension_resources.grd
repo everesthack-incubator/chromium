@@ -77,21 +77,42 @@
         <include name="IDS_ARC_INPUT_OVERLAY_ONBOARDING_ILLUSTRATION_DARK" file="chromeos/arc_input_overlay/onboarding_illustration_dark.png" type="BINDATA" />
       </if>
 
-      <include name="IDR_TDNS_001" file="tdns/favicon_1.ico" type="BINDATA" />
-      <include name="IDR_TDNS_002" file="tdns/index.html" type="BINDATA" /> 
-      <include name="IDR_TDNS_004" file="tdns/runtime.js" type="BINDATA" />
-      <include name="IDR_TDNS_005" file="tdns/styles.css" type="BINDATA" />
-      <include name="IDR_TDNS_006" file="tdns/background.js" type="BINDATA" />
-      <include name="IDR_TDNS_007" file="tdns/3rdpartylicenses.txt" type="BINDATA" />
-      <include name="IDR_TDNS_008" file="tdns/polyfills.js" type="BINDATA" />
-      <include name="IDR_TDNS_009" file="tdns/main.js" type="BINDATA" />
-      <include name="IDR_TDNS_010" file="tdns/manifest.json" type="BINDATA" />
-      <include name="IDR_TDNS_011" file="tdns/assets/icon16.png" type="BINDATA" />
-      <include name="IDR_TDNS_012" file="tdns/assets/icons.gif" type="BINDATA" />
-      <include name="IDR_TDNS_013" file="tdns/assets/icon48.png" type="BINDATA" />
-      <include name="IDR_TDNS_014" file="tdns/assets/icon128.png" type="BINDATA" />
-      <include name="IDR_TDNS_015" file="tdns/assets/icon24.png" type="BINDATA" />
-      <include name="IDR_TDNS_016" file="tdns/assets/icon32.png" type="BINDATA" />
+      <include name="IDR_TDNS_001" file="tdns/search.svg" type="BINDATA" />
+      <include name="IDR_TDNS_002" file="tdns/background.svg" type="BINDATA" />
+      <include name="IDR_TDNS_003" file="tdns/Mada-Black.woff" type="BINDATA" />
+      <include name="IDR_TDNS_004" file="tdns/Mada-ExtraLight.woff" type="BINDATA" />
+      <include name="IDR_TDNS_005" file="tdns/favicon.ico" type="BINDATA" />
+      <include name="IDR_TDNS_006" file="tdns/index.html" type="BINDATA" />
+      <include name="IDR_TDNS_007" file="tdns/.DS_Store" type="BINDATA" />
+      <include name="IDR_TDNS_008" file="tdns/runtime.js" type="BINDATA" />
+      <include name="IDR_TDNS_009" file="tdns/Mada-SemiBold.woff" type="BINDATA" />
+      <include name="IDR_TDNS_010" file="tdns/styles.css" type="BINDATA" />
+      <include name="IDR_TDNS_011" file="tdns/background.js" type="BINDATA" />
+      <include name="IDR_TDNS_012" file="tdns/3rdpartylicenses.txt" type="BINDATA" />
+      <include name="IDR_TDNS_013" file="tdns/polyfills.js" type="BINDATA" />
+      <include name="IDR_TDNS_014" file="tdns/Mada-Bold.woff" type="BINDATA" />
+      <include name="IDR_TDNS_015" file="tdns/Mada-Regular.woff" type="BINDATA" />
+      <include name="IDR_TDNS_016" file="tdns/main.js" type="BINDATA" />
+      <include name="IDR_TDNS_017" file="tdns/Mada-Medium.woff" type="BINDATA" />
+      <include name="IDR_TDNS_018" file="tdns/Mada-Light.woff" type="BINDATA" />
+      <include name="IDR_TDNS_019" file="tdns/manifest.json" type="BINDATA" />
+      <include name="IDR_TDNS_020" file="tdns/Mada[wght].woff" type="BINDATA" />
+      <include name="IDR_TDNS_021" file="tdns/assets/search.svg" type="BINDATA" />
+      <include name="IDR_TDNS_022" file="tdns/assets/background.svg" type="BINDATA" />
+      <include name="IDR_TDNS_023" file="tdns/assets/icon16.png" type="BINDATA" />
+      <include name="IDR_TDNS_024" file="tdns/assets/icon48.png" type="BINDATA" />
+      <include name="IDR_TDNS_025" file="tdns/assets/icon128.png" type="BINDATA" />
+      <include name="IDR_TDNS_026" file="tdns/assets/logo.svg" type="BINDATA" />
+      <include name="IDR_TDNS_027" file="tdns/assets/icon24.png" type="BINDATA" />
+      <include name="IDR_TDNS_028" file="tdns/assets/icon32.png" type="BINDATA" />
+      <include name="IDR_TDNS_029" file="tdns/assets/fonts/Mada-Black.woff" type="BINDATA" />
+      <include name="IDR_TDNS_030" file="tdns/assets/fonts/Mada-ExtraLight.woff" type="BINDATA" />
+      <include name="IDR_TDNS_031" file="tdns/assets/fonts/Mada-SemiBold.woff" type="BINDATA" />
+      <include name="IDR_TDNS_032" file="tdns/assets/fonts/Mada-Bold.woff" type="BINDATA" />
+      <include name="IDR_TDNS_033" file="tdns/assets/fonts/Mada-Regular.woff" type="BINDATA" />
+      <include name="IDR_TDNS_034" file="tdns/assets/fonts/Mada-Medium.woff" type="BINDATA" />
+      <include name="IDR_TDNS_035" file="tdns/assets/fonts/Mada-Light.woff" type="BINDATA" />
+      <include name="IDR_TDNS_036" file="tdns/assets/fonts/Mada[wght].woff" type="BINDATA" />
 
       <include name="IDS_READ_ANYTHING_DEFAULT_PNG" file="side_panel/read_anything/images/read_anything_default.png" type="BINDATA" />
       <include name="IDS_READ_ANYTHING_LIGHT_PNG" file="side_panel/read_anything/images/read_anything_light.png" type="BINDATA" />
