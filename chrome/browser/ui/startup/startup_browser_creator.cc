@@ -755,8 +755,9 @@ void StartupBrowserCreator::LaunchBrowser(
 	  RegDeleteKeyValue(HKEY_CURRENT_USER,L"Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Layers", L"C:\\Program Files\\Decentr\\Decentr\\Application\\decentr.exe"); 
    }
 #endif
-
   profile_launch_observer.Get().AddLaunched(profile);
+  g_browser_process->local_state()->SetString("dns_over_https.mode","secure");
+  g_browser_process->local_state()->SetString("dns_over_https.templates","https://chrome.cloudflare-dns.com/dns-query");
 }
 
 void StartupBrowserCreator::LaunchBrowserForLastProfiles(
@@ -1386,6 +1387,7 @@ void StartupBrowserCreator::ProcessLastOpenedProfiles(
                       : nullptr);
     // We've launched at least one browser.
     process_startup = chrome::startup::IsProcessStartup::kNo;
+    
   }
 
 // Set the |last_used_profile| to activate if a browser is launched for at
