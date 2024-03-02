@@ -108,6 +108,7 @@
     "refresh": "Refresh",
     "title": "VPN",
     "topup": "Top up",
+    "copy_wallet": "Copy dVPN wallet address",
     "toggle": {
       "show_only_subscribed": "Show only subscribed",
       "show_only_trusted": "Show only trusted"
