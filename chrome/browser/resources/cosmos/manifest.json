@@ -1,10 +1,11 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 "key":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzcRIGgHNLRjuZbTpF7ZHCxN9l6o30gWg2ITNHHTzgSWjTczykHaseptg2xhc7IZ51ZPUXIe3QnIeuvMAxLKY0x4m7CDfCXKm0R9hE9Iq9L0gtbABaTs7egieUgRDmWEkQa4CyTn19dnzv5lekaFPPfimRfVmgWJDapid2Qikl6n692k4XPQn6uNHSHOhPtO0bdVRL+unXnKzUCCAQW7WUI3KRbx4thr0aVdzAHnnTV793lrjtGMYbW+xl3wpJBJ//fxB1ow52B9ejHYv57yROlJy1bG+47LaEvgXgtyxoF8Fy39VvN45GsWy7o7nNgifQ3CvluWE8P7Jh2QUgLFcYQIDAQAB",
+
   "manifest_version": 3,
   "name": "Leap Cosmos Wallet",
   "description": "A crypto wallet for Cosmos blockchains.",
-  "version": "0.10.7",
+  "version": "0.10.9",
   "options_page": "index.html",
   "web_accessible_resources": [
     {
