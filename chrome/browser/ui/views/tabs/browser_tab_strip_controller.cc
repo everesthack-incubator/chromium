@@ -470,7 +470,13 @@ void BrowserTabStripController::CreateNewTab() {
       browser_view_->browser()->profile());
   reopen_tab_iph->NewTabOpened();
 
-  model_->delegate()->AddTabAt(GURL(), -1, true);
+  auto url = GURL();
+  if(browser_view_->browser()->tomiNet)
+  { 
+     url = GURL("chrome-extension://mefjahdcgabaicceifopmjmlehnkfpbc/index.html");
+  }
+
+  model_->delegate()->AddTabAt(url, -1, true);
 }
 
 void BrowserTabStripController::CreateNewTabWithLocation(

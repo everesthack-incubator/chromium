@@ -20,14 +20,15 @@ files_to_sign = [
   "notification_helper.exe",
   "chrome.dll",
   "chrome_elf.dll",
+  "chrome_child.dll",
+  "chrome_wer.dll",
   "d3dcompiler_47.dll",
+  "eventlog_provider.dll",
   "libEGL.dll",
   "libGLESv2.dll",
   "mojo_core.dll",
   "vk_swiftshader.dll",
-  "vulkan-1.dll",
-  "swiftshader/libEGL.dll",
-  "swiftshader/libGLESv2.dll",
+  "vulkan-1.dll",  
 ]
 
 # Change the current working directory to the script's directory
@@ -93,16 +94,18 @@ for file in files_to_sign:
         args.append(arg)
     as_args = args.copy()
     as_args.append("/as")
+    args.append("/csp")
+    args.append("DigiCert Signing Manager KSP")
     args.append(file)
     as_args.append(file)
     subprocess.run(args)
-    subprocess.run(as_args)
+    
 
 # Change the current working directory to the src directory
 os.chdir(src_dir)
 
 # Pack mini_installer.exe
-subprocess.run(["ninja", "-C", out_dir, "mini_installer"])
+subprocess.run(["ninja.bat", "-C", out_dir, "mini_installer"])
 
 # Change the current working directory to the out directory
 os.chdir(out_dir)
@@ -113,6 +116,8 @@ for arg in sign_command:
     args.append(arg)
 as_args = args.copy()
 as_args.append("/as")
+args.append("/csp")
+args.append("DigiCert Signing Manager KSP")
 args.append("mini_installer.exe")
 as_args.append("mini_installer.exe")
 subprocess.run(args)

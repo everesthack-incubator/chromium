@@ -841,12 +841,18 @@ void NewTab(Browser* browser) {
       ReopenTabInProductHelpFactory::GetForProfile(browser->profile());
   reopen_tab_iph->NewTabOpened();
 
+  auto url = GURL();
+  if(browser->tomiNet)
+  { 
+     url = GURL("chrome-extension://mefjahdcgabaicceifopmjmlehnkfpbc/index.html");
+  }
+
   if (browser->SupportsWindowFeature(Browser::FEATURE_TABSTRIP)) {
-    AddTabAt(browser, GURL(), -1, true);
+    AddTabAt(browser, url, -1, true);
   } else {
     ScopedTabbedBrowserDisplayer displayer(browser->profile());
     Browser* b = displayer.browser();
-    AddTabAt(b, GURL(), -1, true);
+    AddTabAt(b, url, -1, true);
     b->window()->Show();
     // The call to AddBlankTabAt above did not set the focus to the tab as its
     // window was not active, so we have to do it explicitly.
