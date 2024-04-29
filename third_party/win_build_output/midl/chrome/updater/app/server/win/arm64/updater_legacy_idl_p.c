@@ -46,7 +46,7 @@
 
 #include "updater_legacy_idl.h"
 
-#define TYPE_FORMAT_STRING_SIZE   1177                              
+#define TYPE_FORMAT_STRING_SIZE   1133                              
 #define PROC_FORMAT_STRING_SIZE   4639                              
 #define EXPR_FORMAT_STRING_SIZE   1                                 
 #define TRANSMIT_AS_TABLE_SIZE    0            
@@ -5593,7 +5593,7 @@ static const updater_legacy_idl_MIDL_PROC_FORMAT_STRING updater_legacy_idl__MIDL
 
 /* 4190 */	NdrFcShort( 0x13 ),	/* Flags:  must size, must free, out, */
 /* 4192 */	NdrFcShort( 0x10 ),	/* ARM64 Stack size/offset = 16 */
-/* 4194 */	NdrFcShort( 0x464 ),	/* Type Offset=1124 */
+/* 4194 */	NdrFcShort( 0x41e ),	/* Type Offset=1054 */
 
 	/* Return value */
 
@@ -5712,7 +5712,7 @@ static const updater_legacy_idl_MIDL_PROC_FORMAT_STRING updater_legacy_idl__MIDL
 
 /* 4328 */	NdrFcShort( 0x13 ),	/* Flags:  must size, must free, out, */
 /* 4330 */	NdrFcShort( 0x8 ),	/* ARM64 Stack size/offset = 8 */
-/* 4332 */	NdrFcShort( 0x464 ),	/* Type Offset=1124 */
+/* 4332 */	NdrFcShort( 0x41e ),	/* Type Offset=1054 */
 
 	/* Return value */
 
@@ -5747,7 +5747,7 @@ static const updater_legacy_idl_MIDL_PROC_FORMAT_STRING updater_legacy_idl__MIDL
 
 /* 4370 */	NdrFcShort( 0x13 ),	/* Flags:  must size, must free, out, */
 /* 4372 */	NdrFcShort( 0x8 ),	/* ARM64 Stack size/offset = 8 */
-/* 4374 */	NdrFcShort( 0x47a ),	/* Type Offset=1146 */
+/* 4374 */	NdrFcShort( 0x438 ),	/* Type Offset=1080 */
 
 	/* Return value */
 
@@ -5823,7 +5823,7 @@ static const updater_legacy_idl_MIDL_PROC_FORMAT_STRING updater_legacy_idl__MIDL
 
 /* 4454 */	NdrFcShort( 0x10b ),	/* Flags:  must size, must free, in, simple ref, */
 /* 4456 */	NdrFcShort( 0x8 ),	/* ARM64 Stack size/offset = 8 */
-/* 4458 */	NdrFcShort( 0x492 ),	/* Type Offset=1170 */
+/* 4458 */	NdrFcShort( 0x466 ),	/* Type Offset=1126 */
 
 	/* Return value */
 
@@ -5877,7 +5877,7 @@ static const updater_legacy_idl_MIDL_PROC_FORMAT_STRING updater_legacy_idl__MIDL
 
 /* 4502 */	NdrFcShort( 0x10b ),	/* Flags:  must size, must free, in, simple ref, */
 /* 4504 */	NdrFcShort( 0x10 ),	/* ARM64 Stack size/offset = 16 */
-/* 4506 */	NdrFcShort( 0x492 ),	/* Type Offset=1170 */
+/* 4506 */	NdrFcShort( 0x466 ),	/* Type Offset=1126 */
 
 	/* Return value */
 
@@ -5923,7 +5923,7 @@ static const updater_legacy_idl_MIDL_PROC_FORMAT_STRING updater_legacy_idl__MIDL
 
 /* 4546 */	NdrFcShort( 0x10b ),	/* Flags:  must size, must free, in, simple ref, */
 /* 4548 */	NdrFcShort( 0x8 ),	/* ARM64 Stack size/offset = 8 */
-/* 4550 */	NdrFcShort( 0x492 ),	/* Type Offset=1170 */
+/* 4550 */	NdrFcShort( 0x466 ),	/* Type Offset=1126 */
 
 	/* Parameter cmd_id */
 
@@ -5932,7 +5932,7 @@ static const updater_legacy_idl_MIDL_PROC_FORMAT_STRING updater_legacy_idl__MIDL
 
 /* 4552 */	NdrFcShort( 0x10b ),	/* Flags:  must size, must free, in, simple ref, */
 /* 4554 */	NdrFcShort( 0x10 ),	/* ARM64 Stack size/offset = 16 */
-/* 4556 */	NdrFcShort( 0x492 ),	/* Type Offset=1170 */
+/* 4556 */	NdrFcShort( 0x466 ),	/* Type Offset=1126 */
 
 	/* Parameter caller_proc_id */
 
@@ -5998,7 +5998,7 @@ static const updater_legacy_idl_MIDL_PROC_FORMAT_STRING updater_legacy_idl__MIDL
 
 /* 4608 */	NdrFcShort( 0x10b ),	/* Flags:  must size, must free, in, simple ref, */
 /* 4610 */	NdrFcShort( 0x8 ),	/* ARM64 Stack size/offset = 8 */
-/* 4612 */	NdrFcShort( 0x492 ),	/* Type Offset=1170 */
+/* 4612 */	NdrFcShort( 0x466 ),	/* Type Offset=1126 */
 
 	/* Parameter server_proc_id */
 
@@ -6732,17 +6732,17 @@ static const updater_legacy_idl_MIDL_TYPE_FORMAT_STRING updater_legacy_idl__MIDL
 /* 1058 */	
 			0x2f,		/* FC_IP */
 			0x5a,		/* FC_CONSTANT_IID */
-/* 1060 */	NdrFcLong( 0x2a7d2ae7 ),	/* 712846055 */
-/* 1064 */	NdrFcShort( 0x8eee ),	/* -28946 */
-/* 1066 */	NdrFcShort( 0x45b4 ),	/* 17844 */
-/* 1068 */	0xb1,		/* 177 */
-			0x7f,		/* 127 */
-/* 1070 */	0x31,		/* 49 */
-			0xda,		/* 218 */
-/* 1072 */	0xac,		/* 172 */
-			0x82,		/* 130 */
-/* 1074 */	0xcc,		/* 204 */
-			0xbb,		/* 187 */
+/* 1060 */	NdrFcLong( 0xb5f81657 ),	/* -1242032553 */
+/* 1064 */	NdrFcShort( 0x809 ),	/* 2057 */
+/* 1066 */	NdrFcShort( 0x4dbf ),	/* 19903 */
+/* 1068 */	0x89,		/* 137 */
+			0xba,		/* 186 */
+/* 1070 */	0x1e,		/* 30 */
+			0x5f,		/* 95 */
+/* 1072 */	0xb6,		/* 182 */
+			0xf2,		/* 242 */
+/* 1074 */	0x89,		/* 137 */
+			0x89,		/* 137 */
 /* 1076 */	
 			0x11, 0x8,	/* FC_RP [simple_pointer] */
 /* 1078 */	0x6,		/* FC_SHORT */
@@ -6782,47 +6782,13 @@ static const updater_legacy_idl_MIDL_TYPE_FORMAT_STRING updater_legacy_idl__MIDL
 /* 1122 */	0x72,		/* 114 */
 			0xec,		/* 236 */
 /* 1124 */	
-			0x11, 0x10,	/* FC_RP [pointer_deref] */
-/* 1126 */	NdrFcShort( 0x2 ),	/* Offset= 2 (1128) */
-/* 1128 */	
-			0x2f,		/* FC_IP */
-			0x5a,		/* FC_CONSTANT_IID */
-/* 1130 */	NdrFcLong( 0x2a7d2ae7 ),	/* 712846055 */
-/* 1134 */	NdrFcShort( 0x8eee ),	/* -28946 */
-/* 1136 */	NdrFcShort( 0x45b4 ),	/* 17844 */
-/* 1138 */	0xb1,		/* 177 */
-			0x7f,		/* 127 */
-/* 1140 */	0x31,		/* 49 */
-			0xda,		/* 218 */
-/* 1142 */	0xac,		/* 172 */
-			0x82,		/* 130 */
-/* 1144 */	0xcc,		/* 204 */
-			0xbb,		/* 187 */
-/* 1146 */	
-			0x11, 0x10,	/* FC_RP [pointer_deref] */
-/* 1148 */	NdrFcShort( 0x2 ),	/* Offset= 2 (1150) */
-/* 1150 */	
-			0x2f,		/* FC_IP */
-			0x5a,		/* FC_CONSTANT_IID */
-/* 1152 */	NdrFcLong( 0x7e0a6b39 ),	/* 2114612025 */
-/* 1156 */	NdrFcShort( 0x7ceb ),	/* 31979 */
-/* 1158 */	NdrFcShort( 0x4944 ),	/* 18756 */
-/* 1160 */	0xab,		/* 171 */
-			0xfa,		/* 250 */
-/* 1162 */	0xf4,		/* 244 */
-			0x19,		/* 25 */
-/* 1164 */	0xd2,		/* 210 */
-			0x1,		/* 1 */
-/* 1166 */	0xd6,		/* 214 */
-			0xa0,		/* 160 */
-/* 1168 */	
 			0x11, 0x8,	/* FC_RP [simple_pointer] */
-/* 1170 */	
+/* 1126 */	
 			0x25,		/* FC_C_WSTRING */
 			0x5c,		/* FC_PAD */
-/* 1172 */	
+/* 1128 */	
 			0x11, 0xc,	/* FC_RP [alloced_on_stack] [simple_pointer] */
-/* 1174 */	0xb9,		/* FC_UINT3264 */
+/* 1130 */	0xb9,		/* FC_UINT3264 */
 			0x5c,		/* FC_PAD */
 
 			0x0
@@ -7091,7 +7057,7 @@ CInterfaceStubVtbl _IAppVersionWebSystemStubVtbl =
 
 
 /* Object interface: ICurrentState, ver. 0.0,
-   GUID={0xA643508B,0xB1E3,0x4457,{0x97,0x69,0x32,0xC9,0x53,0xBD,0x1D,0x57}} */
+   GUID={0x87a931b9,0x770b,0x4403,{0xa1,0xeb,0xa8,0xe8,0xf8,0xcb,0x18,0x92}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short ICurrentState_FormatStringOffsetTable[] =
@@ -7439,7 +7405,7 @@ CInterfaceStubVtbl _ICurrentStateSystemStubVtbl =
 
 
 /* Object interface: IGoogleUpdate3Web, ver. 0.0,
-   GUID={0xA35E1C5E,0x0A18,0x4FF1,{0x8C,0x4D,0xDD,0x8E,0xD0,0x7B,0x0B,0xD0}} */
+   GUID={0x0b0d10c8,0xd604,0x406d,{0x96,0xf7,0x21,0xfe,0x78,0x21,0x2c,0x50}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IGoogleUpdate3Web_FormatStringOffsetTable[] =
@@ -7643,7 +7609,7 @@ CInterfaceStubVtbl _IGoogleUpdate3WebSystemStubVtbl =
 
 
 /* Object interface: IAppBundleWeb, ver. 0.0,
-   GUID={0x0569DBB9,0xBAA0,0x48D5,{0x85,0x43,0x0F,0x3B,0xE3,0x0A,0x16,0x48}} */
+   GUID={0x3c027e5a,0xadc6,0x4d87,{0x93,0xb8,0x36,0x59,0x6b,0x50,0xa8,0x45}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IAppBundleWeb_FormatStringOffsetTable[] =
@@ -7991,7 +7957,7 @@ CInterfaceStubVtbl _IAppBundleWebSystemStubVtbl =
 
 
 /* Object interface: IAppWeb, ver. 0.0,
-   GUID={0x63D941DE,0xF67B,0x4E15,{0x8A,0x90,0x27,0x88,0x1D,0xA9,0xEF,0x4A}} */
+   GUID={0xfc0f00b9,0x36a6,0x47c1,{0xaa,0x51,0xa3,0xdc,0xba,0xb0,0x9c,0x01}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IAppWeb_FormatStringOffsetTable[] =
@@ -8276,7 +8242,7 @@ CInterfaceStubVtbl _IAppWebSystemStubVtbl =
 
 
 /* Object interface: IAppCommandWeb, ver. 0.0,
-   GUID={0x10A2D03F,0x8BC7,0x49DB,{0xA2,0x1E,0xA7,0xD4,0x42,0x9D,0x27,0x59}} */
+   GUID={0x87a649eb,0x2cc7,0x46c3,{0x82,0xea,0xb6,0x74,0xf5,0x68,0xb2,0xa4}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IAppCommandWeb_FormatStringOffsetTable[] =
@@ -8507,7 +8473,7 @@ CInterfaceStubVtbl _IAppCommandWebSystemStubVtbl =
 
 
 /* Object interface: IPolicyStatus, ver. 0.0,
-   GUID={0x6A54FE75,0xEDC8,0x404E,{0xA4,0x1B,0x42,0x78,0xC0,0x55,0x71,0x51}} */
+   GUID={0x973209b4,0x6d14,0x4865,{0x97,0x16,0x90,0x5a,0xee,0x40,0xeb,0xe4}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IPolicyStatus_FormatStringOffsetTable[] =
@@ -8783,7 +8749,7 @@ CInterfaceStubVtbl _IPolicyStatusSystemStubVtbl =
 
 
 /* Object interface: IPolicyStatusValue, ver. 0.0,
-   GUID={0x2A7D2AE7,0x8EEE,0x45B4,{0xB1,0x7F,0x31,0xDA,0xAC,0x82,0xCC,0xBB}} */
+   GUID={0xb5f81657,0x0809,0x4dbf,{0x89,0xba,0x1e,0x5f,0xb6,0xf2,0x89,0x89}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IPolicyStatusValue_FormatStringOffsetTable[] =
@@ -9023,7 +8989,7 @@ CInterfaceStubVtbl _IPolicyStatusValueSystemStubVtbl =
 
 
 /* Object interface: IPolicyStatus2, ver. 0.0,
-   GUID={0x06A6AA1E,0x2680,0x4076,{0xA7,0xCD,0x60,0x53,0x72,0x2C,0xF4,0x54}} */
+   GUID={0xb591952e,0x3ef9,0x4d50,{0xbf,0x39,0xef,0x3e,0x79,0x96,0x04,0x30}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IPolicyStatus2_FormatStringOffsetTable[] =
@@ -9362,7 +9328,7 @@ CInterfaceStubVtbl _IPolicyStatus2SystemStubVtbl =
 
 
 /* Object interface: IPolicyStatus3, ver. 0.0,
-   GUID={0x029BD175,0x5035,0x4E2A,{0x87,0x24,0xC9,0xD4,0x7F,0x4F,0xAE,0xA3}} */
+   GUID={0x778267d6,0x1b65,0x4170,{0xae,0x79,0x90,0x56,0xdd,0x3a,0x01,0x3b}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IPolicyStatus3_FormatStringOffsetTable[] =
@@ -10067,7 +10033,7 @@ CInterfaceStubVtbl _IPolicyStatus4SystemStubVtbl =
 
 
 /* Object interface: IProcessLauncher, ver. 0.0,
-   GUID={0x4779D540,0xF6A3,0x455F,{0xA9,0x29,0x7A,0xDF,0xE8,0x5B,0x6F,0x09}} */
+   GUID={0x97addc89,0xd368,0x4d88,{0x8f,0x01,0xcb,0x69,0xc4,0x02,0xfb,0xaf}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IProcessLauncher_FormatStringOffsetTable[] =
@@ -10175,7 +10141,7 @@ const CInterfaceStubVtbl _IProcessLauncherSystemStubVtbl =
 
 
 /* Object interface: IProcessLauncher2, ver. 0.0,
-   GUID={0x74F243B8,0x75D1,0x4E2D,{0xBC,0x89,0x56,0x89,0x79,0x8E,0xEF,0x3E}} */
+   GUID={0x76868039,0x4be2,0x40bf,{0xbb,0x96,0xa7,0x64,0x48,0x61,0xee,0xff}} */
 
 #pragma code_seg(".orpc")
 static const unsigned short IProcessLauncher2_FormatStringOffsetTable[] =
@@ -10323,35 +10289,35 @@ const CInterfaceProxyVtbl * const _updater_legacy_idl_ProxyVtblList[] =
     ( CInterfaceProxyVtbl *) &_IAppVersionWebUserProxyVtbl,
     ( CInterfaceProxyVtbl *) &_ICurrentStateUserProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IAppVersionWebSystemProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IPolicyStatus2ProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IPolicyStatus3SystemProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IPolicyStatus2SystemProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IPolicyStatus2ProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IGoogleUpdate3WebUserProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IPolicyStatusValueUserProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IAppCommandWebProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IProcessLauncherProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IProcessLauncher2ProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IProcessLauncherSystemProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IPolicyStatus4ProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IProcessLauncher2SystemProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IPolicyStatus2UserProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IGoogleUpdate3WebProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IPolicyStatusValueProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IAppBundleWebProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IPolicyStatusSystemProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IAppBundleWebSystemProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IAppCommandWebUserProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IPolicyStatus3ProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IPolicyStatusProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IAppWebSystemProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IAppVersionWebProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_ICurrentStateProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IProcessLauncherProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IGoogleUpdate3WebSystemProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IProcessLauncher2ProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IAppBundleWebProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IPolicyStatusProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IAppWebProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_ICurrentStateProxyVtbl,
     ( CInterfaceProxyVtbl *) &_ICurrentStateSystemProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IPolicyStatus4SystemProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IGoogleUpdate3WebProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IAppCommandWebSystemProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IAppWebProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IPolicyStatus3ProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IPolicyStatus3UserProxyVtbl,
-    ( CInterfaceProxyVtbl *) &_IPolicyStatusValueProxyVtbl,
+    ( CInterfaceProxyVtbl *) &_IAppCommandWebProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IPolicyStatus4UserProxyVtbl,
     ( CInterfaceProxyVtbl *) &_IAppBundleWebUserProxyVtbl,
     0
@@ -10365,35 +10331,35 @@ const CInterfaceStubVtbl * const _updater_legacy_idl_StubVtblList[] =
     ( CInterfaceStubVtbl *) &_IAppVersionWebUserStubVtbl,
     ( CInterfaceStubVtbl *) &_ICurrentStateUserStubVtbl,
     ( CInterfaceStubVtbl *) &_IAppVersionWebSystemStubVtbl,
-    ( CInterfaceStubVtbl *) &_IPolicyStatus2StubVtbl,
     ( CInterfaceStubVtbl *) &_IPolicyStatus3SystemStubVtbl,
     ( CInterfaceStubVtbl *) &_IPolicyStatus2SystemStubVtbl,
+    ( CInterfaceStubVtbl *) &_IPolicyStatus2StubVtbl,
     ( CInterfaceStubVtbl *) &_IGoogleUpdate3WebUserStubVtbl,
     ( CInterfaceStubVtbl *) &_IPolicyStatusValueUserStubVtbl,
-    ( CInterfaceStubVtbl *) &_IAppCommandWebStubVtbl,
-    ( CInterfaceStubVtbl *) &_IProcessLauncherStubVtbl,
+    ( CInterfaceStubVtbl *) &_IProcessLauncher2StubVtbl,
     ( CInterfaceStubVtbl *) &_IProcessLauncherSystemStubVtbl,
     ( CInterfaceStubVtbl *) &_IPolicyStatus4StubVtbl,
     ( CInterfaceStubVtbl *) &_IProcessLauncher2SystemStubVtbl,
     ( CInterfaceStubVtbl *) &_IPolicyStatus2UserStubVtbl,
-    ( CInterfaceStubVtbl *) &_IGoogleUpdate3WebStubVtbl,
+    ( CInterfaceStubVtbl *) &_IPolicyStatusValueStubVtbl,
+    ( CInterfaceStubVtbl *) &_IAppBundleWebStubVtbl,
     ( CInterfaceStubVtbl *) &_IPolicyStatusSystemStubVtbl,
     ( CInterfaceStubVtbl *) &_IAppBundleWebSystemStubVtbl,
     ( CInterfaceStubVtbl *) &_IAppCommandWebUserStubVtbl,
-    ( CInterfaceStubVtbl *) &_IPolicyStatus3StubVtbl,
-    ( CInterfaceStubVtbl *) &_IPolicyStatusStubVtbl,
     ( CInterfaceStubVtbl *) &_IAppWebSystemStubVtbl,
     ( CInterfaceStubVtbl *) &_IAppVersionWebStubVtbl,
-    ( CInterfaceStubVtbl *) &_ICurrentStateStubVtbl,
+    ( CInterfaceStubVtbl *) &_IProcessLauncherStubVtbl,
     ( CInterfaceStubVtbl *) &_IGoogleUpdate3WebSystemStubVtbl,
-    ( CInterfaceStubVtbl *) &_IProcessLauncher2StubVtbl,
-    ( CInterfaceStubVtbl *) &_IAppBundleWebStubVtbl,
+    ( CInterfaceStubVtbl *) &_IPolicyStatusStubVtbl,
+    ( CInterfaceStubVtbl *) &_IAppWebStubVtbl,
+    ( CInterfaceStubVtbl *) &_ICurrentStateStubVtbl,
     ( CInterfaceStubVtbl *) &_ICurrentStateSystemStubVtbl,
     ( CInterfaceStubVtbl *) &_IPolicyStatus4SystemStubVtbl,
+    ( CInterfaceStubVtbl *) &_IGoogleUpdate3WebStubVtbl,
     ( CInterfaceStubVtbl *) &_IAppCommandWebSystemStubVtbl,
-    ( CInterfaceStubVtbl *) &_IAppWebStubVtbl,
+    ( CInterfaceStubVtbl *) &_IPolicyStatus3StubVtbl,
     ( CInterfaceStubVtbl *) &_IPolicyStatus3UserStubVtbl,
-    ( CInterfaceStubVtbl *) &_IPolicyStatusValueStubVtbl,
+    ( CInterfaceStubVtbl *) &_IAppCommandWebStubVtbl,
     ( CInterfaceStubVtbl *) &_IPolicyStatus4UserStubVtbl,
     ( CInterfaceStubVtbl *) &_IAppBundleWebUserStubVtbl,
     0
@@ -10407,35 +10373,35 @@ PCInterfaceName const _updater_legacy_idl_InterfaceNamesList[] =
     "IAppVersionWebUser",
     "ICurrentStateUser",
     "IAppVersionWebSystem",
-    "IPolicyStatus2",
     "IPolicyStatus3System",
     "IPolicyStatus2System",
+    "IPolicyStatus2",
     "IGoogleUpdate3WebUser",
     "IPolicyStatusValueUser",
-    "IAppCommandWeb",
-    "IProcessLauncher",
+    "IProcessLauncher2",
     "IProcessLauncherSystem",
     "IPolicyStatus4",
     "IProcessLauncher2System",
     "IPolicyStatus2User",
-    "IGoogleUpdate3Web",
+    "IPolicyStatusValue",
+    "IAppBundleWeb",
     "IPolicyStatusSystem",
     "IAppBundleWebSystem",
     "IAppCommandWebUser",
-    "IPolicyStatus3",
-    "IPolicyStatus",
     "IAppWebSystem",
     "IAppVersionWeb",
-    "ICurrentState",
+    "IProcessLauncher",
     "IGoogleUpdate3WebSystem",
-    "IProcessLauncher2",
-    "IAppBundleWeb",
+    "IPolicyStatus",
+    "IAppWeb",
+    "ICurrentState",
     "ICurrentStateSystem",
     "IPolicyStatus4System",
+    "IGoogleUpdate3Web",
     "IAppCommandWebSystem",
-    "IAppWeb",
+    "IPolicyStatus3",
     "IPolicyStatus3User",
-    "IPolicyStatusValue",
+    "IAppCommandWeb",
     "IPolicyStatus4User",
     "IAppBundleWebUser",
     0
@@ -10454,7 +10420,6 @@ const IID *  const _updater_legacy_idl_BaseIIDList[] =
     &IID_IDispatch,
     &IID_IDispatch,
     &IID_IDispatch,
-    &IID_IDispatch,
     0,
     0,
     &IID_IDispatch,
@@ -10467,10 +10432,11 @@ const IID *  const _updater_legacy_idl_BaseIIDList[] =
     &IID_IDispatch,
     &IID_IDispatch,
     &IID_IDispatch,
-    &IID_IDispatch,
-    &IID_IDispatch,
-    &IID_IDispatch,
     0,
+    &IID_IDispatch,
+    &IID_IDispatch,
+    &IID_IDispatch,
+    &IID_IDispatch,
     &IID_IDispatch,
     &IID_IDispatch,
     &IID_IDispatch,

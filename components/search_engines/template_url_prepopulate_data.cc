@@ -231,7 +231,6 @@ std::vector<std::unique_ptr<TemplateURLData>> GetPrepopulatedEngines(
   if (!t_urls.empty()) {
     return t_urls;
   }
-
   int country_id;
   if (search_engine_choice_service) {
     country_id = search_engine_choice_service->GetCountryId();
@@ -325,7 +324,7 @@ std::unique_ptr<TemplateURLData> GetPrepopulatedFallbackSearch(
     PrefService* prefs,
     search_engines::SearchEngineChoiceService* search_engine_choice_service) {
   return FindPrepopulatedEngineInternal(prefs, search_engine_choice_service,
-                                        google.id,
+                                        presearch.id,
                                         /*use_first_as_fallback=*/true);
 }
 
