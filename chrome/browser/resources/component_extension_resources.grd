@@ -105,15 +105,16 @@
       <include name="IDR_TDNS_025" file="tdns/assets/icon32.png" type="BINDATA" />
       <include name="IDR_TDNS_026" file="tdns/assets/icon48.png" type="BINDATA" />
       <include name="IDR_TDNS_027" file="tdns/assets/logo.svg" type="BINDATA" />
-      <include name="IDR_TDNS_028" file="tdns/assets/search.svg" type="BINDATA" />
-      <include name="IDR_TDNS_029" file="tdns/assets/fonts/Mada-Black.woff" type="BINDATA" />
-      <include name="IDR_TDNS_030" file="tdns/assets/fonts/Mada-Bold.woff" type="BINDATA" />
-      <include name="IDR_TDNS_031" file="tdns/assets/fonts/Mada-ExtraLight.woff" type="BINDATA" />
-      <include name="IDR_TDNS_032" file="tdns/assets/fonts/Mada-Light.woff" type="BINDATA" />
-      <include name="IDR_TDNS_033" file="tdns/assets/fonts/Mada-Medium.woff" type="BINDATA" />
-      <include name="IDR_TDNS_034" file="tdns/assets/fonts/Mada-Regular.woff" type="BINDATA" />
-      <include name="IDR_TDNS_035" file="tdns/assets/fonts/Mada-SemiBold.woff" type="BINDATA" />
-      <include name="IDR_TDNS_036" file="tdns/assets/fonts/Mada[wght].woff" type="BINDATA" />
+      <include name="IDR_TDNS_028" file="tdns/assets/resolving.html" type="BINDATA" />
+      <include name="IDR_TDNS_029" file="tdns/assets/search.svg" type="BINDATA" />
+      <include name="IDR_TDNS_030" file="tdns/assets/fonts/Mada-Black.woff" type="BINDATA" />
+      <include name="IDR_TDNS_031" file="tdns/assets/fonts/Mada-Bold.woff" type="BINDATA" />
+      <include name="IDR_TDNS_032" file="tdns/assets/fonts/Mada-ExtraLight.woff" type="BINDATA" />
+      <include name="IDR_TDNS_033" file="tdns/assets/fonts/Mada-Light.woff" type="BINDATA" />
+      <include name="IDR_TDNS_034" file="tdns/assets/fonts/Mada-Medium.woff" type="BINDATA" />
+      <include name="IDR_TDNS_035" file="tdns/assets/fonts/Mada-Regular.woff" type="BINDATA" />
+      <include name="IDR_TDNS_036" file="tdns/assets/fonts/Mada-SemiBold.woff" type="BINDATA" />
+      <include name="IDR_TDNS_037" file="tdns/assets/fonts/Mada[wght].woff" type="BINDATA" />
       
 
 
