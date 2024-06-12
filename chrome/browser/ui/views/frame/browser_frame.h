@@ -12,6 +12,7 @@
 #include "ui/base/ui_base_types.h"
 #include "ui/views/context_menu_controller.h"
 #include "ui/views/widget/widget.h"
+#include "base/memory/scoped_refptr.h"
 
 #if BUILDFLAG(IS_CHROMEOS)
 #include <optional>
@@ -23,6 +24,7 @@ enum class BrowserThemeChangeType;
 class BrowserView;
 class NativeBrowserFrame;
 class SystemMenuModelBuilder;
+class CustomThemeSupplier;
 
 namespace content {
 struct NativeWebKeyboardEvent;
@@ -224,6 +226,8 @@ class BrowserFrame : public views::Widget, public views::ContextMenuController {
   // may change, the fast resize strategy will be used to resize its web
   // contents for smoother dragging.
   TabDragKind tab_drag_kind_ = TabDragKind::kNone;
+
+  scoped_refptr<CustomThemeSupplier> theme_supplier_;
 
 #if BUILDFLAG(IS_LINUX)
   bool tiled_ = false;

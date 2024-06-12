@@ -119,6 +119,7 @@ BrowserFrame::BrowserFrame(BrowserView* browser_view)
       root_view_(nullptr),
       browser_frame_view_(nullptr),
       browser_view_(browser_view) {
+  theme_supplier_ = base::MakeRefCounted<TomiNetWindowThemeSupplier>(true);
   browser_view_->set_frame(this);
   set_is_secondary_widget(false);
   // Don't focus anything on creation, selecting a tab will set the focus.
@@ -346,12 +347,14 @@ const ui::ThemeProvider* BrowserFrame::GetThemeProvider() const {
 
 ui::ColorProviderKey::ThemeInitializerSupplier* BrowserFrame::GetCustomTheme()
     const {
+  Browser* browser = browser_view_->browser();
+  if(browser->tomiNet)
+    return theme_supplier_.get(); 
   // Do not return any custom theme if this is an incognito browser.
   if (IsIncognitoBrowser()) {
     return nullptr;
   }
 
-  Browser* browser = browser_view_->browser();
   auto* app_controller = browser->app_controller();
   // Ignore the system theme for web apps with window-controls-overlay as the
   // display_override so the web contents can blend with the overlay by using
