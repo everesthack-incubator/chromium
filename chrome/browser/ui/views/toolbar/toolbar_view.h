@@ -50,6 +50,7 @@ class ExtensionsToolbarButton;
 class ExtensionsToolbarContainer;
 class ChromeLabsButton;
 class HomeButton;
+class TdnsButton;
 class IntentChipButton;
 class ExtensionsToolbarCoordinator;
 class MediaToolbarButtonView;
@@ -285,6 +286,7 @@ class ToolbarView : public views::AccessiblePaneView,
   raw_ptr<ToolbarButton> forward_ = nullptr;
   raw_ptr<ReloadButton> reload_ = nullptr;
   raw_ptr<HomeButton> home_ = nullptr;
+  raw_ptr<TdnsButton> tdns_ = nullptr;
   raw_ptr<CustomTabBarView> custom_tab_bar_ = nullptr;
   raw_ptr<LocationBarView> location_bar_ = nullptr;
   raw_ptr<ExtensionsToolbarContainer> extensions_container_ = nullptr;

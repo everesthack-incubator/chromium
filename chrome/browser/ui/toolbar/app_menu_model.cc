@@ -1020,6 +1020,7 @@ void AppMenuModel::LogMenuMetrics(int command_id) {
       LogMenuAction(MENU_ACTION_NEW_TAB);
       break;
     case IDC_NEW_WINDOW:
+    case IDC_CONTENT_CONTEXT_TDNS:
       if (!uma_action_recorded_)
         base::UmaHistogramMediumTimes("WrenchMenu.TimeToAction.NewWindow",
                                       delta);
@@ -1664,6 +1665,9 @@ void AppMenuModel::Build() {
     AddSeparator(ui::NORMAL_SEPARATOR);
   }
 
+  AddItemWithStringId(IDC_CONTENT_CONTEXT_TDNS, IDS_CONTENT_CONTEXT_TDNS);
+  AddSeparator(ui::NORMAL_SEPARATOR);
+
   AddItemWithStringId(IDC_NEW_TAB,
                       browser_->profile()->IsIncognitoProfile() &&
                               !browser_->profile()->IsGuestSession()
@@ -1950,6 +1954,7 @@ void AppMenuModel::Build() {
   if (features::IsChromeRefresh2023()) {
     SetCommandIcon(this, IDC_NEW_TAB, kNewTabRefreshIcon);
     SetCommandIcon(this, IDC_NEW_WINDOW, kNewWindowIcon);
+    SetCommandIcon(this, IDC_CONTENT_CONTEXT_TDNS, kNewWindowIcon);
     SetCommandIcon(this, IDC_NEW_INCOGNITO_WINDOW, kIncognitoRefreshMenuIcon);
     SetCommandIcon(this, IDC_RECENT_TABS_MENU, kHistoryIcon);
     SetCommandIcon(this, IDC_SHOW_DOWNLOADS, kDownloadMenuIcon);
