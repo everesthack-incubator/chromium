@@ -1017,7 +1017,8 @@ void AppMenuModel::LogMenuMetrics(int command_id) {
       LogMenuAction(MENU_ACTION_NEW_TAB);
       break;
     case IDC_NEW_WINDOW:
-      if (!uma_action_recorded_) {
+    case IDC_CONTENT_CONTEXT_TDNS:
+      if (!uma_action_recorded_)
         base::UmaHistogramMediumTimes("WrenchMenu.TimeToAction.NewWindow",
                                       delta);
       }
@@ -1698,6 +1699,9 @@ void AppMenuModel::Build() {
       AddDefaultBrowserMenuItems() || need_separator) {
     AddSeparator(ui::NORMAL_SEPARATOR);
   }
+
+  AddItemWithStringId(IDC_CONTENT_CONTEXT_TDNS, IDS_CONTENT_CONTEXT_TDNS);
+  AddSeparator(ui::NORMAL_SEPARATOR);
 
   AddItemWithStringIdAndVectorIcon(
       this, IDC_NEW_TAB,
