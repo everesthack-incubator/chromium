@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktdns_resolver=self.webpackChunktdns_resolver||[]).push([[998],{8424:()=>{console.log("CONTENT SCRIPT"),window.addEventListener("keydown",function(e){13===e.keyCode&&chrome.runtime.sendMessage({text:""})})}},e=>{e(e.s=8424)}]);

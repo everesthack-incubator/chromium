@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktdns_resolver=self.webpackChunktdns_resolver||[]).push([[352],{4788:()=>{let e;chrome.browserAction.onClicked.addListener(t=>{chrome.tabs.create({url:chrome.extension.getURL("index.html"),active:!0},s=>{e=s.id})})}},e=>{e(e.s=4788)}]);
