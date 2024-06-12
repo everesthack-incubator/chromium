@@ -825,7 +825,7 @@ FilePath FormatTemporaryFileName(FilePath::StringPieceType identifier) {
 #elif BUILDFLAG(GOOGLE_CHROME_BRANDING)
   StringPiece prefix = "com.google.Chrome";
 #else
-  StringPiece prefix = "com.Decentr.Decentr";
+  StringPiece prefix = "com.Tomi.Tomi";
 #endif
   return FilePath(StrCat({".", prefix, ".", identifier}));
 }

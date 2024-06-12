@@ -3689,6 +3689,7 @@ void AddLocalizedStrings(content::WebUIDataSource* html_source,
 #endif  // BUILDFLAG(IS_CHROMEOS)
   AddSiteSettingsStrings(html_source, profile);
   AddSiteDataPageStrings(html_source, profile);
+  html_source->AddLocalizedString("historyMenuItem", IDS_HISTORY_HISTORY_MENU_ITEM);
   AddStorageAccessStrings(html_source);
 
 #if !BUILDFLAG(IS_CHROMEOS)

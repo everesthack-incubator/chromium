@@ -96,16 +96,16 @@ class BrowserNavigatorWebContentsAdoption {
 };
 
 namespace {
-void UpdateDecentrScheme(NavigateParams* params) {
-  if (params->url.SchemeIs(content::kDecentrUIScheme)) {
+void UpdateTomiScheme(NavigateParams* params) {
+  if (params->url.SchemeIs(content::kTomiUIScheme)) {
     GURL::Replacements replacements;
     replacements.SetSchemeStr(content::kChromeUIScheme);
     params->url = params->url.ReplaceComponents(replacements);
   }
 }
 }  // namespace
-#define DECENTR_ADJUST_NAVIGATE_PARAMS_FOR_URL           \
-  UpdateDecentrScheme(params);  
+#define TOMI_ADJUST_NAVIGATE_PARAMS_FOR_URL           \
+  UpdateTomiScheme(params);  
 
 namespace {
 
@@ -651,7 +651,7 @@ base::WeakPtr<content::NavigationHandle> Navigate(NavigateParams* params) {
     return nullptr;
   }
 
-  DECENTR_ADJUST_NAVIGATE_PARAMS_FOR_URL
+  TOMI_ADJUST_NAVIGATE_PARAMS_FOR_URL
 
   // Open System Apps in their standalone window if necessary.
   // TODO(crbug.com/40136163): Remove this code after we integrate with intent
@@ -1012,8 +1012,8 @@ base::WeakPtr<content::NavigationHandle> Navigate(NavigateParams* params) {
 
 bool IsHostAllowedInIncognito(const GURL& url) {
   std::string scheme = url.scheme();
-  std::string_view host = url.host_piece();
-  if (scheme != content::kChromeUIScheme && scheme != content::kDecentrUIScheme) {
+  base::StringPiece host = url.host_piece();
+  if (scheme != content::kChromeUIScheme && scheme != content::kTomiUIScheme) {
     return true;
   }
 

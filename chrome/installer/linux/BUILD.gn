@@ -31,10 +31,10 @@ declare_args() {
 assert(is_linux)
 
 packaging_files_executables = [
-  "$root_out_dir/decentr",
+  "$root_out_dir/tomi",
   "$root_out_dir/chrome_crashpad_handler",
   "$root_out_dir/chrome_management_service",
-  "$root_out_dir/decentr_sandbox",
+  "$root_out_dir/tomi_sandbox",
 ]
 packaging_files_shlibs = []
 
@@ -72,8 +72,6 @@ packaging_files = packaging_files_binaries + [
                     "$root_out_dir/locales/en-US.pak",
                     "$root_out_dir/MEIPreload/manifest.json",
                     "$root_out_dir/MEIPreload/preloaded_data.pb",
-                    "$root_out_dir/NativeMessagingHosts/com.decentr.wireguard.json",
-                    "$root_out_dir/NativeMessagingHosts/com.decentr.wireguard",
                   ]
 if (enable_swiftshader) {
   packaging_files += [ "$root_out_dir/vk_swiftshader_icd.json" ]
@@ -162,7 +160,7 @@ action("merge_rpm_dependencies") {
 }
 
 strip_binary("strip_chrome_binary") {
-  binary_input = "$root_out_dir/decentr"
+  binary_input = "$root_out_dir/tomi"
   deps = [ "//chrome" ]
 }
 
@@ -177,8 +175,8 @@ strip_binary("strip_chrome_management_service") {
 }
 
 strip_binary("strip_chrome_sandbox") {
-  binary_input = "$root_out_dir/decentr_sandbox"
-  deps = [ "//sandbox/linux:decentr_sandbox" ]
+  binary_input = "$root_out_dir/tomi_sandbox"
+  deps = [ "//sandbox/linux:tomi_sandbox" ]
 }
 
 strip_binary("strip_libEGL_shlib") {
@@ -376,8 +374,7 @@ group("installer_deps") {
     "//chrome/browser/enterprise/connectors/device_trust/key_management/installer/management_service:chrome_management_service",
     "//chrome/browser/resources/media/mei_preload:component",
     "//components/crash/core/app:chrome_crashpad_handler",
-    "//sandbox/linux:decentr_sandbox",
-    "//chrome/browser/resources/remoting:component",
+    "//sandbox/linux:tomi_sandbox",
   ]
   if (bundle_widevine_cdm) {
     public_deps += [ "//third_party/widevine/cdm" ]
@@ -437,7 +434,7 @@ template("linux_package") {
   if (is_chrome_branded) {
     package = "google-chrome"
   } else {
-    package = "decentr-browser"
+    package = "tomi-browser"
   }
 
   deb_target_name = "${target_name}_deb"
