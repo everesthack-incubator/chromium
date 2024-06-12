@@ -93,18 +93,18 @@ using omnibox::mojom::NavigationPredictor;
 // Helpers --------------------------------------------------------------------
 
 namespace {
-void DecentrAdjustTextForCopy(GURL* url) {
+void TomiAdjustTextForCopy(GURL* url) {
 #if !defined(OS_IOS)
   if (url->scheme() == content::kChromeUIScheme) {
     GURL::Replacements replacements;
-    replacements.SetSchemeStr(content::kDecentrUIScheme);
+    replacements.SetSchemeStr(content::kTomiUIScheme);
     *url = url->ReplaceComponents(replacements);
   }
 #endif
 }
 }
-#define DECENTR_ADJUST_TEXT_FOR_COPY \
-  DecentrAdjustTextForCopy(url_from_text);
+#define TOMI_ADJUST_TEXT_FOR_COPY \
+  TomiAdjustTextForCopy(url_from_text);
 
 namespace {
 
@@ -287,7 +287,10 @@ OmniboxEditModel::OmniboxEditModel(OmniboxController* controller,
       is_keyword_hint_(false),
       keyword_mode_entry_method_(OmniboxEventProto::INVALID),
       in_revert_(false),
-      allow_exact_keyword_match_(false) {}
+      allow_exact_keyword_match_(false) 
+      {
+        is_tdns_ = false;
+      }
 
 OmniboxEditModel::~OmniboxEditModel() = default;
 
@@ -414,6 +417,14 @@ bool OmniboxEditModel::ResetDisplayTexts() {
 #else
   display_text_ = controller_->client()->GetURLForDisplay();
 #endif
+
+  if(controller_->client()->CurrentPageExists() && is_tdns_)
+  {
+    if(tominet_bulshit.find(controller_->client()->GetSessionID().id())!=tominet_bulshit.end())
+    {
+      display_text_=tominet_bulshit[controller_->client()->GetSessionID().id()];
+    }
+  }
   // When there's new permanent text, and the user isn't interacting with the
   // omnibox, we want to revert the edit to show the new text.  We could simply
   // define "interacting" as "the omnibox has focus", but we still allow updates
@@ -518,7 +529,7 @@ void OmniboxEditModel::AdjustTextForCopy(int sel_min,
     *url_from_text = controller_->client()->GetNavigationEntryURL();
     *write_url = true;
 
-    DECENTR_ADJUST_TEXT_FOR_COPY
+    TOMI_ADJUST_TEXT_FOR_COPY
 
     // Don't let users copy Reader Mode page URLs.
     // We display the original article's URL in the omnibox, so users will
@@ -2482,6 +2493,14 @@ void OmniboxEditModel::OpenMatch(OmniboxPopupSelection selection,
 
     AutocompleteMatch::LogSearchEngineUsed(match, service);
   } else {
+    if(is_tdns_)
+    {
+      if ((disposition == WindowOpenDisposition::CURRENT_TAB) &&
+        controller_->client()->CurrentPageExists()) {
+        // We need to check if we user only user input or also we are using autocomplition
+          tominet_bulshit[controller_->client()->GetSessionID().id()] = input_text + match.inline_autocompletion;
+      }
+    }
     // |match| is a URL navigation, not a search.
     // For logging the below histogram, only record uses that depend on the
     // omnibox suggestion system, i.e., TYPED navigations.  That is, exclude
