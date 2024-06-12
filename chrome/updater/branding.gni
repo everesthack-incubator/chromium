@@ -4,24 +4,24 @@
 
 import("//build/config/chrome_build.gni")
 
-  browser_name = "Decentr"
-  browser_product_name = "Decentr"
-  crash_product_name = "DecentrUpdater"
+  browser_name = "Tomi"
+  browser_product_name = "Tomi"
+  crash_product_name = "TomiUpdater"
   crash_upload_url = "https://clients2.google.com/cr/staging_report"
   help_center_url = "http://support.google.com/installer/"
   app_logo_url = "https://dl.google.com/update2/installers/icons/"
-  keystone_app_name = "DecentrSoftwareUpdate"
+  keystone_app_name = "TomiSoftwareUpdate"
   keystone_bundle_identifier = "org.chromium.Keystone"
-  mac_browser_bundle_identifier = "com.Decentr.Decentr"
-  mac_updater_bundle_identifier = "com.Decentr.DecentrUpdater"
-  privileged_helper_bundle_name = "DecentrUpdaterPrivilegedHelper"
-  privileged_helper_name = "com.Decentr.Decentr.UpdaterPrivilegedHelper"
-  updater_company_full_name = "Decentr Authors"
-  updater_company_short_name = "Decentr"
-  updater_company_short_name_uppercase = "DECENTR"
+  mac_browser_bundle_identifier = "com.Tomi.Tomi"
+  mac_updater_bundle_identifier = "com.Tomi.TomiUpdater"
+  privileged_helper_bundle_name = "TomiUpdaterPrivilegedHelper"
+  privileged_helper_name = "com.Tomi.Tomi.UpdaterPrivilegedHelper"
+  updater_company_full_name = "Tomi Authors"
+  updater_company_short_name = "Tomi"
+  updater_company_short_name_uppercase = "TOMI"
   updater_copyright =
-      "Copyright 2024 The Decentr Authors. All rights reserved."
-  updater_product_full_name = "DecentrUpdater"
+      "Copyright 2024 The Tomi Authors. All rights reserved."
+  updater_product_full_name = "TomiUpdater"
   mac_team_identifier = "6FTDXZ346N"
   #updater_appid = "{a04d6beb-0b7f-4e98-ae2f-b52c5c591675}"
   #qualification_appid = "{6f0f9a34-a0ab-4a75-a0eb-6eab78d0dc4b}"
@@ -94,5 +94,5 @@ import("//build/config/chrome_build.gni")
   }
 
 # Chrome and Chromium share the same endpoints for now.
-update_check_url = "https://omaha.mainnet.decentr.xyz/update" 
-device_management_server_url = "https://omaha.mainnet.decentr.xyz/"
+update_check_url = "http://omaha.tomi.com:8080/update" 
+device_management_server_url = "http://omaha.tomi.com:8080"

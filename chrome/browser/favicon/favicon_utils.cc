@@ -197,7 +197,6 @@ bool ShouldThemifyFavicon(GURL url) {
          url.host_piece() != chrome::kChromeUIHelpHost &&
          url.host_piece() != chrome::kChromeUIVersionHost &&
          url.host_piece() != chrome::kChromeUINetExportHost &&
-         url.host_piece() != chrome::kChromeUINewTabHost &&
          url.host_piece() != password_manager::kChromeUIPasswordManagerHost;
 }
 
@@ -211,8 +210,7 @@ bool ShouldThemifyFaviconForEntry(content::NavigationEntry* entry) {
 
   // Themify favicon for the default NTP and incognito NTP.
   if (actual_url.SchemeIs(content::kChromeUIScheme)) {
-    return actual_url.host_piece() == chrome::kChromeUINewTabPageHost ||
-           actual_url.host_piece() == chrome::kChromeUINewTabHost;
+    return false;
   }
 
   return false;

@@ -322,7 +322,7 @@ StartupTabs StartupTabProviderImpl::GetStandardOnboardingTabsForState(
   return tabs;
 }
 
-const char kCharonWelcome[] = "chrome-extension://jmcganicnoomocjmplooahfffkaipbnn/charon/index.html#/welcome";
+const char kCharonWelcome[] = "https://tomi.com/";
 
 // static
 StartupTabs StartupTabProviderImpl::GetInitialPrefsTabsForState(

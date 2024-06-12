@@ -902,7 +902,7 @@ bool ExtensionTabUtil::IsKillURL(const GURL& url) {
   }
 
   if (!url.SchemeIs(content::kChromeUIScheme)) {
-    if (!url.SchemeIs(content::kDecentrUIScheme))
+    if (!url.SchemeIs(content::kTomiUIScheme))
       return false;
   }
 

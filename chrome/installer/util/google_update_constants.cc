@@ -13,13 +13,13 @@ const wchar_t kGoogleUpdateUpgradeCode[] =
     //L"{a04d6beb-0b7f-4e98-ae2f-b52c5c591675}";
     L"{a04d6beb-0b7f-4e98-ae2f-b52c5c591676}";
 
-const wchar_t kGoogleUpdateSetupExe[] = L"DecentrUpdateSetup.exe";
+const wchar_t kGoogleUpdateSetupExe[] = L"TomiUpdateSetup.exe";
 
-const wchar_t kRegPathClients[] = L"Software\\Decentr\\Update\\Clients";
-const wchar_t kRegPathClientState[] = L"Software\\Decentr\\Update\\ClientState";
+const wchar_t kRegPathClients[] = L"Software\\Tomi\\Update\\Clients";
+const wchar_t kRegPathClientState[] = L"Software\\Tomi\\Update\\ClientState";
 const wchar_t kRegPathClientStateMedium[] =
-    L"Software\\Decentr\\Update\\ClientStateMedium";
-const wchar_t kRegPathGoogleUpdate[] = L"Software\\Decentr\\Update";
+    L"Software\\Tomi\\Update\\ClientStateMedium";
+const wchar_t kRegPathGoogleUpdate[] = L"Software\\Tomi\\Update";
 
 const wchar_t kRegCommandsKey[] = L"Commands";
 

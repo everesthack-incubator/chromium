@@ -26,24 +26,24 @@ def GetConfigurationForBuild(defines):
   # 'messages' in policy_templates.json.
   if '_chromium' in defines:
     config = {
-        'build': 'decentr',
-        'app_name': 'Decentr',
+        'build': 'tomi',
+        'app_name': 'Tomi',
         'doc_url': 'https://chromeenterprise.google/policies/',
-        'frame_name': 'decentr Frame',
+        'frame_name': 'tomi Frame',
         'os_name': 'ChromiumOS',
-        'webview_name': 'Decentr WebView',
+        'webview_name': 'Tomi WebView',
         'win_config': {
             'win': {
-                'reg_mandatory_key_name': 'Software\\Policies\\Decentr',
+                'reg_mandatory_key_name': 'Software\\Policies\\Tomi',
                 'reg_recommended_key_name':
-                'Software\\Policies\\Decentr\\Recommended',
-                'mandatory_category_path': ['decentr'],
-                'recommended_category_path': ['decentr_recommended'],
+                'Software\\Policies\\Tomi\\Recommended',
+                'mandatory_category_path': ['tomi'],
+                'recommended_category_path': ['tomi_recommended'],
                 'category_path_strings': {
-                    'chromium': 'Decentr',
-                    'chromium_recommended': 'Decentr - {doc_recommended}',
+                    'chromium': 'Tomi',
+                    'chromium_recommended': 'Tomi - {doc_recommended}',
                 },
-                'namespace': 'Decentr.Policies.Decentr',
+                'namespace': 'Tomi.Policies.Tomi',
             },
             'chrome_os': {
                 'reg_mandatory_key_name': 'Software\\Policies\\ChromiumOS',
@@ -58,14 +58,14 @@ def GetConfigurationForBuild(defines):
                 'namespace': 'Chromium.Policies.ChromiumOS'
             },
         },
-        'admx_prefix': 'decentr',
-        'linux_policy_path': '/etc/decentr/policies/',
-        'bundle_id': 'com.decentr',
+        'admx_prefix': 'tomi',
+        'linux_policy_path': '/etc/tomi/policies/',
+        'bundle_id': 'com.tomi',
     }
   elif '_google_chrome' in defines or '_is_chrome_for_testing_branded' in defines:
     if '_google_chrome' in defines:
-      linux_policy_path = '/etc/opt/decentr/policies/'
-      win_policy_path = 'Software\\Policies\\Decentr'
+      linux_policy_path = '/etc/opt/tomi/policies/'
+      win_policy_path = 'Software\\Policies\\Tomi'
     else:
       linux_policy_path = '/etc/opt/chrome_for_testing/policies/'
       win_policy_path = 'Software\\Policies\\Google\\Chrome for Testing'

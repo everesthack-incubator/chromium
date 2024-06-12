@@ -288,6 +288,7 @@ aggregate_vector_icons("chrome_vector_icons") {
     "zoom_plus.icon",
     "zoom_plus_chrome_refresh.icon",
     "zoom_plus_menu_refresh.icon",
+    "product.icon",
   ]
 
   if (is_mac) {

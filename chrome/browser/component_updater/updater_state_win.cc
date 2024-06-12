@@ -20,7 +20,7 @@ namespace {
 
 // Google Update group policy settings.
 const wchar_t kGoogleUpdatePoliciesKey[] =
-    L"SOFTWARE\\Policies\\Decentr\\Update";
+    L"SOFTWARE\\Policies\\Tomi\\Update";
 const wchar_t kCheckPeriodOverrideMinutes[] = L"AutoUpdateCheckPeriodMinutes";
 const wchar_t kUpdatePolicyValue[] = L"UpdateDefault";
 const wchar_t kChromeUpdatePolicyOverride[] =
@@ -31,9 +31,9 @@ const wchar_t kChromeUpdatePolicyOverride[] =
 const int kCheckPeriodOverrideMinutesMax = 60 * 24 * 7 * 6;
 
 // Google Update registry settings.
-const wchar_t kRegPathGoogleUpdate[] = L"Software\\Decentr\\Update";
+const wchar_t kRegPathGoogleUpdate[] = L"Software\\Tomi\\Update";
 const wchar_t kRegPathClientsGoogleUpdate[] =
-    L"Software\\Decentr\\Update\\Clients\\"
+    L"Software\\Tomi\\Update\\Clients\\"
     L"{a04d6beb-0b7f-4e98-ae2f-b52c5c591676}";
     //L"{a04d6beb-0b7f-4e98-ae2f-b52c5c591675}";
 const wchar_t kRegValueGoogleUpdatePv[] = L"pv";
