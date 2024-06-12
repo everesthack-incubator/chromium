@@ -225,7 +225,7 @@ SkPath GM2TabStyleViews::GetPath(TabStyle::PathType path_type,
   float content_corner_radius =
       GetTopCornerRadiusForWidth(tab_->width()) * scale;
   float extension_corner_radius = tab_style()->GetBottomCornerRadius() * scale;
-
+  
   if (path_type == TabStyle::PathType::kInteriorClip) {
     // When there is a separator, animate the clip to account for it, in sync
     // with the separator's fading.
@@ -295,8 +295,6 @@ SkPath GM2TabStyleViews::GetPath(TabStyle::PathType path_type,
   const ShapeModifier shape_modifier = GetShapeModifier(path_type);
   const bool extend_left_to_bottom = shape_modifier & kNoLowerLeftArc;
   const bool extend_right_to_bottom = shape_modifier & kNoLowerRightArc;
-  const bool compact_left_to_bottom =
-      !extend_left_to_bottom && (shape_modifier & kCompactLeftArc);
 
   SkPath path;
 
@@ -314,18 +312,13 @@ SkPath GM2TabStyleViews::GetPath(TabStyle::PathType path_type,
         content_corner_radius - inset, content_corner_radius - inset);
     path.addRRect(rrect);
   } else {
-    float left_extension_corner_radius = extension_corner_radius;
-    if (compact_left_to_bottom) {
-      left_extension_corner_radius = (tab_style()->GetBottomCornerRadius() -
-                                      GetLayoutConstant(TOOLBAR_CORNER_RADIUS)) *
-                                     scale;
-    }
-
+    
     // Avoid mallocs at every new path verb by preallocating an
     // empirically-determined amount of space in the verb and point buffers.
     const int kMaxPathPoints = 20;
     path.incReserve(kMaxPathPoints);
 
+    float radius_bottom = 2;
     // We will go clockwise from the lower left. We start in the overlap region,
     // preventing a gap between toolbar and tabstrip.
     // TODO(dfried): verify that the we actually want to start the stroke for
@@ -351,10 +344,10 @@ SkPath GM2TabStyleViews::GetPath(TabStyle::PathType path_type,
       if (extend_left_to_bottom) {
         path.lineTo(tab_left, tab_bottom);
       } else {
-        path.lineTo(tab_left - left_extension_corner_radius, tab_bottom);
-        path.arcTo(left_extension_corner_radius, left_extension_corner_radius, 0,
+        path.lineTo(tab_left - radius_bottom, tab_bottom);
+        path.arcTo(radius_bottom, radius_bottom, 0,
                    SkPath::kSmall_ArcSize, SkPathDirection::kCCW, tab_left,
-                   tab_bottom - left_extension_corner_radius);
+                   tab_bottom - radius_bottom);
       }
     }
 
@@ -398,10 +391,10 @@ SkPath GM2TabStyleViews::GetPath(TabStyle::PathType path_type,
       if (extend_right_to_bottom) {
         path.lineTo(tab_right, tab_bottom);
       } else {
-        path.lineTo(tab_right, tab_bottom - extension_corner_radius);
-        path.arcTo(extension_corner_radius, extension_corner_radius, 0,
+        path.lineTo(tab_right, tab_bottom - radius_bottom);
+        path.arcTo(radius_bottom, radius_bottom, 0,
                    SkPath::kSmall_ArcSize, SkPathDirection::kCCW,
-                   tab_right + extension_corner_radius, tab_bottom);
+                   tab_right + radius_bottom, tab_bottom);
       }
       if (tab_bottom != extended_bottom)
         path.lineTo(right, tab_bottom);
