@@ -209,7 +209,7 @@ LocationBarView::LocationBarView(Browser* browser,
     if (features::IsChromeRefresh2023()) {
       views::FocusRing::Get(this)->SetOutsetFocusRingDisabled(true);
     }
-    views::InstallPillHighlightPathGenerator(this);
+    views::InstallRectHighlightPathGenerator(this);
 
 #if BUILDFLAG(IS_MAC)
     geolocation_permission_observation_.Observe(
@@ -439,8 +439,11 @@ bool LocationBarView::IsInitialized() const {
 }
 
 int LocationBarView::GetBorderRadius() const {
+    return 2;
+  #if 0
   return ChromeLayoutProvider::Get()->GetCornerRadiusMetric(
       views::Emphasis::kMaximum, size());
+  #endif
 }
 
 std::unique_ptr<views::Background> LocationBarView::CreateRoundRectBackground(

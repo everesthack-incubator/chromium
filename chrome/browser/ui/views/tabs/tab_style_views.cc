@@ -222,7 +222,7 @@ SkPath GM2TabStyleViews::GetPath(TabStyle::PathType path_type,
   float content_corner_radius =
       GetTopCornerRadiusForWidth(tab_->width()) * scale;
   float extension_corner_radius = tab_style()->GetBottomCornerRadius() * scale;
-
+  
   if (path_type == TabStyle::PathType::kInteriorClip) {
     // When there is a separator, animate the clip to account for it, in sync
     // with the separator's fading.
@@ -314,6 +314,7 @@ SkPath GM2TabStyleViews::GetPath(TabStyle::PathType path_type,
     const int kMaxPathPoints = 20;
     path.incReserve(kMaxPathPoints);
 
+    float radius_bottom = 2;
     // We will go clockwise from the lower left. We start in the overlap region,
     // preventing a gap between toolbar and tabstrip.
     // TODO(dfried): verify that the we actually want to start the stroke for
@@ -339,10 +340,10 @@ SkPath GM2TabStyleViews::GetPath(TabStyle::PathType path_type,
       if (extend_left_to_bottom) {
         path.lineTo(tab_left, tab_bottom);
       } else {
-        path.lineTo(tab_left - extension_corner_radius, tab_bottom);
-        path.arcTo(extension_corner_radius, extension_corner_radius, 0,
+        path.lineTo(tab_left - radius_bottom, tab_bottom);
+        path.arcTo(radius_bottom, radius_bottom, 0,
                    SkPath::kSmall_ArcSize, SkPathDirection::kCCW, tab_left,
-                   tab_bottom - extension_corner_radius);
+                   tab_bottom - radius_bottom);
       }
     }
 
@@ -386,10 +387,10 @@ SkPath GM2TabStyleViews::GetPath(TabStyle::PathType path_type,
       if (extend_right_to_bottom) {
         path.lineTo(tab_right, tab_bottom);
       } else {
-        path.lineTo(tab_right, tab_bottom - extension_corner_radius);
-        path.arcTo(extension_corner_radius, extension_corner_radius, 0,
+        path.lineTo(tab_right, tab_bottom - radius_bottom);
+        path.arcTo(radius_bottom, radius_bottom, 0,
                    SkPath::kSmall_ArcSize, SkPathDirection::kCCW,
-                   tab_right + extension_corner_radius, tab_bottom);
+                   tab_right + radius_bottom, tab_bottom);
       }
       if (tab_bottom != extended_bottom)
         path.lineTo(right, tab_bottom);
