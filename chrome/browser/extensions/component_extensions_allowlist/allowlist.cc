@@ -88,9 +88,8 @@ bool IsComponentExtensionAllowlisted(int manifest_resource_id) {
 #if BUILDFLAG(ENABLE_HANGOUT_SERVICES_EXTENSION)
     case IDR_HANGOUT_SERVICES_MANIFEST:
 #endif
-    case IDR_TDNS_MANIFEST:
-    //case IDR_CHARON_MANIFEST:
-    //case IDR_DBLOCK_MANIFEST:
+    //case IDR_TDNS_MANIFEST:
+    case IDR_TBLOCK_MANIFEST:
     case IDR_NETWORK_SPEECH_SYNTHESIS_MANIFEST:
     case IDR_WEBSTORE_MANIFEST:
 
