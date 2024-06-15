@@ -10,7 +10,7 @@
     <output filename="grit/component_extension_resources_map.h" type="resource_map_header" />
     <output filename="component_extension_resources.pak" type="data_package" />
   </outputs>
-  <release seq="1">
+  <release seq="1"> 
     <includes>
       <include name="IDR_NETWORK_SPEECH_SYNTHESIS_JS" file="network_speech_synthesis/tts_extension.js" type="BINDATA" />
 
@@ -427,6 +427,7 @@
     <include name="IDR_TBLOCK_311" file="tblock/assets/thirdparties/easylist-downloads.adblockplus.org/easylist.txt" type="BINDATA" />
     <include name="IDR_TBLOCK_312" file="tblock/assets/thirdparties/pgl.yoyo.org/as/README.md" type="BINDATA" />
     <include name="IDR_TBLOCK_313" file="tblock/assets/thirdparties/pgl.yoyo.org/as/serverlist" type="BINDATA" />
+    <include name="IDR_TBLOCK_314" file="tblock/img/logo.png" type="BINDATA" />
     
     </includes>
 

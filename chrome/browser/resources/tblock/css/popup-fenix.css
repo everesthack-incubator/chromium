@@ -133,7 +133,7 @@ hr {
     justify-content: center;
 }
 #header .header__logo {
-    background: url('../img/icon_32.png');
+    background: url('../img/logo.png');
     background-size: cover;
     height: 24px;
     width: 24px;
