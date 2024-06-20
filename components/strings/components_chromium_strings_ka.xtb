@@ -2,14 +2,14 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="ka">
 <translation id="130631256467250065">ცვლილებები გააქტიურდება მოწყობილობის შემდეგი გადატვირთვისას.</translation>
-<translation id="275588974610408078">ჩაშლის ანგარიშები ხელმისაწვდომი არ არის Tomi-ზე.</translation>
-<translation id="3064346599913645280">თქვენ ათვალიერებთ Tomi-ის დაცულ გვერდს</translation>
-<translation id="3255926992597692024">Tomi ცდილობს პარამეტრების შეცვლას, გადახდის მეთოდების შესავსებად.</translation>
-<translation id="358997566136285270">Tomi-ის ლოგო</translation>
-<translation id="4050599136622776556">Tomi ცდილობს გადახდის მეთოდების რედაქტირებას.</translation>
-<translation id="4365115785552740256">Tomi არსებობს <ph name="BEGIN_LINK_CHROMIUM" />Tomi<ph name="END_LINK_CHROMIUM" /> ღია წყაროს პროექტის და სხვა <ph name="BEGIN_LINK_OSS" />ღია წყაროს პროგრამული უზრუნველყოფის<ph name="END_LINK_OSS" /> წყალობით.</translation>
+<translation id="275588974610408078">ჩაშლის ანგარიშები ხელმისაწვდომი არ არის tomi-ზე.</translation>
+<translation id="3064346599913645280">თქვენ ათვალიერებთ tomi-ის დაცულ გვერდს</translation>
+<translation id="3255926992597692024">tomi ცდილობს პარამეტრების შეცვლას, გადახდის მეთოდების შესავსებად.</translation>
+<translation id="358997566136285270">tomi-ის ლოგო</translation>
+<translation id="4050599136622776556">tomi ცდილობს გადახდის მეთოდების რედაქტირებას.</translation>
+<translation id="4365115785552740256">tomi არსებობს <ph name="BEGIN_LINK_CHROMIUM" />tomi<ph name="END_LINK_CHROMIUM" /> ღია წყაროს პროექტის და სხვა <ph name="BEGIN_LINK_OSS" />ღია წყაროს პროგრამული უზრუნველყოფის<ph name="END_LINK_OSS" /> წყალობით.</translation>
 <translation id="4559775032954821361">გახსენით
-          Tomi-ის მენიუ &gt;
+          tomi-ის მენიუ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -18,22 +18,22 @@
           &gt;
           LAN-ის პარამეტრები
           და მოხსენით მონიშვნა მოსანიშნი უჯრიდან „პროქსი სერვერის გამოყენება LAN-ისთვის“.</translation>
-<translation id="4622039161600275920">ეს გვერდი დაბლოკილია Tomi-ის მიერ</translation>
-<translation id="48558539577516920">თქვენი ქსელის დაცვის ან ანტივირუსის პარამეტრებში, მიეცით Tomi-ს ქსელზე წვდომის
+<translation id="4622039161600275920">ეს გვერდი დაბლოკილია tomi-ის მიერ</translation>
+<translation id="48558539577516920">თქვენი ქსელის დაცვის ან ანტივირუსის პარამეტრებში, მიეცით tomi-ს ქსელზე წვდომის
           უფლება.</translation>
 <translation id="580822234363523061">გახსენით
-          Tomi-ის მენიუ &gt;
+          tomi-ის მენიუ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
           &gt;
           <ph name="PROXIES_TITLE" />
          და დარწმუნდით, რომ კონფიგურაციაში დაყენებულია მნიშვნელობები „პროქსის გარეშე“ ან „პირდაპირი“</translation>
-<translation id="6549378540556750549">Tomi, ასევე, მუშაობს <ph name="BEGIN_LINK_OSS" />ღია კოდის სხვა პროგრამული უზრუნველყოფის<ph name="END_LINK_OSS" /> დამსახურებით.</translation>
-<translation id="6613594504749178791">თქვენი ცვლილებები გააქტიურდება Tomi-ის შემდეგი გაშვებისას.</translation>
-<translation id="7681937895330411637">Tomi არსებობს <ph name="BEGIN_LINK_CHROMIUM" />Tomi<ph name="END_LINK_CHROMIUM" />-ის ღია კოდის პროექტის წყალობით.</translation>
+<translation id="6549378540556750549">tomi, ასევე, მუშაობს <ph name="BEGIN_LINK_OSS" />ღია კოდის სხვა პროგრამული უზრუნველყოფის<ph name="END_LINK_OSS" /> დამსახურებით.</translation>
+<translation id="6613594504749178791">თქვენი ცვლილებები გააქტიურდება tomi-ის შემდეგი გაშვებისას.</translation>
+<translation id="7681937895330411637">tomi არსებობს <ph name="BEGIN_LINK_CHROMIUM" />tomi<ph name="END_LINK_CHROMIUM" />-ის ღია კოდის პროექტის წყალობით.</translation>
 <translation id="7861509383340276692">გახსენით
-         Tomi-ის მენიუ &gt;
+         tomi-ის მენიუ &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -43,6 +43,6 @@
 <translation id="8187289872471304532">გადადით
           პროგრამები &gt; სისტემის პარამეტრები &gt; ქსელი &gt; მოწინავე &gt; პროქსი
           და გააუქმეთ ნებისმიერი არჩეული პროქსი.</translation>
-<translation id="8597726643333341451">თქვენი უყურებთ Tomi for Testing-ის დაცულ გვერდს</translation>
-<translation id="8684913864886094367">Tomi სწორად ვერ გაითიშა.</translation>
+<translation id="8597726643333341451">თქვენი უყურებთ tomi for Testing-ის დაცულ გვერდს</translation>
+<translation id="8684913864886094367">tomi სწორად ვერ გაითიშა.</translation>
 </translationbundle>

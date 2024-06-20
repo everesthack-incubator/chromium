@@ -11,7 +11,7 @@
 #define FPL FILE_PATH_LITERAL
 
 #if BUILDFLAG(IS_MAC)
-#define PRODUCT_STRING "Tomi"
+#define PRODUCT_STRING "tomi"
 #endif  // BUILDFLAG(IS_MAC)
 
 namespace chrome {
@@ -37,9 +37,9 @@ const char kChromeVersion[] = CHROME_VERSION_STRING;
 
 #if BUILDFLAG(IS_WIN)
 const base::FilePath::CharType kBrowserProcessExecutableName[] =
-    FPL("Tomi.exe");
+    FPL("tomi.exe");
 const base::FilePath::CharType kHelperProcessExecutableName[] =
-    FPL("Tomi.exe");
+    FPL("tomi.exe");
 #elif BUILDFLAG(IS_MAC)
 const base::FilePath::CharType kBrowserProcessExecutableName[] =
     FPL(PRODUCT_STRING);
@@ -47,11 +47,11 @@ const base::FilePath::CharType kHelperProcessExecutableName[] =
     FPL(PRODUCT_STRING " Helper");
 #elif BUILDFLAG(IS_ANDROID)
 // NOTE: Keep it synced with the process names defined in AndroidManifest.xml.
-const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("Tomi");
+const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("tomi");
 const base::FilePath::CharType kHelperProcessExecutableName[] =
     FPL("sandboxed_process");
 #elif BUILDFLAG(IS_POSIX)
-const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("Tomi");
+const base::FilePath::CharType kBrowserProcessExecutableName[] = FPL("tomi");
 // Helper processes end up with a name of "exe" due to execing via
 // /proc/self/exe.  See bug 22703.
 const base::FilePath::CharType kHelperProcessExecutableName[] = FPL("exe");
@@ -59,9 +59,9 @@ const base::FilePath::CharType kHelperProcessExecutableName[] = FPL("exe");
 
 #if BUILDFLAG(IS_WIN)
 const base::FilePath::CharType kBrowserProcessExecutablePath[] =
-    FPL("Tomi.exe");
+    FPL("tomi.exe");
 const base::FilePath::CharType kHelperProcessExecutablePath[] =
-    FPL("Tomi.exe");
+    FPL("tomi.exe");
 #elif BUILDFLAG(IS_MAC)
 const base::FilePath::CharType kBrowserProcessExecutablePath[] =
     FPL(PRODUCT_STRING ".app/Contents/MacOS/" PRODUCT_STRING);
@@ -70,17 +70,17 @@ const base::FilePath::CharType
         FPL("Google Chrome for Testing.app/Contents/MacOS/Google Chrome for "
             "Testing");
 const base::FilePath::CharType kGoogleChromeBrowserProcessExecutablePath[] =
-    FPL("Tomi.app/Contents/MacOS/Tomi");
+    FPL("tomi.app/Contents/MacOS/tomi");
 const base::FilePath::CharType kChromiumBrowserProcessExecutablePath[] =
-    FPL("Tomi.app/Contents/MacOS/Tomi");
+    FPL("tomi.app/Contents/MacOS/tomi");
 const base::FilePath::CharType kHelperProcessExecutablePath[] =
     FPL(PRODUCT_STRING " Helper.app/Contents/MacOS/" PRODUCT_STRING " Helper");
 #elif BUILDFLAG(IS_ANDROID)
-const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("Tomi");
-const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("Tomi");
+const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("tomi");
+const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("tomi");
 #elif BUILDFLAG(IS_POSIX)
-const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("Tomi");
-const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("Tomi");
+const base::FilePath::CharType kBrowserProcessExecutablePath[] = FPL("tomi");
+const base::FilePath::CharType kHelperProcessExecutablePath[] = FPL("tomi");
 #endif  // OS_*
 
 #if BUILDFLAG(IS_MAC)

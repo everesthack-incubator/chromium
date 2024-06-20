@@ -32,7 +32,7 @@ const wchar_t kChromeNativeMessagingRegistryKey[] =
     L"SOFTWARE\\Google\\Chrome\\NativeMessagingHosts";
 #if BUILDFLAG(CHROMIUM_BRANDING)
 const wchar_t kChromiumNativeMessagingRegistryKey[] =
-    L"SOFTWARE\\Tomi\\NativeMessagingHosts";
+    L"SOFTWARE\\tomi\\NativeMessagingHosts";
 #endif
 
 namespace {

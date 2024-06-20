@@ -1,472 +1,472 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="it">
-<translation id="1001716830750249114">Vai alle impostazioni della versione di Tomi</translation>
+<translation id="1001716830750249114">Vai alle impostazioni della versione di tomi</translation>
 <translation id="1026101648481255140">Riprendi l'installazione</translation>
-<translation id="1029669172902658969">Riavvia per aggiornare &amp;Tomi OS</translation>
-<translation id="1040916596585577953">Tomi ti consiglia di esaminare questa estensione</translation>
-<translation id="1042552502243217427">Quando un sito chiede di precaricare privatamente i link nella sua pagina, Tomi usa i server di Google. In questo modo la tua identità rimane nascosta al sito precaricato, ma Google impara quali siti vengono precaricati.</translation>
+<translation id="1029669172902658969">Riavvia per aggiornare &amp;tomi OS</translation>
+<translation id="1040916596585577953">tomi ti consiglia di esaminare questa estensione</translation>
+<translation id="1042552502243217427">Quando un sito chiede di precaricare privatamente i link nella sua pagina, tomi usa i server di Google. In questo modo la tua identità rimane nascosta al sito precaricato, ma Google impara quali siti vengono precaricati.</translation>
 <translation id="1065672644894730302">Impossibile leggere le preferenze. Alcune funzioni potrebbero non essere disponibili e le modifiche alle preferenze non verranno salvate.</translation>
-<translation id="1083934481477628225">Uno dei tuoi genitori ha disattivato l'impostazione "Autorizzazioni per siti, app ed estensioni" per Tomi</translation>
-<translation id="1098170124587656448">Tomi può contribuire a proteggerti da violazioni dei dati, estensioni non valide e non solo</translation>
-<translation id="1104942323762546749">Tomi vuole esportare le password. Per consentire l'esportazione, digita la tua password Windows.</translation>
-<translation id="113122355610423240">Tomi è il tuo browser predefinito</translation>
-<translation id="1131805035311359397">Per controllare che le tue password siano protette da violazioni dei dati e altri problemi di sicurezza, <ph name="BEGIN_LINK" />accedi a Tomi<ph name="END_LINK" />.</translation>
-<translation id="1153368717515616349">Fai clic sul menu Tomi</translation>
-<translation id="1185134272377778587">Informazioni su Tomi</translation>
+<translation id="1083934481477628225">Uno dei tuoi genitori ha disattivato l'impostazione "Autorizzazioni per siti, app ed estensioni" per tomi</translation>
+<translation id="1098170124587656448">tomi può contribuire a proteggerti da violazioni dei dati, estensioni non valide e non solo</translation>
+<translation id="1104942323762546749">tomi vuole esportare le password. Per consentire l'esportazione, digita la tua password Windows.</translation>
+<translation id="113122355610423240">tomi è il tuo browser predefinito</translation>
+<translation id="1131805035311359397">Per controllare che le tue password siano protette da violazioni dei dati e altri problemi di sicurezza, <ph name="BEGIN_LINK" />accedi a tomi<ph name="END_LINK" />.</translation>
+<translation id="1153368717515616349">Fai clic sul menu tomi</translation>
+<translation id="1185134272377778587">Informazioni su tomi</translation>
 <translation id="1203500561924088507">L'installazione è terminata. Dovrai riavviare il browser per poter utilizzare <ph name="BUNDLE_NAME" />.</translation>
-<translation id="1262876892872089030">Mentre questa scheda non era attiva, la memoria è stata liberata per mantenere Tomi veloce. Puoi scegliere di escludere sempre il sito dall'inattività.</translation>
-<translation id="1265577313130862557">Tomi ha bloccato questo download perché il file è pericoloso</translation>
-<translation id="1315551408014407711">Configura il tuo nuovo profilo di Tomi</translation>
-<translation id="1342274909142618978">Elimina i dati anche da Tomi (<ph name="URL" />)</translation>
-<translation id="1414495520565016063">Hai eseguito l'accesso a Tomi.</translation>
-<translation id="1478370723027452770">Richiedi assistenza per Tomi for Testing</translation>
+<translation id="1262876892872089030">Mentre questa scheda non era attiva, la memoria è stata liberata per mantenere tomi veloce. Puoi scegliere di escludere sempre il sito dall'inattività.</translation>
+<translation id="1265577313130862557">tomi ha bloccato questo download perché il file è pericoloso</translation>
+<translation id="1315551408014407711">Configura il tuo nuovo profilo di tomi</translation>
+<translation id="1342274909142618978">Elimina i dati anche da tomi (<ph name="URL" />)</translation>
+<translation id="1414495520565016063">Hai eseguito l'accesso a tomi.</translation>
+<translation id="1478370723027452770">Richiedi assistenza per tomi for Testing</translation>
 <translation id="1497802159252041924">Errore di installazione: <ph name="INSTALL_ERROR" /></translation>
-<translation id="1524282610922162960">Condividi una scheda di Tomi</translation>
-<translation id="1553461853655228091">Tomi ha bisogno dell'autorizzazione ad accedere alla fotocamera per creare una mappa 3D dell'ambiente circostante</translation>
-<translation id="1574377791422810894">Strumenti per la sicurezza di Tomi</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{L'amministratore richiede il riavvio di Tomi per installare un aggiornamento}=1{L'amministratore richiede il riavvio di Tomi per installare un aggiornamento. La finestra di navigazione in incognito non verrà riaperta.}other{L'amministratore richiede il riavvio di Tomi per installare un aggiornamento. Le # finestre di navigazione in incognito non verranno riaperte.}}</translation>
-<translation id="1625909126243026060">Esamina i controlli per la privacy e la sicurezza più importanti in Tomi</translation>
-<translation id="1632539827495546968">Se vuoi utilizzare questo account solo una volta, puoi utilizzare la <ph name="GUEST_LINK_BEGIN" />modalità ospite<ph name="GUEST_LINK_END" /> del browser Tomi. Se vuoi aggiungere un account per qualcun altro, <ph name="LINK_BEGIN" />aggiungi una nuova persona<ph name="LINK_END" /> a <ph name="DEVICE_TYPE" />.
+<translation id="1524282610922162960">Condividi una scheda di tomi</translation>
+<translation id="1553461853655228091">tomi ha bisogno dell'autorizzazione ad accedere alla fotocamera per creare una mappa 3D dell'ambiente circostante</translation>
+<translation id="1574377791422810894">Strumenti per la sicurezza di tomi</translation>
+<translation id="1607715478322902680">{COUNT,plural, =0{L'amministratore richiede il riavvio di tomi per installare un aggiornamento}=1{L'amministratore richiede il riavvio di tomi per installare un aggiornamento. La finestra di navigazione in incognito non verrà riaperta.}other{L'amministratore richiede il riavvio di tomi per installare un aggiornamento. Le # finestre di navigazione in incognito non verranno riaperte.}}</translation>
+<translation id="1625909126243026060">Esamina i controlli per la privacy e la sicurezza più importanti in tomi</translation>
+<translation id="1632539827495546968">Se vuoi utilizzare questo account solo una volta, puoi utilizzare la <ph name="GUEST_LINK_BEGIN" />modalità ospite<ph name="GUEST_LINK_END" /> del browser tomi. Se vuoi aggiungere un account per qualcun altro, <ph name="LINK_BEGIN" />aggiungi una nuova persona<ph name="LINK_END" /> a <ph name="DEVICE_TYPE" />.
 
 A questo account potrebbero essere applicate le autorizzazioni già concesse a siti web e app. Puoi gestire i tuoi Account Google nelle <ph name="SETTINGS_LINK_BEGIN" />Impostazioni<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1640672724030957280">Download in corso...</translation>
-<translation id="1708666629004767631">È disponibile una nuova versione più sicura di Tomi.</translation>
-<translation id="1715127912119967311">Per contribuire a migliorare queste funzionalità, Tomi invia le tue interazioni a Google. Questi dati potrebbero essere letti, elaborati e annotati da revisori.</translation>
-<translation id="17264556997921157">Puoi visualizzare e rimuovere argomenti di interesse usati dai siti per mostrarti annunci. Tomi stima i tuoi interessi in base alla tua recente cronologia di navigazione.</translation>
-<translation id="1733725117201708356">A breve Tomi eliminerà i dati di navigazione</translation>
-<translation id="1736443181683099871">Tomi proverà a eseguire l'upgrade delle navigazioni a HTTPS</translation>
-<translation id="1745121272106313518">Tomi verrà riavviato tra <ph name="REMAINING_TIME" /></translation>
-<translation id="1749104137266986751">Quando HTTPS non è disponibile, Tomi utilizza una connessione non sicura senza avvisarti</translation>
-<translation id="1774152462503052664">Lascia Tomi in esecuzione in background</translation>
-<translation id="1779356040007214683">Per rendere Tomi più sicuro, abbiamo disattivato alcune estensioni che non sono elencate nel <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> e potrebbero essere state aggiunte a tua insaputa.</translation>
-<translation id="1808667845054772817">Reinstalla Tomi</translation>
-<translation id="1820835682567584003">Tomi sta cercando di <ph name="AUTHENTICATION_PURPOSE" /></translation>
-<translation id="185970820835152459">Puoi gestire gli Account Google a cui hai eseguito l'accesso. I tuoi Account Google vengono usati per il browser Tomi, il Play Store, Gmail e altro ancora. Se vuoi aggiungere un account per qualcun altro, come un membro del gruppo Famiglia, aggiungi invece una nuova persona a <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Scopri di più<ph name="LINK_END" /></translation>
-<translation id="1863308913976887472">I siti possono memorizzare su Tomi informazioni relative ai tuoi interessi. Ad esempio, se visiti un sito per acquistare scarpe per una maratona, il sito potrebbe definire come tuo interesse le maratone. Se in un secondo momento visiti un altro sito per registrarti a una gara, il sito può mostrarti un annuncio relativo a scarpe da corsa in base ai tuoi interessi.</translation>
-<translation id="1881322772814446296">Stai per accedere con un account gestito e per dare al relativo amministratore il controllo del tuo profilo Tomi. I tuoi dati di Tomi, come app, Preferiti, cronologia, password e altre impostazioni, verranno collegati definitivamente a <ph name="USER_NAME" />. Potrai eliminare questi dati tramite la Dashboard di Google Account, ma non potrai associare questi dati a un altro account. Se preferisci puoi creare un nuovo profilo per mantenere separati i dati di Tomi esistenti. <ph name="LEARN_MORE" /></translation>
-<translation id="1906696617298807388">Quando digiti nella barra degli indirizzi o nella casella di ricerca, Tomi invia ciò che digiti a Google Drive per ricevere suggerimenti sugli elementi. Questa opzione è disattivata nella modalità di navigazione in incognito.</translation>
-<translation id="1911763535808217981">Se disattivi questa funzione, puoi accedere ai siti Google quali Gmail senza accedere a Tomi</translation>
-<translation id="1929939181775079593">Tomi non risponde. Riavviarlo ora?</translation>
-<translation id="193439633299369377">Per applicare l'aggiornamento è necessario riavviare Tomi OS.</translation>
-<translation id="1951406923938785464">Tomi ha bloccato questo download perché il tipo di file non viene scaricato comunemente e potrebbe essere pericoloso</translation>
+<translation id="1708666629004767631">È disponibile una nuova versione più sicura di tomi.</translation>
+<translation id="1715127912119967311">Per contribuire a migliorare queste funzionalità, tomi invia le tue interazioni a Google. Questi dati potrebbero essere letti, elaborati e annotati da revisori.</translation>
+<translation id="17264556997921157">Puoi visualizzare e rimuovere argomenti di interesse usati dai siti per mostrarti annunci. tomi stima i tuoi interessi in base alla tua recente cronologia di navigazione.</translation>
+<translation id="1733725117201708356">A breve tomi eliminerà i dati di navigazione</translation>
+<translation id="1736443181683099871">tomi proverà a eseguire l'upgrade delle navigazioni a HTTPS</translation>
+<translation id="1745121272106313518">tomi verrà riavviato tra <ph name="REMAINING_TIME" /></translation>
+<translation id="1749104137266986751">Quando HTTPS non è disponibile, tomi utilizza una connessione non sicura senza avvisarti</translation>
+<translation id="1774152462503052664">Lascia tomi in esecuzione in background</translation>
+<translation id="1779356040007214683">Per rendere tomi più sicuro, abbiamo disattivato alcune estensioni che non sono elencate nel <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> e potrebbero essere state aggiunte a tua insaputa.</translation>
+<translation id="1808667845054772817">Reinstalla tomi</translation>
+<translation id="1820835682567584003">tomi sta cercando di <ph name="AUTHENTICATION_PURPOSE" /></translation>
+<translation id="185970820835152459">Puoi gestire gli Account Google a cui hai eseguito l'accesso. I tuoi Account Google vengono usati per il browser tomi, il Play Store, Gmail e altro ancora. Se vuoi aggiungere un account per qualcun altro, come un membro del gruppo Famiglia, aggiungi invece una nuova persona a <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Scopri di più<ph name="LINK_END" /></translation>
+<translation id="1863308913976887472">I siti possono memorizzare su tomi informazioni relative ai tuoi interessi. Ad esempio, se visiti un sito per acquistare scarpe per una maratona, il sito potrebbe definire come tuo interesse le maratone. Se in un secondo momento visiti un altro sito per registrarti a una gara, il sito può mostrarti un annuncio relativo a scarpe da corsa in base ai tuoi interessi.</translation>
+<translation id="1881322772814446296">Stai per accedere con un account gestito e per dare al relativo amministratore il controllo del tuo profilo tomi. I tuoi dati di tomi, come app, Preferiti, cronologia, password e altre impostazioni, verranno collegati definitivamente a <ph name="USER_NAME" />. Potrai eliminare questi dati tramite la Dashboard di Google Account, ma non potrai associare questi dati a un altro account. Se preferisci puoi creare un nuovo profilo per mantenere separati i dati di tomi esistenti. <ph name="LEARN_MORE" /></translation>
+<translation id="1906696617298807388">Quando digiti nella barra degli indirizzi o nella casella di ricerca, tomi invia ciò che digiti a Google Drive per ricevere suggerimenti sugli elementi. Questa opzione è disattivata nella modalità di navigazione in incognito.</translation>
+<translation id="1911763535808217981">Se disattivi questa funzione, puoi accedere ai siti Google quali Gmail senza accedere a tomi</translation>
+<translation id="1929939181775079593">tomi non risponde. Riavviarlo ora?</translation>
+<translation id="193439633299369377">Per applicare l'aggiornamento è necessario riavviare tomi OS.</translation>
+<translation id="1951406923938785464">tomi ha bloccato questo download perché il tipo di file non viene scaricato comunemente e potrebbe essere pericoloso</translation>
 <translation id="1953553007165777902">Download in corso… Minuti rimanenti: <ph name="MINUTE" /></translation>
-<translation id="1966382378801805537">Tomi non è in grado di determinare o impostare il browser predefinito</translation>
-<translation id="2008474315282236005">Verrà eliminato 1 elemento da questo dispositivo. Per recuperare i dati in un secondo momento, accedi a Tomi come <ph name="USER_EMAIL" />.</translation>
+<translation id="1966382378801805537">tomi non è in grado di determinare o impostare il browser predefinito</translation>
+<translation id="2008474315282236005">Verrà eliminato 1 elemento da questo dispositivo. Per recuperare i dati in un secondo momento, accedi a tomi come <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Installazione non riuscita. Riprova.</translation>
-<translation id="2020032459870799438">Per controllare che le tue altre password siano protette da violazioni dei dati e altri problemi di sicurezza, <ph name="BEGIN_LINK" />accedi a Tomi<ph name="END_LINK" />.</translation>
-<translation id="2049376729098081731">Scegli se includere la cronologia di Tomi per esperienze ancora più personalizzate nei servizi Tomi</translation>
-<translation id="2086476982681781442">Tomi ha bloccato questo download perché il file è ingannevole e potrebbe apportare modifiche impreviste al tuo dispositivo</translation>
-<translation id="2088953378266246249">Informazioni su come Tomi gestisce i suoi certificati radice</translation>
-<translation id="2120965832000301375">{COUNT,plural, =1{La tua organizzazione elimina automaticamente i dati di navigazione quando Tomi non viene utilizzato per 1 minuto. Potrebbero essere inclusi cronologia, compilazione automatica e download. Le schede rimarranno aperte.}other{La tua organizzazione elimina automaticamente i dati di navigazione quando Tomi non viene utilizzato per # minuti. Potrebbero essere inclusi cronologia, compilazione automatica e download. Le schede rimarranno aperte.}}</translation>
+<translation id="2020032459870799438">Per controllare che le tue altre password siano protette da violazioni dei dati e altri problemi di sicurezza, <ph name="BEGIN_LINK" />accedi a tomi<ph name="END_LINK" />.</translation>
+<translation id="2049376729098081731">Scegli se includere la cronologia di tomi per esperienze ancora più personalizzate nei servizi tomi</translation>
+<translation id="2086476982681781442">tomi ha bloccato questo download perché il file è ingannevole e potrebbe apportare modifiche impreviste al tuo dispositivo</translation>
+<translation id="2088953378266246249">Informazioni su come tomi gestisce i suoi certificati radice</translation>
+<translation id="2120965832000301375">{COUNT,plural, =1{La tua organizzazione elimina automaticamente i dati di navigazione quando tomi non viene utilizzato per 1 minuto. Potrebbero essere inclusi cronologia, compilazione automatica e download. Le schede rimarranno aperte.}other{La tua organizzazione elimina automaticamente i dati di navigazione quando tomi non viene utilizzato per # minuti. Potrebbero essere inclusi cronologia, compilazione automatica e download. Le schede rimarranno aperte.}}</translation>
 <translation id="2126108037660393668">Il file scaricato non ha superato la verifica.</translation>
-<translation id="215352261310130060">Tomi ha bloccato questo download perché il sito non utilizza una connessione sicura e il file potrebbe essere stato manomesso</translation>
-<translation id="2174178932569897599">Personalizza Tomi</translation>
+<translation id="215352261310130060">tomi ha bloccato questo download perché il sito non utilizza una connessione sicura e il file potrebbe essere stato manomesso</translation>
+<translation id="2174178932569897599">Personalizza tomi</translation>
 <translation id="2174917724755363426">Installazione non completata. Vuoi annullarla?</translation>
-<translation id="2185166961232948079">Tomi - Accesso rete - <ph name="PAGE_TITLE" /></translation>
+<translation id="2185166961232948079">tomi - Accesso rete - <ph name="PAGE_TITLE" /></translation>
 <translation id="2190166659037789668">Errore controllo aggiornamenti: <ph name="UPDATE_CHECK_ERROR" />.</translation>
-<translation id="2241627712206172106">Se condividi un computer, i tuoi amici e la tua famiglia possono navigare separatamente e configurare Tomi in base alle proprie esigenze.</translation>
-<translation id="2313870531055795960">Controlla gli URL confrontandoli con un elenco di siti non sicuri memorizzato in Tomi. Se un sito cerca di rubare la tua password o se scarichi un file dannoso, Tomi potrebbe anche inviare gli URL, inclusi frammenti dei contenuti delle pagine, a Navigazione sicura.</translation>
-<translation id="2329088755516916767">Quando questa impostazione è attiva, Tomi precarica le pagine per velocizzare la navigazione e la ricerca.</translation>
-<translation id="2343156876103232566">Per inviare un numero da questo dispositivo al tuo telefono Android, accedi a Tomi su entrambi i dispositivi.</translation>
+<translation id="2241627712206172106">Se condividi un computer, i tuoi amici e la tua famiglia possono navigare separatamente e configurare tomi in base alle proprie esigenze.</translation>
+<translation id="2313870531055795960">Controlla gli URL confrontandoli con un elenco di siti non sicuri memorizzato in tomi. Se un sito cerca di rubare la tua password o se scarichi un file dannoso, tomi potrebbe anche inviare gli URL, inclusi frammenti dei contenuti delle pagine, a Navigazione sicura.</translation>
+<translation id="2329088755516916767">Quando questa impostazione è attiva, tomi precarica le pagine per velocizzare la navigazione e la ricerca.</translation>
+<translation id="2343156876103232566">Per inviare un numero da questo dispositivo al tuo telefono Android, accedi a tomi su entrambi i dispositivi.</translation>
 <translation id="2359808026110333948">Continua</translation>
-<translation id="2359920621792549529">Per cancellare i dati di navigazione solo da questo dispositivo e conservarli nel tuo Account Google, <ph name="BEGIN_LINK" />esci da Tomi<ph name="END_LINK" />.</translation>
-<translation id="2384373936468275798">Impossibile sincronizzare i dati in Tomi OS perché i dati di accesso dell'account sono obsoleti.</translation>
-<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{Una o più estensioni di Tomi stavano accedendo a 1 dispositivo HID}=1{Una o più estensioni di Tomi stanno accedendo a 1 dispositivo HID}other{Una o più estensioni di Tomi stanno accedendo a # dispositivi HID}}</translation>
-<translation id="2401032172288869980">Tomi deve avere le autorizzazioni di accesso al microfono e alla fotocamera per questo sito</translation>
-<translation id="2440750600860946460">Con gli <ph name="BEGIN_LINK" />strumenti di Tomi<ph name="END_LINK" />, puoi navigare in sicurezza e mantenere il controllo</translation>
+<translation id="2359920621792549529">Per cancellare i dati di navigazione solo da questo dispositivo e conservarli nel tuo Account Google, <ph name="BEGIN_LINK" />esci da tomi<ph name="END_LINK" />.</translation>
+<translation id="2384373936468275798">Impossibile sincronizzare i dati in tomi OS perché i dati di accesso dell'account sono obsoleti.</translation>
+<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{Una o più estensioni di tomi stavano accedendo a 1 dispositivo HID}=1{Una o più estensioni di tomi stanno accedendo a 1 dispositivo HID}other{Una o più estensioni di tomi stanno accedendo a # dispositivi HID}}</translation>
+<translation id="2401032172288869980">tomi deve avere le autorizzazioni di accesso al microfono e alla fotocamera per questo sito</translation>
+<translation id="2440750600860946460">Con gli <ph name="BEGIN_LINK" />strumenti di tomi<ph name="END_LINK" />, puoi navigare in sicurezza e mantenere il controllo</translation>
 <translation id="2451727308784734061">Usa la scorciatoia per accedere rapidamente a Gestore delle password. Puoi spostare la scorciatoia nella schermata Home del computer o in Avvio applicazioni.</translation>
-<translation id="2478295928299953161">Tomi verrà chiuso a breve</translation>
-<translation id="2483889755041906834">In Tomi</translation>
+<translation id="2478295928299953161">tomi verrà chiuso a breve</translation>
+<translation id="2483889755041906834">In tomi</translation>
 <translation id="2485422356828889247">Disinstalla</translation>
 <translation id="2513154137948333830">È richiesto il riavvio: <ph name="INSTALL_SUCCESS" /></translation>
-<translation id="2554739539410784893">Tomi sta cercando di sostituire le password esistenti. Digita la tua password di Windows per consentire l'operazione.</translation>
-<translation id="2560420686485554789">Tomi deve avere accesso allo spazio di archiviazione per poter scaricare file</translation>
-<translation id="2572494885440352020">Supporto Tomi</translation>
-<translation id="2583187216237139145">Tutti i dati di Tomi generati durante l'utilizzo di questo profilo (come i preferiti, la cronologia, le password e altre impostazioni) possono essere rimossi dall'amministratore del profilo di lavoro. <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Continua a utilizzare Tomi</translation>
+<translation id="2554739539410784893">tomi sta cercando di sostituire le password esistenti. Digita la tua password di Windows per consentire l'operazione.</translation>
+<translation id="2560420686485554789">tomi deve avere accesso allo spazio di archiviazione per poter scaricare file</translation>
+<translation id="2572494885440352020">Supporto tomi</translation>
+<translation id="2583187216237139145">Tutti i dati di tomi generati durante l'utilizzo di questo profilo (come i preferiti, la cronologia, le password e altre impostazioni) possono essere rimossi dall'amministratore del profilo di lavoro. <ph name="LEARN_MORE" /></translation>
+<translation id="2592940277904433508">Continua a utilizzare tomi</translation>
 <translation id="259935314519650377">Impossibile memorizzare nella cache il programma di installazione scaricato. Errore: <ph name="UNPACK_CACHING_ERROR_CODE" />.</translation>
-<translation id="264613044588233783">Tomi esegue ogni operazione con la massima rapidità e le funzionalità che utilizzano JavaScript dovrebbero avere il comportamento previsto (consigliato)</translation>
-<translation id="2648074677641340862">Durante l'installazione si è verificato un errore del sistema operativo. Scarica di nuovo Tomi.</translation>
-<translation id="2661879430930417727">Se condividi un dispositivo, i tuoi amici e la tua famiglia possono navigare separatamente e configurare Tomi in base alle proprie esigenze</translation>
-<translation id="268602741124540128">Ti diamo il benvenuto in Tomi, <ph name="ACCOUNT_FIRST_NAME" /></translation>
-<translation id="2711502716910134313">Scheda Tomi</translation>
-<translation id="2718390899429598676">Per maggiore sicurezza, Tomi cripterà i tuoi dati.</translation>
+<translation id="264613044588233783">tomi esegue ogni operazione con la massima rapidità e le funzionalità che utilizzano JavaScript dovrebbero avere il comportamento previsto (consigliato)</translation>
+<translation id="2648074677641340862">Durante l'installazione si è verificato un errore del sistema operativo. Scarica di nuovo tomi.</translation>
+<translation id="2661879430930417727">Se condividi un dispositivo, i tuoi amici e la tua famiglia possono navigare separatamente e configurare tomi in base alle proprie esigenze</translation>
+<translation id="268602741124540128">Ti diamo il benvenuto in tomi, <ph name="ACCOUNT_FIRST_NAME" /></translation>
+<translation id="2711502716910134313">Scheda tomi</translation>
+<translation id="2718390899429598676">Per maggiore sicurezza, tomi cripterà i tuoi dati.</translation>
 <translation id="2738871930057338499">Impossibile connettersi a internet. HTTP 403 Accesso negato. Controlla la configurazione del proxy.</translation>
 <translation id="2770231113462710648">Cambia browser predefinito con:</translation>
-<translation id="2785438272836277133">Questa estensione contiene malware e non è sicura. Rimuovila da Tomi in modo che non possa più vedere e modificare i tuoi dati sui siti che visiti, incluse le tue informazioni personali.</translation>
+<translation id="2785438272836277133">Questa estensione contiene malware e non è sicura. Rimuovila da tomi in modo che non possa più vedere e modificare i tuoi dati sui siti che visiti, incluse le tue informazioni personali.</translation>
 <translation id="2799223571221894425">Riavvia</translation>
-<translation id="2837693172913560447">Questa operazione creerà un nuovo profilo Tomi per <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="2837693172913560447">Questa operazione creerà un nuovo profilo tomi per <ph name="USER_EMAIL_ADDRESS" /></translation>
 <translation id="2846251086934905009">Errore di installazione: il programma di installazione non è stato completato. L'installazione è stata interrotta.</translation>
-<translation id="2847479871509788944">Rimuovi da Tomi...</translation>
-<translation id="2850691299438350830">Ti protegge su Tomi e potrebbe essere utilizzata per migliorare la tua sicurezza in altre app Google se hai eseguito l'accesso</translation>
+<translation id="2847479871509788944">Rimuovi da tomi...</translation>
+<translation id="2850691299438350830">Ti protegge su tomi e potrebbe essere utilizzata per migliorare la tua sicurezza in altre app Google se hai eseguito l'accesso</translation>
 <translation id="2885378588091291677">Task Manager</translation>
-<translation id="2910007522516064972">Informazioni su &amp;Tomi</translation>
+<translation id="2910007522516064972">Informazioni su &amp;tomi</translation>
 <translation id="2915996080311180594">Riavvia in seguito</translation>
 <translation id="2928420929544864228">Installazione completata.</translation>
 <translation id="2945997411976714835">Errore di installazione: impossibile avviare il processo di installazione.</translation>
-<translation id="2977470724722393594">Tomi è aggiornato</translation>
-<translation id="2977506796191543575">Se un sito cerca di rubare la tua password o se scarichi un file dannoso, Tomi potrebbe anche inviare gli URL, inclusi frammenti dei contenuti delle pagine, a Navigazione sicura</translation>
-<translation id="3032706164202344641">Tomi non può controllare le tue password. Riprova più tardi.</translation>
-<translation id="3032787606318309379">Aggiunta a Tomi in corso...</translation>
+<translation id="2977470724722393594">tomi è aggiornato</translation>
+<translation id="2977506796191543575">Se un sito cerca di rubare la tua password o se scarichi un file dannoso, tomi potrebbe anche inviare gli URL, inclusi frammenti dei contenuti delle pagine, a Navigazione sicura</translation>
+<translation id="3032706164202344641">tomi non può controllare le tue password. Riprova più tardi.</translation>
+<translation id="3032787606318309379">Aggiunta a tomi in corso...</translation>
 <translation id="3038232873781883849">In attesa dell'installazione…</translation>
-<translation id="3068187312562070417">Altri profili Tomi</translation>
-<translation id="3068515742935458733">Aiutaci a migliorare Tomi inviando a Google report sugli arresti anomali e <ph name="UMA_LINK" /></translation>
-<translation id="3079753320517721795">{NUM_DEVICES,plural, =0{Una o più estensioni di Tomi stavano accedendo a 1 dispositivo USB}=1{Una o più estensioni di Tomi stanno accedendo a 1 dispositivo USB}other{Una o più estensioni di Tomi stanno accedendo a # dispositivi USB}}</translation>
-<translation id="3101560983689755071">La cronologia di navigazione incide sugli annunci che ti vengono mostrati e sugli interessi stimati riportati qui sotto. Per tutelare la tua privacy, Tomi elimina automaticamente i tuoi interessi ogni mese. A meno che non li rimuovi, gli interessi possono essere aggiornati.</translation>
-<translation id="3103660991484857065">Il programma di installazione non è riuscito a decomprimere l'archivio. Scarica di nuovo Tomi.</translation>
-<translation id="3130323860337406239">Tomi sta utilizzando il microfono.</translation>
-<translation id="3155163173539279776">Riavvia Tomi</translation>
-<translation id="3179665906251668410">Apri link in una finestra di navigazione in inco&amp;gnito di Tomi</translation>
-<translation id="3185330573522821672">Personalizza il tuo nuovo profilo Tomi</translation>
-<translation id="3190315855212034486">Spiacenti, si è verificato un arresto anomalo di Tomi. Riavviarlo ora?</translation>
-<translation id="3258596308407688501">Tomi non è in grado di leggere e scrivere nella directory dei dati:
+<translation id="3068187312562070417">Altri profili tomi</translation>
+<translation id="3068515742935458733">Aiutaci a migliorare tomi inviando a Google report sugli arresti anomali e <ph name="UMA_LINK" /></translation>
+<translation id="3079753320517721795">{NUM_DEVICES,plural, =0{Una o più estensioni di tomi stavano accedendo a 1 dispositivo USB}=1{Una o più estensioni di tomi stanno accedendo a 1 dispositivo USB}other{Una o più estensioni di tomi stanno accedendo a # dispositivi USB}}</translation>
+<translation id="3101560983689755071">La cronologia di navigazione incide sugli annunci che ti vengono mostrati e sugli interessi stimati riportati qui sotto. Per tutelare la tua privacy, tomi elimina automaticamente i tuoi interessi ogni mese. A meno che non li rimuovi, gli interessi possono essere aggiornati.</translation>
+<translation id="3103660991484857065">Il programma di installazione non è riuscito a decomprimere l'archivio. Scarica di nuovo tomi.</translation>
+<translation id="3130323860337406239">tomi sta utilizzando il microfono.</translation>
+<translation id="3155163173539279776">Riavvia tomi</translation>
+<translation id="3179665906251668410">Apri link in una finestra di navigazione in inco&amp;gnito di tomi</translation>
+<translation id="3185330573522821672">Personalizza il tuo nuovo profilo tomi</translation>
+<translation id="3190315855212034486">Spiacenti, si è verificato un arresto anomalo di tomi. Riavviarlo ora?</translation>
+<translation id="3258596308407688501">tomi non è in grado di leggere e scrivere nella directory dei dati:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3268051428841342958">V8 è il motore JavaScript e WebAssembly di Tomi utilizzato per migliorare le prestazioni del sito</translation>
-<translation id="3283186697780795848">La versione di Tomi <ph name="PRODUCT_VERSION" /> è installata</translation>
+<translation id="3268051428841342958">V8 è il motore JavaScript e WebAssembly di tomi utilizzato per migliorare le prestazioni del sito</translation>
+<translation id="3283186697780795848">La versione di tomi <ph name="PRODUCT_VERSION" /> è installata</translation>
 <translation id="3286538390144397061">Riavvia adesso</translation>
-<translation id="328888136576916638">Mancano le chiavi dell'API di Google. Alcune funzionalità di Tomi verranno disattivate.</translation>
-<translation id="3296368748942286671">Continua a eseguire applicazioni in background dopo la chiusura di Tomi</translation>
-<translation id="3313189106987092621">Tomi ti avvisa prima di caricare qualsiasi sito che utilizza una connessione non sicura</translation>
-<translation id="3350761136195634146">Esiste già un profilo Tomi con questo account</translation>
-<translation id="3387527074123400161">Tomi OS</translation>
-<translation id="3406848076815591792">Vuoi passare a un profilo Tomi esistente?</translation>
+<translation id="328888136576916638">Mancano le chiavi dell'API di Google. Alcune funzionalità di tomi verranno disattivate.</translation>
+<translation id="3296368748942286671">Continua a eseguire applicazioni in background dopo la chiusura di tomi</translation>
+<translation id="3313189106987092621">tomi ti avvisa prima di caricare qualsiasi sito che utilizza una connessione non sicura</translation>
+<translation id="3350761136195634146">Esiste già un profilo tomi con questo account</translation>
+<translation id="3387527074123400161">tomi OS</translation>
+<translation id="3406848076815591792">Vuoi passare a un profilo tomi esistente?</translation>
 <translation id="3412460710772753638">In Gestore delle password su questo dispositivo</translation>
-<translation id="3430503420100763906">Con i profili Tomi puoi separare tutti i tuoi contenuti di Tomi. Crea profili per amici e familiari oppure dividi i dati di lavoro e i contenuti di svago.</translation>
-<translation id="347328004046849135">Tomi ti invierà una notifica quando accederai con una password compromessa</translation>
-<translation id="3474745554856756813">Verranno eliminati <ph name="ITEMS_COUNT" /> elementi da questo dispositivo. Per recuperare i dati in un secondo momento, accedi a Tomi come <ph name="USER_EMAIL" />.</translation>
-<translation id="3497319089134299931">La scorciatoia <ph name="SHORTCUT" /> consente di passare da un profilo Tomi all'altro</translation>
-<translation id="3509308970982693815">Chiudi tutte le finestre di Tomi e riprova.</translation>
-<translation id="3533435340678213462">Per tutelare la tua privacy, eliminiamo automaticamente i tuoi interessi risalenti a più di 4 settimane prima della data corrente. Mentre continui a navigare, un interesse potrebbe essere nuovamente visualizzato nell'elenco. Puoi anche rimuovere gli interessi che non vuoi che Tomi prenda in considerazione.</translation>
-<translation id="3567254597502212821">La cronologia di navigazione, ossia un record dei siti visitati da Tomi sul dispositivo in uso.</translation>
-<translation id="3593091352817399191">Un altro account ha già eseguito l'accesso. Per tenere separata la tua navigazione, Tomi può creare per te il tuo profilo personale.</translation>
-<translation id="3639635944603682591">I dati di navigazione di questa persona verranno eliminati dal dispositivo. Per recuperare i dati, accedi a Tomi con il nome utente <ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{È disponibile un nuovo aggiornamento di Tomi che verrà installato appena eseguirai il riavvio.}=1{È disponibile un nuovo aggiornamento di Tomi che verrà installato appena eseguirai il riavvio. La finestra di navigazione in incognito non verrà riaperta.}other{È disponibile un nuovo aggiornamento di Tomi che verrà installato appena eseguirai il riavvio. Le # finestre di navigazione in incognito non verranno riaperte.}}</translation>
-<translation id="3651803019964686660">Per inviare un numero da <ph name="ORIGIN" /> al tuo telefono Android, accedi a Tomi su entrambi i dispositivi.</translation>
+<translation id="3430503420100763906">Con i profili tomi puoi separare tutti i tuoi contenuti di tomi. Crea profili per amici e familiari oppure dividi i dati di lavoro e i contenuti di svago.</translation>
+<translation id="347328004046849135">tomi ti invierà una notifica quando accederai con una password compromessa</translation>
+<translation id="3474745554856756813">Verranno eliminati <ph name="ITEMS_COUNT" /> elementi da questo dispositivo. Per recuperare i dati in un secondo momento, accedi a tomi come <ph name="USER_EMAIL" />.</translation>
+<translation id="3497319089134299931">La scorciatoia <ph name="SHORTCUT" /> consente di passare da un profilo tomi all'altro</translation>
+<translation id="3509308970982693815">Chiudi tutte le finestre di tomi e riprova.</translation>
+<translation id="3533435340678213462">Per tutelare la tua privacy, eliminiamo automaticamente i tuoi interessi risalenti a più di 4 settimane prima della data corrente. Mentre continui a navigare, un interesse potrebbe essere nuovamente visualizzato nell'elenco. Puoi anche rimuovere gli interessi che non vuoi che tomi prenda in considerazione.</translation>
+<translation id="3567254597502212821">La cronologia di navigazione, ossia un record dei siti visitati da tomi sul dispositivo in uso.</translation>
+<translation id="3593091352817399191">Un altro account ha già eseguito l'accesso. Per tenere separata la tua navigazione, tomi può creare per te il tuo profilo personale.</translation>
+<translation id="3639635944603682591">I dati di navigazione di questa persona verranno eliminati dal dispositivo. Per recuperare i dati, accedi a tomi con il nome utente <ph name="USER_EMAIL" />.</translation>
+<translation id="364817392622123556">{COUNT,plural, =0{È disponibile un nuovo aggiornamento di tomi che verrà installato appena eseguirai il riavvio.}=1{È disponibile un nuovo aggiornamento di tomi che verrà installato appena eseguirai il riavvio. La finestra di navigazione in incognito non verrà riaperta.}other{È disponibile un nuovo aggiornamento di tomi che verrà installato appena eseguirai il riavvio. Le # finestre di navigazione in incognito non verranno riaperte.}}</translation>
+<translation id="3651803019964686660">Per inviare un numero da <ph name="ORIGIN" /> al tuo telefono Android, accedi a tomi su entrambi i dispositivi.</translation>
 <translation id="3667616615096815454">Impossibile installare l'applicazione. Applicazione sconosciuta al server.</translation>
-<translation id="3685209450716071127">Tomi non può controllare le tue password. Prova a controllare la connessione a Internet.</translation>
-<translation id="3702352323269013324">Scopri di più sulla personalizzazione degli annunci in Tomi</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{L'amministratore richiede il riavvio di Tomi per installare questo aggiornamento}=1{L'amministratore richiede il riavvio di Tomi per installare questo aggiornamento. La finestra di navigazione in incognito non verrà riaperta.}other{L'amministratore richiede il riavvio di Tomi per installare questo aggiornamento. Le # finestre di navigazione in incognito non verranno riaperte.}}</translation>
-<translation id="3713809861844741608">Apri link in una nuova &amp;scheda di Tomi</translation>
-<translation id="3788675262216168505">Gestisci i profili Tomi</translation>
-<translation id="378917192836375108">Tomi ti consente di fare clic su un numero di telefono sul Web e di chiamarlo con Skype.</translation>
-<translation id="3790262771324122253">Scopri perché Tomi blocca alcuni download</translation>
-<translation id="379589255253486813">Tomi ti avviserà qualora fosse necessario un controllo da parte tua</translation>
-<translation id="3802055581630249637">Tomi precarica le pagine che è probabile che visiterai, in modo che vengano caricate più rapidamente quando lo farai</translation>
-<translation id="3830894615770080216">Sistema Tomi OS</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> - Tomi</translation>
-<translation id="386822487697155367">Ricevi assistenza per Tomi OS</translation>
-<translation id="3871664619793219264">Accedi ai tuoi contenuti del browser Tomi da <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="388648406173476553">Personalizza e controlla Tomi. C'è qualcosa che richiede la tua attenzione. Fai clic per avere informazioni dettagliate.</translation>
-<translation id="3889543394854987837">Fai clic sul tuo nome per aprire Tomi e iniziare a navigare.</translation>
-<translation id="390528597099634151"><ph name="EXISTING_USER" /> ha già eseguito l'accesso a questo profilo Tomi. Per tenere separata la tua navigazione, Tomi può creare per te il tuo profilo personale.</translation>
-<translation id="3909353120217047026">Questa estensione viola le norme del Tomi Web Store e potrebbe non essere sicura. Rimuovila da Tomi in modo che non possa più vedere e modificare i tuoi dati sui siti che visiti, incluse le tue informazioni personali.</translation>
-<translation id="391789666908693569">Il tuo account è gestito da <ph name="MANAGER_NAME" />. L'amministratore può vedere e modificare questo profilo del browser Tomi e i relativi dati, come preferiti, cronologia e password.</translation>
+<translation id="3685209450716071127">tomi non può controllare le tue password. Prova a controllare la connessione a Internet.</translation>
+<translation id="3702352323269013324">Scopri di più sulla personalizzazione degli annunci in tomi</translation>
+<translation id="370962675267501463">{COUNT,plural, =0{L'amministratore richiede il riavvio di tomi per installare questo aggiornamento}=1{L'amministratore richiede il riavvio di tomi per installare questo aggiornamento. La finestra di navigazione in incognito non verrà riaperta.}other{L'amministratore richiede il riavvio di tomi per installare questo aggiornamento. Le # finestre di navigazione in incognito non verranno riaperte.}}</translation>
+<translation id="3713809861844741608">Apri link in una nuova &amp;scheda di tomi</translation>
+<translation id="3788675262216168505">Gestisci i profili tomi</translation>
+<translation id="378917192836375108">tomi ti consente di fare clic su un numero di telefono sul Web e di chiamarlo con Skype.</translation>
+<translation id="3790262771324122253">Scopri perché tomi blocca alcuni download</translation>
+<translation id="379589255253486813">tomi ti avviserà qualora fosse necessario un controllo da parte tua</translation>
+<translation id="3802055581630249637">tomi precarica le pagine che è probabile che visiterai, in modo che vengano caricate più rapidamente quando lo farai</translation>
+<translation id="3830894615770080216">Sistema tomi OS</translation>
+<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> - tomi</translation>
+<translation id="386822487697155367">Ricevi assistenza per tomi OS</translation>
+<translation id="3871664619793219264">Accedi ai tuoi contenuti del browser tomi da <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="388648406173476553">Personalizza e controlla tomi. C'è qualcosa che richiede la tua attenzione. Fai clic per avere informazioni dettagliate.</translation>
+<translation id="3889543394854987837">Fai clic sul tuo nome per aprire tomi e iniziare a navigare.</translation>
+<translation id="390528597099634151"><ph name="EXISTING_USER" /> ha già eseguito l'accesso a questo profilo tomi. Per tenere separata la tua navigazione, tomi può creare per te il tuo profilo personale.</translation>
+<translation id="3909353120217047026">Questa estensione viola le norme del tomi Web Store e potrebbe non essere sicura. Rimuovila da tomi in modo che non possa più vedere e modificare i tuoi dati sui siti che visiti, incluse le tue informazioni personali.</translation>
+<translation id="391789666908693569">Il tuo account è gestito da <ph name="MANAGER_NAME" />. L'amministratore può vedere e modificare questo profilo del browser tomi e i relativi dati, come preferiti, cronologia e password.</translation>
 <translation id="3941890832296813527">Errore di installazione: il nome file del programma di installazione non è valido o non è supportato.</translation>
-<translation id="3945058413678539331">Tomi sta cercando di copiare le password. Per consentire l'operazione, digita la tua password Windows.</translation>
-<translation id="3962647064319009959">Scopri in che modo Tomi ti protegge</translation>
-<translation id="3975724895399328945">Informazioni su &amp;Tomi for Testing</translation>
-<translation id="3997429360543082038">Informazioni su Tomi OS</translation>
-<translation id="4019629340646866719">La realizzazione di Tomi OS è stata possibile grazie a un <ph name="BEGIN_LINK_CROS_OSS" />software open source<ph name="END_LINK_CROS_OSS" /> aggiuntivo, noto come <ph name="BEGIN_LINK_LINUX_OSS" />ambiente di sviluppo Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
-<translation id="4036079820698952681">Contribuisci a migliorare Tomi indicando le <ph name="BEGIN_LINK" />impostazioni attuali<ph name="END_LINK" /></translation>
+<translation id="3945058413678539331">tomi sta cercando di copiare le password. Per consentire l'operazione, digita la tua password Windows.</translation>
+<translation id="3962647064319009959">Scopri in che modo tomi ti protegge</translation>
+<translation id="3975724895399328945">Informazioni su &amp;tomi for Testing</translation>
+<translation id="3997429360543082038">Informazioni su tomi OS</translation>
+<translation id="4019629340646866719">La realizzazione di tomi OS è stata possibile grazie a un <ph name="BEGIN_LINK_CROS_OSS" />software open source<ph name="END_LINK_CROS_OSS" /> aggiuntivo, noto come <ph name="BEGIN_LINK_LINUX_OSS" />ambiente di sviluppo Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
+<translation id="4036079820698952681">Contribuisci a migliorare tomi indicando le <ph name="BEGIN_LINK" />impostazioni attuali<ph name="END_LINK" /></translation>
 <translation id="4050175100176540509">Nell'ultima versione sono stati apportati miglioramenti rilevanti in materia di sicurezza e sono state aggiunte nuove funzioni.</translation>
 <translation id="4055805654398742145">Gestore delle p&amp;assword</translation>
-<translation id="4095980151185649725">{COUNT,plural, =1{La tua organizzazione chiude automaticamente Tomi quando non viene utilizzato per 1 minuto. I dati di navigazione vengono eliminati. Potrebbero essere inclusi cronologia, compilazione automatica e download.}other{La tua organizzazione chiude automaticamente Tomi quando non viene utilizzato per # minuti. I dati di navigazione vengono eliminati. Potrebbero essere inclusi cronologia, compilazione automatica e download.}}</translation>
-<translation id="4118474109249235144">Modalità di navigazione in incognito di Tomi</translation>
+<translation id="4095980151185649725">{COUNT,plural, =1{La tua organizzazione chiude automaticamente tomi quando non viene utilizzato per 1 minuto. I dati di navigazione vengono eliminati. Potrebbero essere inclusi cronologia, compilazione automatica e download.}other{La tua organizzazione chiude automaticamente tomi quando non viene utilizzato per # minuti. I dati di navigazione vengono eliminati. Potrebbero essere inclusi cronologia, compilazione automatica e download.}}</translation>
+<translation id="4118474109249235144">Modalità di navigazione in incognito di tomi</translation>
 <translation id="4148957013307229264">Installazione...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> - Accesso rete - Tomi</translation>
-<translation id="421369550622382712">Scopri app, giochi, estensioni e temi straordinari per Tomi.</translation>
-<translation id="4216212958613226427">Questa lingua è utilizzata per la UI di Tomi</translation>
+<translation id="419998258129752635"><ph name="PAGE_TITLE" /> - Accesso rete - tomi</translation>
+<translation id="421369550622382712">Scopri app, giochi, estensioni e temi straordinari per tomi.</translation>
+<translation id="4216212958613226427">Questa lingua è utilizzata per la UI di tomi</translation>
 <translation id="4222932583846282852">Annullamento…</translation>
-<translation id="4230135487732243613">Collegare i tuoi dati Tomi a questo account?</translation>
-<translation id="4251772536351901305">Ricevi un avviso in caso di siti pericolosi, inclusi quelli di cui Google non era a conoscenza, in base all'analisi di più dati provenienti dai siti rispetto al livello Protezione standard. Puoi scegliere di ignorare gli avvisi di Tomi.</translation>
-<translation id="4271805377592243930">Ricevi assistenza per Tomi</translation>
+<translation id="4230135487732243613">Collegare i tuoi dati tomi a questo account?</translation>
+<translation id="4251772536351901305">Ricevi un avviso in caso di siti pericolosi, inclusi quelli di cui Google non era a conoscenza, in base all'analisi di più dati provenienti dai siti rispetto al livello Protezione standard. Puoi scegliere di ignorare gli avvisi di tomi.</translation>
+<translation id="4271805377592243930">Ricevi assistenza per tomi</translation>
 <translation id="4281844954008187215">Termini di servizio</translation>
-<translation id="4285930937574705105">Installazione non riuscita a causa di un errore imprecisato. Se Tomi è in esecuzione, chiudilo e riprova.</translation>
+<translation id="4285930937574705105">Installazione non riuscita a causa di un errore imprecisato. Se tomi è in esecuzione, chiudilo e riprova.</translation>
 <translation id="4304713468139749426">Gestore delle password</translation>
 <translation id="4334294535648607276">Download completato.</translation>
-<translation id="439358628917130594"><ph name="MANAGER" /> richiede di leggere e accettare i seguenti Termini di servizio prima di utilizzare il dispositivo. Questi termini non ampliano, modificano né limitano i Termini di Tomi OS.</translation>
-<translation id="4407044323746248786">Vuoi uscire comunque da Tomi?</translation>
-<translation id="4415566066719264597">Lascia Tomi in esecuzione in background</translation>
-<translation id="4423735387467980091">Personalizza e controlla Tomi</translation>
+<translation id="439358628917130594"><ph name="MANAGER" /> richiede di leggere e accettare i seguenti Termini di servizio prima di utilizzare il dispositivo. Questi termini non ampliano, modificano né limitano i Termini di tomi OS.</translation>
+<translation id="4407044323746248786">Vuoi uscire comunque da tomi?</translation>
+<translation id="4415566066719264597">Lascia tomi in esecuzione in background</translation>
+<translation id="4423735387467980091">Personalizza e controlla tomi</translation>
 <translation id="4427306783828095590">La protezione avanzata blocca malware e tentativi di phishing con maggiore efficacia</translation>
-<translation id="4447409407328223819">Informazioni su Tomi for Testing</translation>
+<translation id="4447409407328223819">Informazioni su tomi for Testing</translation>
 <translation id="4501471624619070934">Installazione non riuscita perché l'accesso in questo paese è sottoposto a limitazioni.</translation>
-<translation id="452711251841752011">Ti diamo il benvenuto in Tomi; nuova finestra del browser aperta</translation>
-<translation id="4544142686420020088">Si è verificato un errore: Tomi non si è aggiornato. <ph name="BEGIN_LINK" />Risolvi i problemi di aggiornamento e gli aggiornamenti non riusciti di Tomi.<ph name="END_LINK" /></translation>
-<translation id="454579500955453258">Vuoi continuare con un nuovo profilo Tomi?</translation>
+<translation id="452711251841752011">Ti diamo il benvenuto in tomi; nuova finestra del browser aperta</translation>
+<translation id="4544142686420020088">Si è verificato un errore: tomi non si è aggiornato. <ph name="BEGIN_LINK" />Risolvi i problemi di aggiornamento e gli aggiornamenti non riusciti di tomi.<ph name="END_LINK" /></translation>
+<translation id="454579500955453258">Vuoi continuare con un nuovo profilo tomi?</translation>
 <translation id="4567424176335768812">Hai eseguito l'accesso come <ph name="USER_EMAIL_ADDRESS" />. Ora puoi accedere ai tuoi Preferiti, alla tua cronologia e ad altre impostazioni su tutti i tuoi dispositivi su cui esegui l'accesso.</translation>
-<translation id="4570813286784708942">Tomi ha bloccato questo download perché hai disattivato Navigazione sicura e non è possibile verificare il file</translation>
+<translation id="4570813286784708942">tomi ha bloccato questo download perché hai disattivato Navigazione sicura e non è possibile verificare il file</translation>
 <translation id="4594305310729380060">In Gestore delle password su questo dispositivo</translation>
-<translation id="459535195905078186">Applicazioni Tomi</translation>
-<translation id="4613863813562375431">Versione di Tomi OS</translation>
-<translation id="4621240073146040695">Aggiornamento quasi completato. Riavvia Tomi per terminare l'aggiornamento.</translation>
-<translation id="4665829708273112819">Avviso: Tomi non è in grado di impedire alle estensioni di registrare la tua cronologia di navigazione. Per disattivare questa estensione in modalità di navigazione in incognito, deseleziona questa opzione.</translation>
-<translation id="4673151026126227699">Se condividi anche report sull'utilizzo di Tomi, questi report includono gli URL visitati</translation>
-<translation id="4677944499843243528">Sembra che il profilo sia in uso in un altro processo Tomi (<ph name="PROCESS_ID" />) su un altro computer (<ph name="HOST_NAME" />). Tomi ha bloccato il profilo affinché non venga danneggiato. Se sei sicuro che nessun altro processo stia utilizzando questo profilo, puoi sbloccare il profilo e riavviare Tomi.</translation>
+<translation id="459535195905078186">Applicazioni tomi</translation>
+<translation id="4613863813562375431">Versione di tomi OS</translation>
+<translation id="4621240073146040695">Aggiornamento quasi completato. Riavvia tomi per terminare l'aggiornamento.</translation>
+<translation id="4665829708273112819">Avviso: tomi non è in grado di impedire alle estensioni di registrare la tua cronologia di navigazione. Per disattivare questa estensione in modalità di navigazione in incognito, deseleziona questa opzione.</translation>
+<translation id="4673151026126227699">Se condividi anche report sull'utilizzo di tomi, questi report includono gli URL visitati</translation>
+<translation id="4677944499843243528">Sembra che il profilo sia in uso in un altro processo tomi (<ph name="PROCESS_ID" />) su un altro computer (<ph name="HOST_NAME" />). tomi ha bloccato il profilo affinché non venga danneggiato. Se sei sicuro che nessun altro processo stia utilizzando questo profilo, puoi sbloccare il profilo e riavviare tomi.</translation>
 <translation id="4680828127924988555">Annulla l'installazione</translation>
-<translation id="4708774505295300557">Qualcuno ha già eseguito l'accesso a Tomi su questo computer come <ph name="ACCOUNT_EMAIL_LAST" />. Crea un nuovo utente Tomi per tenere separate le tue informazioni.</translation>
+<translation id="4708774505295300557">Qualcuno ha già eseguito l'accesso a tomi su questo computer come <ph name="ACCOUNT_EMAIL_LAST" />. Crea un nuovo utente tomi per tenere separate le tue informazioni.</translation>
 <translation id="4724676981607797757">Installazione non riuscita a causa di un errore di protocollo non supportato.</translation>
-<translation id="4746050847053251315">Vuoi chiudere comunque Tomi?</translation>
-<translation id="4748217263233248895">È stato appena applicato un aggiornamento di sicurezza speciale per Tomi. Riavvia ora e le schede verranno ripristinate.</translation>
-<translation id="4765210420921718862">Puoi cambiare idea in qualsiasi momento. In questo caso, usa le impostazioni di Tomi. Le prove vengono eseguite insieme alla modalità corrente di pubblicazione degli annunci, quindi non vedrai immediatamente le modifiche.</translation>
-<translation id="4788777615168560705">Tomi non può controllare le tue password. Riprova tra 24 ore oppure <ph name="BEGIN_LINK" />controlla le password nel tuo Account Tomi<ph name="END_LINK" />.</translation>
+<translation id="4746050847053251315">Vuoi chiudere comunque tomi?</translation>
+<translation id="4748217263233248895">È stato appena applicato un aggiornamento di sicurezza speciale per tomi. Riavvia ora e le schede verranno ripristinate.</translation>
+<translation id="4765210420921718862">Puoi cambiare idea in qualsiasi momento. In questo caso, usa le impostazioni di tomi. Le prove vengono eseguite insieme alla modalità corrente di pubblicazione degli annunci, quindi non vedrai immediatamente le modifiche.</translation>
+<translation id="4788777615168560705">tomi non può controllare le tue password. Riprova tra 24 ore oppure <ph name="BEGIN_LINK" />controlla le password nel tuo Account tomi<ph name="END_LINK" />.</translation>
 <translation id="479167709087336770">Viene usato lo stesso controllo ortografico utilizzato nella Ricerca Google. Il testo che digiti nel browser viene inviato a Google. Puoi modificare questo comportamento in qualsiasi momento nelle impostazioni.</translation>
-<translation id="4814736265800133385">Utilizza Tomi senza un account</translation>
-<translation id="4888717733111232871">Regola inbound per consentire il traffico mDNS in Tomi.</translation>
-<translation id="4893347770495441059">Riavvia per aggiornare &amp;Tomi</translation>
-<translation id="4942295735032723435">Per ricevere gli aggiornamenti futuri di Tomi, devi avere macOS 11 o versioni successive. Su questo computer è installato macOS 10.15.</translation>
-<translation id="4943838377383847465">Tomi è in modalità background.</translation>
-<translation id="4987820182225656817">Gli ospiti possono utilizzare Tomi senza lasciare tracce.</translation>
-<translation id="4994636714258228724">Aggiungiti a Tomi</translation>
-<translation id="5114678101347489141">Tomi sta esaminando nuove funzionalità che consentano ai siti di offrire la stessa esperienza di navigazione utilizzando meno informazioni personali</translation>
-<translation id="5224391634244552924">Nessuna password salvata. Tomi può controllare le password quando le salvi.</translation>
-<translation id="5252179775517634216"><ph name="EXISTING_USER" /> ha già eseguito l'accesso a questo profilo Tomi. Questa operazione creerà un nuovo profilo Tomi per <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="5277894862589591112">Riavvia Tomi per applicare le modifiche</translation>
-<translation id="5294316920224716406">Quando navighi in modalità di navigazione in incognito, Tomi ti avvisa prima di caricare un sito utilizzando una connessione non sicura</translation>
-<translation id="5296845517486664001">Quando sono attive le prove e se Tomi ti ha inserito in modo casuale in una prova attiva, la cronologia di navigazione incide sugli annunci che ti vengono mostrati e sugli interessi stimati riportati qui sotto. Per tutelare la tua privacy, Tomi elimina i tuoi interessi ogni mese.</translation>
-<translation id="5352264705793813212">Tomi ha trovato alcuni consigli per la sicurezza da farti esaminare</translation>
-<translation id="5352361688875342522">Altri profili Tomi</translation>
-<translation id="5358375970380395591">Stai per accedere con un account gestito e per dare al relativo amministratore il controllo del tuo profilo Tomi. I tuoi dati di Tomi, come app, Preferiti, cronologia, password e altre impostazioni, verranno collegati definitivamente a <ph name="USER_NAME" />. Potrai eliminare questi dati tramite la Dashboard di Google Account, ma non potrai associare questi dati a un altro account. <ph name="LEARN_MORE" /></translation>
+<translation id="4814736265800133385">Utilizza tomi senza un account</translation>
+<translation id="4888717733111232871">Regola inbound per consentire il traffico mDNS in tomi.</translation>
+<translation id="4893347770495441059">Riavvia per aggiornare &amp;tomi</translation>
+<translation id="4942295735032723435">Per ricevere gli aggiornamenti futuri di tomi, devi avere macOS 11 o versioni successive. Su questo computer è installato macOS 10.15.</translation>
+<translation id="4943838377383847465">tomi è in modalità background.</translation>
+<translation id="4987820182225656817">Gli ospiti possono utilizzare tomi senza lasciare tracce.</translation>
+<translation id="4994636714258228724">Aggiungiti a tomi</translation>
+<translation id="5114678101347489141">tomi sta esaminando nuove funzionalità che consentano ai siti di offrire la stessa esperienza di navigazione utilizzando meno informazioni personali</translation>
+<translation id="5224391634244552924">Nessuna password salvata. tomi può controllare le password quando le salvi.</translation>
+<translation id="5252179775517634216"><ph name="EXISTING_USER" /> ha già eseguito l'accesso a questo profilo tomi. Questa operazione creerà un nuovo profilo tomi per <ph name="USER_EMAIL_ADDRESS" /></translation>
+<translation id="5277894862589591112">Riavvia tomi per applicare le modifiche</translation>
+<translation id="5294316920224716406">Quando navighi in modalità di navigazione in incognito, tomi ti avvisa prima di caricare un sito utilizzando una connessione non sicura</translation>
+<translation id="5296845517486664001">Quando sono attive le prove e se tomi ti ha inserito in modo casuale in una prova attiva, la cronologia di navigazione incide sugli annunci che ti vengono mostrati e sugli interessi stimati riportati qui sotto. Per tutelare la tua privacy, tomi elimina i tuoi interessi ogni mese.</translation>
+<translation id="5352264705793813212">tomi ha trovato alcuni consigli per la sicurezza da farti esaminare</translation>
+<translation id="5352361688875342522">Altri profili tomi</translation>
+<translation id="5358375970380395591">Stai per accedere con un account gestito e per dare al relativo amministratore il controllo del tuo profilo tomi. I tuoi dati di tomi, come app, Preferiti, cronologia, password e altre impostazioni, verranno collegati definitivamente a <ph name="USER_NAME" />. Potrai eliminare questi dati tramite la Dashboard di Google Account, ma non potrai associare questi dati a un altro account. <ph name="LEARN_MORE" /></translation>
 <translation id="5368118228313795342">Codice aggiuntivo: <ph name="EXTRA_CODE" />.</translation>
-<translation id="5383439451358640070">Scopri perché Tomi blocca alcuni file</translation>
-<translation id="5386450000063123300">Aggiornamento di Tomi in corso (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Consenti l'accesso a Tomi</translation>
-<translation id="5398878173008909840">È disponibile una nuova versione di Tomi.</translation>
-<translation id="5405650547142096840">Rimuovi da Tomi</translation>
-<translation id="5427571867875391349">Imposta Tomi come browser predefinito</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> - Tomi beta</translation>
-<translation id="5473971139929175403">Tomi potrebbe non funzionare correttamente perché non è più supportato su questa distribuzione Linux</translation>
-<translation id="5480860683791598150">Tomi deve poter accedere alla tua posizione per condividerla con questo sito</translation>
-<translation id="5487574057737591516">Per tutelare la tua privacy, eliminiamo automaticamente i tuoi interessi risalenti a più di 4 settimane prima della data corrente. Mentre continui a navigare, un interesse potrebbe essere nuovamente visualizzato nell'elenco. Se Tomi ha fatto la scelta sbagliata o se non vuoi ricevere determinati annunci, puoi rimuovere un interesse.</translation>
-<translation id="549669000822060376">Attendi mentre Tomi installa gli aggiornamenti di sistema più recenti.</translation>
-<translation id="5496810170689441661">Tomi sta cercando di modificare le password. Per consentire la modifica, digita la tua password Windows.</translation>
-<translation id="5527463683072221100">Apri PDF in Tomi</translation>
-<translation id="5623402015214259806">{0,plural, =0{È disponibile un aggiornamento di Tomi}=1{È disponibile un aggiornamento di Tomi}other{È disponibile un aggiornamento di Tomi da # giorni}}</translation>
-<translation id="5643865575100044307">Elimina sempre i dati dei siti dal dispositivo alla chiusura di Tomi</translation>
-<translation id="5653831366781983928">Riavvia subito Tomi</translation>
+<translation id="5383439451358640070">Scopri perché tomi blocca alcuni file</translation>
+<translation id="5386450000063123300">Aggiornamento di tomi in corso (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="538767207339317086">Consenti l'accesso a tomi</translation>
+<translation id="5398878173008909840">È disponibile una nuova versione di tomi.</translation>
+<translation id="5405650547142096840">Rimuovi da tomi</translation>
+<translation id="5427571867875391349">Imposta tomi come browser predefinito</translation>
+<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> - tomi beta</translation>
+<translation id="5473971139929175403">tomi potrebbe non funzionare correttamente perché non è più supportato su questa distribuzione Linux</translation>
+<translation id="5480860683791598150">tomi deve poter accedere alla tua posizione per condividerla con questo sito</translation>
+<translation id="5487574057737591516">Per tutelare la tua privacy, eliminiamo automaticamente i tuoi interessi risalenti a più di 4 settimane prima della data corrente. Mentre continui a navigare, un interesse potrebbe essere nuovamente visualizzato nell'elenco. Se tomi ha fatto la scelta sbagliata o se non vuoi ricevere determinati annunci, puoi rimuovere un interesse.</translation>
+<translation id="549669000822060376">Attendi mentre tomi installa gli aggiornamenti di sistema più recenti.</translation>
+<translation id="5496810170689441661">tomi sta cercando di modificare le password. Per consentire la modifica, digita la tua password Windows.</translation>
+<translation id="5527463683072221100">Apri PDF in tomi</translation>
+<translation id="5623402015214259806">{0,plural, =0{È disponibile un aggiornamento di tomi}=1{È disponibile un aggiornamento di tomi}other{È disponibile un aggiornamento di tomi da # giorni}}</translation>
+<translation id="5643865575100044307">Elimina sempre i dati dei siti dal dispositivo alla chiusura di tomi</translation>
+<translation id="5653831366781983928">Riavvia subito tomi</translation>
 <translation id="5690427481109656848">Google LLC</translation>
-<translation id="5698481217667032250">Visualizza Tomi in questa lingua</translation>
+<translation id="5698481217667032250">Visualizza tomi in questa lingua</translation>
 <translation id="569897634095159764">Impossibile connettersi a internet. Il server proxy richiede l'autenticazione.</translation>
 <translation id="5809516625706423866">Impossibile connettersi a internet. HTTP 401 Autorizzazione assente. Controlla la configurazione del proxy.</translation>
-<translation id="5862307444128926510">Benvenuto in Tomi</translation>
-<translation id="5883558403894052917">Tomi ha rilevato che i seguenti elementi contengono malware:</translation>
-<translation id="5889361821821684993">Tomi esegue controlli regolari per verificare che il browser disponga delle impostazioni più sicure. Ti informeremo qualora fosse necessario un controllo da parte tua.</translation>
+<translation id="5862307444128926510">Benvenuto in tomi</translation>
+<translation id="5883558403894052917">tomi ha rilevato che i seguenti elementi contengono malware:</translation>
+<translation id="5889361821821684993">tomi esegue controlli regolari per verificare che il browser disponga delle impostazioni più sicure. Ti informeremo qualora fosse necessario un controllo da parte tua.</translation>
 <translation id="5895138241574237353">Riavvia</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> - Accesso rete</translation>
 <translation id="5924017743176219022">Connessione a Internet in corso…</translation>
 <translation id="5941711191222866238">Riduci a icona</translation>
-<translation id="5972142260211327093">Se Tomi ti ha inserito in modo casuale in una prova attiva, la cronologia di navigazione incide sugli annunci che ti vengono mostrati e sugli interessi stimati riportati qui sotto. Per tutelare la tua privacy, Tomi elimina i tuoi interessi ogni mese. A meno che non li rimuovi, gli interessi vengono aggiornati.</translation>
-<translation id="5986585015444752010">{COUNT,plural, =1{La tua organizzazione chiude automaticamente Tomi quando non viene utilizzato per 1 minuto.}other{La tua organizzazione chiude automaticamente Tomi quando non viene utilizzato per # minuti.}}</translation>
-<translation id="5987687638152509985">Aggiorna Tomi per avviare la sincronizzazione</translation>
-<translation id="5988505247484123880">È normale che i siti che visiti memorizzino argomenti di tuo interesse per personalizzare la tua esperienza. I siti possono anche memorizzare su Tomi informazioni relative ai tuoi interessi.</translation>
+<translation id="5972142260211327093">Se tomi ti ha inserito in modo casuale in una prova attiva, la cronologia di navigazione incide sugli annunci che ti vengono mostrati e sugli interessi stimati riportati qui sotto. Per tutelare la tua privacy, tomi elimina i tuoi interessi ogni mese. A meno che non li rimuovi, gli interessi vengono aggiornati.</translation>
+<translation id="5986585015444752010">{COUNT,plural, =1{La tua organizzazione chiude automaticamente tomi quando non viene utilizzato per 1 minuto.}other{La tua organizzazione chiude automaticamente tomi quando non viene utilizzato per # minuti.}}</translation>
+<translation id="5987687638152509985">Aggiorna tomi per avviare la sincronizzazione</translation>
+<translation id="5988505247484123880">È normale che i siti che visiti memorizzino argomenti di tuo interesse per personalizzare la tua esperienza. I siti possono anche memorizzare su tomi informazioni relative ai tuoi interessi.</translation>
 <translation id="6003112304606738118">Download in corso… Ore rimanenti: <ph name="HOURS" /></translation>
 <translation id="6040143037577758943">Chiudi</translation>
-<translation id="6055895534982063517">È disponibile una nuova versione di Tomi con una velocità senza precedenti.</translation>
-<translation id="6058380562449900225">Per proteggere i tuoi dati, consenti a Tomi di rimuovere le autorizzazioni dai siti che non hai visitato di recente. Le notifiche non vengono interrotte.</translation>
-<translation id="6063093106622310249">&amp;Apri in Tomi</translation>
-<translation id="6072279588547424923">L'estensione <ph name="EXTENSION_NAME" /> è stata aggiunta a Tomi</translation>
-<translation id="6072463441809498330">Rendi Tomi più veloce</translation>
+<translation id="6055895534982063517">È disponibile una nuova versione di tomi con una velocità senza precedenti.</translation>
+<translation id="6058380562449900225">Per proteggere i tuoi dati, consenti a tomi di rimuovere le autorizzazioni dai siti che non hai visitato di recente. Le notifiche non vengono interrotte.</translation>
+<translation id="6063093106622310249">&amp;Apri in tomi</translation>
+<translation id="6072279588547424923">L'estensione <ph name="EXTENSION_NAME" /> è stata aggiunta a tomi</translation>
+<translation id="6072463441809498330">Rendi tomi più veloce</translation>
 <translation id="608006075545470555">Aggiungi profilo di lavoro a questo browser</translation>
 <translation id="6096348254544841612">È disponibile un nuovo aggiornamento.</translation>
-<translation id="6102072151902574948">Quando questa modalità è attiva, Tomi risparmia carica della batteria limitando l'attività in background e gli effetti visivi, ad esempio lo scorrimento continuo e le frequenze di fotogrammi dei video.</translation>
-<translation id="6119438414301547735">Consenti all'estensione di mostrare le richieste di accesso nella barra degli strumenti di Tomi</translation>
-<translation id="6120345080069858279">Tomi salverà la password nel tuo Account Google affinché tu non debba memorizzarla.</translation>
-<translation id="6129621093834146363"><ph name="FILE_NAME" /> è pericoloso, pertanto è stato bloccato da Tomi.</translation>
-<translation id="6132897690380286411">A breve Tomi chiuderà ed eliminerà i dati</translation>
-<translation id="6134968993075716475">Navigazione sicura è disattivata. Tomi consiglia di attivarla.</translation>
-<translation id="6144416395842701622">Accedi per usare al meglio Tomi</translation>
-<translation id="6145820983052037069">Puoi passare da un profilo Tomi all'altro qui</translation>
-<translation id="615103374448673771">Se consenti i cookie, Tomi potrebbe usarli durante il precaricamento</translation>
-<translation id="6174920971222007286">Questo file potrebbe essere pericoloso<ph name="LINE_BREAK" />Tomi può controllare il download per te se fornisci la password. Le informazioni sul file vengono inviate a Google Navigazione sicura, ma i contenuti e la password del file rimangono sul dispositivo.</translation>
+<translation id="6102072151902574948">Quando questa modalità è attiva, tomi risparmia carica della batteria limitando l'attività in background e gli effetti visivi, ad esempio lo scorrimento continuo e le frequenze di fotogrammi dei video.</translation>
+<translation id="6119438414301547735">Consenti all'estensione di mostrare le richieste di accesso nella barra degli strumenti di tomi</translation>
+<translation id="6120345080069858279">tomi salverà la password nel tuo Account Google affinché tu non debba memorizzarla.</translation>
+<translation id="6129621093834146363"><ph name="FILE_NAME" /> è pericoloso, pertanto è stato bloccato da tomi.</translation>
+<translation id="6132897690380286411">A breve tomi chiuderà ed eliminerà i dati</translation>
+<translation id="6134968993075716475">Navigazione sicura è disattivata. tomi consiglia di attivarla.</translation>
+<translation id="6144416395842701622">Accedi per usare al meglio tomi</translation>
+<translation id="6145820983052037069">Puoi passare da un profilo tomi all'altro qui</translation>
+<translation id="615103374448673771">Se consenti i cookie, tomi potrebbe usarli durante il precaricamento</translation>
+<translation id="6174920971222007286">Questo file potrebbe essere pericoloso<ph name="LINE_BREAK" />tomi può controllare il download per te se fornisci la password. Le informazioni sul file vengono inviate a Google Navigazione sicura, ma i contenuti e la password del file rimangono sul dispositivo.</translation>
 <translation id="6182736845697986886">Installazione non riuscita a causa di un errore interno del server di aggiornamento.</translation>
-<translation id="6183079672144801177">Assicurati di aver effettuato l'accesso a Tomi sul tuo dispositivo <ph name="TARGET_DEVICE_NAME" /> e prova a ripetere l'invio.</translation>
-<translation id="6212496753309875659">Questo computer ha già una versione più recente di Tomi. Se il software non funziona, disinstalla Tomi e riprova.</translation>
-<translation id="6219195342503754812">{0,plural, =0{Tomi verrà riavviato ora}=1{Tomi verrà riavviato tra 1 secondo}other{Tomi verrà riavviato tra # secondi}}</translation>
-<translation id="6241367896540709610">Tomi deve avere l'autorizzazione di accesso allo spazio di archiviazione per poter scaricare file</translation>
-<translation id="6245734527075554892">Controlla gli URL confrontandoli con un elenco di siti non sicuri memorizzato in Tomi</translation>
-<translation id="6248213926982192922">Imposta Tomi come browser predefinito</translation>
-<translation id="6266342355635466082">Tomi non può controllare la disponibilità di aggiornamenti. Prova a controllare la connessione a Internet.</translation>
-<translation id="6268381023930128611">Uscire da Tomi?</translation>
+<translation id="6183079672144801177">Assicurati di aver effettuato l'accesso a tomi sul tuo dispositivo <ph name="TARGET_DEVICE_NAME" /> e prova a ripetere l'invio.</translation>
+<translation id="6212496753309875659">Questo computer ha già una versione più recente di tomi. Se il software non funziona, disinstalla tomi e riprova.</translation>
+<translation id="6219195342503754812">{0,plural, =0{tomi verrà riavviato ora}=1{tomi verrà riavviato tra 1 secondo}other{tomi verrà riavviato tra # secondi}}</translation>
+<translation id="6241367896540709610">tomi deve avere l'autorizzazione di accesso allo spazio di archiviazione per poter scaricare file</translation>
+<translation id="6245734527075554892">Controlla gli URL confrontandoli con un elenco di siti non sicuri memorizzato in tomi</translation>
+<translation id="6248213926982192922">Imposta tomi come browser predefinito</translation>
+<translation id="6266342355635466082">tomi non può controllare la disponibilità di aggiornamenti. Prova a controllare la connessione a Internet.</translation>
+<translation id="6268381023930128611">Uscire da tomi?</translation>
 <translation id="6273793429163604305">Inizializzazione in corso…</translation>
-<translation id="6281746429495226318">Personalizza il tuo profilo Tomi</translation>
-<translation id="6290827346642914212">Assegna un nome al tuo profilo Tomi</translation>
-<translation id="6295779123002464101"><ph name="FILE_NAME" /> potrebbe essere pericoloso, pertanto è stato bloccato da Tomi.</translation>
-<translation id="6309712487085796862">Tomi sta utilizzando la videocamera.</translation>
+<translation id="6281746429495226318">Personalizza il tuo profilo tomi</translation>
+<translation id="6290827346642914212">Assegna un nome al tuo profilo tomi</translation>
+<translation id="6295779123002464101"><ph name="FILE_NAME" /> potrebbe essere pericoloso, pertanto è stato bloccato da tomi.</translation>
+<translation id="6309712487085796862">tomi sta utilizzando la videocamera.</translation>
 <translation id="6327105987658262776">Nessun aggiornamento disponibile.</translation>
-<translation id="6333502561965082103">C'è un'altra operazione in corso su Tomi. Riprova più tardi.</translation>
-<translation id="6334986366598267305">Ora è più facile utilizzare Tomi con il tuo Account Google e sui computer condivisi.</translation>
-<translation id="6366160072964553914">Tomi ha bloccato questo download perché il file non viene scaricato comunemente e potrebbe essere pericoloso</translation>
-<translation id="6373523479360886564">Vuoi disinstallare Tomi?</translation>
+<translation id="6333502561965082103">C'è un'altra operazione in corso su tomi. Riprova più tardi.</translation>
+<translation id="6334986366598267305">Ora è più facile utilizzare tomi con il tuo Account Google e sui computer condivisi.</translation>
+<translation id="6366160072964553914">tomi ha bloccato questo download perché il file non viene scaricato comunemente e potrebbe essere pericoloso</translation>
+<translation id="6373523479360886564">Vuoi disinstallare tomi?</translation>
 <translation id="6375219077595103062">Aggiungi una scorciatoia a Gestore delle password</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Come utilizziamo questi dati:<ph name="END_BOLD" /> Tomi può stimare i tuoi interessi. Dopodiché, un sito che visiti può chiedere a Tomi di conoscere i tuoi interessi per personalizzare gli annunci da mostrarti.</translation>
-<translation id="6400112897226594999">Logo di Tomi sullo schermo di un computer.</translation>
-<translation id="6403826409255603130">Tomi è un browser web che esegue le pagine web e le applicazioni alla velocità della luce. È veloce, stabile e facile da utilizzare. Naviga su Internet in modo più sicuro grazie alla protezione da malware e phishing integrata in Tomi.</translation>
-<translation id="6442900851116057561">Riavvia Tomi OS</translation>
-<translation id="6443470774889161065">Tomi precarica ancora più pagine che è probabile che visiterai, in modo che vengano caricate più rapidamente quando lo farai</translation>
-<translation id="6455857529632101747">Ti diamo il benvenuto nei profili Tomi</translation>
-<translation id="6475912303565314141">Controlla anche la pagina visualizzata all'avvio di Tomi.</translation>
+<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Come utilizziamo questi dati:<ph name="END_BOLD" /> tomi può stimare i tuoi interessi. Dopodiché, un sito che visiti può chiedere a tomi di conoscere i tuoi interessi per personalizzare gli annunci da mostrarti.</translation>
+<translation id="6400112897226594999">Logo di tomi sullo schermo di un computer.</translation>
+<translation id="6403826409255603130">tomi è un browser web che esegue le pagine web e le applicazioni alla velocità della luce. È veloce, stabile e facile da utilizzare. Naviga su Internet in modo più sicuro grazie alla protezione da malware e phishing integrata in tomi.</translation>
+<translation id="6442900851116057561">Riavvia tomi OS</translation>
+<translation id="6443470774889161065">tomi precarica ancora più pagine che è probabile che visiterai, in modo che vengano caricate più rapidamente quando lo farai</translation>
+<translation id="6455857529632101747">Ti diamo il benvenuto nei profili tomi</translation>
+<translation id="6475912303565314141">Controlla anche la pagina visualizzata all'avvio di tomi.</translation>
 <translation id="648319183876919572">Navigazione sicura avanzata fa di più per proteggerti da download e siti web pericolosi</translation>
-<translation id="6510925080656968729">Disinstalla Tomi</translation>
-<translation id="6539122709674868420">La tua organizzazione chiude Tomi quando non viene utilizzato per <ph name="TIMEOUT_DURATION" />. I dati di navigazione sono stati eliminati. Potrebbero essere inclusi cronologia, compilazione automatica e download.</translation>
-<translation id="6542839706527980775">Ogni profilo dispone delle proprie informazioni di Tomi, come preferiti, cronologia, password e altro</translation>
-<translation id="6563921047760808519">Scopri di più su <ph name="BEGIN_LINK" />come Tomi mantiene privati i tuoi dati<ph name="END_LINK" /></translation>
-<translation id="656935081669708576">Puoi cambiare per vedere le password di un altro profilo Tomi</translation>
-<translation id="6570579332384693436">Per correggere gli errori ortografici, Tomi invia a Google il testo digitato nei campi di testo</translation>
-<translation id="6598877126913850652">Vai alle impostazioni di notifica di Tomi</translation>
-<translation id="6613594504749178791">Le modifiche verranno applicate al prossimo riavvio di Tomi.</translation>
-<translation id="665732753414869868">Tomi deve avere l'autorizzazione di accesso alla fotocamera per creare una mappa 3D dell'ambiente circostante</translation>
-<translation id="6663852025006259149">I siti dovrebbero funzionare come previsto, ma non memorizzeranno le tue informazioni dopo la chiusura di tutte le finestre di Tomi</translation>
-<translation id="6669284030132180248">Se salvi anche i preferiti nel tuo Account Google, puoi monitorare i prezzi dei prodotti in Tomi e ricevere notifiche quando il prezzo scende</translation>
+<translation id="6510925080656968729">Disinstalla tomi</translation>
+<translation id="6539122709674868420">La tua organizzazione chiude tomi quando non viene utilizzato per <ph name="TIMEOUT_DURATION" />. I dati di navigazione sono stati eliminati. Potrebbero essere inclusi cronologia, compilazione automatica e download.</translation>
+<translation id="6542839706527980775">Ogni profilo dispone delle proprie informazioni di tomi, come preferiti, cronologia, password e altro</translation>
+<translation id="6563921047760808519">Scopri di più su <ph name="BEGIN_LINK" />come tomi mantiene privati i tuoi dati<ph name="END_LINK" /></translation>
+<translation id="656935081669708576">Puoi cambiare per vedere le password di un altro profilo tomi</translation>
+<translation id="6570579332384693436">Per correggere gli errori ortografici, tomi invia a Google il testo digitato nei campi di testo</translation>
+<translation id="6598877126913850652">Vai alle impostazioni di notifica di tomi</translation>
+<translation id="6613594504749178791">Le modifiche verranno applicate al prossimo riavvio di tomi.</translation>
+<translation id="665732753414869868">tomi deve avere l'autorizzazione di accesso alla fotocamera per creare una mappa 3D dell'ambiente circostante</translation>
+<translation id="6663852025006259149">I siti dovrebbero funzionare come previsto, ma non memorizzeranno le tue informazioni dopo la chiusura di tutte le finestre di tomi</translation>
+<translation id="6669284030132180248">Se salvi anche i preferiti nel tuo Account Google, puoi monitorare i prezzi dei prodotti in tomi e ricevere notifiche quando il prezzo scende</translation>
 <translation id="6676384891291319759">Accesso a Internet</translation>
-<translation id="668175097507315160">Impossibile sincronizzare i dati in Tomi OS a causa di un errore durante l'accesso.</translation>
-<translation id="6692797197837897398">Tomi ti offre un maggiore controllo sugli annunci che vedi e limita ciò che i siti possono imparare su di te quando ti mostrano annunci personalizzati</translation>
-<translation id="6709350901466051922">Tomi deve avere l'autorizzazione di accesso al microfono per questo sito</translation>
+<translation id="668175097507315160">Impossibile sincronizzare i dati in tomi OS a causa di un errore durante l'accesso.</translation>
+<translation id="6692797197837897398">tomi ti offre un maggiore controllo sugli annunci che vedi e limita ciò che i siti possono imparare su di te quando ti mostrano annunci personalizzati</translation>
+<translation id="6709350901466051922">tomi deve avere l'autorizzazione di accesso al microfono per questo sito</translation>
 <translation id="6712881677154121168">Errore di download: <ph name="DOWNLOAD_ERROR" /></translation>
-<translation id="6717134281241384636">Impossibile utilizzare il tuo profilo perché proviene da una versione più recente di Tomi.
+<translation id="6717134281241384636">Impossibile utilizzare il tuo profilo perché proviene da una versione più recente di tomi.
 
-Alcune funzioni potrebbero non essere disponibili. Specifica un'altra directory per il profilo o utilizza una versione più recente di Tomi.</translation>
-<translation id="6734291798041940871">Tomi è già installato per tutti gli utenti sul computer.</translation>
-<translation id="673636774878526923">Per accedere ai tuoi contenuti Tomi su tutti i tuoi dispositivi, accedi e attiva la sincronizzazione.</translation>
-<translation id="67706546131546258">Tomi consiglia di analizzare questo file perché potrebbe essere pericoloso.</translation>
-<translation id="6779406956731413166">La realizzazione di Tomi OS è stata possibile grazie a <ph name="BEGIN_LINK_CROS_OSS" />software open source<ph name="END_LINK_CROS_OSS" /> aggiuntivi.</translation>
-<translation id="6847869444787758381">Tomi ti avvisa se le tue password vengono compromesse</translation>
+Alcune funzioni potrebbero non essere disponibili. Specifica un'altra directory per il profilo o utilizza una versione più recente di tomi.</translation>
+<translation id="6734291798041940871">tomi è già installato per tutti gli utenti sul computer.</translation>
+<translation id="673636774878526923">Per accedere ai tuoi contenuti tomi su tutti i tuoi dispositivi, accedi e attiva la sincronizzazione.</translation>
+<translation id="67706546131546258">tomi consiglia di analizzare questo file perché potrebbe essere pericoloso.</translation>
+<translation id="6779406956731413166">La realizzazione di tomi OS è stata possibile grazie a <ph name="BEGIN_LINK_CROS_OSS" />software open source<ph name="END_LINK_CROS_OSS" /> aggiuntivi.</translation>
+<translation id="6847869444787758381">tomi ti avvisa se le tue password vengono compromesse</translation>
 <translation id="684888714667046800">Impossibile connettersi a internet. Se utilizzi un firewall, assicurati che <ph name="PRODUCT_EXE_NAME" /> sia nella lista consentita.</translation>
-<translation id="6857782730669500492">Tomi - <ph name="PAGE_TITLE" /></translation>
-<translation id="6873893289264747459">Tomi ha rilevato che l'estensione "<ph name="EXTENSION_NAME" />" contiene malware</translation>
-<translation id="6893813176749746474">Tomi è stato aggiornato ma non lo utilizzi da almeno 30 giorni.</translation>
-<translation id="691026815377248078">Tomi richiede l'accesso al Bluetooth per continuare l'accoppiamento. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">Quando sono attive le prove, Ad measurement consente ai siti che visiti di chiedere a Tomi informazioni che li aiutino a valutare il rendimento dei loro annunci. Ad measurement limita il tracciamento tra siti trasferendo il minor numero possibile di informazioni tra i siti.</translation>
-<translation id="6940431691900807093">Dopodiché, un sito che visiti può chiedere a Tomi di conoscere i tuoi interessi per personalizzare gli annunci che ti vengono mostrati. Tomi può condividere fino a 3 interessi.</translation>
-<translation id="6964305034639999644">Apri link in una finestra di navigazione in inco&amp;gnito di Tomi</translation>
-<translation id="6978145336957848883">Le password inefficaci sono facili da indovinare. Consenti a Tomi di <ph name="BEGIN_LINK" />creare e memorizzare password efficaci per te<ph name="END_LINK" />.</translation>
-<translation id="6981396265751285733">Se attivi l'opzione, Tomi libera spazio dalle schede non attive. In questo modo le schede attive e altre app hanno più risorse per il computer e mantengono Tomi veloce. Le schede inattive si riattivano automaticamente quando ci torni.</translation>
-<translation id="6985329841647292029">Termini di Tomi OS</translation>
-<translation id="6990124437352146030">Per questo sito Tomi ha bisogno dell'autorizzazione ad accedere al microfono</translation>
+<translation id="6857782730669500492">tomi - <ph name="PAGE_TITLE" /></translation>
+<translation id="6873893289264747459">tomi ha rilevato che l'estensione "<ph name="EXTENSION_NAME" />" contiene malware</translation>
+<translation id="6893813176749746474">tomi è stato aggiornato ma non lo utilizzi da almeno 30 giorni.</translation>
+<translation id="691026815377248078">tomi richiede l'accesso al Bluetooth per continuare l'accoppiamento. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
+<translation id="6929417474050522668">Quando sono attive le prove, Ad measurement consente ai siti che visiti di chiedere a tomi informazioni che li aiutino a valutare il rendimento dei loro annunci. Ad measurement limita il tracciamento tra siti trasferendo il minor numero possibile di informazioni tra i siti.</translation>
+<translation id="6940431691900807093">Dopodiché, un sito che visiti può chiedere a tomi di conoscere i tuoi interessi per personalizzare gli annunci che ti vengono mostrati. tomi può condividere fino a 3 interessi.</translation>
+<translation id="6964305034639999644">Apri link in una finestra di navigazione in inco&amp;gnito di tomi</translation>
+<translation id="6978145336957848883">Le password inefficaci sono facili da indovinare. Consenti a tomi di <ph name="BEGIN_LINK" />creare e memorizzare password efficaci per te<ph name="END_LINK" />.</translation>
+<translation id="6981396265751285733">Se attivi l'opzione, tomi libera spazio dalle schede non attive. In questo modo le schede attive e altre app hanno più risorse per il computer e mantengono tomi veloce. Le schede inattive si riattivano automaticamente quando ci torni.</translation>
+<translation id="6985329841647292029">Termini di tomi OS</translation>
+<translation id="6990124437352146030">Per questo sito tomi ha bisogno dell'autorizzazione ad accedere al microfono</translation>
 <translation id="7011190694940573312">Installazione non riuscita perché questa versione del sistema operativo non è supportata.</translation>
 <translation id="7024536598735240744">Errore decompressione: <ph name="UNPACK_ERROR" />.</translation>
 <translation id="7025789849649390912">Installazione interrotta.</translation>
-<translation id="705851970750939768">Aggiorna Tomi</translation>
-<translation id="7067091210845072982">Se un'immagine è senza descrizione utile, Tomi proverà a fornirne una. Per la creazione delle descrizioni, le immagini vengono inviate a Google.</translation>
-<translation id="7141270731789036260">Personalizza Tomi for Testing</translation>
-<translation id="7173822816570314652">La tua organizzazione elimina i dati di Tomi quando non vengono utilizzati per <ph name="TIMEOUT_DURATION" />. Potrebbero essere inclusi cronologia, compilazione automatica e download.</translation>
-<translation id="718435575166326686">Tomi deve avere l'autorizzazione di accesso alla fotocamera per questo sito</translation>
-<translation id="7196312274710523067">Impossibile avviare Tomi. Riprova.</translation>
-<translation id="7197677400338048821">Tomi non può controllare le tue password. Riprova tra 24 ore.</translation>
-<translation id="7213407614656404070">Usa Tomi ogni volta che fai clic sui link in messaggi, documenti e altre app</translation>
-<translation id="7223968959479464213">Task Manager - Tomi</translation>
-<translation id="7246575524853130370">I tuoi interessi stimati da Tomi</translation>
-<translation id="7309928523159922338">Ad measurement consente ai siti che visiti di chiedere a Tomi informazioni che li aiutino a valutare il rendimento dei loro annunci. Ad measurement limita il tracciamento tra siti trasferendo il minor numero possibile di informazioni tra i siti.</translation>
-<translation id="731795002583552498">Aggiornamento di Tomi in corso</translation>
+<translation id="705851970750939768">Aggiorna tomi</translation>
+<translation id="7067091210845072982">Se un'immagine è senza descrizione utile, tomi proverà a fornirne una. Per la creazione delle descrizioni, le immagini vengono inviate a Google.</translation>
+<translation id="7141270731789036260">Personalizza tomi for Testing</translation>
+<translation id="7173822816570314652">La tua organizzazione elimina i dati di tomi quando non vengono utilizzati per <ph name="TIMEOUT_DURATION" />. Potrebbero essere inclusi cronologia, compilazione automatica e download.</translation>
+<translation id="718435575166326686">tomi deve avere l'autorizzazione di accesso alla fotocamera per questo sito</translation>
+<translation id="7196312274710523067">Impossibile avviare tomi. Riprova.</translation>
+<translation id="7197677400338048821">tomi non può controllare le tue password. Riprova tra 24 ore.</translation>
+<translation id="7213407614656404070">Usa tomi ogni volta che fai clic sui link in messaggi, documenti e altre app</translation>
+<translation id="7223968959479464213">Task Manager - tomi</translation>
+<translation id="7246575524853130370">I tuoi interessi stimati da tomi</translation>
+<translation id="7309928523159922338">Ad measurement consente ai siti che visiti di chiedere a tomi informazioni che li aiutino a valutare il rendimento dei loro annunci. Ad measurement limita il tracciamento tra siti trasferendo il minor numero possibile di informazioni tra i siti.</translation>
+<translation id="731795002583552498">Aggiornamento di tomi in corso</translation>
 <translation id="7318036098707714271">Il file delle preferenze è danneggiato o non valido.
 
-Tomi non è in grado di recuperare le impostazioni.</translation>
+tomi non è in grado di recuperare le impostazioni.</translation>
 <translation id="7339898014177206373">Nuova finestra</translation>
-<translation id="734373864078049451">I tuoi siti web, i tuoi segnalibri e gli altri contenuti Tomi sempre disponibili e aggiornati qui.</translation>
-<translation id="7349591376906416160">L'amministratore di sistema ha configurato Tomi per l'apertura di <ph name="ALTERNATIVE_BROWSER_NAME" /> per accedere a <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7398989605938454041">Con i profili Tomi puoi separare tutti i tuoi contenuti di Tomi. In questo modo potrai alternare lavoro e divertimento con più facilità.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> - Tomi per gli sviluppatori</translation>
-<translation id="7451052299415159299">Per questo sito Tomi ha bisogno dell'autorizzazione ad accedere alla fotocamera</translation>
-<translation id="7461356015007898716">Per ricevere gli aggiornamenti futuri di Tomi, devi avere Windows 10 o versioni successive. Su questo computer è installato Windows 7.</translation>
-<translation id="7467949745582939695">Vuoi riavviare Tomi?</translation>
-<translation id="7483335560992089831">Impossibile installare una versione di Tomi uguale a quella in esecuzione. Chiudi Tomi e riprova.</translation>
-<translation id="751935028865900641">È probabile che i siti funzionino come previsto. Quando chiudi tutte le finestre di Tomi, uscirai dalla maggior parte dei siti, ma se hai eseguito l'accesso a Tomi non uscirai dal tuo Account Google.</translation>
-<translation id="753534427205733210">{0,plural, =1{Tomi verrà riavviato tra 1 minuto}other{Tomi verrà riavviato tra # minuti}}</translation>
-<translation id="7582945390259497898">Tomi può stimare i tuoi interessi. Dopodiché, un sito che visiti può chiedere a Tomi di conoscere i tuoi interessi per personalizzare gli annunci da mostrarti.</translation>
+<translation id="734373864078049451">I tuoi siti web, i tuoi segnalibri e gli altri contenuti tomi sempre disponibili e aggiornati qui.</translation>
+<translation id="7349591376906416160">L'amministratore di sistema ha configurato tomi per l'apertura di <ph name="ALTERNATIVE_BROWSER_NAME" /> per accedere a <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7398989605938454041">Con i profili tomi puoi separare tutti i tuoi contenuti di tomi. In questo modo potrai alternare lavoro e divertimento con più facilità.</translation>
+<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> - tomi per gli sviluppatori</translation>
+<translation id="7451052299415159299">Per questo sito tomi ha bisogno dell'autorizzazione ad accedere alla fotocamera</translation>
+<translation id="7461356015007898716">Per ricevere gli aggiornamenti futuri di tomi, devi avere Windows 10 o versioni successive. Su questo computer è installato Windows 7.</translation>
+<translation id="7467949745582939695">Vuoi riavviare tomi?</translation>
+<translation id="7483335560992089831">Impossibile installare una versione di tomi uguale a quella in esecuzione. Chiudi tomi e riprova.</translation>
+<translation id="751935028865900641">È probabile che i siti funzionino come previsto. Quando chiudi tutte le finestre di tomi, uscirai dalla maggior parte dei siti, ma se hai eseguito l'accesso a tomi non uscirai dal tuo Account Google.</translation>
+<translation id="753534427205733210">{0,plural, =1{tomi verrà riavviato tra 1 minuto}other{tomi verrà riavviato tra # minuti}}</translation>
+<translation id="7582945390259497898">tomi può stimare i tuoi interessi. Dopodiché, un sito che visiti può chiedere a tomi di conoscere i tuoi interessi per personalizzare gli annunci da mostrarti.</translation>
 <translation id="7583399374488819119">Programma di installazione di <ph name="COMPANY_NAME" /></translation>
-<translation id="761356813943268536">Tomi sta utilizzando videocamera e microfono.</translation>
-<translation id="7617377681829253106">Da oggi Tomi è ancora meglio</translation>
+<translation id="761356813943268536">tomi sta utilizzando videocamera e microfono.</translation>
+<translation id="7617377681829253106">Da oggi tomi è ancora meglio</translation>
 <translation id="7649070708921625228">Guida</translation>
-<translation id="7682213815243802460">Puoi scoprire di più su queste funzionalità nelle impostazioni di Tomi.</translation>
-<translation id="7686590090926151193">Tomi non è il browser predefinito</translation>
-<translation id="7689606757190482937">Sincronizza e personalizza Tomi sui tuoi dispositivi</translation>
-<translation id="7699779824407626136">Aggiornamento di Tomi</translation>
-<translation id="7745317241717453663">Verranno eliminati i tuoi dati di navigazione da questo dispositivo. Per recuperare i dati in un secondo momento, accedi a Tomi come <ph name="USER_EMAIL" />.</translation>
+<translation id="7682213815243802460">Puoi scoprire di più su queste funzionalità nelle impostazioni di tomi.</translation>
+<translation id="7686590090926151193">tomi non è il browser predefinito</translation>
+<translation id="7689606757190482937">Sincronizza e personalizza tomi sui tuoi dispositivi</translation>
+<translation id="7699779824407626136">Aggiornamento di tomi</translation>
+<translation id="7745317241717453663">Verranno eliminati i tuoi dati di navigazione da questo dispositivo. Per recuperare i dati in un secondo momento, accedi a tomi come <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">Il programma di installazione non ha creato una directory temporanea. Verifica di disporre di spazio libero sul disco e dell'autorizzazione per l'installazione del software.</translation>
-<translation id="7786760609782648049">Rendi Tomi più veloce</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> - Tomi Canary</translation>
-<translation id="7803986347287457849">Rendi più difficile vedere quali siti visiti alle persone che hanno accesso al tuo traffico internet. Tomi utilizza una connessione sicura per cercare l'indirizzo IP di un sito nel DNS (Domain Name System).</translation>
-<translation id="7828947555739565424">Esiste già un profilo Tomi con questo account su questo dispositivo</translation>
+<translation id="7786760609782648049">Rendi tomi più veloce</translation>
+<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> - tomi Canary</translation>
+<translation id="7803986347287457849">Rendi più difficile vedere quali siti visiti alle persone che hanno accesso al tuo traffico internet. tomi utilizza una connessione sicura per cercare l'indirizzo IP di un sito nel DNS (Domain Name System).</translation>
+<translation id="7828947555739565424">Esiste già un profilo tomi con questo account su questo dispositivo</translation>
 <translation id="7845233973568007926">L'installazione è terminata. Dovrai riavviare il computer per poter utilizzare <ph name="BUNDLE_NAME" />.</translation>
-<translation id="7859018312476869945">Quando digiti nella barra degli indirizzi o nella casella di ricerca, Tomi invia ciò che digiti al tuo motore di ricerca predefinito per ricevere suggerimenti migliori. Questa opzione è disattivata nella modalità di navigazione in incognito.</translation>
-<translation id="7867198900892795913">Non è stato possibile aggiornare Tomi alla versione più recente, quindi non potrai utilizzare le nuove funzioni e gli aggiornamenti di sicurezza.</translation>
+<translation id="7859018312476869945">Quando digiti nella barra degli indirizzi o nella casella di ricerca, tomi invia ciò che digiti al tuo motore di ricerca predefinito per ricevere suggerimenti migliori. Questa opzione è disattivata nella modalità di navigazione in incognito.</translation>
+<translation id="7867198900892795913">Non è stato possibile aggiornare tomi alla versione più recente, quindi non potrai utilizzare le nuove funzioni e gli aggiornamenti di sicurezza.</translation>
 <translation id="7872446069773932638">Download in corso… Secondi rimanenti: <ph name="SECONDS" /></translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Come puoi gestire i tuoi dati:<ph name="END_BOLD" /> per tutelare la tua privacy, eliminiamo automaticamente i tuoi interessi risalenti a più di 4 settimane prima della data corrente. Mentre continui a navigare, un interesse potrebbe essere nuovamente visualizzato nell'elenco. Puoi anche rimuovere gli interessi che non vuoi che Tomi prenda in considerazione.</translation>
-<translation id="7937630085815544518">Hai eseguito l'accesso a Tomi come <ph name="USER_EMAIL_ADDRESS" />. Utilizza lo stesso account per eseguire di nuovo l'accesso.</translation>
-<translation id="7975919845073681630">Questa è un'installazione secondaria, di conseguenza Tomi non può essere impostato come browser predefinito.</translation>
-<translation id="7997934263947464652">Estensioni, app e temi da origini sconosciute possono danneggiare il tuo dispositivo. Tomi consiglia di installare questi elementi soltanto dal <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
-<translation id="8013436988911883588">Dopo che Tomi avrà ottenuto l'accesso, i siti web potranno chiederti l'accesso.</translation>
+<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Come puoi gestire i tuoi dati:<ph name="END_BOLD" /> per tutelare la tua privacy, eliminiamo automaticamente i tuoi interessi risalenti a più di 4 settimane prima della data corrente. Mentre continui a navigare, un interesse potrebbe essere nuovamente visualizzato nell'elenco. Puoi anche rimuovere gli interessi che non vuoi che tomi prenda in considerazione.</translation>
+<translation id="7937630085815544518">Hai eseguito l'accesso a tomi come <ph name="USER_EMAIL_ADDRESS" />. Utilizza lo stesso account per eseguire di nuovo l'accesso.</translation>
+<translation id="7975919845073681630">Questa è un'installazione secondaria, di conseguenza tomi non può essere impostato come browser predefinito.</translation>
+<translation id="7997934263947464652">Estensioni, app e temi da origini sconosciute possono danneggiare il tuo dispositivo. tomi consiglia di installare questi elementi soltanto dal <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /></translation>
+<translation id="8013436988911883588">Dopo che tomi avrà ottenuto l'accesso, i siti web potranno chiederti l'accesso.</translation>
 <translation id="80471789339884597">L'installazione è terminata. Dovrai riavviare tutti i browser per poter utilizzare <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">Installazione non riuscita perché il computer non soddisfa i requisiti hardware minimi.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Tomi for Testing</translation>
-<translation id="8105840573057009683">Tomi deve avere l'autorizzazione di accesso alla posizione per questo sito</translation>
-<translation id="8133124826068723441">Impossibile sincronizzare i dati in Tomi OS perché la sincronizzazione non è disponibile per il tuo dominio.</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - tomi for Testing</translation>
+<translation id="8105840573057009683">tomi deve avere l'autorizzazione di accesso alla posizione per questo sito</translation>
+<translation id="8133124826068723441">Impossibile sincronizzare i dati in tomi OS perché la sincronizzazione non è disponibile per il tuo dominio.</translation>
 <translation id="813913629614996137">Inizializzazione...</translation>
-<translation id="8166782796394721554">Attiva la protezione aggiuntiva nel motore JavaScript e WebAssembly di Tomi</translation>
-<translation id="81770708095080097">Questo file è pericoloso, pertanto è stato bloccato da Tomi.</translation>
-<translation id="8248265253516264921">Se un'immagine è senza descrizione utile, Tomi proverà a fornirne una. Per la creazione delle descrizioni, le immagini vengono inviate a Google. Puoi disattivare questa funzionalità in qualsiasi momento nelle Impostazioni.</translation>
-<translation id="8266560134891435528">Tomi non può controllare le tue password perché non hai effettuato l'accesso</translation>
-<translation id="8286943863733751221"><ph name="BEGIN_LINK" />Tomi ti avvisa<ph name="END_LINK" /> in caso di siti e download non sicuri</translation>
-<translation id="8290862415967981663">Questo file potrebbe essere pericoloso, pertanto è stato bloccato da Tomi.</translation>
-<translation id="8318772038038596122">La tua organizzazione chiude Tomi quando non viene utilizzato per <ph name="TIMEOUT_DURATION" />.</translation>
-<translation id="8325404639443959713">Fai di più con Tomi</translation>
-<translation id="8330519371938183845">Accedi per sincronizzare e personalizzare Tomi sui tuoi dispositivi</translation>
-<translation id="8340674089072921962">L'indirizzo <ph name="USER_EMAIL_ADDRESS" /> utilizzava in precedenza Tomi</translation>
-<translation id="8357820681460164151">Per accedere ai tuoi contenuti del browser Tomi su tutti i tuoi dispositivi, accedi e attiva la sincronizzazione</translation>
-<translation id="8360718212975266891">Per ricevere gli aggiornamenti futuri di Tomi, devi avere Windows 10 o versioni successive. Su questo computer è installato Windows 8.</translation>
+<translation id="8166782796394721554">Attiva la protezione aggiuntiva nel motore JavaScript e WebAssembly di tomi</translation>
+<translation id="81770708095080097">Questo file è pericoloso, pertanto è stato bloccato da tomi.</translation>
+<translation id="8248265253516264921">Se un'immagine è senza descrizione utile, tomi proverà a fornirne una. Per la creazione delle descrizioni, le immagini vengono inviate a Google. Puoi disattivare questa funzionalità in qualsiasi momento nelle Impostazioni.</translation>
+<translation id="8266560134891435528">tomi non può controllare le tue password perché non hai effettuato l'accesso</translation>
+<translation id="8286943863733751221"><ph name="BEGIN_LINK" />tomi ti avvisa<ph name="END_LINK" /> in caso di siti e download non sicuri</translation>
+<translation id="8290862415967981663">Questo file potrebbe essere pericoloso, pertanto è stato bloccato da tomi.</translation>
+<translation id="8318772038038596122">La tua organizzazione chiude tomi quando non viene utilizzato per <ph name="TIMEOUT_DURATION" />.</translation>
+<translation id="8325404639443959713">Fai di più con tomi</translation>
+<translation id="8330519371938183845">Accedi per sincronizzare e personalizzare tomi sui tuoi dispositivi</translation>
+<translation id="8340674089072921962">L'indirizzo <ph name="USER_EMAIL_ADDRESS" /> utilizzava in precedenza tomi</translation>
+<translation id="8357820681460164151">Per accedere ai tuoi contenuti del browser tomi su tutti i tuoi dispositivi, accedi e attiva la sincronizzazione</translation>
+<translation id="8360718212975266891">Per ricevere gli aggiornamenti futuri di tomi, devi avere Windows 10 o versioni successive. Su questo computer è installato Windows 8.</translation>
 <translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC Tutti i diritti riservati.</translation>
-<translation id="8401454788024434101">La pubblicazione di questa estensione è stata annullata dallo sviluppatore e potrebbe non essere sicura. Rimuovila da Tomi in modo che non possa più vedere e modificare i tuoi dati sui siti che visiti, incluse le tue informazioni personali.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Riavvia Tomi entro un giorno}other{Riavvia Tomi entro # giorni}}</translation>
-<translation id="8453117565092476964">L'archivio di installazione è danneggiato o non valido. Scarica di nuovo Tomi.</translation>
-<translation id="8458614432758743027">Tomi richiede Windows 10 o versioni successive.</translation>
-<translation id="8463672209299734063">(Facoltativo) Contribuisci a migliorare le funzionalità e le prestazioni di Tomi OS inviando automaticamente a Google dati diagnostici e sull'utilizzo.</translation>
-<translation id="8493179195440786826">Tomi non è aggiornato</translation>
-<translation id="8522801943730206384">Tomi può controllare le password quando le salvi</translation>
+<translation id="8401454788024434101">La pubblicazione di questa estensione è stata annullata dallo sviluppatore e potrebbe non essere sicura. Rimuovila da tomi in modo che non possa più vedere e modificare i tuoi dati sui siti che visiti, incluse le tue informazioni personali.</translation>
+<translation id="8417404458978023919">{0,plural, =1{Riavvia tomi entro un giorno}other{Riavvia tomi entro # giorni}}</translation>
+<translation id="8453117565092476964">L'archivio di installazione è danneggiato o non valido. Scarica di nuovo tomi.</translation>
+<translation id="8458614432758743027">tomi richiede Windows 10 o versioni successive.</translation>
+<translation id="8463672209299734063">(Facoltativo) Contribuisci a migliorare le funzionalità e le prestazioni di tomi OS inviando automaticamente a Google dati diagnostici e sull'utilizzo.</translation>
+<translation id="8493179195440786826">tomi non è aggiornato</translation>
+<translation id="8522801943730206384">tomi può controllare le password quando le salvi</translation>
 <translation id="8550334526674375523">Questo profilo di lavoro è completamente separato dal tuo profilo personale.</translation>
 <translation id="8555465886620020932">Errore del servizio: <ph name="SERVICE_ERROR" /></translation>
-<translation id="8568283329061645092">Tomi può controllare le tue password quando accedi con il tuo Account Tomi</translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Tomi Authors. Tutti i diritti riservati.</translation>
-<translation id="858822505990366713">Personalizza Tomi</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Come utilizziamo questi dati:<ph name="END_BOLD" /> i siti possono memorizzare su Tomi informazioni relative ai tuoi interessi. Ad esempio, se visiti un sito per acquistare scarpe per una maratona, il sito potrebbe definire come tuo interesse le maratone. Se in un secondo momento visiti un altro sito per registrarti a una gara, il sito può mostrarti un annuncio relativo a scarpe da corsa in base ai tuoi interessi.</translation>
-<translation id="8619360774459241877">Avvio di Tomi...</translation>
-<translation id="8621669128220841554">Installazione non riuscita a causa di un errore imprecisato. Scarica di nuovo Tomi.</translation>
-<translation id="8648201657708811153">Tomi for Testing non può essere impostato come browser predefinito.</translation>
-<translation id="8697124171261953979">Controlla anche la pagina visualizzata all'avvio di Tomi o quando esegui ricerche dalla Omnibox.</translation>
-<translation id="8704119203788522458">Questo è il tuo account Tomi</translation>
-<translation id="8719993436687031146">Accedere a Tomi?</translation>
+<translation id="8568283329061645092">tomi può controllare le tue password quando accedi con il tuo Account tomi</translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The tomi Authors. Tutti i diritti riservati.</translation>
+<translation id="858822505990366713">Personalizza tomi</translation>
+<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Come utilizziamo questi dati:<ph name="END_BOLD" /> i siti possono memorizzare su tomi informazioni relative ai tuoi interessi. Ad esempio, se visiti un sito per acquistare scarpe per una maratona, il sito potrebbe definire come tuo interesse le maratone. Se in un secondo momento visiti un altro sito per registrarti a una gara, il sito può mostrarti un annuncio relativo a scarpe da corsa in base ai tuoi interessi.</translation>
+<translation id="8619360774459241877">Avvio di tomi...</translation>
+<translation id="8621669128220841554">Installazione non riuscita a causa di un errore imprecisato. Scarica di nuovo tomi.</translation>
+<translation id="8648201657708811153">tomi for Testing non può essere impostato come browser predefinito.</translation>
+<translation id="8697124171261953979">Controlla anche la pagina visualizzata all'avvio di tomi o quando esegui ricerche dalla Omnibox.</translation>
+<translation id="8704119203788522458">Questo è il tuo account tomi</translation>
+<translation id="8719993436687031146">Accedere a tomi?</translation>
 <translation id="878572486461146056">Errore di installazione: l'amministratore di rete ha applicato un criterio di gruppo che impedisce l'installazione: <ph name="INSTALL_ERROR" /></translation>
-<translation id="8796602469536043152">Per questo sito Tomi ha bisogno dell'autorizzazione ad accedere alla fotocamera e al microfono</translation>
+<translation id="8796602469536043152">Per questo sito tomi ha bisogno dell'autorizzazione ad accedere alla fotocamera e al microfono</translation>
 <translation id="8826492472752484139">Fai clic su "Gestore delle password"</translation>
-<translation id="8833697763442816810">Sistema Tomi OS</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Quali dati vengono utilizzati:<ph name="END_BOLD" /> la cronologia di navigazione, ossia un record dei siti visitati da Tomi sul dispositivo in uso.</translation>
+<translation id="8833697763442816810">Sistema tomi OS</translation>
+<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Quali dati vengono utilizzati:<ph name="END_BOLD" /> la cronologia di navigazione, ossia un record dei siti visitati da tomi sul dispositivo in uso.</translation>
 <translation id="8862326446509486874">Non disponi dei diritti appropriati per l'installazione a livello di sistema. Prova a eseguire nuovamente il programma di installazione come Amministratore.</translation>
-<translation id="8880203542552872219">In questo caso, modifica la password salvata su Tomi in modo che corrisponda alla nuova password.</translation>
-<translation id="8907580949721785412">Tomi sta cercando di visualizzare le password. Per consentire la visualizzazione, digita la tua password Windows.</translation>
-<translation id="8931379085695076764">Tomi può stimare i tuoi interessi in base alla cronologia di navigazione delle ultime settimane. Queste informazioni rimangono sul dispositivo.</translation>
-<translation id="8941642502866065432">Impossibile aggiornare Tomi</translation>
-<translation id="895999862145835951">Personalizza Tomi</translation>
-<translation id="897581876605952338">Logo di Tomi Enterprise</translation>
+<translation id="8880203542552872219">In questo caso, modifica la password salvata su tomi in modo che corrisponda alla nuova password.</translation>
+<translation id="8907580949721785412">tomi sta cercando di visualizzare le password. Per consentire la visualizzazione, digita la tua password Windows.</translation>
+<translation id="8931379085695076764">tomi può stimare i tuoi interessi in base alla cronologia di navigazione delle ultime settimane. Queste informazioni rimangono sul dispositivo.</translation>
+<translation id="8941642502866065432">Impossibile aggiornare tomi</translation>
+<translation id="895999862145835951">Personalizza tomi</translation>
+<translation id="897581876605952338">Logo di tomi Enterprise</translation>
 <translation id="8986207147630327271">Stai per aggiungere a questo browser un profilo di lavoro che sarà controllato dal tuo amministratore.</translation>
-<translation id="8988036198400390003">Gestisci i profili Tomi</translation>
-<translation id="9019929317751753759">Per rendere Tomi più sicuro, abbiamo disattivato la seguente estensione non presente nel <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> che potrebbe essere stata aggiunta a tua insaputa.</translation>
-<translation id="9022552996538154597">Accedi a Tomi</translation>
-<translation id="907832235989677238">Accedi a Tomi. Se vuoi accedere con un account una sola volta, puoi <ph name="GUEST_LINK_BEGIN" />utilizzare il dispositivo come ospite<ph name="GUEST_LINK_END" />.</translation>
-<translation id="9078733879136747090">Tomi è stato chiuso automaticamente</translation>
-<translation id="9089354809943900324">Tomi non è aggiornato</translation>
-<translation id="9093206154853821181">{0,plural, =1{Tomi verrà riavviato tra un'ora}other{Tomi verrà riavviato tra # ore}}</translation>
-<translation id="9106612006984859720">Per ricevere gli aggiornamenti futuri di Tomi, devi avere Windows 10 o versioni successive. Su questo computer è installato Windows 8.1.</translation>
-<translation id="91086099826398415">Apri link in una nuova &amp;scheda di Tomi</translation>
+<translation id="8988036198400390003">Gestisci i profili tomi</translation>
+<translation id="9019929317751753759">Per rendere tomi più sicuro, abbiamo disattivato la seguente estensione non presente nel <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> che potrebbe essere stata aggiunta a tua insaputa.</translation>
+<translation id="9022552996538154597">Accedi a tomi</translation>
+<translation id="907832235989677238">Accedi a tomi. Se vuoi accedere con un account una sola volta, puoi <ph name="GUEST_LINK_BEGIN" />utilizzare il dispositivo come ospite<ph name="GUEST_LINK_END" />.</translation>
+<translation id="9078733879136747090">tomi è stato chiuso automaticamente</translation>
+<translation id="9089354809943900324">tomi non è aggiornato</translation>
+<translation id="9093206154853821181">{0,plural, =1{tomi verrà riavviato tra un'ora}other{tomi verrà riavviato tra # ore}}</translation>
+<translation id="9106612006984859720">Per ricevere gli aggiornamenti futuri di tomi, devi avere Windows 10 o versioni successive. Su questo computer è installato Windows 8.1.</translation>
+<translation id="91086099826398415">Apri link in una nuova &amp;scheda di tomi</translation>
 <translation id="911206726377975832">Eliminare anche i tuoi dati di navigazione?</translation>
-<translation id="9144490074902256427">Durante le prove, puoi vedere e rimuovere argomenti di interesse che i siti hanno usato per mostrarti annunci. Tomi stima i tuoi interessi in base alla tua recente cronologia di navigazione.</translation>
-<translation id="9158494823179993217">L'amministratore di sistema ha configurato Tomi per l'apertura di un browser alternativo per accedere a <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="9185526690718004400">Riavvia per aggiornare &amp;Tomi</translation>
-<translation id="9190841055450128916">Tomi (mDNS-In)</translation>
-<translation id="924957577793602335">Personalizza Tomi</translation>
-<translation id="93478295209880648">Tomi potrebbe non funzionare correttamente perché non è più supportato su Windows XP o Windows Vista</translation>
-<translation id="942598560705308788">Certificati gestiti da Tomi</translation>
-<translation id="965162752251293939">Chi usa Tomi?</translation>
-<translation id="967427899662692980">Usa la funzionalità di sicurezza più efficace di Tomi</translation>
+<translation id="9144490074902256427">Durante le prove, puoi vedere e rimuovere argomenti di interesse che i siti hanno usato per mostrarti annunci. tomi stima i tuoi interessi in base alla tua recente cronologia di navigazione.</translation>
+<translation id="9158494823179993217">L'amministratore di sistema ha configurato tomi per l'apertura di un browser alternativo per accedere a <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="9185526690718004400">Riavvia per aggiornare &amp;tomi</translation>
+<translation id="9190841055450128916">tomi (mDNS-In)</translation>
+<translation id="924957577793602335">Personalizza tomi</translation>
+<translation id="93478295209880648">tomi potrebbe non funzionare correttamente perché non è più supportato su Windows XP o Windows Vista</translation>
+<translation id="942598560705308788">Certificati gestiti da tomi</translation>
+<translation id="965162752251293939">Chi usa tomi?</translation>
+<translation id="967427899662692980">Usa la funzionalità di sicurezza più efficace di tomi</translation>
 <translation id="983803489796659991">Installazione non riuscita perché il server di aggiornamento non dispone di dati di hashing per l'applicazione.</translation>
-<translation id="985602178874221306">The Tomi Authors</translation>
+<translation id="985602178874221306">The tomi Authors</translation>
 </translationbundle>

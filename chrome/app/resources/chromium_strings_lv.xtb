@@ -1,470 +1,470 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="lv">
-<translation id="1001716830750249114">Pāriet uz Tomi versijas iestatījumiem</translation>
+<translation id="1001716830750249114">Pāriet uz tomi versijas iestatījumiem</translation>
 <translation id="1026101648481255140">Atsākt instalēšanu</translation>
-<translation id="1029669172902658969">Atkārtoti palaist, lai atjauninātu &amp;Tomi OS</translation>
-<translation id="1040916596585577953">Tomi komanda iesaka pārskatīt šo paplašinājumu.</translation>
-<translation id="1042552502243217427">Kad vietnē tiek piedāvāts privāti iepriekš ielādēt saites lapā, pārlūks Tomi izmanto Google serverus. Tādējādi jūsu identitāte tiek slēpta no iepriekš ielādētās lapas īpašniekiem, taču Google uzzina, kādas lapas tiek iepriekš ielādētas.</translation>
+<translation id="1029669172902658969">Atkārtoti palaist, lai atjauninātu &amp;tomi OS</translation>
+<translation id="1040916596585577953">tomi komanda iesaka pārskatīt šo paplašinājumu.</translation>
+<translation id="1042552502243217427">Kad vietnē tiek piedāvāts privāti iepriekš ielādēt saites lapā, pārlūks tomi izmanto Google serverus. Tādējādi jūsu identitāte tiek slēpta no iepriekš ielādētās lapas īpašniekiem, taču Google uzzina, kādas lapas tiek iepriekš ielādētas.</translation>
 <translation id="1065672644894730302">Jūsu preferences nevar nolasīt. Dažas funkcijas var nebūt pieejamas, un preferenču izmaiņas netiks saglabātas</translation>
-<translation id="1083934481477628225">Viens no jūsu vecākiem ir izslēdzis iestatījumu “Atļaujas vietnēm, lietotnēm un paplašinājumiem” pārlūkam Tomi.</translation>
-<translation id="1098170124587656448">Tomi var palīdzēt aizsargāt jūs pret datu noplūdi, ļaunprātīgiem paplašinājumiem un citiem apdraudējumiem.</translation>
-<translation id="1104942323762546749">Pārlūkā Tomi tiek mēģināts eksportēt jūsu paroles. Lai to atļautu, ievadiet savu Windows paroli.</translation>
-<translation id="113122355610423240">Jūsu noklusējuma pārlūks ir Tomi.</translation>
-<translation id="1131805035311359397">Lai pārbaudītu, vai jūsu paroles ir aizsargātas pret datu pārkāpumiem un citām drošības problēmām, <ph name="BEGIN_LINK" />pierakstieties pārlūkā Tomi<ph name="END_LINK" />.</translation>
-<translation id="1153368717515616349">Noklikšķiniet uz Tomi izvēlnes</translation>
-<translation id="1185134272377778587">Par Tomi</translation>
+<translation id="1083934481477628225">Viens no jūsu vecākiem ir izslēdzis iestatījumu “Atļaujas vietnēm, lietotnēm un paplašinājumiem” pārlūkam tomi.</translation>
+<translation id="1098170124587656448">tomi var palīdzēt aizsargāt jūs pret datu noplūdi, ļaunprātīgiem paplašinājumiem un citiem apdraudējumiem.</translation>
+<translation id="1104942323762546749">Pārlūkā tomi tiek mēģināts eksportēt jūsu paroles. Lai to atļautu, ievadiet savu Windows paroli.</translation>
+<translation id="113122355610423240">Jūsu noklusējuma pārlūks ir tomi.</translation>
+<translation id="1131805035311359397">Lai pārbaudītu, vai jūsu paroles ir aizsargātas pret datu pārkāpumiem un citām drošības problēmām, <ph name="BEGIN_LINK" />pierakstieties pārlūkā tomi<ph name="END_LINK" />.</translation>
+<translation id="1153368717515616349">Noklikšķiniet uz tomi izvēlnes</translation>
+<translation id="1185134272377778587">Par tomi</translation>
 <translation id="1203500561924088507">Pateicamies, ka veicāt instalēšanu. Pirms <ph name="BUNDLE_NAME" /> izmantošanas ir jārestartē pārlūkprogramma.</translation>
-<translation id="1262876892872089030">Kamēr šī cilne bija neaktīva, tika atbrīvota atmiņa pārlūka Tomi ātrākai darbībai. Varat izvēlēties vienmēr saglabāt šo vietni aktīvu.</translation>
-<translation id="1265577313130862557">Pārlūkā Tomi šī lejupielāde tika bloķēta, jo fails ir bīstams.</translation>
-<translation id="1315551408014407711">Jaunā Tomi profila iestatīšana</translation>
-<translation id="1342274909142618978">Dzēst arī datus no pārlūka Tomi (<ph name="URL" />)</translation>
-<translation id="1414495520565016063">Esat pierakstījies operētājsistēmā Tomi!</translation>
-<translation id="1478370723027452770">Saņemt palīdzību saistībā ar Tomi for Testing</translation>
+<translation id="1262876892872089030">Kamēr šī cilne bija neaktīva, tika atbrīvota atmiņa pārlūka tomi ātrākai darbībai. Varat izvēlēties vienmēr saglabāt šo vietni aktīvu.</translation>
+<translation id="1265577313130862557">Pārlūkā tomi šī lejupielāde tika bloķēta, jo fails ir bīstams.</translation>
+<translation id="1315551408014407711">Jaunā tomi profila iestatīšana</translation>
+<translation id="1342274909142618978">Dzēst arī datus no pārlūka tomi (<ph name="URL" />)</translation>
+<translation id="1414495520565016063">Esat pierakstījies operētājsistēmā tomi!</translation>
+<translation id="1478370723027452770">Saņemt palīdzību saistībā ar tomi for Testing</translation>
 <translation id="1497802159252041924">Instalēšanas kļūda: <ph name="INSTALL_ERROR" /></translation>
-<translation id="1524282610922162960">Tomi cilnes kopīgošana</translation>
-<translation id="1553461853655228091">Pārlūkam Tomi ir nepieciešama atļauja piekļūt jūsu kamerai, lai varētu izveidot jūsu apkārtnes 3D karti</translation>
-<translation id="1574377791422810894">Tomi drošības rīki</translation>
-<translation id="1607715478322902680">{COUNT,plural, =0{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Tomi.}=1{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Tomi. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Tomi. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Tomi. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku Tomi. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
-<translation id="1625909126243026060">Pārskatiet svarīgākās konfidencialitātes un drošības vadīklas pārlūkā Tomi.</translation>
-<translation id="1632539827495546968">Ja vēlaties šo kontu izmantot tikai vienu reizi, varat lietot <ph name="GUEST_LINK_BEGIN" />viesa režīmu<ph name="GUEST_LINK_END" /> pārlūkā Tomi. Ja vēlaties pievienot kontu kādam citam, <ph name="LINK_BEGIN" />pievienojiet jaunu personu<ph name="LINK_END" /> savai ierīcei (<ph name="DEVICE_TYPE" />).
+<translation id="1524282610922162960">tomi cilnes kopīgošana</translation>
+<translation id="1553461853655228091">Pārlūkam tomi ir nepieciešama atļauja piekļūt jūsu kamerai, lai varētu izveidot jūsu apkārtnes 3D karti</translation>
+<translation id="1574377791422810894">tomi drošības rīki</translation>
+<translation id="1607715478322902680">{COUNT,plural, =0{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku tomi.}=1{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku tomi. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku tomi. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku tomi. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Lai lietotu atjauninājumu, administrators pieprasa restartēt pārlūku tomi. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
+<translation id="1625909126243026060">Pārskatiet svarīgākās konfidencialitātes un drošības vadīklas pārlūkā tomi.</translation>
+<translation id="1632539827495546968">Ja vēlaties šo kontu izmantot tikai vienu reizi, varat lietot <ph name="GUEST_LINK_BEGIN" />viesa režīmu<ph name="GUEST_LINK_END" /> pārlūkā tomi. Ja vēlaties pievienot kontu kādam citam, <ph name="LINK_BEGIN" />pievienojiet jaunu personu<ph name="LINK_END" /> savai ierīcei (<ph name="DEVICE_TYPE" />).
 
 Uz šo kontu var attiekties atļaujas, ko esat jau piešķīris vietnēm un lietotnēm. Varat pārvaldīt savus Google kontus sadaļā <ph name="SETTINGS_LINK_BEGIN" />Iestatījumi<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="1640672724030957280">Notiek lejupielāde...</translation>
-<translation id="1708666629004767631">Ir pieejama jauna un drošāka Tomi versija.</translation>
-<translation id="1715127912119967311">Lai palīdzētu uzlabot šīs funkcijas, pārlūks Tomi nosūta Google serveriem datus par jūsu mijiedarbību ar tām. Šos datus var lasīt, apstrādāt un anotēt pārskatītāji.</translation>
-<translation id="17264556997921157">Varat skatīt un noņemt interešu tēmas, kas vietnēs tiek izmantotas reklāmu rādīšanai. Pārlūkā Tomi tiek aptuveni noteiktas jūsu intereses, ņemot vērā neseno pārlūkošanas vēsturi.</translation>
-<translation id="1733725117201708356">Pārlūkā Tomi drīz tiks dzēsti pārlūkošanas dati</translation>
-<translation id="1736443181683099871">Pārlūkā Tomi tiks mēģināts navigācijai izmantot HTTPS.</translation>
-<translation id="1745121272106313518">Pārlūks Tomi tiks restartēts pēc: <ph name="REMAINING_TIME" /></translation>
-<translation id="1749104137266986751">Ja HTTPS nav pieejams, pārlūkā Tomi bez brīdinājuma tiks izmantots nedrošs savienojums.</translation>
-<translation id="1774152462503052664">Ļaut Tomi darboties fonā</translation>
-<translation id="1779356040007214683">Lai uzlabotu Tomi drošību, mēs atspējojām dažus paplašinājumus, kas nav norādīti vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienoti, jums nezinot.</translation>
-<translation id="1808667845054772817">Pārinstalēt Tomi</translation>
-<translation id="1820835682567584003">Tomi mēģina <ph name="AUTHENTICATION_PURPOSE" /></translation>
-<translation id="185970820835152459">Varat pārvaldīt Google kontus, kuros esat pierakstījies. Jūsu Google konti tiek izmantoti pārlūkā Tomi, Play veikalā, pakalpojumā Gmail un citur. Ja vēlaties pievienot kontu kādam citam, piemēram, ģimenes loceklim, pievienojiet jaunu personu savai <ph name="DEVICE_TYPE" /> ierīcei. <ph name="LINK_BEGIN" />Uzziniet vairāk<ph name="LINK_END" />.</translation>
-<translation id="1863308913976887472">Vietnes pārlūkā Tomi var glabāt informāciju par jūsu interesēm. Piemēram, ja apmeklējat kādu vietni, lai iegādātos apavus maratona skriešanai, vietne var noteikt, ka interesējaties par maratonu skriešanu. Ja vēlāk apmeklēsiet citu vietni, lai reģistrētos sacensībām, šajā vietnē var tikt rādīta skriešanas apavu reklāma, pamatojoties uz jūsu interesēm.</translation>
-<translation id="1881322772814446296">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Tomi dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. Ja vēlaties, varat izveidot jaunu profilu, lai atsevišķi glabātu Tomi datus. <ph name="LEARN_MORE" /></translation>
-<translation id="1906696617298807388">Kad rakstāt adreses joslā vai meklēšanas lodziņā, pārlūks Tomi nosūta ierakstīto tekstu Google diskam, lai iegūtu vienumu ieteikumus. Inkognito režīmā šis iestatījums ir izslēgts.</translation>
-<translation id="1911763535808217981">Ja izslēgsiet šo iestatījumu, varēsiet pierakstīties Google vietnēs, piemēram, pakalpojumā Gmail, nepierakstoties pārlūkā Tomi.</translation>
-<translation id="1929939181775079593">Tomi nereaģē. Vai restartēt to tūlīt?</translation>
-<translation id="193439633299369377">Tomi OS ir jārestartē, lai lietotu atjauninājumu.</translation>
-<translation id="1951406923938785464">Pārlūkā Tomi šī lejupielāde tika bloķēta, jo šī tipa faili parasti netiek lejupielādēti un var būt bīstami.</translation>
+<translation id="1708666629004767631">Ir pieejama jauna un drošāka tomi versija.</translation>
+<translation id="1715127912119967311">Lai palīdzētu uzlabot šīs funkcijas, pārlūks tomi nosūta Google serveriem datus par jūsu mijiedarbību ar tām. Šos datus var lasīt, apstrādāt un anotēt pārskatītāji.</translation>
+<translation id="17264556997921157">Varat skatīt un noņemt interešu tēmas, kas vietnēs tiek izmantotas reklāmu rādīšanai. Pārlūkā tomi tiek aptuveni noteiktas jūsu intereses, ņemot vērā neseno pārlūkošanas vēsturi.</translation>
+<translation id="1733725117201708356">Pārlūkā tomi drīz tiks dzēsti pārlūkošanas dati</translation>
+<translation id="1736443181683099871">Pārlūkā tomi tiks mēģināts navigācijai izmantot HTTPS.</translation>
+<translation id="1745121272106313518">Pārlūks tomi tiks restartēts pēc: <ph name="REMAINING_TIME" /></translation>
+<translation id="1749104137266986751">Ja HTTPS nav pieejams, pārlūkā tomi bez brīdinājuma tiks izmantots nedrošs savienojums.</translation>
+<translation id="1774152462503052664">Ļaut tomi darboties fonā</translation>
+<translation id="1779356040007214683">Lai uzlabotu tomi drošību, mēs atspējojām dažus paplašinājumus, kas nav norādīti vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienoti, jums nezinot.</translation>
+<translation id="1808667845054772817">Pārinstalēt tomi</translation>
+<translation id="1820835682567584003">tomi mēģina <ph name="AUTHENTICATION_PURPOSE" /></translation>
+<translation id="185970820835152459">Varat pārvaldīt Google kontus, kuros esat pierakstījies. Jūsu Google konti tiek izmantoti pārlūkā tomi, Play veikalā, pakalpojumā Gmail un citur. Ja vēlaties pievienot kontu kādam citam, piemēram, ģimenes loceklim, pievienojiet jaunu personu savai <ph name="DEVICE_TYPE" /> ierīcei. <ph name="LINK_BEGIN" />Uzziniet vairāk<ph name="LINK_END" />.</translation>
+<translation id="1863308913976887472">Vietnes pārlūkā tomi var glabāt informāciju par jūsu interesēm. Piemēram, ja apmeklējat kādu vietni, lai iegādātos apavus maratona skriešanai, vietne var noteikt, ka interesējaties par maratonu skriešanu. Ja vēlāk apmeklēsiet citu vietni, lai reģistrētos sacensībām, šajā vietnē var tikt rādīta skriešanas apavu reklāma, pamatojoties uz jūsu interesēm.</translation>
+<translation id="1881322772814446296">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu tomi dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. Ja vēlaties, varat izveidot jaunu profilu, lai atsevišķi glabātu tomi datus. <ph name="LEARN_MORE" /></translation>
+<translation id="1906696617298807388">Kad rakstāt adreses joslā vai meklēšanas lodziņā, pārlūks tomi nosūta ierakstīto tekstu Google diskam, lai iegūtu vienumu ieteikumus. Inkognito režīmā šis iestatījums ir izslēgts.</translation>
+<translation id="1911763535808217981">Ja izslēgsiet šo iestatījumu, varēsiet pierakstīties Google vietnēs, piemēram, pakalpojumā Gmail, nepierakstoties pārlūkā tomi.</translation>
+<translation id="1929939181775079593">tomi nereaģē. Vai restartēt to tūlīt?</translation>
+<translation id="193439633299369377">tomi OS ir jārestartē, lai lietotu atjauninājumu.</translation>
+<translation id="1951406923938785464">Pārlūkā tomi šī lejupielāde tika bloķēta, jo šī tipa faili parasti netiek lejupielādēti un var būt bīstami.</translation>
 <translation id="1953553007165777902">Notiek lejupielāde... Atlikušais laiks: <ph name="MINUTE" /> minūte(-es).</translation>
-<translation id="1966382378801805537">Tomi nevar noteikt vai iestatīt noklusējuma pārlūku.</translation>
-<translation id="2008474315282236005">Veicot šo darbību, no šīs ierīces tiks dzēsts 1 vienums. Lai vēlāk izgūtu datus, pierakstieties pārlūkā Tomi kā <ph name="USER_EMAIL" />.</translation>
+<translation id="1966382378801805537">tomi nevar noteikt vai iestatīt noklusējuma pārlūku.</translation>
+<translation id="2008474315282236005">Veicot šo darbību, no šīs ierīces tiks dzēsts 1 vienums. Lai vēlāk izgūtu datus, pierakstieties pārlūkā tomi kā <ph name="USER_EMAIL" />.</translation>
 <translation id="2018879682492276940">Instalēšana neizdevās. Lūdzu, mēģiniet vēlreiz.</translation>
-<translation id="2020032459870799438">Lai pārbaudītu, vai jūsu pārējās paroles ir aizsargātas pret datu pārkāpumiem un citām drošības problēmām, <ph name="BEGIN_LINK" />pierakstieties pārlūkā Tomi<ph name="END_LINK" />.</translation>
-<translation id="2049376729098081731">Izvēlieties, vai iekļaut Tomi vēsturi, lai iegūtu personalizētākas iespējas Google pakalpojumos.</translation>
-<translation id="2086476982681781442">Pārlūkā Tomi šī lejupielāde tika bloķēta, jo fails ir maldinošs un var veikt neparedzētas izmaiņas jūsu ierīcē.</translation>
-<translation id="2088953378266246249">Informācija par to, kā Tomi pārvalda savus saknes sertifikātus</translation>
-<translation id="2120965832000301375">{COUNT,plural, =1{Jūsu organizācija automātiski dzēš pārlūkošanas datus, ja pārlūks Tomi nav izmantots vienu minūti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes. Cilnes joprojām būs atvērtas.}zero{Jūsu organizācija automātiski dzēš pārlūkošanas datus, ja pārlūks Tomi nav izmantots # minūtes. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes. Cilnes joprojām būs atvērtas.}one{Jūsu organizācija automātiski dzēš pārlūkošanas datus, ja pārlūks Tomi nav izmantots # minūti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes. Cilnes joprojām būs atvērtas.}other{Jūsu organizācija automātiski dzēš pārlūkošanas datus, ja pārlūks Tomi nav izmantots # minūtes. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes. Cilnes joprojām būs atvērtas.}}</translation>
+<translation id="2020032459870799438">Lai pārbaudītu, vai jūsu pārējās paroles ir aizsargātas pret datu pārkāpumiem un citām drošības problēmām, <ph name="BEGIN_LINK" />pierakstieties pārlūkā tomi<ph name="END_LINK" />.</translation>
+<translation id="2049376729098081731">Izvēlieties, vai iekļaut tomi vēsturi, lai iegūtu personalizētākas iespējas Google pakalpojumos.</translation>
+<translation id="2086476982681781442">Pārlūkā tomi šī lejupielāde tika bloķēta, jo fails ir maldinošs un var veikt neparedzētas izmaiņas jūsu ierīcē.</translation>
+<translation id="2088953378266246249">Informācija par to, kā tomi pārvalda savus saknes sertifikātus</translation>
+<translation id="2120965832000301375">{COUNT,plural, =1{Jūsu organizācija automātiski dzēš pārlūkošanas datus, ja pārlūks tomi nav izmantots vienu minūti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes. Cilnes joprojām būs atvērtas.}zero{Jūsu organizācija automātiski dzēš pārlūkošanas datus, ja pārlūks tomi nav izmantots # minūtes. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes. Cilnes joprojām būs atvērtas.}one{Jūsu organizācija automātiski dzēš pārlūkošanas datus, ja pārlūks tomi nav izmantots # minūti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes. Cilnes joprojām būs atvērtas.}other{Jūsu organizācija automātiski dzēš pārlūkošanas datus, ja pārlūks tomi nav izmantots # minūtes. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes. Cilnes joprojām būs atvērtas.}}</translation>
 <translation id="2126108037660393668">Neizdevās verificēt lejupielādēto failu.</translation>
-<translation id="215352261310130060">Pārlūkā Tomi šī lejupielāde tika bloķēta, jo vietnē netiek izmantots drošs savienojums un, iespējams, failā ir veiktas izmaiņas.</translation>
-<translation id="2174178932569897599">Pielāgot pārlūkprogrammu Tomi</translation>
+<translation id="215352261310130060">Pārlūkā tomi šī lejupielāde tika bloķēta, jo vietnē netiek izmantots drošs savienojums un, iespējams, failā ir veiktas izmaiņas.</translation>
+<translation id="2174178932569897599">Pielāgot pārlūkprogrammu tomi</translation>
 <translation id="2174917724755363426">Instalēšana nav pabeigta. Vai tiešām vēlaties atcelt?</translation>
-<translation id="2185166961232948079">Tomi — pierakstīšanās tīklā — <ph name="PAGE_TITLE" /></translation>
+<translation id="2185166961232948079">tomi — pierakstīšanās tīklā — <ph name="PAGE_TITLE" /></translation>
 <translation id="2190166659037789668">Atjauninājumu pārbaudes kļūda: <ph name="UPDATE_CHECK_ERROR" />.</translation>
-<translation id="2241627712206172106">Ja jūsu datoru izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku Tomi atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos kontos.</translation>
-<translation id="2313870531055795960">Vietrāži URL tiek pārbaudīti, salīdzinot ar nedrošo vietņu sarakstu, kas ir saglabāts pārlūkprogrammā Tomi. Ja kādā vietnē tiek mēģināts nozagt jūsu paroli vai ja jūs lejupielādējat kaitīgu failu, Tomi var arī nosūtīt attiecīgos URL, tostarp lapas satura fragmentus, uz funkciju Droša pārlūkošana.</translation>
-<translation id="2329088755516916767">Ja šis iestatījums ir ieslēgts, pārlūkā Tomi tiek iepriekš ielādētas lapas, tādējādi paātrinot pārlūkošanu un meklēšanu.</translation>
-<translation id="2343156876103232566">Lai nosūtītu numuru no šejienes uz savu Android tālruni, abās ierīcēs pierakstieties pārlūkā Tomi.</translation>
+<translation id="2241627712206172106">Ja jūsu datoru izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku tomi atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos kontos.</translation>
+<translation id="2313870531055795960">Vietrāži URL tiek pārbaudīti, salīdzinot ar nedrošo vietņu sarakstu, kas ir saglabāts pārlūkprogrammā tomi. Ja kādā vietnē tiek mēģināts nozagt jūsu paroli vai ja jūs lejupielādējat kaitīgu failu, tomi var arī nosūtīt attiecīgos URL, tostarp lapas satura fragmentus, uz funkciju Droša pārlūkošana.</translation>
+<translation id="2329088755516916767">Ja šis iestatījums ir ieslēgts, pārlūkā tomi tiek iepriekš ielādētas lapas, tādējādi paātrinot pārlūkošanu un meklēšanu.</translation>
+<translation id="2343156876103232566">Lai nosūtītu numuru no šejienes uz savu Android tālruni, abās ierīcēs pierakstieties pārlūkā tomi.</translation>
 <translation id="2359808026110333948">Turpināt</translation>
-<translation id="2359920621792549529">Lai notīrītu pārlūkošanas datus tikai no šīs ierīces un paturētu tos Google kontā, <ph name="BEGIN_LINK" />izrakstieties no Tomi<ph name="END_LINK" />.</translation>
-<translation id="2384373936468275798">Tomi OS nevarēja sinhronizēt jūsu datus, jo jūsu konta pierakstīšanās informācija ir novecojusi.</translation>
-<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{Vismaz viens Tomi paplašinājums piekļuva 1 HID ierīcei}=1{Vismaz viens Tomi paplašinājums piekļūst 1 HID ierīcei}zero{Vismaz viens Tomi paplašinājums piekļūst # HID ierīcēm}one{Vismaz viens Tomi paplašinājums piekļūst # HID ierīcei}other{Vismaz viens Tomi paplašinājums piekļūst # HID ierīcēm}}</translation>
-<translation id="2401032172288869980">Pārlūkam Tomi ir nepieciešama atļauja izmantot kameru un mikrofonu šajā vietnē.</translation>
-<translation id="2440750600860946460">Izmantojot <ph name="BEGIN_LINK" />Tomi rīkus<ph name="END_LINK" />, varat droši pārlūkot saturu un pārvaldīt jums pieejamās iespējas.</translation>
+<translation id="2359920621792549529">Lai notīrītu pārlūkošanas datus tikai no šīs ierīces un paturētu tos Google kontā, <ph name="BEGIN_LINK" />izrakstieties no tomi<ph name="END_LINK" />.</translation>
+<translation id="2384373936468275798">tomi OS nevarēja sinhronizēt jūsu datus, jo jūsu konta pierakstīšanās informācija ir novecojusi.</translation>
+<translation id="2398377054246527950">{NUM_DEVICES,plural, =0{Vismaz viens tomi paplašinājums piekļuva 1 HID ierīcei}=1{Vismaz viens tomi paplašinājums piekļūst 1 HID ierīcei}zero{Vismaz viens tomi paplašinājums piekļūst # HID ierīcēm}one{Vismaz viens tomi paplašinājums piekļūst # HID ierīcei}other{Vismaz viens tomi paplašinājums piekļūst # HID ierīcēm}}</translation>
+<translation id="2401032172288869980">Pārlūkam tomi ir nepieciešama atļauja izmantot kameru un mikrofonu šajā vietnē.</translation>
+<translation id="2440750600860946460">Izmantojot <ph name="BEGIN_LINK" />tomi rīkus<ph name="END_LINK" />, varat droši pārlūkot saturu un pārvaldīt jums pieejamās iespējas.</translation>
 <translation id="2451727308784734061">Izmantojot saīsni, varat ātri piekļūt Google paroļu pārvaldniekam. Varat pārvietot saīsni uz datora sākuma ekrānu vai lietotņu palaidēju.</translation>
-<translation id="2478295928299953161">Tomi drīz tiks aizvērts</translation>
-<translation id="2483889755041906834">Pārlūkā Tomi</translation>
+<translation id="2478295928299953161">tomi drīz tiks aizvērts</translation>
+<translation id="2483889755041906834">Pārlūkā tomi</translation>
 <translation id="2485422356828889247">Atinstalēt</translation>
 <translation id="2513154137948333830">Nepieciešama atkārtota palaišana: <ph name="INSTALL_SUCCESS" /></translation>
-<translation id="2554739539410784893">Pārlūkā Tomi tiek mēģināts aizstāt esošās paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
-<translation id="2560420686485554789">Pārlūkam Tomi ir nepieciešama piekļuve krātuvei, lai varētu lejupielādēt failus.</translation>
-<translation id="2572494885440352020">Tomi palīgs</translation>
-<translation id="2583187216237139145">Darba profila administrators var noņemt šī profila lietošanas laikā ģenerētos Tomi datus (piemēram, grāmatzīmes, vēsturi, paroles un citus iestatījumus). <ph name="LEARN_MORE" /></translation>
-<translation id="2592940277904433508">Turpināt lietot Tomi</translation>
+<translation id="2554739539410784893">Pārlūkā tomi tiek mēģināts aizstāt esošās paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
+<translation id="2560420686485554789">Pārlūkam tomi ir nepieciešama piekļuve krātuvei, lai varētu lejupielādēt failus.</translation>
+<translation id="2572494885440352020">tomi palīgs</translation>
+<translation id="2583187216237139145">Darba profila administrators var noņemt šī profila lietošanas laikā ģenerētos tomi datus (piemēram, grāmatzīmes, vēsturi, paroles un citus iestatījumus). <ph name="LEARN_MORE" /></translation>
+<translation id="2592940277904433508">Turpināt lietot tomi</translation>
 <translation id="259935314519650377">Lejupielādēto instalēšanas programmu neizdevās saglabāt kešatmiņā. Kļūda: <ph name="UNPACK_CACHING_ERROR_CODE" />.</translation>
-<translation id="264613044588233783">Tomi darbojas ātrāk, un funkcijas, kurās tiek izmantota valoda JavaScript, darbojas paredzētajā veidā (ieteicams)</translation>
-<translation id="2648074677641340862">Instalācijas laikā radās operētājsistēmas kļūda. Lejupielādējiet Tomi vēlreiz.</translation>
-<translation id="2661879430930417727">Ja ierīci izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku Tomi atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos profilos.</translation>
-<translation id="268602741124540128">Laipni lūdzam pārlūkā Tomi, <ph name="ACCOUNT_FIRST_NAME" />!</translation>
-<translation id="2711502716910134313">Tomi cilne</translation>
-<translation id="2718390899429598676">Papildu drošības nolūkos Tomi šifrēs jūsu datus.</translation>
+<translation id="264613044588233783">tomi darbojas ātrāk, un funkcijas, kurās tiek izmantota valoda JavaScript, darbojas paredzētajā veidā (ieteicams)</translation>
+<translation id="2648074677641340862">Instalācijas laikā radās operētājsistēmas kļūda. Lejupielādējiet tomi vēlreiz.</translation>
+<translation id="2661879430930417727">Ja ierīci izmanto arī jūsu draugi un ģimenes locekļi, viņi var iestatīt pārlūku tomi atbilstoši savām vēlmēm un pārlūkot saturu atsevišķos profilos.</translation>
+<translation id="268602741124540128">Laipni lūdzam pārlūkā tomi, <ph name="ACCOUNT_FIRST_NAME" />!</translation>
+<translation id="2711502716910134313">tomi cilne</translation>
+<translation id="2718390899429598676">Papildu drošības nolūkos tomi šifrēs jūsu datus.</translation>
 <translation id="2738871930057338499">Nevar izveidot savienojumu ar internetu. HTTP 403 — aizliegts. Lūdzu, pārbaudiet starpniekservera konfigurāciju.</translation>
 <translation id="2770231113462710648">Mainīt noklusējuma pārlūkprogrammu uz:</translation>
-<translation id="2785438272836277133">Šis paplašinājums satur ļaunprātīgu programmatūru un nav drošs. Noņemiet to no pārlūka Tomi, lai tas jūsu apmeklētajās vietnēs vairs nevarētu skatīt un mainīt jūsu datus, tostarp jūsu personas informāciju.</translation>
+<translation id="2785438272836277133">Šis paplašinājums satur ļaunprātīgu programmatūru un nav drošs. Noņemiet to no pārlūka tomi, lai tas jūsu apmeklētajās vietnēs vairs nevarētu skatīt un mainīt jūsu datus, tostarp jūsu personas informāciju.</translation>
 <translation id="2799223571221894425">Restartēt</translation>
-<translation id="2837693172913560447">Tādējādi tiks izveidots jauns Tomi profils lietotājam <ph name="USER_EMAIL_ADDRESS" />.</translation>
+<translation id="2837693172913560447">Tādējādi tiks izveidots jauns tomi profils lietotājam <ph name="USER_EMAIL_ADDRESS" />.</translation>
 <translation id="2846251086934905009">Instalēšanas kļūda: instalēšanas programma nepabeidza darbu. Instalēšana ir priekšlaikus pārtraukta.</translation>
-<translation id="2847479871509788944">Noņemšana no pārlūka Tomi...</translation>
-<translation id="2850691299438350830">Tiek nodrošināta jūsu aizsardzība pārlūkprogrammā Tomi. Šis režīms var tikt izmantots jūsu drošības uzlabošanai citās Google lietotnēs, kad esat pierakstījies.</translation>
+<translation id="2847479871509788944">Noņemšana no pārlūka tomi...</translation>
+<translation id="2850691299438350830">Tiek nodrošināta jūsu aizsardzība pārlūkprogrammā tomi. Šis režīms var tikt izmantots jūsu drošības uzlabošanai citās Google lietotnēs, kad esat pierakstījies.</translation>
 <translation id="2885378588091291677">Uzdevumu pārvaldnieks</translation>
-<translation id="2910007522516064972">Par &amp;Tomi</translation>
+<translation id="2910007522516064972">Par &amp;tomi</translation>
 <translation id="2915996080311180594">Restartēt vēlāk</translation>
 <translation id="2928420929544864228">Instalēšana pabeigta.</translation>
 <translation id="2945997411976714835">Instalēšanas kļūda: neizdevās palaist instalēšanas programmu.</translation>
-<translation id="2977470724722393594">Tomi ir atjaunināts</translation>
-<translation id="2977506796191543575">Ja kādā vietnē tiek mēģināts nozagt jūsu paroli vai ja jūs lejupielādējat kaitīgu failu, Tomi var arī nosūtīt attiecīgos URL, tostarp lapas satura fragmentus, uz funkciju Droša pārlūkošana.</translation>
-<translation id="3032706164202344641">Pārlūkprogrammā Tomi nevar pārbaudīt jūsu paroles. Vēlāk mēģiniet vēlreiz.</translation>
-<translation id="3032787606318309379">Notiek pievienošana pārlūkam Tomi...</translation>
+<translation id="2977470724722393594">tomi ir atjaunināts</translation>
+<translation id="2977506796191543575">Ja kādā vietnē tiek mēģināts nozagt jūsu paroli vai ja jūs lejupielādējat kaitīgu failu, tomi var arī nosūtīt attiecīgos URL, tostarp lapas satura fragmentus, uz funkciju Droša pārlūkošana.</translation>
+<translation id="3032706164202344641">Pārlūkprogrammā tomi nevar pārbaudīt jūsu paroles. Vēlāk mēģiniet vēlreiz.</translation>
+<translation id="3032787606318309379">Notiek pievienošana pārlūkam tomi...</translation>
 <translation id="3038232873781883849">Gaida, lai instalētu...</translation>
-<translation id="3068187312562070417">Citi Tomi profili</translation>
-<translation id="3068515742935458733">Palīdzēt uzlabot Tomi, nosūtot Google serveriem avāriju pārskatus un <ph name="UMA_LINK" /></translation>
-<translation id="3079753320517721795">{NUM_DEVICES,plural, =0{Vismaz viens Tomi paplašinājums piekļuva 1 USB ierīcei}=1{Vismaz viens Tomi paplašinājums piekļūst 1 USB ierīcei}zero{Vismaz viens Tomi paplašinājums piekļūst # USB ierīcēm}one{Vismaz viens Tomi paplašinājums piekļūst # USB ierīcei}other{Vismaz viens Tomi paplašinājums piekļūst # USB ierīcēm}}</translation>
-<translation id="3101560983689755071">Pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, Tomi automātiski katru mēnesi pakāpeniski dzēš jūsu intereses. Intereses var tikt atjaunotas, ja vien nenoņemat tās.</translation>
-<translation id="3103660991484857065">Instalēšanas programmai neizdevās atarhivēt arhīvu. Lejupielādējiet Tomi vēlreiz.</translation>
-<translation id="3130323860337406239">Pārlūkā Tomi tiek izmantots jūsu mikrofons.</translation>
-<translation id="3155163173539279776">Restartēt Tomi</translation>
+<translation id="3068187312562070417">Citi tomi profili</translation>
+<translation id="3068515742935458733">Palīdzēt uzlabot tomi, nosūtot Google serveriem avāriju pārskatus un <ph name="UMA_LINK" /></translation>
+<translation id="3079753320517721795">{NUM_DEVICES,plural, =0{Vismaz viens tomi paplašinājums piekļuva 1 USB ierīcei}=1{Vismaz viens tomi paplašinājums piekļūst 1 USB ierīcei}zero{Vismaz viens tomi paplašinājums piekļūst # USB ierīcēm}one{Vismaz viens tomi paplašinājums piekļūst # USB ierīcei}other{Vismaz viens tomi paplašinājums piekļūst # USB ierīcēm}}</translation>
+<translation id="3101560983689755071">Pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, tomi automātiski katru mēnesi pakāpeniski dzēš jūsu intereses. Intereses var tikt atjaunotas, ja vien nenoņemat tās.</translation>
+<translation id="3103660991484857065">Instalēšanas programmai neizdevās atarhivēt arhīvu. Lejupielādējiet tomi vēlreiz.</translation>
+<translation id="3130323860337406239">Pārlūkā tomi tiek izmantots jūsu mikrofons.</translation>
+<translation id="3155163173539279776">Restartēt tomi</translation>
 <translation id="3179665906251668410">Atvērt saiti inko&amp;gnito režīma logā</translation>
-<translation id="3185330573522821672">Pielāgojiet savu jauno Tomi profilu.</translation>
-<translation id="3190315855212034486">Eh! Tomi ir avarējis. Vai restartēt to tūlīt?</translation>
-<translation id="3258596308407688501">Tomi nevar nolasīt savu datu direktoriju un ierakstīt tajā:
+<translation id="3185330573522821672">Pielāgojiet savu jauno tomi profilu.</translation>
+<translation id="3190315855212034486">Eh! tomi ir avarējis. Vai restartēt to tūlīt?</translation>
+<translation id="3258596308407688501">tomi nevar nolasīt savu datu direktoriju un ierakstīt tajā:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
-<translation id="3268051428841342958">V8 ir Tomi JavaScript un WebAssembly programma, kas tiek izmantota vietnes veiktspējas uzlabošanai</translation>
-<translation id="3283186697780795848">Ir instalēta Tomi versija <ph name="PRODUCT_VERSION" /></translation>
+<translation id="3268051428841342958">V8 ir tomi JavaScript un WebAssembly programma, kas tiek izmantota vietnes veiktspējas uzlabošanai</translation>
+<translation id="3283186697780795848">Ir instalēta tomi versija <ph name="PRODUCT_VERSION" /></translation>
 <translation id="3286538390144397061">Restartēt tūlīt</translation>
-<translation id="328888136576916638">Trūkst Google API atslēgu. Tiks atspējotas dažas Tomi funkcijas.</translation>
-<translation id="3296368748942286671">Turpināt lietotņu izpildi fonā, kad Tomi ir aizvērts</translation>
-<translation id="3313189106987092621">Pārlūkā Tomi tiks parādīts brīdinājums pirms jebkuras vietnes ielādes, izmantojot nedrošu savienojumu.</translation>
-<translation id="3350761136195634146">Tomi profils ar šādu kontu jau pastāv</translation>
-<translation id="3387527074123400161">Tomi OS</translation>
-<translation id="3406848076815591792">Vai pāriet uz esošo Tomi profilu?</translation>
+<translation id="328888136576916638">Trūkst Google API atslēgu. Tiks atspējotas dažas tomi funkcijas.</translation>
+<translation id="3296368748942286671">Turpināt lietotņu izpildi fonā, kad tomi ir aizvērts</translation>
+<translation id="3313189106987092621">Pārlūkā tomi tiks parādīts brīdinājums pirms jebkuras vietnes ielādes, izmantojot nedrošu savienojumu.</translation>
+<translation id="3350761136195634146">tomi profils ar šādu kontu jau pastāv</translation>
+<translation id="3387527074123400161">tomi OS</translation>
+<translation id="3406848076815591792">Vai pāriet uz esošo tomi profilu?</translation>
 <translation id="3412460710772753638">Tā tiks atjaunināta Paroļu pārvaldniekā šajā ierīcē</translation>
-<translation id="3430503420100763906">Izmantojot Tomi profilus, varat nodalīt visu savu Tomi saturu. Izveidojiet profilus draugiem un ģimenes locekļiem vai nodaliet darba un izklaides saturu.</translation>
-<translation id="347328004046849135">Ja pierakstīsieties ar uzlauztu paroli, pārlūkprogrammā Tomi tiks parādīts paziņojums</translation>
-<translation id="3474745554856756813">Veicot šo darbību, no šīs ierīces tiks dzēsts(-i) <ph name="ITEMS_COUNT" /> vienums(-i). Lai vēlāk izgūtu datus, pierakstieties pārlūkā Tomi kā <ph name="USER_EMAIL" />.</translation>
-<translation id="3497319089134299931">Lai pārslēgtos starp Tomi profiliem, izmantojiet īsinājumtaustiņu <ph name="SHORTCUT" />.</translation>
-<translation id="3509308970982693815">Aizveriet visus Tomi logus un mēģiniet vēlreiz.</translation>
-<translation id="3533435340678213462">Lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Varat arī noņemt intereses, ja nevēlaties, lai Tomi tās apsvērtu.</translation>
-<translation id="3567254597502212821">Jūsu pārlūkošanas vēsture, kurā tiek reģistrētas vietnes, ko šajā ierīcē apmeklējat ar pārlūku Tomi.</translation>
-<translation id="3593091352817399191">Jūs jau esat pierakstījies citā kontā. Lai atdalītu pārlūkošanu, pārlūkā Tomi varat sev izveidot atsevišķu profilu.</translation>
-<translation id="3639635944603682591">Šī lietotāja pārlūkošanas dati tiks dzēsti no šīs ierīces. Lai atkoptu datus, pierakstieties pārlūkprogrammā Tomi kā lietotājs <ph name="USER_EMAIL" />.</translation>
-<translation id="364817392622123556">{COUNT,plural, =0{Pieejams Tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku.}=1{Pieejams Tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Pieejams Tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Pieejams Tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Pieejams Tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
-<translation id="3651803019964686660">Lai nosūtītu numuru no vietnes <ph name="ORIGIN" /> uz savu Android tālruni, abās ierīcēs pierakstieties pārlūkā Tomi.</translation>
+<translation id="3430503420100763906">Izmantojot tomi profilus, varat nodalīt visu savu tomi saturu. Izveidojiet profilus draugiem un ģimenes locekļiem vai nodaliet darba un izklaides saturu.</translation>
+<translation id="347328004046849135">Ja pierakstīsieties ar uzlauztu paroli, pārlūkprogrammā tomi tiks parādīts paziņojums</translation>
+<translation id="3474745554856756813">Veicot šo darbību, no šīs ierīces tiks dzēsts(-i) <ph name="ITEMS_COUNT" /> vienums(-i). Lai vēlāk izgūtu datus, pierakstieties pārlūkā tomi kā <ph name="USER_EMAIL" />.</translation>
+<translation id="3497319089134299931">Lai pārslēgtos starp tomi profiliem, izmantojiet īsinājumtaustiņu <ph name="SHORTCUT" />.</translation>
+<translation id="3509308970982693815">Aizveriet visus tomi logus un mēģiniet vēlreiz.</translation>
+<translation id="3533435340678213462">Lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Varat arī noņemt intereses, ja nevēlaties, lai tomi tās apsvērtu.</translation>
+<translation id="3567254597502212821">Jūsu pārlūkošanas vēsture, kurā tiek reģistrētas vietnes, ko šajā ierīcē apmeklējat ar pārlūku tomi.</translation>
+<translation id="3593091352817399191">Jūs jau esat pierakstījies citā kontā. Lai atdalītu pārlūkošanu, pārlūkā tomi varat sev izveidot atsevišķu profilu.</translation>
+<translation id="3639635944603682591">Šī lietotāja pārlūkošanas dati tiks dzēsti no šīs ierīces. Lai atkoptu datus, pierakstieties pārlūkprogrammā tomi kā lietotājs <ph name="USER_EMAIL" />.</translation>
+<translation id="364817392622123556">{COUNT,plural, =0{Pieejams tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku.}=1{Pieejams tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Pieejams tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Pieejams tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Pieejams tomi atjauninājums, un tas tiks lietots, tiklīdz restartēsiet pārlūku. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
+<translation id="3651803019964686660">Lai nosūtītu numuru no vietnes <ph name="ORIGIN" /> uz savu Android tālruni, abās ierīcēs pierakstieties pārlūkā tomi.</translation>
 <translation id="3667616615096815454">Nevar instalēt. Lietojumprogramma serverim nav zināma.</translation>
-<translation id="3685209450716071127">Pārlūkprogrammā Tomi nevar pārbaudīt jūsu paroles. Pārbaudiet interneta savienojumu.</translation>
-<translation id="3702352323269013324">Uzziniet vairāk par reklāmu personalizēšanu pārlūkā Tomi</translation>
-<translation id="370962675267501463">{COUNT,plural, =0{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Tomi.}=1{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Tomi. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Tomi. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Tomi. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku Tomi. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
-<translation id="3713809861844741608">Atvērt saiti jaunā Tomi &amp;cilnē</translation>
-<translation id="3788675262216168505">Pārvaldīt Tomi profilus</translation>
-<translation id="378917192836375108">Tomi ļauj jums noklikšķināt uz tālruņa numura un zvanīt uz to pakalpojumā Skype!</translation>
-<translation id="3790262771324122253">Uzziniet, kāpēc Tomi bloķē noteiktas lejupielādes</translation>
-<translation id="379589255253486813">Ja kaut kas būs jāpārskata, saņemsiet Tomi paziņojumu</translation>
-<translation id="3802055581630249637">Pārlūkā Tomi tiek iepriekš ielādētas lapas, ko jūs, iespējams, apmeklēsiet. Tādējādi var tās ielādēt ātrāk tad, kad tās tiešām apmeklējat.</translation>
-<translation id="3830894615770080216">Tomi OS sistēma</translation>
-<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> — Tomi</translation>
-<translation id="386822487697155367">Saņemt palīdzību saistībā ar Tomi OS</translation>
-<translation id="3871664619793219264">Piekļūstiet savam Tomi saturam no konta <ph name="ACCOUNT_EMAIL" /></translation>
-<translation id="388648406173476553">Pielāgojiet un kontrolējiet pārlūkprogrammu Tomi. Ir nepieciešama jūsu uzmanība. Noklikšķiniet, lai skatītu plašāku informāciju.</translation>
-<translation id="3889543394854987837">Noklikšķiniet uz sava vārda, lai atvērtu Tomi un sāktu pārlūkošanu.</translation>
-<translation id="390528597099634151">Lietotājs <ph name="EXISTING_USER" /> jau ir pierakstījies šajā Tomi profilā. Lai atdalītu pārlūkošanu, pārlūkā Tomi varat sev izveidot atsevišķu profilu.</translation>
-<translation id="3909353120217047026">Šis paplašinājums pārkāpj Tomi interneta veikala politiku, un, iespējams, tas nav drošs. Noņemiet to no pārlūka Tomi, lai tas jūsu apmeklētajās vietnēs vairs nevarētu skatīt un mainīt jūsu datus, tostarp jūsu personas informāciju.</translation>
-<translation id="391789666908693569">Jūsu kontu pārvalda <ph name="MANAGER_NAME" />. Administrators var skatīt un rediģēt šo Tomi profilu un tā datus, piemēram, grāmatzīmes, vēsturi un paroles.</translation>
+<translation id="3685209450716071127">Pārlūkprogrammā tomi nevar pārbaudīt jūsu paroles. Pārbaudiet interneta savienojumu.</translation>
+<translation id="3702352323269013324">Uzziniet vairāk par reklāmu personalizēšanu pārlūkā tomi</translation>
+<translation id="370962675267501463">{COUNT,plural, =0{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku tomi.}=1{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku tomi. Jūsu inkognito režīma logs netiks atkārtoti atvērts.}zero{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku tomi. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}one{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku tomi. # jūsu inkognito režīma logs netiks atkārtoti atvērts.}other{Lai lietotu šo atjauninājumu, administrators lūdz restartēt pārlūku tomi. # jūsu inkognito režīma logi netiks atkārtoti atvērti.}}</translation>
+<translation id="3713809861844741608">Atvērt saiti jaunā tomi &amp;cilnē</translation>
+<translation id="3788675262216168505">Pārvaldīt tomi profilus</translation>
+<translation id="378917192836375108">tomi ļauj jums noklikšķināt uz tālruņa numura un zvanīt uz to pakalpojumā Skype!</translation>
+<translation id="3790262771324122253">Uzziniet, kāpēc tomi bloķē noteiktas lejupielādes</translation>
+<translation id="379589255253486813">Ja kaut kas būs jāpārskata, saņemsiet tomi paziņojumu</translation>
+<translation id="3802055581630249637">Pārlūkā tomi tiek iepriekš ielādētas lapas, ko jūs, iespējams, apmeklēsiet. Tādējādi var tās ielādēt ātrāk tad, kad tās tiešām apmeklējat.</translation>
+<translation id="3830894615770080216">tomi OS sistēma</translation>
+<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> — tomi</translation>
+<translation id="386822487697155367">Saņemt palīdzību saistībā ar tomi OS</translation>
+<translation id="3871664619793219264">Piekļūstiet savam tomi saturam no konta <ph name="ACCOUNT_EMAIL" /></translation>
+<translation id="388648406173476553">Pielāgojiet un kontrolējiet pārlūkprogrammu tomi. Ir nepieciešama jūsu uzmanība. Noklikšķiniet, lai skatītu plašāku informāciju.</translation>
+<translation id="3889543394854987837">Noklikšķiniet uz sava vārda, lai atvērtu tomi un sāktu pārlūkošanu.</translation>
+<translation id="390528597099634151">Lietotājs <ph name="EXISTING_USER" /> jau ir pierakstījies šajā tomi profilā. Lai atdalītu pārlūkošanu, pārlūkā tomi varat sev izveidot atsevišķu profilu.</translation>
+<translation id="3909353120217047026">Šis paplašinājums pārkāpj tomi interneta veikala politiku, un, iespējams, tas nav drošs. Noņemiet to no pārlūka tomi, lai tas jūsu apmeklētajās vietnēs vairs nevarētu skatīt un mainīt jūsu datus, tostarp jūsu personas informāciju.</translation>
+<translation id="391789666908693569">Jūsu kontu pārvalda <ph name="MANAGER_NAME" />. Administrators var skatīt un rediģēt šo tomi profilu un tā datus, piemēram, grāmatzīmes, vēsturi un paroles.</translation>
 <translation id="3941890832296813527">Instalēšanas kļūda: instalēšanas programmas faila nosaukums nav derīgs vai netiek atbalstīts.</translation>
-<translation id="3945058413678539331">Tomi mēģina nokopēt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
-<translation id="3962647064319009959">Uzziniet, kā Tomi rūpējas par jūsu drošību</translation>
-<translation id="3975724895399328945">Par Tomi for Testing</translation>
-<translation id="3997429360543082038">Par Tomi OS</translation>
-<translation id="4019629340646866719">Tomi OS, kā arī <ph name="BEGIN_LINK_LINUX_OSS" />Linux izstrādes vides<ph name="END_LINK_LINUX_OSS" /> darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="4036079820698952681">Palīdziet uzlabot pārlūku Tomi, ziņojot par <ph name="BEGIN_LINK" />pašreizējiem iestatījumiem<ph name="END_LINK" />.</translation>
+<translation id="3945058413678539331">tomi mēģina nokopēt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
+<translation id="3962647064319009959">Uzziniet, kā tomi rūpējas par jūsu drošību</translation>
+<translation id="3975724895399328945">Par tomi for Testing</translation>
+<translation id="3997429360543082038">Par tomi OS</translation>
+<translation id="4019629340646866719">tomi OS, kā arī <ph name="BEGIN_LINK_LINUX_OSS" />Linux izstrādes vides<ph name="END_LINK_LINUX_OSS" /> darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="4036079820698952681">Palīdziet uzlabot pārlūku tomi, ziņojot par <ph name="BEGIN_LINK" />pašreizējiem iestatījumiem<ph name="END_LINK" />.</translation>
 <translation id="4050175100176540509">Jaunākajā versijā ir pieejami svarīgi drošības uzlabojumi un jaunas funkcijas.</translation>
 <translation id="4055805654398742145">P&amp;aroļu pārvaldnieks</translation>
-<translation id="4095980151185649725">{COUNT,plural, =1{Jūsu organizācija automātiski aizver pārlūku Tomi, ja tas nav izmantots vienu minūti. Pārlūkošanas dati tiek izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.}zero{Jūsu organizācija automātiski aizver pārlūku Tomi, ja tas nav izmantots # minūtes. Pārlūkošanas dati tiek izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.}one{Jūsu organizācija automātiski aizver pārlūku Tomi, ja tas nav izmantots # minūti. Pārlūkošanas dati tiek izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.}other{Jūsu organizācija automātiski aizver pārlūku Tomi, ja tas nav izmantots # minūtes. Pārlūkošanas dati tiek izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.}}</translation>
-<translation id="4118474109249235144">Tomi inkognito režīms</translation>
+<translation id="4095980151185649725">{COUNT,plural, =1{Jūsu organizācija automātiski aizver pārlūku tomi, ja tas nav izmantots vienu minūti. Pārlūkošanas dati tiek izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.}zero{Jūsu organizācija automātiski aizver pārlūku tomi, ja tas nav izmantots # minūtes. Pārlūkošanas dati tiek izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.}one{Jūsu organizācija automātiski aizver pārlūku tomi, ja tas nav izmantots # minūti. Pārlūkošanas dati tiek izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.}other{Jūsu organizācija automātiski aizver pārlūku tomi, ja tas nav izmantots # minūtes. Pārlūkošanas dati tiek izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.}}</translation>
+<translation id="4118474109249235144">tomi inkognito režīms</translation>
 <translation id="4148957013307229264">Notiek instalēšana...</translation>
-<translation id="419998258129752635"><ph name="PAGE_TITLE" /> — pierakstīšanās tīklā — Tomi</translation>
-<translation id="421369550622382712">Atklājiet lieliskas lietotnes, spēles, paplašinājumus un motīvus, ko varat izmantot pārlūkā Tomi.</translation>
-<translation id="4216212958613226427">Šī valoda tiek izmantota, lai attēlotu Tomi lietotāja saskarni</translation>
+<translation id="419998258129752635"><ph name="PAGE_TITLE" /> — pierakstīšanās tīklā — tomi</translation>
+<translation id="421369550622382712">Atklājiet lieliskas lietotnes, spēles, paplašinājumus un motīvus, ko varat izmantot pārlūkā tomi.</translation>
+<translation id="4216212958613226427">Šī valoda tiek izmantota, lai attēlotu tomi lietotāja saskarni</translation>
 <translation id="4222932583846282852">Notiek atcelšana...</translation>
-<translation id="4230135487732243613">Vai saistīt Tomi datus ar šo kontu?</translation>
-<translation id="4251772536351901305">Tiek rādīts brīdinājums par bīstamām vietnēm (pat ja Google par tām iepriekš nezināja), analizējot vairāk datu no vietnēm, nekā analizē standarta aizsardzība. Varat izlaist Tomi brīdinājumus.</translation>
-<translation id="4271805377592243930">Saņemt palīdzību par Tomi</translation>
+<translation id="4230135487732243613">Vai saistīt tomi datus ar šo kontu?</translation>
+<translation id="4251772536351901305">Tiek rādīts brīdinājums par bīstamām vietnēm (pat ja Google par tām iepriekš nezināja), analizējot vairāk datu no vietnēm, nekā analizē standarta aizsardzība. Varat izlaist tomi brīdinājumus.</translation>
+<translation id="4271805377592243930">Saņemt palīdzību par tomi</translation>
 <translation id="4281844954008187215">Google pakalpojumu noteikumi</translation>
-<translation id="4285930937574705105">Instalācija neizdevās nenoteiktas kļūdas dēļ. Ja Tomi šobrīd darbojas, aizveriet to un mēģiniet vēlreiz.</translation>
+<translation id="4285930937574705105">Instalācija neizdevās nenoteiktas kļūdas dēļ. Ja tomi šobrīd darbojas, aizveriet to un mēģiniet vēlreiz.</translation>
 <translation id="4304713468139749426">Paroļu pārvaldnieks</translation>
 <translation id="4334294535648607276">Lejupielāde pabeigta.</translation>
-<translation id="439358628917130594"><ph name="MANAGER" /> pieprasa, lai pirms šīs ierīces lietošanas jūs izlasītu tālāk sniegtos pakalpojumu sniegšanas noteikumus un piekristu tiem. Šie noteikumi nepaplašina, nepārveido un neierobežo operētājsistēmas Tomi OS noteikumus.</translation>
-<translation id="4407044323746248786">Vai tik un tā aizvērt pārlūku Tomi?</translation>
-<translation id="4415566066719264597">Ļaut pārlūkam Tomi darboties fonā</translation>
-<translation id="4423735387467980091">Pielāgot un kontrolēt Tomi</translation>
+<translation id="439358628917130594"><ph name="MANAGER" /> pieprasa, lai pirms šīs ierīces lietošanas jūs izlasītu tālāk sniegtos pakalpojumu sniegšanas noteikumus un piekristu tiem. Šie noteikumi nepaplašina, nepārveido un neierobežo operētājsistēmas tomi OS noteikumus.</translation>
+<translation id="4407044323746248786">Vai tik un tā aizvērt pārlūku tomi?</translation>
+<translation id="4415566066719264597">Ļaut pārlūkam tomi darboties fonā</translation>
+<translation id="4423735387467980091">Pielāgot un kontrolēt tomi</translation>
 <translation id="4427306783828095590">Uzlabotā aizsardzība labāk bloķē pikšķerēšanas mēģinājumus un ļaunprātīgu programmatūru</translation>
-<translation id="4447409407328223819">Par Tomi for Testing</translation>
+<translation id="4447409407328223819">Par tomi for Testing</translation>
 <translation id="4501471624619070934">Instalēšana neizdevās, jo šajā valstī piekļuve ir ierobežota.</translation>
-<translation id="452711251841752011">Laipni lūdzam pārlūkā Tomi (tika atvērts jauns pārlūka logs)!</translation>
-<translation id="4544142686420020088">Pārlūkprogramma Tomi netika atjaunināta. Radās problēma. <ph name="BEGIN_LINK" />Novērsiet Tomi atjaunināšanas problēmas.<ph name="END_LINK" /></translation>
-<translation id="454579500955453258">Vai turpināt jaunā Tomi profilā?</translation>
+<translation id="452711251841752011">Laipni lūdzam pārlūkā tomi (tika atvērts jauns pārlūka logs)!</translation>
+<translation id="4544142686420020088">Pārlūkprogramma tomi netika atjaunināta. Radās problēma. <ph name="BEGIN_LINK" />Novērsiet tomi atjaunināšanas problēmas.<ph name="END_LINK" /></translation>
+<translation id="454579500955453258">Vai turpināt jaunā tomi profilā?</translation>
 <translation id="4567424176335768812">Jūs esat pierakstījies kā <ph name="USER_EMAIL_ADDRESS" />. Tagad varat piekļūt savām grāmatzīmēm, vēsturei un citiem iestatījumiem visās ierīcēs, kurās esat pierakstījies.</translation>
-<translation id="4570813286784708942">Pārlūkā Tomi šī lejupielāde tika bloķēta, jo jūs izslēdzāt drošu pārlūkošanu un failu nevar verificēt.</translation>
+<translation id="4570813286784708942">Pārlūkā tomi šī lejupielāde tika bloķēta, jo jūs izslēdzāt drošu pārlūkošanu un failu nevar verificēt.</translation>
 <translation id="4594305310729380060">Tā tiks saglabāta Paroļu pārvaldniekā šajā ierīcē</translation>
-<translation id="459535195905078186">Tomi lietotnes</translation>
-<translation id="4613863813562375431">Tomi OS versija</translation>
-<translation id="4621240073146040695">Atjaunināšana ir gandrīz pabeigta. Lai pabeigtu atjaunināšanu, atkārtoti palaidiet pārlūku Tomi.</translation>
-<translation id="4665829708273112819">Brīdinājums! Tomi nevar novērst to, ka paplašinājumi ieraksta jūsu pārlūkošanas vēsturi. Lai atspējotu šo paplašinājumu inkognito režīmā, noņemiet šīs opcijas atlasi.</translation>
-<translation id="4673151026126227699">Ja kopīgojat arī Tomi lietojuma pārskatus, šajos pārskatos tiek iekļauti jūsu apmeklētie vietrāži URL.</translation>
-<translation id="4677944499843243528">Šķiet, ka profils tiek izmantots citā Tomi procesā (<ph name="PROCESS_ID" />) citā datorā (<ph name="HOST_NAME" />). Lai profils netiktu bojāts, pārlūkā Tomi tas ir bloķēts. Ja esat pārliecināts, ka šis profils netiek izmantots citos procesos, varat to atbloķēt un restartēt pārlūku Tomi.</translation>
+<translation id="459535195905078186">tomi lietotnes</translation>
+<translation id="4613863813562375431">tomi OS versija</translation>
+<translation id="4621240073146040695">Atjaunināšana ir gandrīz pabeigta. Lai pabeigtu atjaunināšanu, atkārtoti palaidiet pārlūku tomi.</translation>
+<translation id="4665829708273112819">Brīdinājums! tomi nevar novērst to, ka paplašinājumi ieraksta jūsu pārlūkošanas vēsturi. Lai atspējotu šo paplašinājumu inkognito režīmā, noņemiet šīs opcijas atlasi.</translation>
+<translation id="4673151026126227699">Ja kopīgojat arī tomi lietojuma pārskatus, šajos pārskatos tiek iekļauti jūsu apmeklētie vietrāži URL.</translation>
+<translation id="4677944499843243528">Šķiet, ka profils tiek izmantots citā tomi procesā (<ph name="PROCESS_ID" />) citā datorā (<ph name="HOST_NAME" />). Lai profils netiktu bojāts, pārlūkā tomi tas ir bloķēts. Ja esat pārliecināts, ka šis profils netiek izmantots citos procesos, varat to atbloķēt un restartēt pārlūku tomi.</translation>
 <translation id="4680828127924988555">Atcelt instalēšanu</translation>
-<translation id="4708774505295300557">Kāds iepriekš pierakstījās pārlūkā Tomi šajā datorā, izmantojot e-pasta adresi <ph name="ACCOUNT_EMAIL_LAST" />. Lūdzu, izveidojiet jaunu Tomi lietotāju, lai nošķirtu savu informāciju.</translation>
+<translation id="4708774505295300557">Kāds iepriekš pierakstījās pārlūkā tomi šajā datorā, izmantojot e-pasta adresi <ph name="ACCOUNT_EMAIL_LAST" />. Lūdzu, izveidojiet jaunu tomi lietotāju, lai nošķirtu savu informāciju.</translation>
 <translation id="4724676981607797757">Instalēšana neizdevās, jo radās neatbalstīta protokola kļūda.</translation>
-<translation id="4746050847053251315">Vai tik un tā aizvērt pārlūku Tomi?</translation>
-<translation id="4748217263233248895">Tikko tika piemērots īpašs Tomi drošības atjauninājums. Restartējiet tūlīt, un mēs atjaunosim jūsu cilnes.</translation>
-<translation id="4765210420921718862">Ja pārdomāsiet, jebkurā laikā varēsiet atbilstoši mainīt Tomi iestatījumus. Izmēģinājuma laikā reklāmu rādīšanai tiek izmantotas arī pašreizējās metodes, tāpēc izmaiņas nebūs pamanāmas uzreiz.</translation>
-<translation id="4788777615168560705">Pārlūkprogrammā Tomi nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām vai <ph name="BEGIN_LINK" />pārbaudiet paroles savā Google kontā<ph name="END_LINK" />.</translation>
+<translation id="4746050847053251315">Vai tik un tā aizvērt pārlūku tomi?</translation>
+<translation id="4748217263233248895">Tikko tika piemērots īpašs tomi drošības atjauninājums. Restartējiet tūlīt, un mēs atjaunosim jūsu cilnes.</translation>
+<translation id="4765210420921718862">Ja pārdomāsiet, jebkurā laikā varēsiet atbilstoši mainīt tomi iestatījumus. Izmēģinājuma laikā reklāmu rādīšanai tiek izmantotas arī pašreizējās metodes, tāpēc izmaiņas nebūs pamanāmas uzreiz.</translation>
+<translation id="4788777615168560705">Pārlūkprogrammā tomi nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām vai <ph name="BEGIN_LINK" />pārbaudiet paroles savā Google kontā<ph name="END_LINK" />.</translation>
 <translation id="479167709087336770">Šeit tiek izmantota tāds pats pareizrakstības pārbaudītājs, kāds tiek izmantots Google meklēšanā. Pārlūkprogrammā ievadītais teksts tiek nosūtīts Google serveriem. Jebkurā brīdī varat mainīt šo darbību iestatījumos.</translation>
-<translation id="4814736265800133385">Izmantot Tomi, nepierakstoties kontā</translation>
-<translation id="4888717733111232871">Ienākošo savienojumu kārtula pārlūkam Tomi, lai atļautu mDNS datplūsmu.</translation>
-<translation id="4893347770495441059">Atkārtoti palaist, lai atjauninātu &amp;Tomi</translation>
-<translation id="4942295735032723435">Lai saņemtu turpmākus Tomi atjauninājumus, nepieciešama operētājsistēma macOS 11 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma macOS 10.15.</translation>
-<translation id="4943838377383847465">Tomi darbojas fona režīmā.</translation>
-<translation id="4987820182225656817">Viesi var izmantot Tomi, neatstājot nekādas pēdas.</translation>
-<translation id="4994636714258228724">Pievienot savu kontu pārlūkā Tomi</translation>
-<translation id="5114678101347489141">Tomi pēta jaunas funkcijas, kas ļauj vietnēm nodrošināt tādas pašas pārlūkošanas iespējas, izmantojot mazāk informācijas.</translation>
-<translation id="5224391634244552924">Nav saglabātu paroļu. Pārlūkprogrammā Tomi var pārbaudīt jūsu paroles, ja jūs tās saglabājat.</translation>
-<translation id="5252179775517634216">Lietotājs <ph name="EXISTING_USER" /> jau ir pierakstījies šajā Tomi profilā. Tādējādi tiks izveidots jauns Tomi profils lietotājam <ph name="USER_EMAIL_ADDRESS" />.</translation>
-<translation id="5277894862589591112">Lai ieviestu veiktās izmaiņas, atkārtoti palaidiet pārlūku Tomi.</translation>
-<translation id="5294316920224716406">Ja veicat pārlūkošanu inkognito režīmā, pārlūkā Tomi tiks parādīts brīdinājums pirms vietnes ielādes, izmantojot nedrošu savienojumu.</translation>
-<translation id="5296845517486664001">Ja izmēģināšana ir ieslēgta un jūs esat iesaistīts aktīvā izmēģinājumā pārlūkā Tomi, jūsu pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, Tomi katru mēnesi pakāpeniski dzēš jūsu intereses.</translation>
-<translation id="5352264705793813212">Pārlūkā Tomi tika atrasti daži drošības ieteikumi par jūsu atsauksmi</translation>
-<translation id="5352361688875342522">Citi Tomi profili</translation>
-<translation id="5358375970380395591">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu Tomi dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. <ph name="LEARN_MORE" /></translation>
+<translation id="4814736265800133385">Izmantot tomi, nepierakstoties kontā</translation>
+<translation id="4888717733111232871">Ienākošo savienojumu kārtula pārlūkam tomi, lai atļautu mDNS datplūsmu.</translation>
+<translation id="4893347770495441059">Atkārtoti palaist, lai atjauninātu &amp;tomi</translation>
+<translation id="4942295735032723435">Lai saņemtu turpmākus tomi atjauninājumus, nepieciešama operētājsistēma macOS 11 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma macOS 10.15.</translation>
+<translation id="4943838377383847465">tomi darbojas fona režīmā.</translation>
+<translation id="4987820182225656817">Viesi var izmantot tomi, neatstājot nekādas pēdas.</translation>
+<translation id="4994636714258228724">Pievienot savu kontu pārlūkā tomi</translation>
+<translation id="5114678101347489141">tomi pēta jaunas funkcijas, kas ļauj vietnēm nodrošināt tādas pašas pārlūkošanas iespējas, izmantojot mazāk informācijas.</translation>
+<translation id="5224391634244552924">Nav saglabātu paroļu. Pārlūkprogrammā tomi var pārbaudīt jūsu paroles, ja jūs tās saglabājat.</translation>
+<translation id="5252179775517634216">Lietotājs <ph name="EXISTING_USER" /> jau ir pierakstījies šajā tomi profilā. Tādējādi tiks izveidots jauns tomi profils lietotājam <ph name="USER_EMAIL_ADDRESS" />.</translation>
+<translation id="5277894862589591112">Lai ieviestu veiktās izmaiņas, atkārtoti palaidiet pārlūku tomi.</translation>
+<translation id="5294316920224716406">Ja veicat pārlūkošanu inkognito režīmā, pārlūkā tomi tiks parādīts brīdinājums pirms vietnes ielādes, izmantojot nedrošu savienojumu.</translation>
+<translation id="5296845517486664001">Ja izmēģināšana ir ieslēgta un jūs esat iesaistīts aktīvā izmēģinājumā pārlūkā tomi, jūsu pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, tomi katru mēnesi pakāpeniski dzēš jūsu intereses.</translation>
+<translation id="5352264705793813212">Pārlūkā tomi tika atrasti daži drošības ieteikumi par jūsu atsauksmi</translation>
+<translation id="5352361688875342522">Citi tomi profili</translation>
+<translation id="5358375970380395591">Jūs pierakstāties ar pārvaldītu kontu, kura administrators var kontrolēt jūsu profilu. Jūsu tomi dati, piemēram, lietotnes, grāmatzīmes, vēsture, paroles un citi iestatījumi, tiks neatgriezeniski saistīti ar lietotāju <ph name="USER_NAME" />. Varēsiet dzēst šos datus, izmantojot Google kontu informācijas paneli, taču nevarēsiet šos datus saistīt ar citu kontu. <ph name="LEARN_MORE" /></translation>
 <translation id="5368118228313795342">Papildu kods: <ph name="EXTRA_CODE" />.</translation>
-<translation id="5383439451358640070">Uzzināt, kāpēc pārlūkā Tomi daži faili tiek bloķēti</translation>
-<translation id="5386450000063123300">Notiek Tomi atjaunināšana (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="538767207339317086">Atļaut pierakstīties pārlūkā Tomi</translation>
-<translation id="5398878173008909840">Pieejama jauna Tomi versija.</translation>
-<translation id="5405650547142096840">Noņemt no pārlūka Tomi</translation>
-<translation id="5427571867875391349">Iestatīt Tomi kā noklusējuma pārlūku</translation>
-<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> — Tomi beta versija</translation>
-<translation id="5473971139929175403">Iespējams, pārlūks Tomi nedarbosies pareizi, jo tas vairs netiek atbalstīts šajā Linux izdevumā.</translation>
-<translation id="5480860683791598150">Pārlūkam Tomi ir nepieciešama piekļuve jūsu atrašanās vietas datiem, lai varētu tos kopīgot ar šo vietni.</translation>
-<translation id="5487574057737591516">Lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Ja intereses pārlūkā Tomi nav noteiktas pareizi vai nevēlaties skatīt konkrētas reklāmas, varat noņemt interesi.</translation>
-<translation id="549669000822060376">Lūdzu, uzgaidiet, kamēr Tomi instalē jaunākos sistēmas atjauninājumus.</translation>
-<translation id="5496810170689441661">Tomi mēģina rediģēt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
-<translation id="5527463683072221100">Atvērt PDF failus pārlūkā Tomi</translation>
-<translation id="5623402015214259806">{0,plural, =0{Ir pieejams Tomi atjauninājums}=1{Ir pieejams Tomi atjauninājums}zero{Tomi atjauninājums ir pieejams jau # dienu}one{Tomi atjauninājums ir pieejams jau # dienu}other{Tomi atjauninājums ir pieejams jau # dienas}}</translation>
-<translation id="5643865575100044307">Vienmēr notīrīt vietnes datus no ierīces, kad tiek aizvērts pārlūks Tomi</translation>
-<translation id="5653831366781983928">Lūdzu, nekavējoties restartējiet pārlūku Tomi</translation>
+<translation id="5383439451358640070">Uzzināt, kāpēc pārlūkā tomi daži faili tiek bloķēti</translation>
+<translation id="5386450000063123300">Notiek tomi atjaunināšana (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="538767207339317086">Atļaut pierakstīties pārlūkā tomi</translation>
+<translation id="5398878173008909840">Pieejama jauna tomi versija.</translation>
+<translation id="5405650547142096840">Noņemt no pārlūka tomi</translation>
+<translation id="5427571867875391349">Iestatīt tomi kā noklusējuma pārlūku</translation>
+<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> — tomi beta versija</translation>
+<translation id="5473971139929175403">Iespējams, pārlūks tomi nedarbosies pareizi, jo tas vairs netiek atbalstīts šajā Linux izdevumā.</translation>
+<translation id="5480860683791598150">Pārlūkam tomi ir nepieciešama piekļuve jūsu atrašanās vietas datiem, lai varētu tos kopīgot ar šo vietni.</translation>
+<translation id="5487574057737591516">Lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Ja intereses pārlūkā tomi nav noteiktas pareizi vai nevēlaties skatīt konkrētas reklāmas, varat noņemt interesi.</translation>
+<translation id="549669000822060376">Lūdzu, uzgaidiet, kamēr tomi instalē jaunākos sistēmas atjauninājumus.</translation>
+<translation id="5496810170689441661">tomi mēģina rediģēt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
+<translation id="5527463683072221100">Atvērt PDF failus pārlūkā tomi</translation>
+<translation id="5623402015214259806">{0,plural, =0{Ir pieejams tomi atjauninājums}=1{Ir pieejams tomi atjauninājums}zero{tomi atjauninājums ir pieejams jau # dienu}one{tomi atjauninājums ir pieejams jau # dienu}other{tomi atjauninājums ir pieejams jau # dienas}}</translation>
+<translation id="5643865575100044307">Vienmēr notīrīt vietnes datus no ierīces, kad tiek aizvērts pārlūks tomi</translation>
+<translation id="5653831366781983928">Lūdzu, nekavējoties restartējiet pārlūku tomi</translation>
 <translation id="5690427481109656848">Google LLC</translation>
-<translation id="5698481217667032250">Rādīt Tomi šajā valodā</translation>
+<translation id="5698481217667032250">Rādīt tomi šajā valodā</translation>
 <translation id="569897634095159764">Nevar izveidot savienojumu ar internetu. Starpniekserverī ir nepieciešama autentifikācija.</translation>
 <translation id="5809516625706423866">Nevar izveidot savienojumu ar internetu. HTTP 401 — neatļauts. Lūdzu, pārbaudiet starpniekservera konfigurāciju.</translation>
-<translation id="5862307444128926510">Laipni lūdzam pārlūkā Tomi!</translation>
-<translation id="5883558403894052917">Pārlūkā Tomi tika konstatēts, ka tālāk norādītie vienumi satur ļaunprātīgu programmatūru:</translation>
-<translation id="5889361821821684993">Tomi regulāri pārbauda, vai pārlūkā ir atlasīti visdrošākie iestatījumi. Ja kaut kas būs jāpārskata, saņemsiet paziņojumu.</translation>
+<translation id="5862307444128926510">Laipni lūdzam pārlūkā tomi!</translation>
+<translation id="5883558403894052917">Pārlūkā tomi tika konstatēts, ka tālāk norādītie vienumi satur ļaunprātīgu programmatūru:</translation>
+<translation id="5889361821821684993">tomi regulāri pārbauda, vai pārlūkā ir atlasīti visdrošākie iestatījumi. Ja kaut kas būs jāpārskata, saņemsiet paziņojumu.</translation>
 <translation id="5895138241574237353">Restartēt</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> — pierakstīšanās tīklā</translation>
 <translation id="5924017743176219022">Notiek savienojuma izveide ar internetu...</translation>
 <translation id="5941711191222866238">Minimizēt</translation>
-<translation id="5972142260211327093">Ja esat iesaistīts aktīvā izmēģinājumā pārlūkā Tomi, jūsu pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, Tomi katru mēnesi pakāpeniski dzēš jūsu intereses. Intereses tiek atjaunotas, ja vien nenoņemat tās.</translation>
-<translation id="5986585015444752010">{COUNT,plural, =1{Jūsu organizācija automātiski aizver pārlūku Tomi, ja tas nav izmantots vienu minūti.}zero{Jūsu organizācija automātiski aizver pārlūku Tomi, ja tas nav izmantots # minūtes.}one{Jūsu organizācija automātiski aizver pārlūku Tomi, ja tas nav izmantots # minūti.}other{Jūsu organizācija automātiski aizver pārlūku Tomi, ja tas nav izmantots # minūtes.}}</translation>
-<translation id="5987687638152509985">Lai sāktu sinhronizēšanu, atjauniniet Tomi.</translation>
-<translation id="5988505247484123880">Bieži vien jūsu apmeklētajās vietnēs tiek saglabāta informācija par jūs interesējošām lietām, lai personalizētu jūsu pieredzi. Vietnes var arī glabāt informāciju par jūsu interesēm pārlūkā Tomi.</translation>
+<translation id="5972142260211327093">Ja esat iesaistīts aktīvā izmēģinājumā pārlūkā tomi, jūsu pārlūkošanas vēsture ietekmē to, kādas reklāmas jums tiek rādītas, un tālāk redzamās aptuveni noteiktās intereses. Lai aizsargātu jūsu konfidencialitāti, tomi katru mēnesi pakāpeniski dzēš jūsu intereses. Intereses tiek atjaunotas, ja vien nenoņemat tās.</translation>
+<translation id="5986585015444752010">{COUNT,plural, =1{Jūsu organizācija automātiski aizver pārlūku tomi, ja tas nav izmantots vienu minūti.}zero{Jūsu organizācija automātiski aizver pārlūku tomi, ja tas nav izmantots # minūtes.}one{Jūsu organizācija automātiski aizver pārlūku tomi, ja tas nav izmantots # minūti.}other{Jūsu organizācija automātiski aizver pārlūku tomi, ja tas nav izmantots # minūtes.}}</translation>
+<translation id="5987687638152509985">Lai sāktu sinhronizēšanu, atjauniniet tomi.</translation>
+<translation id="5988505247484123880">Bieži vien jūsu apmeklētajās vietnēs tiek saglabāta informācija par jūs interesējošām lietām, lai personalizētu jūsu pieredzi. Vietnes var arī glabāt informāciju par jūsu interesēm pārlūkā tomi.</translation>
 <translation id="6003112304606738118">Notiek lejupielāde... Atlikušais laiks: <ph name="HOURS" /> stunda(-as).</translation>
 <translation id="6040143037577758943">Aizvērt</translation>
-<translation id="6055895534982063517">Ir pieejama jauna Tomi versija, un tā ir ātrāka nekā jebkad agrāk.</translation>
-<translation id="6058380562449900225">Lai aizsargātu savus datus, ļaujiet pārlūkā Tomi atsaukt atļaujas vietnēm, ko pēdējā laikā neesat apmeklējis (paziņojumi netiks bloķēti)</translation>
-<translation id="6063093106622310249">&amp;Atvērt pārlūkā Tomi</translation>
-<translation id="6072279588547424923">Paplašinājums <ph name="EXTENSION_NAME" /> ir pievienots pārlūkam Tomi</translation>
-<translation id="6072463441809498330">Pārlūka Tomi darbības paātrināšana</translation>
+<translation id="6055895534982063517">Ir pieejama jauna tomi versija, un tā ir ātrāka nekā jebkad agrāk.</translation>
+<translation id="6058380562449900225">Lai aizsargātu savus datus, ļaujiet pārlūkā tomi atsaukt atļaujas vietnēm, ko pēdējā laikā neesat apmeklējis (paziņojumi netiks bloķēti)</translation>
+<translation id="6063093106622310249">&amp;Atvērt pārlūkā tomi</translation>
+<translation id="6072279588547424923">Paplašinājums <ph name="EXTENSION_NAME" /> ir pievienots pārlūkam tomi</translation>
+<translation id="6072463441809498330">Pārlūka tomi darbības paātrināšana</translation>
 <translation id="608006075545470555">Darba profila pievienošana šai pārlūkprogrammai</translation>
-<translation id="6096348254544841612">Pielāgojiet un pārvaldiet pārlūku Tomi. Ir pieejams atjauninājums.</translation>
-<translation id="6102072151902574948">Ja šis iestatījums ir ieslēgts, pārlūkā Tomi tiek taupīta akumulatora jauda, ierobežojot darbības fonā un vizuālos efektus, piemēram, vienmērīgu ritināšanu un video kadru nomaiņas ātrumu.</translation>
-<translation id="6119438414301547735">Atļaut paplašinājumam rādīt piekļuves pieprasījumus Tomi rīkjoslā</translation>
-<translation id="6120345080069858279">Pārlūks Tomi saglabās šo paroli jūsu Google kontā. To nav nepieciešams iegaumēt.</translation>
-<translation id="6129621093834146363">Fails <ph name="FILE_NAME" /> ir bīstams, tādēļ Tomi to bloķēja.</translation>
-<translation id="6132897690380286411">Tomi drīz tiks aizvērts, un dati tiks izdzēsti</translation>
-<translation id="6134968993075716475">Droša pārlūkošana ir izslēgta. Pārlūkā Tomi tiek ieteikts to ieslēgt.</translation>
-<translation id="6144416395842701622">Pierakstieties, lai pilnvērtīgi izmantotu pārlūku Tomi</translation>
-<translation id="6145820983052037069">Šeit varat pārslēgties starp Tomi profiliem.</translation>
-<translation id="615103374448673771">Ja atļaujat sīkfailus, pārlūks Tomi var tos izmantot iepriekšējai ielādei.</translation>
-<translation id="6174920971222007286">Šis fails var būt bīstams.<ph name="LINE_BREAK" />Tomi var pārbaudīt šo lejupielādi, ja norādīsiet paroli. Informācija par failu tiek nosūtīta funkcijai “Google droša pārlūkošana”, taču faila saturs un parole paliek jūsu ierīcē.</translation>
+<translation id="6096348254544841612">Pielāgojiet un pārvaldiet pārlūku tomi. Ir pieejams atjauninājums.</translation>
+<translation id="6102072151902574948">Ja šis iestatījums ir ieslēgts, pārlūkā tomi tiek taupīta akumulatora jauda, ierobežojot darbības fonā un vizuālos efektus, piemēram, vienmērīgu ritināšanu un video kadru nomaiņas ātrumu.</translation>
+<translation id="6119438414301547735">Atļaut paplašinājumam rādīt piekļuves pieprasījumus tomi rīkjoslā</translation>
+<translation id="6120345080069858279">Pārlūks tomi saglabās šo paroli jūsu Google kontā. To nav nepieciešams iegaumēt.</translation>
+<translation id="6129621093834146363">Fails <ph name="FILE_NAME" /> ir bīstams, tādēļ tomi to bloķēja.</translation>
+<translation id="6132897690380286411">tomi drīz tiks aizvērts, un dati tiks izdzēsti</translation>
+<translation id="6134968993075716475">Droša pārlūkošana ir izslēgta. Pārlūkā tomi tiek ieteikts to ieslēgt.</translation>
+<translation id="6144416395842701622">Pierakstieties, lai pilnvērtīgi izmantotu pārlūku tomi</translation>
+<translation id="6145820983052037069">Šeit varat pārslēgties starp tomi profiliem.</translation>
+<translation id="615103374448673771">Ja atļaujat sīkfailus, pārlūks tomi var tos izmantot iepriekšējai ielādei.</translation>
+<translation id="6174920971222007286">Šis fails var būt bīstams.<ph name="LINE_BREAK" />tomi var pārbaudīt šo lejupielādi, ja norādīsiet paroli. Informācija par failu tiek nosūtīta funkcijai “Google droša pārlūkošana”, taču faila saturs un parole paliek jūsu ierīcē.</translation>
 <translation id="6182736845697986886">Instalēšana neizdevās, jo radās atjauninājumu servera iekšēja kļūda.</translation>
-<translation id="6183079672144801177">Ierīcē <ph name="TARGET_DEVICE_NAME" /> pierakstieties pārlūkā Tomi un pēc tam vēlreiz mēģiniet veikt sūtīšanu.</translation>
-<translation id="6212496753309875659">Šim datoram jau ir jaunākā Tomi versija. Ja programmatūra nedarbojas, atinstalējiet pārlūku Tomi un mēģiniet vēlreiz.</translation>
-<translation id="6219195342503754812">{0,plural, =0{Pārlūks Tomi tūlīt tiks restartēts}=1{Pārlūks Tomi pēc 1 sekundes tiks restartēts}zero{Pārlūks Tomi pēc # sekundēm tiks restartēts}one{Pārlūks Tomi pēc # sekundes tiks restartēts}other{Pārlūks Tomi pēc # sekundēm tiks restartēts}}</translation>
-<translation id="6241367896540709610">Pārlūkam Tomi ir nepieciešama atļauja piekļūt krātuvei, lai varētu lejupielādēt failus.</translation>
-<translation id="6245734527075554892">Vietrāži URL tiek pārbaudīti, salīdzinot ar nedrošo vietņu sarakstu, kas ir saglabāts pārlūkprogrammā Tomi.</translation>
-<translation id="6248213926982192922">Padarīt Tomi par noklusējuma pārlūku</translation>
-<translation id="6266342355635466082">Pārlūkprogrammā Tomi nevar pārbaudīt atjauninājumu pieejamību. Pārbaudiet interneta savienojumu.</translation>
-<translation id="6268381023930128611">Vai izrakstīties no Tomi?</translation>
+<translation id="6183079672144801177">Ierīcē <ph name="TARGET_DEVICE_NAME" /> pierakstieties pārlūkā tomi un pēc tam vēlreiz mēģiniet veikt sūtīšanu.</translation>
+<translation id="6212496753309875659">Šim datoram jau ir jaunākā tomi versija. Ja programmatūra nedarbojas, atinstalējiet pārlūku tomi un mēģiniet vēlreiz.</translation>
+<translation id="6219195342503754812">{0,plural, =0{Pārlūks tomi tūlīt tiks restartēts}=1{Pārlūks tomi pēc 1 sekundes tiks restartēts}zero{Pārlūks tomi pēc # sekundēm tiks restartēts}one{Pārlūks tomi pēc # sekundes tiks restartēts}other{Pārlūks tomi pēc # sekundēm tiks restartēts}}</translation>
+<translation id="6241367896540709610">Pārlūkam tomi ir nepieciešama atļauja piekļūt krātuvei, lai varētu lejupielādēt failus.</translation>
+<translation id="6245734527075554892">Vietrāži URL tiek pārbaudīti, salīdzinot ar nedrošo vietņu sarakstu, kas ir saglabāts pārlūkprogrammā tomi.</translation>
+<translation id="6248213926982192922">Padarīt tomi par noklusējuma pārlūku</translation>
+<translation id="6266342355635466082">Pārlūkprogrammā tomi nevar pārbaudīt atjauninājumu pieejamību. Pārbaudiet interneta savienojumu.</translation>
+<translation id="6268381023930128611">Vai izrakstīties no tomi?</translation>
 <translation id="6273793429163604305">Lūdzu, uzgaidiet...</translation>
-<translation id="6281746429495226318">Pielāgot Tomi profilu</translation>
-<translation id="6290827346642914212">Tomi profila nosaukšana</translation>
-<translation id="6295779123002464101">Fails <ph name="FILE_NAME" /> var būt bīstams, tādēļ Tomi to bloķēja.</translation>
-<translation id="6309712487085796862">Tomi saitē tiek izmantota kamera.</translation>
+<translation id="6281746429495226318">Pielāgot tomi profilu</translation>
+<translation id="6290827346642914212">tomi profila nosaukšana</translation>
+<translation id="6295779123002464101">Fails <ph name="FILE_NAME" /> var būt bīstams, tādēļ tomi to bloķēja.</translation>
+<translation id="6309712487085796862">tomi saitē tiek izmantota kamera.</translation>
 <translation id="6327105987658262776">Atjauninājums nav pieejams.</translation>
-<translation id="6333502561965082103">Tiek veikta cita darbība pārlūkā Tomi. Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
-<translation id="6334986366598267305">Tagad pārlūkā Tomi ir vieglāk izmantot Google kontu, kā arī ir atvieglota lietošana datoros, ko izmanto vairākas personas.</translation>
-<translation id="6366160072964553914">Pārlūkā Tomi šī lejupielāde tika bloķēta, jo fails parasti netiek lejupielādēts un var būt bīstams.</translation>
-<translation id="6373523479360886564">Vai tiešām vēlaties atinstalēt pārlūku Tomi?</translation>
+<translation id="6333502561965082103">Tiek veikta cita darbība pārlūkā tomi. Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
+<translation id="6334986366598267305">Tagad pārlūkā tomi ir vieglāk izmantot Google kontu, kā arī ir atvieglota lietošana datoros, ko izmanto vairākas personas.</translation>
+<translation id="6366160072964553914">Pārlūkā tomi šī lejupielāde tika bloķēta, jo fails parasti netiek lejupielādēts un var būt bīstams.</translation>
+<translation id="6373523479360886564">Vai tiešām vēlaties atinstalēt pārlūku tomi?</translation>
 <translation id="6375219077595103062">Saīsnes pievienošana paroļu pārvaldniekam</translation>
-<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Kā mēs izmantojam šos datus:<ph name="END_BOLD" /> pārlūkā Tomi var aptuveni noteikt jūsu intereses. Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam Tomi atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas.</translation>
-<translation id="6400112897226594999">Tomi logotips datora ekrānā.</translation>
-<translation id="6403826409255603130">Tomi ir tīmekļa pārlūks, kas darbina tīmekļa lapas un lietojumprogrammas zibenīgā ātrumā. Tas ir ātrs, stabils un ērti lietojams. Pārlūkojiet tīmekli vēl drošāk ar aizsardzību pret ļaunprātīgu programmatūru un pikšķerēšanu, kas iebūvēta pārlūkā Tomi.</translation>
-<translation id="6442900851116057561">Tomi OS restartēšana</translation>
-<translation id="6443470774889161065">Pārlūkā Tomi tiek iepriekš ielādēts vēl vairāk lapu, ko jūs, iespējams, apmeklēsiet. Tādējādi var tās ielādēt ātrāk tad, kad tās tiešām apmeklējat.</translation>
-<translation id="6455857529632101747">Laipni lūdzam Tomi profilos!</translation>
-<translation id="6475912303565314141">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Tomi.</translation>
+<translation id="6384011394608460044"><ph name="BEGIN_BOLD" />Kā mēs izmantojam šos datus:<ph name="END_BOLD" /> pārlūkā tomi var aptuveni noteikt jūsu intereses. Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam tomi atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas.</translation>
+<translation id="6400112897226594999">tomi logotips datora ekrānā.</translation>
+<translation id="6403826409255603130">tomi ir tīmekļa pārlūks, kas darbina tīmekļa lapas un lietojumprogrammas zibenīgā ātrumā. Tas ir ātrs, stabils un ērti lietojams. Pārlūkojiet tīmekli vēl drošāk ar aizsardzību pret ļaunprātīgu programmatūru un pikšķerēšanu, kas iebūvēta pārlūkā tomi.</translation>
+<translation id="6442900851116057561">tomi OS restartēšana</translation>
+<translation id="6443470774889161065">Pārlūkā tomi tiek iepriekš ielādēts vēl vairāk lapu, ko jūs, iespējams, apmeklēsiet. Tādējādi var tās ielādēt ātrāk tad, kad tās tiešām apmeklējat.</translation>
+<translation id="6455857529632101747">Laipni lūdzam tomi profilos!</translation>
+<translation id="6475912303565314141">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku tomi.</translation>
 <translation id="648319183876919572">Droša pārlūkošana ar papildu aizsardzību nodrošina efektīvāku aizsardzību pret bīstamām vietnēm un lejupielādēm</translation>
-<translation id="6510925080656968729">Atinstalēt Tomi</translation>
-<translation id="6539122709674868420">Jūsu organizācija aizver pārlūku Tomi, ja tas <ph name="TIMEOUT_DURATION" /> netiek izmantots. Pārlūkošanas dati tika izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.</translation>
-<translation id="6542839706527980775">Katrā profilā tiek glabāta attiecīgā Tomi profila informācija, piemēram, grāmatzīmes, vēsture, paroles un citi dati.</translation>
-<translation id="6563921047760808519">Uzziniet vairāk par to, <ph name="BEGIN_LINK" />kā pārlūkā Tomi tiek saglabāta jūsu datu konfidencialitāte<ph name="END_LINK" />.</translation>
-<translation id="656935081669708576">Varat pārslēgties, lai skatītu paroles no cita Tomi profila.</translation>
-<translation id="6570579332384693436">Lai izlabotu pareizrakstības kļūdas, Tomi nosūta teksta laukos ievadīto tekstu Google serveriem.</translation>
-<translation id="6598877126913850652">Pāriet uz Tomi paziņojumu iestatījumiem</translation>
-<translation id="6613594504749178791">Izmaiņas stāsies spēkā, kad restartēsiet Tomi.</translation>
-<translation id="665732753414869868">Pārlūkam Tomi ir nepieciešama atļauja izmantot kameru, lai varētu izveidot jūsu apkārtnes 3D karti.</translation>
-<translation id="6663852025006259149">Vietnes, visticamāk, darbosies pienācīgi, taču nesaglabās jūsu datus, kad aizvērsiet visus Tomi logus.</translation>
-<translation id="6669284030132180248">Ja saglabāsiet grāmatzīmes arī Google kontā, varēsiet izsekot produktu cenām pārlūkā Tomi un saņemt paziņojumus par cenu kritumiem.</translation>
+<translation id="6510925080656968729">Atinstalēt tomi</translation>
+<translation id="6539122709674868420">Jūsu organizācija aizver pārlūku tomi, ja tas <ph name="TIMEOUT_DURATION" /> netiek izmantots. Pārlūkošanas dati tika izdzēsti. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.</translation>
+<translation id="6542839706527980775">Katrā profilā tiek glabāta attiecīgā tomi profila informācija, piemēram, grāmatzīmes, vēsture, paroles un citi dati.</translation>
+<translation id="6563921047760808519">Uzziniet vairāk par to, <ph name="BEGIN_LINK" />kā pārlūkā tomi tiek saglabāta jūsu datu konfidencialitāte<ph name="END_LINK" />.</translation>
+<translation id="656935081669708576">Varat pārslēgties, lai skatītu paroles no cita tomi profila.</translation>
+<translation id="6570579332384693436">Lai izlabotu pareizrakstības kļūdas, tomi nosūta teksta laukos ievadīto tekstu Google serveriem.</translation>
+<translation id="6598877126913850652">Pāriet uz tomi paziņojumu iestatījumiem</translation>
+<translation id="6613594504749178791">Izmaiņas stāsies spēkā, kad restartēsiet tomi.</translation>
+<translation id="665732753414869868">Pārlūkam tomi ir nepieciešama atļauja izmantot kameru, lai varētu izveidot jūsu apkārtnes 3D karti.</translation>
+<translation id="6663852025006259149">Vietnes, visticamāk, darbosies pienācīgi, taču nesaglabās jūsu datus, kad aizvērsiet visus tomi logus.</translation>
+<translation id="6669284030132180248">Ja saglabāsiet grāmatzīmes arī Google kontā, varēsiet izsekot produktu cenām pārlūkā tomi un saņemt paziņojumus par cenu kritumiem.</translation>
 <translation id="6676384891291319759">Piekļūt internetam</translation>
-<translation id="668175097507315160">Tomi OS nevarēja sinhronizēt jūsu datus pierakstīšanās kļūdas dēļ.</translation>
-<translation id="6692797197837897398">Tomi nodrošina lielāku kontroli pār jums rādītajām reklāmām un ierobežo informāciju, ko vietnes var uzzināt par jums, kad tās rāda jums personalizētas reklāmas.</translation>
-<translation id="6709350901466051922">Pārlūkam Tomi ir nepieciešama atļauja izmantot mikrofonu šajā vietnē.</translation>
+<translation id="668175097507315160">tomi OS nevarēja sinhronizēt jūsu datus pierakstīšanās kļūdas dēļ.</translation>
+<translation id="6692797197837897398">tomi nodrošina lielāku kontroli pār jums rādītajām reklāmām un ierobežo informāciju, ko vietnes var uzzināt par jums, kad tās rāda jums personalizētas reklāmas.</translation>
+<translation id="6709350901466051922">Pārlūkam tomi ir nepieciešama atļauja izmantot mikrofonu šajā vietnē.</translation>
 <translation id="6712881677154121168">Lejupielādes kļūda: <ph name="DOWNLOAD_ERROR" />.</translation>
-<translation id="6717134281241384636">Jūsu profilu nevar izmantot, jo tas ir no jaunākas Tomi versijas.
+<translation id="6717134281241384636">Jūsu profilu nevar izmantot, jo tas ir no jaunākas tomi versijas.
 
-Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai izmantojiet jaunāku Tomi versiju.</translation>
-<translation id="6734291798041940871">Pārlūks Tomi jau ir instalēts visiem lietotājiem jūsu datorā.</translation>
-<translation id="673636774878526923">Lai piekļūtu savam Tomi saturam visās jūsu ierīcēs, pierakstieties un pēc tam ieslēdziet sinhronizāciju.</translation>
-<translation id="67706546131546258">Tomi iesaka pārbaudīt šo failu, jo tas var būt bīstams.</translation>
-<translation id="6779406956731413166">Tomi OS darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />.</translation>
-<translation id="6847869444787758381">Ja jūsu paroles kādreiz tiks apdraudētas, pārlūkā Tomi saņemsiet paziņojumu</translation>
+Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai izmantojiet jaunāku tomi versiju.</translation>
+<translation id="6734291798041940871">Pārlūks tomi jau ir instalēts visiem lietotājiem jūsu datorā.</translation>
+<translation id="673636774878526923">Lai piekļūtu savam tomi saturam visās jūsu ierīcēs, pierakstieties un pēc tam ieslēdziet sinhronizāciju.</translation>
+<translation id="67706546131546258">tomi iesaka pārbaudīt šo failu, jo tas var būt bīstams.</translation>
+<translation id="6779406956731413166">tomi OS darbību nodrošina papildu <ph name="BEGIN_LINK_CROS_OSS" />atklātā pirmkoda programmatūra<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="6847869444787758381">Ja jūsu paroles kādreiz tiks apdraudētas, pārlūkā tomi saņemsiet paziņojumu</translation>
 <translation id="684888714667046800">Nevar izveidot savienojumu ar internetu. Ja izmantojat ugunsmūri, failam <ph name="PRODUCT_EXE_NAME" /> noteikti ir jābūt iekļautam atļaušanas sarakstā.</translation>
-<translation id="6857782730669500492">Tomi — <ph name="PAGE_TITLE" /></translation>
-<translation id="6873893289264747459">Pārlūkā Tomi tika konstatēts, ka paplašinājums “<ph name="EXTENSION_NAME" />” satur ļaunprātīgu programmatūru.</translation>
-<translation id="6893813176749746474">Pārlūks Tomi ir atjaunināts, bet jūs neesat to izmantojis vismaz 30 dienas.</translation>
-<translation id="691026815377248078">Pārlūkam Tomi ir nepieciešama Bluetooth piekļuve, lai turpinātu savienošanu pārī. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
-<translation id="6929417474050522668">Kad izmēģināšana ir ieslēgta, reklāmu izvērtēšana ļauj jūsu apmeklētajām vietnēm pieprasīt informāciju no Tomi, lai efektīvāk novērtētu vietnēs rādīto reklāmu veiktspēju. Reklāmu izvērtēšana ierobežo starpvietņu izsekošanu, pārsūtot starp vietnēm pēc iespējas mazāk informācijas.</translation>
-<translation id="6940431691900807093">Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam Tomi atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas. Pārlūks Tomi var kopīgot līdz trim interesēm.</translation>
+<translation id="6857782730669500492">tomi — <ph name="PAGE_TITLE" /></translation>
+<translation id="6873893289264747459">Pārlūkā tomi tika konstatēts, ka paplašinājums “<ph name="EXTENSION_NAME" />” satur ļaunprātīgu programmatūru.</translation>
+<translation id="6893813176749746474">Pārlūks tomi ir atjaunināts, bet jūs neesat to izmantojis vismaz 30 dienas.</translation>
+<translation id="691026815377248078">Pārlūkam tomi ir nepieciešama Bluetooth piekļuve, lai turpinātu savienošanu pārī. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
+<translation id="6929417474050522668">Kad izmēģināšana ir ieslēgta, reklāmu izvērtēšana ļauj jūsu apmeklētajām vietnēm pieprasīt informāciju no tomi, lai efektīvāk novērtētu vietnēs rādīto reklāmu veiktspēju. Reklāmu izvērtēšana ierobežo starpvietņu izsekošanu, pārsūtot starp vietnēm pēc iespējas mazāk informācijas.</translation>
+<translation id="6940431691900807093">Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam tomi atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas. Pārlūks tomi var kopīgot līdz trim interesēm.</translation>
 <translation id="6964305034639999644">Atvērt saiti inko&amp;gnito režīma logā</translation>
-<translation id="6978145336957848883">Nedrošas paroles ir viegli uzminēt. Pārlūkā Tomi <ph name="BEGIN_LINK" />var automātiski veidot un iegaumēt drošas paroles jūsu kontiem<ph name="END_LINK" />.</translation>
-<translation id="6981396265751285733">Ja šis iestatījums ir ieslēgts, pārlūkā Tomi neaktīvās cilnēs tiek atbrīvota atmiņa. Tādējādi aktīvajām cilnēm un citām lietotnēm tiek nodrošināts vairāk datora resursu un tiek uzlabots Tomi darbības ātrums. Neaktīvās cilnes atkal tiek automātiski aktivizētas, kad tās atverat.</translation>
-<translation id="6985329841647292029">Tomi OS noteikumi</translation>
-<translation id="6990124437352146030">Pārlūkam Tomi ir nepieciešama atļauja piekļūt jūsu mikrofonam šajā vietnē.</translation>
+<translation id="6978145336957848883">Nedrošas paroles ir viegli uzminēt. Pārlūkā tomi <ph name="BEGIN_LINK" />var automātiski veidot un iegaumēt drošas paroles jūsu kontiem<ph name="END_LINK" />.</translation>
+<translation id="6981396265751285733">Ja šis iestatījums ir ieslēgts, pārlūkā tomi neaktīvās cilnēs tiek atbrīvota atmiņa. Tādējādi aktīvajām cilnēm un citām lietotnēm tiek nodrošināts vairāk datora resursu un tiek uzlabots tomi darbības ātrums. Neaktīvās cilnes atkal tiek automātiski aktivizētas, kad tās atverat.</translation>
+<translation id="6985329841647292029">tomi OS noteikumi</translation>
+<translation id="6990124437352146030">Pārlūkam tomi ir nepieciešama atļauja piekļūt jūsu mikrofonam šajā vietnē.</translation>
 <translation id="7011190694940573312">Instalēšana neizdevās, jo šī operētājsistēmas versija netiek atbalstīta.</translation>
 <translation id="7024536598735240744">Atpakošanas kļūda: <ph name="UNPACK_ERROR" />.</translation>
 <translation id="7025789849649390912">Instalēšana apturēta.</translation>
-<translation id="705851970750939768">Atjaunināt Tomi</translation>
-<translation id="7067091210845072982">Ja attēlam nav vērtīga apraksta, pārlūks Tomi mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google.</translation>
-<translation id="7141270731789036260">Pielāgot versiju Tomi for Testing</translation>
-<translation id="7173822816570314652">Jūsu organizācija dzēš Tomi datus, ja šis pārlūks <ph name="TIMEOUT_DURATION" /> netiek izmantots. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.</translation>
-<translation id="718435575166326686">Pārlūkam Tomi ir nepieciešama atļauja izmantot kameru šajā vietnē.</translation>
-<translation id="7196312274710523067">Neizdevās palaist Tomi. Mēģiniet vēlreiz.</translation>
-<translation id="7197677400338048821">Pārlūkprogrammā Tomi nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām.</translation>
-<translation id="7213407614656404070">Izmantojiet Tomi ikreiz, kad noklikšķināt uz saitēm ziņojumos, dokumentos un citās lietotnēs</translation>
-<translation id="7223968959479464213">Uzdevumu pārvaldnieks — Tomi</translation>
-<translation id="7246575524853130370">Jūsu intereses, kas aptuveni noteiktas pārlūkā Tomi</translation>
-<translation id="7309928523159922338">Reklāmu izvērtēšana ļauj jūsu apmeklētajām vietnēm pieprasīt informāciju no Tomi, lai efektīvāk novērtētu vietnēs rādīto reklāmu veiktspēju. Reklāmu izvērtēšana ierobežo starpvietņu izsekošanu, pārsūtot starp vietnēm pēc iespējas mazāk informācijas.</translation>
-<translation id="731795002583552498">Notiek Tomi atjaunināšana</translation>
-<translation id="7318036098707714271">Jūsu preferenču fails ir bojāts vai nederīgs. Tomi nespēj atkopt jūsu iestatījumus.</translation>
+<translation id="705851970750939768">Atjaunināt tomi</translation>
+<translation id="7067091210845072982">Ja attēlam nav vērtīga apraksta, pārlūks tomi mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google.</translation>
+<translation id="7141270731789036260">Pielāgot versiju tomi for Testing</translation>
+<translation id="7173822816570314652">Jūsu organizācija dzēš tomi datus, ja šis pārlūks <ph name="TIMEOUT_DURATION" /> netiek izmantots. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.</translation>
+<translation id="718435575166326686">Pārlūkam tomi ir nepieciešama atļauja izmantot kameru šajā vietnē.</translation>
+<translation id="7196312274710523067">Neizdevās palaist tomi. Mēģiniet vēlreiz.</translation>
+<translation id="7197677400338048821">Pārlūkprogrammā tomi nevar pārbaudīt jūsu paroles. Mēģiniet vēlreiz pēc 24 stundām.</translation>
+<translation id="7213407614656404070">Izmantojiet tomi ikreiz, kad noklikšķināt uz saitēm ziņojumos, dokumentos un citās lietotnēs</translation>
+<translation id="7223968959479464213">Uzdevumu pārvaldnieks — tomi</translation>
+<translation id="7246575524853130370">Jūsu intereses, kas aptuveni noteiktas pārlūkā tomi</translation>
+<translation id="7309928523159922338">Reklāmu izvērtēšana ļauj jūsu apmeklētajām vietnēm pieprasīt informāciju no tomi, lai efektīvāk novērtētu vietnēs rādīto reklāmu veiktspēju. Reklāmu izvērtēšana ierobežo starpvietņu izsekošanu, pārsūtot starp vietnēm pēc iespējas mazāk informācijas.</translation>
+<translation id="731795002583552498">Notiek tomi atjaunināšana</translation>
+<translation id="7318036098707714271">Jūsu preferenču fails ir bojāts vai nederīgs. tomi nespēj atkopt jūsu iestatījumus.</translation>
 <translation id="7339898014177206373">Jauns logs</translation>
-<translation id="734373864078049451">Šeit atrodas jūsu tīmekļa saturs, grāmatzīmes un cits Tomi saturs.</translation>
-<translation id="7349591376906416160">Jūsu sistēmas administrators ir konfigurējis Tomi atvērt <ph name="ALTERNATIVE_BROWSER_NAME" />, lai piekļūtu <ph name="TARGET_URL_HOSTNAME" />.</translation>
-<translation id="7398989605938454041">Izmantojot Tomi profilus, varat nodalīt visu savu Tomi saturu. Tādējādi tiek atvieglota darba un izklaides satura nodalīšana.</translation>
-<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> — Tomi izstrādātāju versija</translation>
-<translation id="7451052299415159299">Pārlūkam Tomi ir nepieciešama atļauja piekļūt jūsu kamerai šajā vietnē.</translation>
-<translation id="7461356015007898716">Lai saņemtu turpmākus Tomi atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 7.</translation>
-<translation id="7467949745582939695">Vai atkārtoti palaist Tomi?</translation>
-<translation id="7483335560992089831">Nevar instalēt to pašu Tomi versiju, kas jau šobrīd darbojas. Aizveriet Tomi un mēģiniet vēlreiz.</translation>
-<translation id="751935028865900641">Vietnes, visticamāk, darbosies, kā paredzēts. Aizverot visus Tomi logus, automātiski izrakstīsieties no lielākās daļas vietņu, bet ne no Google konta, ja esat pierakstījies pārlūkā Tomi.</translation>
-<translation id="753534427205733210">{0,plural, =1{Pārlūks Tomi pēc 1 minūtes tiks restartēts}zero{Pārlūks Tomi pēc # minūtēm tiks restartēts}one{Pārlūks Tomi pēc # minūtes tiks restartēts}other{Pārlūks Tomi pēc # minūtēm tiks restartēts}}</translation>
-<translation id="7582945390259497898">Pārlūkā Tomi var aptuveni noteikt jūsu intereses. Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam Tomi atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas.</translation>
+<translation id="734373864078049451">Šeit atrodas jūsu tīmekļa saturs, grāmatzīmes un cits tomi saturs.</translation>
+<translation id="7349591376906416160">Jūsu sistēmas administrators ir konfigurējis tomi atvērt <ph name="ALTERNATIVE_BROWSER_NAME" />, lai piekļūtu <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7398989605938454041">Izmantojot tomi profilus, varat nodalīt visu savu tomi saturu. Tādējādi tiek atvieglota darba un izklaides satura nodalīšana.</translation>
+<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> — tomi izstrādātāju versija</translation>
+<translation id="7451052299415159299">Pārlūkam tomi ir nepieciešama atļauja piekļūt jūsu kamerai šajā vietnē.</translation>
+<translation id="7461356015007898716">Lai saņemtu turpmākus tomi atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 7.</translation>
+<translation id="7467949745582939695">Vai atkārtoti palaist tomi?</translation>
+<translation id="7483335560992089831">Nevar instalēt to pašu tomi versiju, kas jau šobrīd darbojas. Aizveriet tomi un mēģiniet vēlreiz.</translation>
+<translation id="751935028865900641">Vietnes, visticamāk, darbosies, kā paredzēts. Aizverot visus tomi logus, automātiski izrakstīsieties no lielākās daļas vietņu, bet ne no Google konta, ja esat pierakstījies pārlūkā tomi.</translation>
+<translation id="753534427205733210">{0,plural, =1{Pārlūks tomi pēc 1 minūtes tiks restartēts}zero{Pārlūks tomi pēc # minūtēm tiks restartēts}one{Pārlūks tomi pēc # minūtes tiks restartēts}other{Pārlūks tomi pēc # minūtēm tiks restartēts}}</translation>
+<translation id="7582945390259497898">Pārlūkā tomi var aptuveni noteikt jūsu intereses. Vēlāk kāda jūsu apmeklēta vietne var pieprasīt pārlūkam tomi atļauju skatīt jūsu intereses, lai personalizētu jums rādāmās reklāmas.</translation>
 <translation id="7583399374488819119"><ph name="COMPANY_NAME" /> instalēšanas programma</translation>
-<translation id="761356813943268536">Pārlūkā Tomi tiek izmantota jūsu kamera un mikrofons.</translation>
-<translation id="7617377681829253106">Pārlūkā Tomi ir veikti uzlabojumi</translation>
+<translation id="761356813943268536">Pārlūkā tomi tiek izmantota jūsu kamera un mikrofons.</translation>
+<translation id="7617377681829253106">Pārlūkā tomi ir veikti uzlabojumi</translation>
 <translation id="7649070708921625228">Palīdzība</translation>
-<translation id="7682213815243802460">Tomi iestatījumos varat uzzināt vairāk par šīm funkcijām.</translation>
-<translation id="7686590090926151193">Tomi nav jūsu noklusējuma pārlūks.</translation>
-<translation id="7689606757190482937">Tomi sinhronizēšana un personalizēšana visās savās ierīcēs</translation>
-<translation id="7699779824407626136">Tomi atjauninājums</translation>
-<translation id="7745317241717453663">Veicot šo darbību, no šīs ierīces tiks dzēsti pārlūkošanas dati. Lai vēlāk izgūtu datus, pierakstieties pārlūkā Tomi kā <ph name="USER_EMAIL" />.</translation>
+<translation id="7682213815243802460">tomi iestatījumos varat uzzināt vairāk par šīm funkcijām.</translation>
+<translation id="7686590090926151193">tomi nav jūsu noklusējuma pārlūks.</translation>
+<translation id="7689606757190482937">tomi sinhronizēšana un personalizēšana visās savās ierīcēs</translation>
+<translation id="7699779824407626136">tomi atjauninājums</translation>
+<translation id="7745317241717453663">Veicot šo darbību, no šīs ierīces tiks dzēsti pārlūkošanas dati. Lai vēlāk izgūtu datus, pierakstieties pārlūkā tomi kā <ph name="USER_EMAIL" />.</translation>
 <translation id="7747138024166251722">Instalētājam neizdevās izveidot pagaidu katalogu. Lūdzu, pārbaudiet, vai diskā pietiek vietas un vai ir atļauja instalēt programmatūru.</translation>
-<translation id="7786760609782648049">Pārlūka Tomi darbības paātrināšana</translation>
-<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> — Tomi Canary</translation>
-<translation id="7803986347287457849">Neļaujiet personām, kurām ir piekļuve jūsu interneta datplūsmai, viegli skatīt jūsu apmeklētās vietnes. Tomi izmanto drošu savienojumu, lai meklētu vietnes IP adresi sistēmā DNS (domēnu nosaukumu sistēmā).</translation>
-<translation id="7828947555739565424">Šajā ierīcē jau pastāv Tomi profils ar šādu kontu.</translation>
+<translation id="7786760609782648049">Pārlūka tomi darbības paātrināšana</translation>
+<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> — tomi Canary</translation>
+<translation id="7803986347287457849">Neļaujiet personām, kurām ir piekļuve jūsu interneta datplūsmai, viegli skatīt jūsu apmeklētās vietnes. tomi izmanto drošu savienojumu, lai meklētu vietnes IP adresi sistēmā DNS (domēnu nosaukumu sistēmā).</translation>
+<translation id="7828947555739565424">Šajā ierīcē jau pastāv tomi profils ar šādu kontu.</translation>
 <translation id="7845233973568007926">Pateicamies, ka veicāt instalēšanu. Pirms <ph name="BUNDLE_NAME" /> izmantošanas ir jārestartē dators.</translation>
-<translation id="7859018312476869945">Kad rakstāt adreses joslā vai meklēšanas lodziņā, pārlūks Tomi nosūta ierakstīto tekstu jūsu noklusējuma meklētājprogrammai, lai iegūtu labākus ieteikumus. Inkognito režīmā šis iestatījums ir izslēgts.</translation>
-<translation id="7867198900892795913">Nevarēja atjaunināt uz jaunāko Tomi versiju, tādēļ jūs nevarēsiet piekļūt jaunākajām funkcijām un drošības labojumiem.</translation>
+<translation id="7859018312476869945">Kad rakstāt adreses joslā vai meklēšanas lodziņā, pārlūks tomi nosūta ierakstīto tekstu jūsu noklusējuma meklētājprogrammai, lai iegūtu labākus ieteikumus. Inkognito režīmā šis iestatījums ir izslēgts.</translation>
+<translation id="7867198900892795913">Nevarēja atjaunināt uz jaunāko tomi versiju, tādēļ jūs nevarēsiet piekļūt jaunākajām funkcijām un drošības labojumiem.</translation>
 <translation id="7872446069773932638">Notiek lejupielāde... Atlikušais laiks: <ph name="SECONDS" /> sekunde(-es).</translation>
-<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Kā varat pārvaldīt savus datus:<ph name="END_BOLD" /> lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Varat arī noņemt intereses, ja nevēlaties, lai Tomi tās apsvērtu.</translation>
-<translation id="7937630085815544518">Operētājsistēmā Tomi iepriekš pierakstījāties kā lietotājs <ph name="USER_EMAIL_ADDRESS" />. Lai pierakstītos vēlreiz, lūdzu, izmantojiet to pašu kontu.</translation>
-<translation id="7975919845073681630">Šī ir Tomi papildu instalācija, un to nevar izmantot kā noklusējuma pārlūku.</translation>
-<translation id="7997934263947464652">No nezināmiem avotiem iegūti paplašinājumi, lietotnes un motīvi var kaitēt ierīcei. Tomi komanda iesaka instalēt tos tikai no veikala <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />.</translation>
-<translation id="8013436988911883588">Tiklīdz pārlūkam Tomi tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.</translation>
+<translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Kā varat pārvaldīt savus datus:<ph name="END_BOLD" /> lai aizsargātu jūsu konfidencialitāti, mēs automātiski dzēšam intereses, kas ir glabātas ilgāk par četrām nedēļām. Intereses var tikt atkārtoti pievienotas sarakstam, kad turpināsiet pārlūkošanu. Varat arī noņemt intereses, ja nevēlaties, lai tomi tās apsvērtu.</translation>
+<translation id="7937630085815544518">Operētājsistēmā tomi iepriekš pierakstījāties kā lietotājs <ph name="USER_EMAIL_ADDRESS" />. Lai pierakstītos vēlreiz, lūdzu, izmantojiet to pašu kontu.</translation>
+<translation id="7975919845073681630">Šī ir tomi papildu instalācija, un to nevar izmantot kā noklusējuma pārlūku.</translation>
+<translation id="7997934263947464652">No nezināmiem avotiem iegūti paplašinājumi, lietotnes un motīvi var kaitēt ierīcei. tomi komanda iesaka instalēt tos tikai no veikala <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />.</translation>
+<translation id="8013436988911883588">Tiklīdz pārlūkam tomi tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.</translation>
 <translation id="80471789339884597">Pateicamies, ka veicāt instalēšanu. Pirms <ph name="BUNDLE_NAME" /> izmantošanas ir jārestartē visas pārlūkprogrammas.</translation>
 <translation id="8086881907087796310">Instalēšana neizdevās, jo jūsu dators neatbilst minimālajām aparatūras prasībām.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> — Tomi for Testing</translation>
-<translation id="8105840573057009683">Pārlūkam Tomi ir nepieciešama atrašanās vietas atļauja šai vietnei.</translation>
-<translation id="8133124826068723441">Tomi OS nevarēja sinhronizēt jūsu datus, jo jūsu domēnā nav pieejama sinhronizācija.</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> — tomi for Testing</translation>
+<translation id="8105840573057009683">Pārlūkam tomi ir nepieciešama atrašanās vietas atļauja šai vietnei.</translation>
+<translation id="8133124826068723441">tomi OS nevarēja sinhronizēt jūsu datus, jo jūsu domēnā nav pieejama sinhronizācija.</translation>
 <translation id="813913629614996137">Notiek inicializēšana...</translation>
-<translation id="8166782796394721554">Ieslēdziet papildu aizsardzību Tomi JavaScript un WebAssembly programmā</translation>
-<translation id="81770708095080097">Šis fails ir bīstams, tāpēc Tomi to bloķēja.</translation>
-<translation id="8248265253516264921">Ja attēlam nav vērtīga apraksta, pārlūks Tomi mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google. Jebkurā brīdī iestatījumos varat izslēgt šo iespēju.</translation>
-<translation id="8266560134891435528">Pārlūkprogrammā Tomi nevar pārbaudīt jūsu paroles, jo jūs neesat pierakstījies.</translation>
-<translation id="8286943863733751221">Pārlūkā <ph name="BEGIN_LINK" />Tomi tiek rādīti brīdinājumi<ph name="END_LINK" /> par nedrošām vietnēm un lejupielādēm</translation>
-<translation id="8290862415967981663">Šis fails var būt bīstams, tāpēc Tomi to bloķēja.</translation>
-<translation id="8318772038038596122">Jūsu organizācija aizver pārlūku Tomi, ja tas <ph name="TIMEOUT_DURATION" /> netiek izmantots.</translation>
-<translation id="8325404639443959713">Vairāk iespēju pārlūkā Tomi</translation>
-<translation id="8330519371938183845">Pierakstieties, lai sinhronizētu un personalizētu pārlūku Tomi visās savās ierīcēs.</translation>
-<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> iepriekš izmantoja Tomi</translation>
-<translation id="8357820681460164151">Lai piekļūtu savam Tomi saturam visās savās ierīcēs, pierakstieties un pēc tam ieslēdziet sinhronizāciju.</translation>
-<translation id="8360718212975266891">Lai saņemtu turpmākus Tomi atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 8.</translation>
+<translation id="8166782796394721554">Ieslēdziet papildu aizsardzību tomi JavaScript un WebAssembly programmā</translation>
+<translation id="81770708095080097">Šis fails ir bīstams, tāpēc tomi to bloķēja.</translation>
+<translation id="8248265253516264921">Ja attēlam nav vērtīga apraksta, pārlūks tomi mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google. Jebkurā brīdī iestatījumos varat izslēgt šo iespēju.</translation>
+<translation id="8266560134891435528">Pārlūkprogrammā tomi nevar pārbaudīt jūsu paroles, jo jūs neesat pierakstījies.</translation>
+<translation id="8286943863733751221">Pārlūkā <ph name="BEGIN_LINK" />tomi tiek rādīti brīdinājumi<ph name="END_LINK" /> par nedrošām vietnēm un lejupielādēm</translation>
+<translation id="8290862415967981663">Šis fails var būt bīstams, tāpēc tomi to bloķēja.</translation>
+<translation id="8318772038038596122">Jūsu organizācija aizver pārlūku tomi, ja tas <ph name="TIMEOUT_DURATION" /> netiek izmantots.</translation>
+<translation id="8325404639443959713">Vairāk iespēju pārlūkā tomi</translation>
+<translation id="8330519371938183845">Pierakstieties, lai sinhronizētu un personalizētu pārlūku tomi visās savās ierīcēs.</translation>
+<translation id="8340674089072921962"><ph name="USER_EMAIL_ADDRESS" /> iepriekš izmantoja tomi</translation>
+<translation id="8357820681460164151">Lai piekļūtu savam tomi saturam visās savās ierīcēs, pierakstieties un pēc tam ieslēdziet sinhronizāciju.</translation>
+<translation id="8360718212975266891">Lai saņemtu turpmākus tomi atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 8.</translation>
 <translation id="8370517070665726704">Autortiesības: <ph name="YEAR" /> Google LLC. Visas tiesības paturētas.</translation>
-<translation id="8401454788024434101">Šī paplašinājuma publicēšanu atcēla izstrādātājs, un paplašinājums, iespējams, nav drošs. Noņemiet to no pārlūka Tomi, lai tas jūsu apmeklētajās vietnēs vairs nevarētu skatīt un mainīt jūsu datus, tostarp jūsu personas informāciju.</translation>
-<translation id="8417404458978023919">{0,plural, =1{Restartējiet pārlūku Tomi vienas dienas laikā}zero{Restartējiet pārlūku Tomi # dienu laikā}one{Restartējiet pārlūku Tomi # dienas laikā}other{Restartējiet pārlūku Tomi # dienu laikā}}</translation>
-<translation id="8453117565092476964">Instalēšanas programmas arhīvs ir bojāts vai nav derīgs. Lejupielādējiet Tomi vēlreiz.</translation>
-<translation id="8458614432758743027">Pārlūka Tomi izmantošanai nepieciešama operētājsistēma Windows 10 vai jaunāka versija.</translation>
-<translation id="8463672209299734063">Neobligāti: palīdziet uzlabot Tomi OS funkcijas un veiktspēju, automātiski nosūtot Google serveriem diagnostikas un lietojuma datus.</translation>
-<translation id="8493179195440786826">Tomi versija ir novecojusi</translation>
-<translation id="8522801943730206384">Pārlūkprogrammā Tomi var pārbaudīt jūsu paroles, ja jūs tās saglabājat.</translation>
+<translation id="8401454788024434101">Šī paplašinājuma publicēšanu atcēla izstrādātājs, un paplašinājums, iespējams, nav drošs. Noņemiet to no pārlūka tomi, lai tas jūsu apmeklētajās vietnēs vairs nevarētu skatīt un mainīt jūsu datus, tostarp jūsu personas informāciju.</translation>
+<translation id="8417404458978023919">{0,plural, =1{Restartējiet pārlūku tomi vienas dienas laikā}zero{Restartējiet pārlūku tomi # dienu laikā}one{Restartējiet pārlūku tomi # dienas laikā}other{Restartējiet pārlūku tomi # dienu laikā}}</translation>
+<translation id="8453117565092476964">Instalēšanas programmas arhīvs ir bojāts vai nav derīgs. Lejupielādējiet tomi vēlreiz.</translation>
+<translation id="8458614432758743027">Pārlūka tomi izmantošanai nepieciešama operētājsistēma Windows 10 vai jaunāka versija.</translation>
+<translation id="8463672209299734063">Neobligāti: palīdziet uzlabot tomi OS funkcijas un veiktspēju, automātiski nosūtot Google serveriem diagnostikas un lietojuma datus.</translation>
+<translation id="8493179195440786826">tomi versija ir novecojusi</translation>
+<translation id="8522801943730206384">Pārlūkprogrammā tomi var pārbaudīt jūsu paroles, ja jūs tās saglabājat.</translation>
 <translation id="8550334526674375523">Šis darba profils ir pilnīgi nesaistīts ar jūsu personīgo profilu.</translation>
 <translation id="8555465886620020932">Pakalpojuma kļūda: <ph name="SERVICE_ERROR" />.</translation>
-<translation id="8568283329061645092">Pārlūkprogrammā Tomi var pārbaudīt jūsu paroles, ja esat pierakstījies savā Google kontā.</translation>
-<translation id="8586442755830160949">Autortiesības <ph name="YEAR" /> Tomi autori. Visas tiesības paturētas.</translation>
-<translation id="858822505990366713">Pielāgot pārlūku Tomi</translation>
-<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Kā mēs izmantojam šos datus:<ph name="END_BOLD" /> vietnes pārlūkā Tomi var glabāt informāciju par jūsu interesēm. Piemēram, ja apmeklējat kādu vietni, lai iegādātos apavus maratona skriešanai, vietne var noteikt, ka interesējaties par maratonu skriešanu. Ja vēlāk apmeklēsiet citu vietni, lai reģistrētos sacensībām, šajā vietnē var tikt rādīta skriešanas apavu reklāma, pamatojoties uz jūsu interesēm.</translation>
-<translation id="8619360774459241877">Notiek Tomi palaišana...</translation>
-<translation id="8621669128220841554">Instalēšana neizdevās nenoteiktas kļūdas dēļ. Lejupielādējiet pārlūku Tomi vēlreiz.</translation>
-<translation id="8648201657708811153">Tomi for Testing nevar iestatīt kā noklusējuma pārlūku.</translation>
-<translation id="8697124171261953979">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku Tomi vai meklēsiet, izmantojot universālo lodziņu.</translation>
-<translation id="8704119203788522458">Šis ir jūsu Tomi</translation>
-<translation id="8719993436687031146">Vai pierakstīties pārlūkā Tomi?</translation>
+<translation id="8568283329061645092">Pārlūkprogrammā tomi var pārbaudīt jūsu paroles, ja esat pierakstījies savā Google kontā.</translation>
+<translation id="8586442755830160949">Autortiesības <ph name="YEAR" /> tomi autori. Visas tiesības paturētas.</translation>
+<translation id="858822505990366713">Pielāgot pārlūku tomi</translation>
+<translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Kā mēs izmantojam šos datus:<ph name="END_BOLD" /> vietnes pārlūkā tomi var glabāt informāciju par jūsu interesēm. Piemēram, ja apmeklējat kādu vietni, lai iegādātos apavus maratona skriešanai, vietne var noteikt, ka interesējaties par maratonu skriešanu. Ja vēlāk apmeklēsiet citu vietni, lai reģistrētos sacensībām, šajā vietnē var tikt rādīta skriešanas apavu reklāma, pamatojoties uz jūsu interesēm.</translation>
+<translation id="8619360774459241877">Notiek tomi palaišana...</translation>
+<translation id="8621669128220841554">Instalēšana neizdevās nenoteiktas kļūdas dēļ. Lejupielādējiet pārlūku tomi vēlreiz.</translation>
+<translation id="8648201657708811153">tomi for Testing nevar iestatīt kā noklusējuma pārlūku.</translation>
+<translation id="8697124171261953979">Tas nosaka arī to, kāda lapa tiks rādīta, kad atvērsiet pārlūku tomi vai meklēsiet, izmantojot universālo lodziņu.</translation>
+<translation id="8704119203788522458">Šis ir jūsu tomi</translation>
+<translation id="8719993436687031146">Vai pierakstīties pārlūkā tomi?</translation>
 <translation id="878572486461146056">Instalēšanas kļūda: administrators ir piemērojis grupas politiku, kas neļauj veikt instalēšanu: <ph name="INSTALL_ERROR" />.</translation>
-<translation id="8796602469536043152">Pārlūkam Tomi ir nepieciešama atļauja piekļūt jūsu kamerai un mikrofonam šajā vietnē.</translation>
+<translation id="8796602469536043152">Pārlūkam tomi ir nepieciešama atļauja piekļūt jūsu kamerai un mikrofonam šajā vietnē.</translation>
 <translation id="8826492472752484139">Noklikšķiniet uz vienuma Paroļu pārvaldnieks.</translation>
-<translation id="8833697763442816810">Tomi OS sistēma</translation>
-<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Kādi dati tiek izmantoti:<ph name="END_BOLD" /> jūsu pārlūkošanas vēsture, kurā tiek reģistrētas vietnes, ko šajā ierīcē apmeklējat ar pārlūku Tomi.</translation>
+<translation id="8833697763442816810">tomi OS sistēma</translation>
+<translation id="8846118132221683440"><ph name="BEGIN_BOLD" />Kādi dati tiek izmantoti:<ph name="END_BOLD" /> jūsu pārlūkošanas vēsture, kurā tiek reģistrētas vietnes, ko šajā ierīcē apmeklējat ar pārlūku tomi.</translation>
 <translation id="8862326446509486874">Jums nav vajadzīgo tiesību, lai instalētu sistēmas līmenī. Mēģiniet vēlreiz palaist instalēšanas programmu kā administrators.</translation>
-<translation id="8880203542552872219">Ja tā ir, lūdzu, rediģējiet saglabāto paroli pārlūkprogrammā Tomi, lai tā atbilstu jūsu jaunajai parolei.</translation>
-<translation id="8907580949721785412">Tomi mēģina rādīt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
-<translation id="8931379085695076764">Tomi var aptuveni noteikt jūsu intereses, balstoties uz jūsu pēdējo nedēļu pārlūkošanas vēsturi. Šī informācija tiek glabāta jūsu ierīcē.</translation>
-<translation id="8941642502866065432">Nevar atjaunināt Tomi</translation>
-<translation id="895999862145835951">Pielāgot pārlūku Tomi</translation>
-<translation id="897581876605952338">Tomi Enterprise logotips</translation>
+<translation id="8880203542552872219">Ja tā ir, lūdzu, rediģējiet saglabāto paroli pārlūkprogrammā tomi, lai tā atbilstu jūsu jaunajai parolei.</translation>
+<translation id="8907580949721785412">tomi mēģina rādīt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
+<translation id="8931379085695076764">tomi var aptuveni noteikt jūsu intereses, balstoties uz jūsu pēdējo nedēļu pārlūkošanas vēsturi. Šī informācija tiek glabāta jūsu ierīcē.</translation>
+<translation id="8941642502866065432">Nevar atjaunināt tomi</translation>
+<translation id="895999862145835951">Pielāgot pārlūku tomi</translation>
+<translation id="897581876605952338">tomi Enterprise logotips</translation>
 <translation id="8986207147630327271">Jūs pievienosiet šai pārlūkprogrammai darba profilu un piešķirsiet administratoram kontroli tikai pār darba profilu.</translation>
-<translation id="8988036198400390003">Pārvaldīt Tomi profilus</translation>
-<translation id="9019929317751753759">Lai uzlabotu Tomi drošību, mēs atspējojām tālāk norādīto paplašinājumu, kas nav norādīts vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienots, jums nezinot.</translation>
-<translation id="9022552996538154597">Pierakstieties pārlūkā Tomi</translation>
-<translation id="907832235989677238">Pierakstieties pārlūkā Tomi. Ja vēlaties pierakstīties kontā tikai vienreiz, varat <ph name="GUEST_LINK_BEGIN" />izmantot ierīci viesa režīmā<ph name="GUEST_LINK_END" />.</translation>
-<translation id="9078733879136747090">Pārlūks Tomi tika automātiski aizvērts</translation>
-<translation id="9089354809943900324">Tomi versija ir novecojusi.</translation>
-<translation id="9093206154853821181">{0,plural, =1{Pārlūks Tomi pēc stundas tiks restartēts}zero{Pārlūks Tomi pēc # stundām tiks restartēts}one{Pārlūks Tomi pēc # stundas tiks restartēts}other{Pārlūks Tomi pēc # stundām tiks restartēts}}</translation>
-<translation id="9106612006984859720">Lai saņemtu turpmākus Tomi atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 8.1.</translation>
-<translation id="91086099826398415">Atvērt saiti jaunā Tomi &amp;cilnē</translation>
+<translation id="8988036198400390003">Pārvaldīt tomi profilus</translation>
+<translation id="9019929317751753759">Lai uzlabotu tomi drošību, mēs atspējojām tālāk norādīto paplašinājumu, kas nav norādīts vietnē <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> un, iespējams, tika pievienots, jums nezinot.</translation>
+<translation id="9022552996538154597">Pierakstieties pārlūkā tomi</translation>
+<translation id="907832235989677238">Pierakstieties pārlūkā tomi. Ja vēlaties pierakstīties kontā tikai vienreiz, varat <ph name="GUEST_LINK_BEGIN" />izmantot ierīci viesa režīmā<ph name="GUEST_LINK_END" />.</translation>
+<translation id="9078733879136747090">Pārlūks tomi tika automātiski aizvērts</translation>
+<translation id="9089354809943900324">tomi versija ir novecojusi.</translation>
+<translation id="9093206154853821181">{0,plural, =1{Pārlūks tomi pēc stundas tiks restartēts}zero{Pārlūks tomi pēc # stundām tiks restartēts}one{Pārlūks tomi pēc # stundas tiks restartēts}other{Pārlūks tomi pēc # stundām tiks restartēts}}</translation>
+<translation id="9106612006984859720">Lai saņemtu turpmākus tomi atjauninājumus, nepieciešama operētājsistēma Windows 10 vai jaunāka versija. Šajā datorā tiek izmantota operētājsistēma Windows 8.1.</translation>
+<translation id="91086099826398415">Atvērt saiti jaunā tomi &amp;cilnē</translation>
 <translation id="911206726377975832">Vai dzēst arī pārlūkošanas datus?</translation>
-<translation id="9144490074902256427">Izmēģinājuma laikā varat skatīt un noņemt interešu tēmas, kas vietnēs tika izmantotas reklāmu rādīšanai. Pārlūkā Tomi tiek aptuveni noteiktas jūsu intereses, ņemot vērā neseno pārlūkošanas vēsturi.</translation>
-<translation id="9158494823179993217">Sistēmas administrators ir konfigurējis Tomi, lai vietne <ph name="TARGET_URL_HOSTNAME" /> tiktu atvērta papildu pārlūkā.</translation>
-<translation id="9185526690718004400">Atkārtoti palaist, lai atjauninātu &amp;Tomi</translation>
-<translation id="9190841055450128916">Tomi (mDNS ienākošie savienojumi)</translation>
-<translation id="924957577793602335">Pielāgojiet pārlūku Tomi savām vajadzībām</translation>
-<translation id="93478295209880648">Iespējams, Tomi nedarbosies pareizi, jo tas vairs netiek atbalstīts operētājsistēmās Windows XP un Windows Vista.</translation>
-<translation id="942598560705308788">Tomi pārvaldītie sertifikāti</translation>
-<translation id="965162752251293939">Kas izmanto pārlūku Tomi?</translation>
-<translation id="967427899662692980">Visaugstākais Tomi drošības līmenis</translation>
+<translation id="9144490074902256427">Izmēģinājuma laikā varat skatīt un noņemt interešu tēmas, kas vietnēs tika izmantotas reklāmu rādīšanai. Pārlūkā tomi tiek aptuveni noteiktas jūsu intereses, ņemot vērā neseno pārlūkošanas vēsturi.</translation>
+<translation id="9158494823179993217">Sistēmas administrators ir konfigurējis tomi, lai vietne <ph name="TARGET_URL_HOSTNAME" /> tiktu atvērta papildu pārlūkā.</translation>
+<translation id="9185526690718004400">Atkārtoti palaist, lai atjauninātu &amp;tomi</translation>
+<translation id="9190841055450128916">tomi (mDNS ienākošie savienojumi)</translation>
+<translation id="924957577793602335">Pielāgojiet pārlūku tomi savām vajadzībām</translation>
+<translation id="93478295209880648">Iespējams, tomi nedarbosies pareizi, jo tas vairs netiek atbalstīts operētājsistēmās Windows XP un Windows Vista.</translation>
+<translation id="942598560705308788">tomi pārvaldītie sertifikāti</translation>
+<translation id="965162752251293939">Kas izmanto pārlūku tomi?</translation>
+<translation id="967427899662692980">Visaugstākais tomi drošības līmenis</translation>
 <translation id="983803489796659991">Instalēšana neizdevās, jo atjauninājumu serverim nav nekādu jaukšanas datu lietojumprogrammai.</translation>
-<translation id="985602178874221306">Tomi autori</translation>
+<translation id="985602178874221306">tomi autori</translation>
 </translationbundle>
