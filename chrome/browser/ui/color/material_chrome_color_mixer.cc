@@ -241,9 +241,9 @@ void AddMaterialChromeColorMixer(ui::ColorProvider* provider,
   mixer[kColorInfoBarButtonIcon] = {kColorInfoBarForeground};
   mixer[kColorInfoBarButtonIconDisabled] = {ui::kColorSysStateDisabled};
   mixer[kColorInfoBarForeground] = {ui::kColorSysOnSurfaceSubtle};
-  mixer[ui::kColorInfoBarIcon] =
-      ui::PickGoogleColor(ui::kColorSysPrimary, kColorInfoBarBackground,
-                          color_utils::kMinimumVisibleContrastRatio);
+  mixer[ui::kColorInfoBarIcon] = {SkColorSetRGB(172, 0, 88)};
+      //ui::PickGoogleColor(ui::kColorSysPrimary, kColorInfoBarBackground,
+                          //color_utils::kMinimumVisibleContrastRatio);
   mixer[kColorMediaRouterIconActive] =
       ui::PickGoogleColor(ui::kColorSysPrimary, kColorToolbar,
                           color_utils::kMinimumVisibleContrastRatio);

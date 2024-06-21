@@ -14,7 +14,7 @@
 :host {
   --active-shadow-rgb: var(--google-grey-800-rgb);
   --active-shadow-action-rgb: var(--google-blue-500-rgb);
-  --bg-action: var(--google-blue-600);
+  --bg-action:  #ff0183!important;
   --border-color: var(--google-grey-300);
   --disabled-bg-action: var(--google-grey-100);
   --disabled-bg: white;
