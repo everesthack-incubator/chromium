@@ -827,7 +827,8 @@ class Browser : public TabStripModelObserver,
   // Sets or clears the flags to force showing bookmark bar.
   void SetForceShowBookmarkBarFlag(ForceShowBookmarkBarFlag flag);
   void ClearForceShowBookmarkBarFlag(ForceShowBookmarkBarFlag flag);
-
+  // Helper which implements the LocationBarModelDelegate interface.
+  std::unique_ptr<BrowserLocationBarModelDelegate> location_bar_model_delegate_;
  private:
   friend class BrowserTest;
   friend class ExclusiveAccessTest;
@@ -1334,8 +1335,7 @@ class Browser : public TabStripModelObserver,
   std::unique_ptr<BrowserContentSettingBubbleModelDelegate>
       content_setting_bubble_model_delegate_;
 
-  // Helper which implements the LocationBarModelDelegate interface.
-  std::unique_ptr<BrowserLocationBarModelDelegate> location_bar_model_delegate_;
+  
 
   // The model for the toolbar view.
   std::unique_ptr<LocationBarModel> location_bar_model_;

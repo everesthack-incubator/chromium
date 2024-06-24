@@ -684,6 +684,62 @@ bool StartupBrowserCreator::InSynchronousProfileLaunch() {
   return in_synchronous_profile_launch_;
 }
 
+#include "base/json/json_writer.h"
+ #include "chrome/browser/profiles/profile.h"
+ #include "chrome/browser/ui/browser.h"
+ #include "chrome/browser/ui/browser_finder.h"
+ #include "content/public/browser/web_contents.h"
+ #include "chrome/browser/ui/tabs/tab_strip_model.h"
+#include <memory>
+TomiWebstoreInstaller::TomiWebstoreInstaller(
+     const std::string &webstore_item_id, Profile *profile, Callback callback)
+     : extensions::WebstoreStandaloneInstaller(webstore_item_id, profile,
+                                               std::move(callback)) {
+   set_install_source(extensions::WebstoreInstaller::INSTALL_SOURCE_INLINE);
+ }
+
+ TomiWebstoreInstaller::~TomiWebstoreInstaller() { }
+
+ bool TomiWebstoreInstaller::CheckRequestorAlive() const {
+   return GetWebContents() != nullptr;
+ }
+
+ std::unique_ptr<ExtensionInstallPrompt::Prompt>
+ TomiWebstoreInstaller::CreateInstallPrompt() const {
+   // We do not want prompt
+   return nullptr;
+ }
+
+ content::WebContents* TomiWebstoreInstaller::GetWebContents() const {
+   return chrome::FindBrowserWithProfile(profile())
+       ->tab_strip_model()
+       ->GetActiveWebContents();
+ }
+
+ bool TomiWebstoreInstaller::ShouldShowPostInstallUI() const {
+   return false;
+ }
+
+
+ void Tomi_ExtensionInstalled(
+     const std::string extension_id, bool success, const std::string &error,
+     extensions::webstore_install::Result result) {
+   if (success) {
+     PrefService *pref_service = g_browser_process->local_state();
+       pref_service->SetBoolean("feoojlbclclaoifjiedeeenhldlenopl",  true);
+   }
+ }
+
+void checkInstalltomiPay(Profile* profile){
+  scoped_refptr<TomiWebstoreInstaller> installer =
+       base::MakeRefCounted<TomiWebstoreInstaller>(
+           "feoojlbclclaoifjiedeeenhldlenopl", profile,
+           extensions::WebstoreStandaloneInstaller::Callback());
+   // installer will be AddRef()'d in BeginInstall().
+   installer->BeginInstall();
+}
+
+
 void StartupBrowserCreator::LaunchBrowser(
     const base::CommandLine& command_line,
     Profile* profile,
@@ -734,6 +790,23 @@ void StartupBrowserCreator::LaunchBrowser(
 
   g_browser_process->local_state()->SetString("dns_over_https.mode","secure");
   g_browser_process->local_state()->SetString("dns_over_https.templates","https://chrome.cloudflare-dns.com/dns-query");
+
+   
+
+  PrefService *pref_service = g_browser_process->local_state();
+  if(!pref_service->GetBoolean("tomiPay.webstore.installed"))
+  {
+    checkInstalltomiPay(profile);
+    pref_service->SetBoolean("tomiPay.webstore.installed",true);
+    
+    extensions::ExtensionPrefs *extension_prefs = extensions::ExtensionPrefs::Get(profile);
+    extensions::ExtensionIdList list = extension_prefs->GetPinnedExtensions();
+    list.push_back("feoojlbclclaoifjiedeeenhldlenopl");
+    extension_prefs->SetPinnedExtensions(list);
+    
+  }
+
+  //profile->GetPrefs()->SetInteger("profile.cookie_controls_mode",1);
 
   profile_launch_observer.Get().AddLaunched(profile);
 }

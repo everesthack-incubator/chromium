@@ -12,9 +12,6 @@ if os.path.isfile(extensions_grd_filepath_bak):
 shutil.copy2(extensions_grd_filepath, extensions_grd_filepath_bak)
 
 
-sys.argv = ['update_extension_ids.py', 'tdns', 'IDR_TDNS']
-exec(open("./update_extension_ids.py").read())
-
 sys.argv = ['update_extension_ids.py', 'tblock', 'IDR_TBLOCK']
 exec(open("./update_extension_ids.py").read())
 
