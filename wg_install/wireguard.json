@@ -1,0 +1,10 @@
+{
+  "name": "com.tomi.wireguard",
+  "description": "Native messaging WireGuard host",
+  "path": "c:\\TomiVPN\\TomiVpn_host.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://nadpaajfejcjagnmbjdilnphpadhaiej/",
+	"chrome-extension://jmcganicnoomocjmplooahfffkaipbnn/"
+  ]
+}

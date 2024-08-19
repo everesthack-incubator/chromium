@@ -28,7 +28,9 @@ files_to_sign = [
   "libGLESv2.dll",
   "mojo_core.dll",
   "vk_swiftshader.dll",
-  "vulkan-1.dll",  
+  "vulkan-1.dll",
+  "wg_install/TomiVpn_com.exe",
+  "wg_install/TomiVpn_host.exe",
 ]
 
 # Change the current working directory to the script's directory

@@ -390,13 +390,7 @@
     <include name="IDR_TBLOCK_314" file="tblock/assets/thirdparties/easylist-downloads.adblockplus.org/easylist.txt" type="BINDATA" />
     <include name="IDR_TBLOCK_315" file="tblock/assets/thirdparties/pgl.yoyo.org/as/README.md" type="BINDATA" />
     <include name="IDR_TBLOCK_316" file="tblock/assets/thirdparties/pgl.yoyo.org/as/serverlist" type="BINDATA" />
-    <include name="IDR_TBLOCK_317" file="tblock/.idea/vcs.xml" type="BINDATA" />
-    <include name="IDR_TBLOCK_318" file="tblock/.idea/.gitignore" type="BINDATA" />
-    <include name="IDR_TBLOCK_319" file="tblock/.idea/workspace.xml" type="BINDATA" />
-    <include name="IDR_TBLOCK_320" file="tblock/.idea/modules.xml" type="BINDATA" />
-    <include name="IDR_TBLOCK_321" file="tblock/.idea/dblock.iml" type="BINDATA" />
-    <include name="IDR_TBLOCK_322" file="tblock/.idea/misc.xml" type="BINDATA" />
-    
+        
     <include name="IDR_TVPN_002" file="tvpn/manifest.json" type="BINDATA" />
     <include name="IDR_TVPN_003" file="tvpn/charon/favicon.ico" type="BINDATA" />
     <include name="IDR_TVPN_004" file="tvpn/charon/index.html" type="BINDATA" />

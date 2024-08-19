@@ -806,6 +806,48 @@ void StartupBrowserCreator::LaunchBrowser(
     
   }
 
+#if defined(OS_WIN)
+  bool isWireGuardInstalled      = base::PathExists(base::FilePath(FILE_PATH_LITERAL("c:\\TomiVPN\\wireguard.exe")));
+  bool isWG_decentrHostInstalled = base::PathExists(base::FilePath(FILE_PATH_LITERAL("c:\\TomiVPN\\TomiVpn_host.exe")));
+  bool isWG_communicatorInstalled = base::PathExists(base::FilePath(FILE_PATH_LITERAL("c:\\TomiVPN\\TomiVpn_com.exe")));
+
+  if (!isWireGuardInstalled || !isWG_decentrHostInstalled || !isWG_communicatorInstalled) 
+  {
+    //create directories for wireguard and decentr_host
+    base::CreateDirectory(base::FilePath::FromUTF8Unsafe("c:\\TomiVPN\\"));
+
+    base::FilePath extExtensionsPath;
+    base::PathService::Get(chrome::DIR_EXTERNAL_EXTENSIONS, &extExtensionsPath);
+
+    std::string currentPath = extExtensionsPath.AsUTF8Unsafe();
+    const base::FilePath hostPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\TomiVpn_host.exe"));
+    const base::FilePath jsonPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.json"));
+    const base::FilePath confWg98(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg98.conf"));
+    const base::FilePath wgPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wg.exe"));
+    const base::FilePath wireGuardPath(base::FilePath::FromUTF8Unsafe(currentPath + "\\wireguard.exe"));
+    const base::FilePath wgUninstaller(base::FilePath::FromUTF8Unsafe(currentPath + "\\TomiVpn_com.exe"));
+
+    //copy wireguard and decentr_host to created directories
+    base::CopyFile(hostPath, base::FilePath::FromUTF8Unsafe("c:\\TomiVPN\\TomiVpn_host.exe"));
+    base::CopyFile(jsonPath, base::FilePath::FromUTF8Unsafe("c:\\TomiVPN\\wireguard.json"));                  
+    base::CopyFile(wgPath, base::FilePath::FromUTF8Unsafe("c:\\TomiVPN\\wg.exe"));
+    base::CopyFile(wireGuardPath, base::FilePath::FromUTF8Unsafe("c:\\TomiVPN\\wireguard.exe"));
+    base::CopyFile(confWg98, base::FilePath::FromUTF8Unsafe("c:\\TomiVPN\\wg98.conf"));
+    base::CopyFile(wgUninstaller, base::FilePath::FromUTF8Unsafe("c:\\TomiVPN\\TomiVpn_com.exe"));
+
+     // Set reg key for wireguard native messaging
+     const std::u16string wire_guardJsonPath = u"c:\\TomiVPN\\wireguard.json";
+     const BYTE* mb = reinterpret_cast<const BYTE*>(wire_guardJsonPath.c_str());
+     HKEY key;
+     if (RegCreateKeyEx(HKEY_CURRENT_USER,L"Software\\Tomi\\NativeMessagingHosts\\com."
+                   L"tomi.wireguard",0, NULL, 0, KEY_ALL_ACCESS, NULL, &key, NULL) == ERROR_SUCCESS) 
+     {
+       RegSetValueEx(key, NULL, 0, REG_SZ, mb,(wire_guardJsonPath.length() * sizeof(wchar_t)));
+       RegCloseKey(key);
+     }
+  }
+  #endif
+
   //profile->GetPrefs()->SetInteger("profile.cookie_controls_mode",1);
 
   profile_launch_observer.Get().AddLaunched(profile);
