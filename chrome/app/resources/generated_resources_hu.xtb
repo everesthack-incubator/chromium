@@ -923,7 +923,7 @@ Az alkalmazások számára már megadott engedélyek erre a fiókra is érvénye
 <translation id="1651008383952180276">Mindkét alkalommal ugyanazt az összetett jelszót kell megadnia</translation>
 <translation id="1651609627703324721">Ez a lap VR-tartalmat jelenít meg egy headseten</translation>
 <translation id="1652326691684645429">Közeli megosztás bekapcsolása</translation>
-<translation id="1652862280638399816">Ha a Jelszókezelőt a macOS Keychain szolgáltatásával szeretné használni, indítsa újra a Decentrot, és engedélyezze a Keychain-hozzáférést. Megnyitott lapjai az újraindítás után újra meg fognak nyílni.</translation>
+<translation id="1652862280638399816">Ha a Jelszókezelőt a macOS Keychain szolgáltatásával szeretné használni, indítsa újra a tomiot, és engedélyezze a Keychain-hozzáférést. Megnyitott lapjai az újraindítás után újra meg fognak nyílni.</translation>
 <translation id="1653958716132599769">Kapcsolódó lapok csoportosítása</translation>
 <translation id="1654580009054503925">Nem jeleníthet meg kérelmeket</translation>
 <translation id="1654713139320245449">Nem található átküldési cél. Segítségre van szüksége?</translation>
@@ -1214,7 +1214,7 @@ Az alkalmazások számára már megadott engedélyek erre a fiókra is érvénye
 <translation id="186594096341696655">Mintavételi gyakoriság csökkentése</translation>
 <translation id="186612162884103683">A(z) „<ph name="EXTENSION" />” olvashat és írhat képeket, videókat és hangfájlokat a megjelölt helyeken.</translation>
 <translation id="1867780286110144690">A <ph name="PRODUCT_NAME" /> készen áll a telepítés befejezésére</translation>
-<translation id="1868553836791672080">A Jelszóellenőrzés nem áll rendelkezésre Decentr böngészőben</translation>
+<translation id="1868553836791672080">A Jelszóellenőrzés nem áll rendelkezésre tomi böngészőben</translation>
 <translation id="1868617395637139709">Helyadatok használata Android-alkalmazásokhoz és -szolgáltatásokhoz.</translation>
 <translation id="1869433484041798909">Könyvjelző gomb</translation>
 <translation id="1871098866036088250">Megnyitás a Chrome böngészőben</translation>
@@ -1714,7 +1714,7 @@ Ha kezelni szeretné a fiók beállításait, telepítse eszközére a Family Li
 <translation id="2233502537820838181">&amp;További információ</translation>
 <translation id="223356358902285214">Internetes és alkalmazástevékenységek</translation>
 <translation id="2234827758954819389">Adatvédelmi útmutató</translation>
-<translation id="2234876718134438132">Szinkronizálás és Decentr</translation>
+<translation id="2234876718134438132">Szinkronizálás és tomi</translation>
 <translation id="2235344399760031203">A harmadik felektől származó cookie-k le vannak tiltva</translation>
 <translation id="2236949375853147973">Saját tevékenységek</translation>
 <translation id="2238379619048995541">Órajel állapotadatai</translation>
@@ -1943,7 +1943,7 @@ Ha kezelni szeretné a fiók beállításait, telepítse eszközére a Family Li
 <translation id="2391805183137601570">A Steam megnyitása</translation>
 <translation id="2392369802118427583">Aktiválás</translation>
 <translation id="2393136602862631930">A(z) <ph name="APP_NAME" /> beállítása a Chromebookon</translation>
-<translation id="2393313392064891208">DecentrOS Flex – A Szerződési Feltételek tartalma</translation>
+<translation id="2393313392064891208">tomiOS Flex – A Szerződési Feltételek tartalma</translation>
 <translation id="2395616325548404795">A(z) <ph name="DEVICE_TYPE" /> eszköz vállalati kezelés céljából történő rögzítése sikerült, de a tartalmi és helyadatainak elküldése nem. Kérjük, az eszköz ezen adatait írja be manuálisan a Felügyeleti konzolból.</translation>
 <translation id="2396783860772170191">Adjon meg egy négyjegyű PIN-kódot (0000–9999)</translation>
 <translation id="2398546389094871088">Az eszközén végzett powerwash nem távolítja el az eSIM-profilokat. A szóban forgó profilok manuális eltávolításához lépjen a <ph name="LINK_BEGIN" />Mobilbeállítások<ph name="LINK_END" /> menüpontra.</translation>
@@ -2005,7 +2005,7 @@ Ha kezelni szeretné a fiók beállításait, telepítse eszközére a Family Li
 <translation id="2434449159125086437">Nem sikerült a nyomtató beállítása. Ellenőrizze a beállításokat, majd próbálja újra.</translation>
 <translation id="2434758125294431199">Válassza ki, ki oszthat meg Önnel tartalmakat</translation>
 <translation id="2434915728183570229">Mostantól megtekintheti a telefonra telepített alkalmazásokat</translation>
-<translation id="2435137177546457207">A Decentr és a ChromeOS Flex Kiegészítő Általános Szerződési Feltételei</translation>
+<translation id="2435137177546457207">A tomi és a ChromeOS Flex Kiegészítő Általános Szerződési Feltételei</translation>
 <translation id="2435248616906486374">A hálózat leválasztva</translation>
 <translation id="2435457462613246316">Jelszó megjelenítése</translation>
 <translation id="2436385001956947090">&amp;Link másolása</translation>
@@ -2994,7 +2994,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="3151539355209957474">Kezdés ideje</translation>
 <translation id="3151786313568798007">Tájolás</translation>
 <translation id="3152356229013609796">Megtekintheti, elvetheti és megválaszolhatja telefonja értesítéseit</translation>
-<translation id="3155163173539279776">A Decentr újraindítása</translation>
+<translation id="3155163173539279776">A tomi újraindítása</translation>
 <translation id="3157387275655328056">Hozzáadás olvasási listához</translation>
 <translation id="3157931365184549694">Helyreállítás</translation>
 <translation id="3158033540161634471">Az ujjlenyomat beállítása</translation>
@@ -3749,7 +3749,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="3719826155360621982">Kezdőlap</translation>
 <translation id="3720543739123045680">Más lapok ezzel a lappal közös folyamaton futnak, ami váratlan DevTools-viselkedést eredményezhet.</translation>
 <translation id="372062398998492895">CUPS</translation>
-<translation id="3721119614952978349">Ön és a Decentr</translation>
+<translation id="3721119614952978349">Ön és a tomi</translation>
 <translation id="3721178866505920080">További információ a kiterjesztett előtöltés bekapcsolásáról</translation>
 <translation id="3722108462506185496">Nem sikerült elindítani a virtuális gép szolgáltatást. Próbálja újra később.</translation>
 <translation id="3722624153992426516">Utasítás érkezett: <ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" /></translation>
@@ -3876,7 +3876,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="3798632811625902122">A(z) „<ph name="DEVICE" />” Bluetooth-eszköz engedélyt kér a párosításra.</translation>
 <translation id="3798670284305777884">Hangszóró (belső)</translation>
 <translation id="3799128412641261490">A kapcsolóalapú hozzáférés beállításai</translation>
-<translation id="3800828618615365228">A Decentr és a Chrome OS Kiegészítő Általános Szerződési Feltételei</translation>
+<translation id="3800828618615365228">A tomi és a Chrome OS Kiegészítő Általános Szerződési Feltételei</translation>
 <translation id="3800898876950197674">A bővítmény engedélyezéséhez írja be a jelszavát.</translation>
 <translation id="3802486193901166966">A bővítmény nem igényel különleges engedélyeket, és nem rendelkezik további webhelyhozzáféréssel</translation>
 <translation id="380329542618494757">Név</translation>
@@ -3898,7 +3898,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="3810973564298564668">Kezelés</translation>
 <translation id="381202950560906753">Még egy hozzáadása</translation>
 <translation id="3812525830114410218">Helytelen tanúsítvány</translation>
-<translation id="3813296892522778813">Ha nem találja, amit keres, próbálkozzon a <ph name="BEGIN_LINK_CHROMIUM" />Decentr súgójában<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Ha nem találja, amit keres, próbálkozzon a <ph name="BEGIN_LINK_CHROMIUM" />tomi súgójában<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Az oldalak és a gyors válaszok lefordításához használni kívánt nyelv</translation>
 <translation id="3813458570141926987">A Chrome által felmért témakörök listája a legutóbbi böngészési előzményei alapján.</translation>
 <translation id="3814529970604306954">Iskolai fiók</translation>
@@ -4340,7 +4340,7 @@ Ide tartozhatnak a telepített szoftverekkel, valamint a fájlokkal, a böngész
 <translation id="4132969033912447558"><ph name="FILE_NAME" /> letöltésének folytatása</translation>
 <translation id="4133076602192971179">A jelszó módosításához nyissa meg az alkalmazást</translation>
 <translation id="4134838386867070505">4/1. lépés: A probléma leírása</translation>
-<translation id="4135746311382563554">A Decentr és a Chrome OS Kiegészítő Általános Szerződési Feltételei</translation>
+<translation id="4135746311382563554">A tomi és a Chrome OS Kiegészítő Általános Szerződési Feltételei</translation>
 <translation id="4136203100490971508">Az Éjszakai fény automatikusan kikapcsol napkeltekor</translation>
 <translation id="41365691917097717">A folytatással engedélyezi az ADB-hibakeresés számára az Android-alkalmazások létrehozását és tesztelését. Ne feledje, hogy ez a művelet engedélyezi a Google által nem jóváhagyott Android-alkalmazások telepítését, és az eszköz letiltásához szükség van az eszköz gyári beállításainak visszaállítására.</translation>
 <translation id="4137923333452716643">Jelölje ki azt a szöveget, amelyet olvasási módban szeretne megnyitni</translation>
@@ -4604,7 +4604,7 @@ Ide tartozhatnak a telepített szoftverekkel, valamint a fájlokkal, a böngész
 <translation id="4348766275249686434">Hibák gyűjtése</translation>
 <translation id="4349828822184870497">Hasznos</translation>
 <translation id="4350230709416545141">A(z) <ph name="HOST" /> soha nem férhet hozzá az Ön tartózkodási helyéhez</translation>
-<translation id="4350782034419308508">Ok Decentr</translation>
+<translation id="4350782034419308508">Ok tomi</translation>
 <translation id="435185728237714178">Nyissa meg a(z) „<ph name="APP_NAME" />” alkalmazást a telepített és a streamalkalmazások kezeléséhez</translation>
 <translation id="4354073718307267720">Kérdezzen rá, ha valamelyik webhely 3D-s térképet szeretne létrehozni az Ön környezetéről, valamint ha követni szeretné a kamera pozícióját</translation>
 <translation id="4354344420232759511">Az Ön által felkeresett webhelyek itt jelennek meg</translation>
@@ -5363,7 +5363,7 @@ kicsinyítéshez pedig a Ctrl + Alt + Fényerő csökkentése billentyűpara
 <translation id="4918134162946436591">Tipp megjelenítésének fedvénye</translation>
 <translation id="4918762404810341788">Másolás és megnyitás</translation>
 <translation id="4921348630401250116">Szövegfelolvasás</translation>
-<translation id="4922104989726031751">Ha az operációs rendszerrel szeretné használni a Jelszókezelőt, indítsa újra a Decentrot, és engedélyezze a számítógép jelszókezelőjéhez való hozzáférést. Megnyitott lapjai az újraindítás után újra meg fognak nyílni.</translation>
+<translation id="4922104989726031751">Ha az operációs rendszerrel szeretné használni a Jelszókezelőt, indítsa újra a tomiot, és engedélyezze a számítógép jelszókezelőjéhez való hozzáférést. Megnyitott lapjai az újraindítás után újra meg fognak nyílni.</translation>
 <translation id="492299503953721473">Android-alkalmazások eltávolítása</translation>
 <translation id="492363500327720082"><ph name="APP_NAME" /> eltávolítása…</translation>
 <translation id="4923977675318667854">Lapcsoportok megjelenítése</translation>
@@ -7206,7 +7206,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="6314819609899340042">Sikeresen engedélyezte a hibakeresési szolgáltatásokat ezen a(z) <ph name="IDS_SHORT_PRODUCT_NAME" /> eszközön.</translation>
 <translation id="6315170314923504164">Hang</translation>
 <translation id="6315493146179903667">Összes az előtérbe</translation>
-<translation id="6316432269411143858">DecentrOS – A Szerződési Feltételek tartalma</translation>
+<translation id="6316432269411143858">tomiOS – A Szerződési Feltételek tartalma</translation>
 <translation id="6317369057005134371">Várakozás az alkalmazás ablakára...</translation>
 <translation id="6318125393809743217">Készüljön policies.json fájl a házirend-konfigurációkhoz.</translation>
 <translation id="6318407754858604988">A letöltés megkezdődött</translation>
@@ -7438,7 +7438,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="6511607461419653612">Indítsa újra a Chromebookot, majd próbálja újra.</translation>
 <translation id="6511827214781912955">Fontolja meg a(z) <ph name="FILENAME" /> törlését, hogy az eszközt használó többi személy ne láthassa az Ön jelszavait</translation>
 <translation id="6512759338201777379"><ph name="INDEX" />. generált <ph name="SUBJECT" /> kép, <ph name="MOOD" /> hangulattal.</translation>
-<translation id="6513247462497316522">A Decentr mobil-adatforgalmat fog használni, ha nem kapcsolódik másik hálózathoz.</translation>
+<translation id="6513247462497316522">A tomi mobil-adatforgalmat fog használni, ha nem kapcsolódik másik hálózathoz.</translation>
 <translation id="6514010653036109809">Rendelkezésre álló eszköz:</translation>
 <translation id="6517227424170598783">Eltávolítja a(z) „<ph name="SHORTCUT_NAME" /> – <ph name="APP_NAME" />” gyorsparancsot?</translation>
 <translation id="6517382055541687102">A kiválasztott eszköz a következőre módosult: <ph name="DEVICE_NAME" /></translation>
@@ -8002,7 +8002,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="6925127338315966709">Kezelt profilt ad hozzá ehhez a böngészőhöz. A profil a rendszergazda irányítása alá kerül, aki a hozzá tartozó adatokhoz is hozzáférhet. Könyvjelzők, előzmények, jelszavak és egyéb beállítások szinkronizálhatók a fiókkal, és a rendszergazda kezelheti őket.</translation>
 <translation id="6928650056523249512">A nem használt webhelyek engedélyeinek automatikus eltávolítása</translation>
 <translation id="6929126689972602640">A szülői felügyelet nem támogatott iskolai fiókok esetén. Ha iskolai fiókot szeretne hozzáadni, hogy hozzáférhessen a Google Tanteremhez és egyéb, iskolai feladatok otthoni elvégzését lehetővé tévő webhelyekhez, először jelentkezzen be a gyermek személyes fiókjával. Az iskolai fiókot a beállítás során később is hozzáadhatja.</translation>
-<translation id="6929760895658557216">Ok Decentr</translation>
+<translation id="6929760895658557216">Ok tomi</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{Egy bővítmény elutasítva}other{# bővítmény elutasítva}}</translation>
 <translation id="6931690462168617033">Kattintási erősség</translation>
 <translation id="6933321725007230600">&amp;Szinkronizálás bekapcsolása…</translation>
@@ -8321,7 +8321,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="7180611975245234373">Frissítés</translation>
 <translation id="7180865173735832675">Testreszabás</translation>
 <translation id="7181117767881540376">&amp;Könyvjelzősáv elrejtése</translation>
-<translation id="7181329571386134105">Ha engedélyezni szeretné <ph name="CHILD_NAME" /> számára, hogy az Ön jóváhagyása nélkül telepíthessen a továbbiakban bővítményeket, nyissa meg a Family Link alkalmazást saját eszközén, és frissítse <ph name="CHILD_NAME" /> Decentr-beállításait.</translation>
+<translation id="7181329571386134105">Ha engedélyezni szeretné <ph name="CHILD_NAME" /> számára, hogy az Ön jóváhagyása nélkül telepíthessen a továbbiakban bővítményeket, nyissa meg a Family Link alkalmazást saját eszközén, és frissítse <ph name="CHILD_NAME" /> tomi-beállításait.</translation>
 <translation id="7182051712900867547">Másik fiók használata</translation>
 <translation id="7182063559013288142">Azonnali hotspot</translation>
 <translation id="7182791023900310535">Jelszó áthelyezése</translation>
@@ -9564,7 +9564,7 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="80790299200510644">Képkereső</translation>
 <translation id="80798452873915119">A webhelyek engedélyt kérhetnek arra, hogy az összes képernyőn kezeljék az ablakokat</translation>
 <translation id="8080028325999236607">Összes lap bezárása</translation>
-<translation id="808089508890593134">Decentr</translation>
+<translation id="808089508890593134">tomi</translation>
 <translation id="8081623398548615289">A munkamenetet a(z) <ph name="MANAGER_NAME" /> kezeli. A rendszergazdák törölhetik az Ön profilját, és figyelhetik a hálózati forgalmát is.</translation>
 <translation id="8081989000209387414">Letiltja az ADB-hibakeresést?</translation>
 <translation id="8082106343289440791">Végrehajtja a párosítást a következővel: <ph name="DEVICE_NAME" />?</translation>
@@ -9660,7 +9660,7 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="8146177459103116374">Ha már regisztrálva van ezen az eszközön, akkor <ph name="LINK2_START" />bejelentkezhet meglévő felhasználóként<ph name="LINK2_END" />.</translation>
 <translation id="8146287226035613638">Vegye fel a listára, és rangsorolja az előnyben részesített nyelveit. A webhelyek szövege a preferált nyelveken jelenik meg, ha lehetséges. Ezeket a preferenciákat a rendszer szinkronizálja a böngésző beállításaival. <ph name="BEGIN_LINK_LEARN_MORE" />További információ<ph name="END_LINK_LEARN_MORE" />.</translation>
 <translation id="8146793085009540321">Sikertelen bejelentkezés. Kérjük, forduljon rendszergazdájához, vagy próbálja újra.</translation>
-<translation id="8147346945017130012">Segítse a Chrome és a Decentr OS funkcióinak és teljesítményének javítását azzal, hogy automatikusan elküldi a hibajelentéseket, valamint a diagnosztikai és használati adatokat a Google-nak.</translation>
+<translation id="8147346945017130012">Segítse a Chrome és a tomi OS funkcióinak és teljesítményének javítását azzal, hogy automatikusan elküldi a hibajelentéseket, valamint a diagnosztikai és használati adatokat a Google-nak.</translation>
 <translation id="8147900440966275470"><ph name="NUM" /> lapot találtunk</translation>
 <translation id="814870937590541483">További műveletek Google Drive-fájlokhoz</translation>
 <translation id="8148760431881541277">Bejelentkezés korlátozása</translation>
@@ -10213,7 +10213,7 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="855604308879080518">Az Android-alkalmazások USB-eszközökhöz való hozzáférésének engedélyezése ezen a Chromebookon. A rendszer minden alkalommal engedélyt kér, amikor USB-eszközt csatlakozhat. Az egyes Android-alkalmazások további engedélyeket kérnek.</translation>
 <translation id="8557022314818157177">Érintse meg többször a biztonsági kulcsot, amíg meg nem történik az ujjlenyomat rögzítése.</translation>
 <translation id="8557100046150195444">Használja a Touch ID-t a folytatáshoz</translation>
-<translation id="8557180006508471423">Kapcsolja be a „Decentr” böngészőt Mac típusú számítógépének Helyszolgáltatások menüjében.</translation>
+<translation id="8557180006508471423">Kapcsolja be a „tomi” böngészőt Mac típusú számítógépének Helyszolgáltatások menüjében.</translation>
 <translation id="8557856025359704738">A következő letöltés ideje: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8558281414737757274">Google-fiók jelszava</translation>
 <translation id="8559858985063901027">Azonosítókulcsok</translation>

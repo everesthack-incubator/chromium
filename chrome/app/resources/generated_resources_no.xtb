@@ -920,7 +920,7 @@ Tillatelser du allerede har gitt apper, kan gjelde for denne kontoen. Du kan sty
 <translation id="1651008383952180276">Du må skrive inn den samme passordfrasen to ganger</translation>
 <translation id="1651609627703324721">Denne fanen sender VR-innhold til VR-briller</translation>
 <translation id="1652326691684645429">Slå på nærdeling</translation>
-<translation id="1652862280638399816">For å bruke Passordlagring med macOS-nøkkelring, start Decentr på nytt og gi tilgang til Nøkkelring. Fanene dine åpnes på nytt når du starter på nytt.</translation>
+<translation id="1652862280638399816">For å bruke Passordlagring med macOS-nøkkelring, start tomi på nytt og gi tilgang til Nøkkelring. Fanene dine åpnes på nytt når du starter på nytt.</translation>
 <translation id="1653958716132599769">Grupper relaterte faner</translation>
 <translation id="1654580009054503925">Ikke tillatt å vise forespørsler</translation>
 <translation id="1654713139320245449">Fant ingen enheter å caste til. Trenger du hjelp?</translation>
@@ -1209,7 +1209,7 @@ Tillatelser du allerede har gitt apper, kan gjelde for denne kontoen. Du kan sty
 <translation id="186594096341696655">Senk frekvensen</translation>
 <translation id="186612162884103683">«<ph name="EXTENSION" />» kan lese og redigere bilder, videofiler og lydfiler i de avmerkede mappene.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> er klar til å fullføre installasjonen</translation>
-<translation id="1868553836791672080">Passordsjekking er ikke tilgjengelig i Decentr</translation>
+<translation id="1868553836791672080">Passordsjekking er ikke tilgjengelig i tomi</translation>
 <translation id="1868617395637139709">Bruk posisjon i Android-apper og -tjenester.</translation>
 <translation id="1869433484041798909">Bokmerkeknapp</translation>
 <translation id="1871098866036088250">Åpne i Chrome-nettleseren</translation>
@@ -1687,7 +1687,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="221872881068107022">Omvendt rulling</translation>
 <translation id="2219007152108311874">Spør for hvert besøk</translation>
 <translation id="2219081237089444028">Angi et <ph name="DEVICE_TYPE" />-passord for å gjøre det enklere å logge på</translation>
-<translation id="2220409419896228519">Legg til bokmerker i favorittappene dine fra Decentr</translation>
+<translation id="2220409419896228519">Legg til bokmerker i favorittappene dine fra tomi</translation>
 <translation id="2220529011494928058">Rapporter et problem</translation>
 <translation id="2220572644011485463">PIN-kode eller passord</translation>
 <translation id="222115440608612541">Bytt tema ved soloppgang og solnedgang</translation>
@@ -2000,7 +2000,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="2434449159125086437">Kunne ikke konfigurere skriveren. Kontroller konfigurasjonen og prøv på nytt.</translation>
 <translation id="2434758125294431199">Velg hvem som kan dele med deg</translation>
 <translation id="2434915728183570229">Nå kan du se appene på telefonen din</translation>
-<translation id="2435137177546457207">Tilleggsvilkår for Decentr og ChromeOS Flex</translation>
+<translation id="2435137177546457207">Tilleggsvilkår for tomi og ChromeOS Flex</translation>
 <translation id="2435248616906486374">Nettverket mistet tilkoblingen</translation>
 <translation id="2435457462613246316">Vis passord</translation>
 <translation id="2436385001956947090">Kopier &amp;linken</translation>
@@ -2989,7 +2989,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="3151539355209957474">Starttid</translation>
 <translation id="3151786313568798007">Retning</translation>
 <translation id="3152356229013609796">Se, skjul og svar på varsler fra telefonen</translation>
-<translation id="3155163173539279776">Start Decentr på nytt</translation>
+<translation id="3155163173539279776">Start tomi på nytt</translation>
 <translation id="3157387275655328056">Legg til i leselisten</translation>
 <translation id="3157931365184549694">Gjenopprett</translation>
 <translation id="3158033540161634471">Konfigurer fingeravtrykket ditt</translation>
@@ -3444,7 +3444,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="350397915809787283">Hvis du ikke har noen konto, velger du det første alternativet for å opprette en.</translation>
 <translation id="3503995387997205657">Du kan gjenopprette de tidligere appene dine</translation>
 <translation id="3505100368357440862">Handelsforslag</translation>
-<translation id="3505602163050943406">Når du bruker enkelte funksjoner, kan de sende deler av åpne sider, relaterte nylige sider og nettadressene deres til Decentr</translation>
+<translation id="3505602163050943406">Når du bruker enkelte funksjoner, kan de sende deler av åpne sider, relaterte nylige sider og nettadressene deres til tomi</translation>
 <translation id="3505762711681798106">Vi klargjør arbeidsområdet ditt. I mellomtiden kan du utforske litt. Vi er snart ferdig.</translation>
 <translation id="3507132249039706973">Standardbeskyttelse er på</translation>
 <translation id="3507888235492474624">Skann etter Bluetooth-enheter på nytt</translation>
@@ -3616,7 +3616,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="3630995161997703415">Legg til dette nettstedet på hyllen din, slik at det kan brukes når som helst</translation>
 <translation id="3634652306074934350">Tillatelsesforespørselen er utløpt</translation>
 <translation id="3635199270495525546">Trusted Platform Module (TPM) ble funnet</translation>
-<translation id="3635353578505343390">Send tilbakemelding til Decentr</translation>
+<translation id="3635353578505343390">Send tilbakemelding til tomi</translation>
 <translation id="3635960017746711110">USB-innstillinger for Crostini</translation>
 <translation id="3636766455281737684"><ph name="PERCENTAGE" /> % – <ph name="TIME" /> til batteriet er tomt</translation>
 <translation id="3636940436873918441">Foretrukne språk</translation>
@@ -3744,7 +3744,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="3719826155360621982">Startside</translation>
 <translation id="3720543739123045680">Andre faner deler en prosess med denne fanen, noe som kan føre til uventede opplevelser i Utviklerverktøy.</translation>
 <translation id="372062398998492895">CUPS</translation>
-<translation id="3721119614952978349">Deg og Decentr</translation>
+<translation id="3721119614952978349">Deg og tomi</translation>
 <translation id="3721178866505920080">Mer informasjon om å slå på utvidet forhåndslasting</translation>
 <translation id="3722108462506185496">Feil ved oppstart av den virtuelle maskinen. Prøv på nytt.</translation>
 <translation id="3722624153992426516">En <ph name="IMPORT_CERTIFICATE__INSTRUCTION_NAME" />-instruksjon er mottatt</translation>
@@ -3871,7 +3871,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="3798632811625902122">Bluetooth-enheten <ph name="DEVICE" /> ber om tillatelse til å koble til.</translation>
 <translation id="3798670284305777884">Høyttaler (intern)</translation>
 <translation id="3799128412641261490">Innstillinger for brytertilgang</translation>
-<translation id="3800828618615365228">Tilleggsvilkår for Decentr og ChromeOS</translation>
+<translation id="3800828618615365228">Tilleggsvilkår for tomi og ChromeOS</translation>
 <translation id="3800898876950197674">For å tillate denne utvidelsen, skriv inn passordet ditt.</translation>
 <translation id="3802486193901166966">Denne utvidelsen krever ingen spesielle tillatelser og har ingen ytterligere nettstedstilgang</translation>
 <translation id="380329542618494757">Navn</translation>
@@ -3893,7 +3893,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="3810973564298564668">Administrer</translation>
 <translation id="381202950560906753">Legg til ett til</translation>
 <translation id="3812525830114410218">Ugyldig sertifikat</translation>
-<translation id="3813296892522778813">Gå til <ph name="BEGIN_LINK_CHROMIUM" />brukerstøtten for Decentr<ph name="END_LINK_CHROMIUM" /> hvis du ikke finner det du ser etter</translation>
+<translation id="3813296892522778813">Gå til <ph name="BEGIN_LINK_CHROMIUM" />brukerstøtten for tomi<ph name="END_LINK_CHROMIUM" /> hvis du ikke finner det du ser etter</translation>
 <translation id="3813358687923336574">Språket som brukes til å oversette sider og Hurtiginfo</translation>
 <translation id="3813458570141926987">Liste over emner som Chrome har anslått basert på den nylige nettleserloggen din</translation>
 <translation id="3814529970604306954">Skolekonto</translation>
@@ -4276,7 +4276,7 @@ Dette kan omfatte informasjon om installert programvare, filer, nettleseren og e
 <translation id="4093865285251893588">Profilbilde</translation>
 <translation id="4093955363990068916">Lokal fil:</translation>
 <translation id="4094647278880271855">Du bruker en miljøvariabel som ikke støttes: <ph name="BAD_VAR" />. Stabiliteten og sikkerheten blir rammet.</translation>
-<translation id="4095246243698959793">For å synkronisere og bruke passnøkler fra Decentr</translation>
+<translation id="4095246243698959793">For å synkronisere og bruke passnøkler fra tomi</translation>
 <translation id="4095264805865317199">Åpne UI for aktivering med mobiltelefon</translation>
 <translation id="4095425503313512126">Surfing og søk er raskere</translation>
 <translation id="4095483462103784441">Opprett en ny fanegruppe</translation>
@@ -4285,7 +4285,7 @@ Dette kan omfatte informasjon om installert programvare, filer, nettleseren og e
 <translation id="4096797685681362305">Vist den siste uken</translation>
 <translation id="4097406557126260163">Apper og utvidelser</translation>
 <translation id="409742781329613461">Tips for Chrome</translation>
-<translation id="4097560579602855702">Søk på Decentr</translation>
+<translation id="4097560579602855702">Søk på tomi</translation>
 <translation id="4098667039111970300">Pekepennverktøy på verktøyraden</translation>
 <translation id="4099874310852108874">Det oppsto en nettverksfeil.</translation>
 <translation id="4100020874626534113">Tillat fleksibel diakritisk tilordning. Du kan for eksempel skrive «anhs» eller «asnh» for å få «ánh».</translation>
@@ -4334,7 +4334,7 @@ Dette kan omfatte informasjon om installert programvare, filer, nettleseren og e
 <translation id="4132969033912447558">Fortsett å laste ned <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">Åpne appen for å endre passordet</translation>
 <translation id="4134838386867070505">Trinn 1 av 4: Beskriv problemet</translation>
-<translation id="4135746311382563554">Tilleggsvilkår for bruk av Decentr og ChromeOS</translation>
+<translation id="4135746311382563554">Tilleggsvilkår for bruk av tomi og ChromeOS</translation>
 <translation id="4136203100490971508">Nattlys blir slått av automatisk ved soloppgang</translation>
 <translation id="41365691917097717">Hvis du fortsetter, blir ADB-feilsøking slått på for utvikling og testing av Android-apper. Merk at dette gjør det mulig å installere Android-apper som ikke er verifisert av Google, og enheten må tilbakestilles til fabrikkinnstillingene hvis du vil slå av ADB igjen.</translation>
 <translation id="4137923333452716643">Marker teksten du vil åpne i lesemodus</translation>
@@ -4598,7 +4598,7 @@ Dette kan omfatte informasjon om installert programvare, filer, nettleseren og e
 <translation id="4348766275249686434">Registrer feil</translation>
 <translation id="4349828822184870497">Nyttig</translation>
 <translation id="4350230709416545141">Blokkér alltid <ph name="HOST" /> fra å få tilgang til posisjonen din</translation>
-<translation id="4350782034419308508">Hey Decentr</translation>
+<translation id="4350782034419308508">Hey tomi</translation>
 <translation id="435185728237714178">Gå til «<ph name="APP_NAME" />»-appen for å administrere installerte og strømmede apper</translation>
 <translation id="4354073718307267720">Spør når nettsteder vil lage 3D-kart av omgivelsene dine eller spore kameraposisjonen</translation>
 <translation id="4354344420232759511">Nettsteder du besøker, vises her</translation>
@@ -5357,7 +5357,7 @@ Bruk Ctrl + Alt + lysstyrke ned for å zoome ut.</translation>
 <translation id="4918134162946436591">Vis hintoverlegg</translation>
 <translation id="4918762404810341788">Kopier og åpne</translation>
 <translation id="4921348630401250116">Tekst til tale</translation>
-<translation id="4922104989726031751">For å bruke Passordlagring med operativsystemet ditt, start Decentr på nytt og gi tilgang til passordlagringen på datamaskinen. Fanene dine åpnes på nytt når du starter på nytt.</translation>
+<translation id="4922104989726031751">For å bruke Passordlagring med operativsystemet ditt, start tomi på nytt og gi tilgang til passordlagringen på datamaskinen. Fanene dine åpnes på nytt når du starter på nytt.</translation>
 <translation id="492299503953721473">Fjern Android-appene</translation>
 <translation id="492363500327720082">Avinstallerer <ph name="APP_NAME" /> …</translation>
 <translation id="4923977675318667854">Vis fanegrupper</translation>
@@ -5841,7 +5841,7 @@ Bruk Ctrl + Alt + lysstyrke ned for å zoome ut.</translation>
 <translation id="529296195492126134">Engangsmodus støttes ikke. Kontakt administratoren din</translation>
 <translation id="5293043095535566171">Vil du slå på posisjonstilgang?</translation>
 <translation id="5293170712604732402">Tilbakestill innstillingene til standardverdiene</translation>
-<translation id="5294068591166433464">Hvis nettsteder prøver å stjele passordet ditt, eller når du laster ned skadelige filer, kan Chrome også sende nettadresser, inkludert deler av sideinnholdet, til Decentr</translation>
+<translation id="5294068591166433464">Hvis nettsteder prøver å stjele passordet ditt, eller når du laster ned skadelige filer, kan Chrome også sende nettadresser, inkludert deler av sideinnholdet, til tomi</translation>
 <translation id="5294097441441645251">Må begynne med liten bokstav eller understrek</translation>
 <translation id="5294618183559481278"><ph name="DEVICE_TYPE" /> bruker en innebygd sensor for å registrere personer foran enheten. Alle data behandles umiddelbart på enheten og slettes deretter. Sensordata sendes aldri til Google. <ph name="LINK_BEGIN" />Finn ut mer<ph name="LINK_END" /></translation>
 <translation id="5295188371713072404">Utvidelser kan be om tilgang til dette nettstedet</translation>
@@ -6133,7 +6133,7 @@ Tillatelser du allerede har gitt nettsteder og apper, kan gjelde for denne konto
 <translation id="5507756662695126555">Ikke-avvisning</translation>
 <translation id="5509693895992845810">L&amp;agre som</translation>
 <translation id="5509914365760201064">Utsteder: <ph name="CERTIFICATE_AUTHORITY" /></translation>
-<translation id="5510775624736435856">Få bildebeskrivelser fra Decentr</translation>
+<translation id="5510775624736435856">Få bildebeskrivelser fra tomi</translation>
 <translation id="5511379779384092781">Ekstra liten</translation>
 <translation id="5511823366942919280">Er du sikker på at du ønsker å konfigurere denne enheten som en «hai» («shark»)?</translation>
 <translation id="5512739112435045339">Frigjør plass på enheten. Prøv deretter å laste ned filen på nytt</translation>
@@ -6165,7 +6165,7 @@ Tillatelser du allerede har gitt nettsteder og apper, kan gjelde for denne konto
 <translation id="5533001281916885985"><ph name="SITE_NAME" /> vil</translation>
 <translation id="5533343601674003130">PDF-tjeneste</translation>
 <translation id="5537725057119320332">Cast</translation>
-<translation id="5539070192556911367">Får ikke kontakt med Decentr</translation>
+<translation id="5539070192556911367">Får ikke kontakt med tomi</translation>
 <translation id="5541694225089836610">Administratoren din har slått av handlingen</translation>
 <translation id="5542132724887566711">Profil</translation>
 <translation id="5542750926112347543">Informasjonskapsler fra <ph name="DOMAIN" /> er blokkert</translation>
@@ -6330,7 +6330,7 @@ Tillatelser du allerede har gitt nettsteder og apper, kan gjelde for denne konto
 <translation id="565515993087783098">Hvis du glemmer dette nettverket, fjernes også Passpoint-abonnementet og de tilknyttede nettverkene.</translation>
 <translation id="5655296450510165335">Registrering av enhet</translation>
 <translation id="5655823808357523308">Juster hvordan farger vises på skjermen</translation>
-<translation id="5656845498778518563">Send tilbakemelding til Decentr</translation>
+<translation id="5656845498778518563">Send tilbakemelding til tomi</translation>
 <translation id="5657667036353380798">Den eksterne utvidelsen krever at Chrome versjon <ph name="MINIMUM_CHROME_VERSION" /> eller nyere er installert.</translation>
 <translation id="565899488479822148">Installerer den nyeste oppdateringen</translation>
 <translation id="5659593005791499971">E-post</translation>
@@ -6603,7 +6603,7 @@ Tillatelser du allerede har gitt nettsteder og apper, kan gjelde for denne konto
 <translation id="5864754048328252126">Inaktivitetshandling når enheten lades</translation>
 <translation id="5865508026715185451"><ph name="APP_NAME" /> settes snart på pause</translation>
 <translation id="586567932979200359">Du kjører <ph name="PRODUCT_NAME" /> fra diskavbildningen. Hvis du installer produktet på datamaskinen, kan du kjøre det uten diskavbildningen og sikre at det holdes oppdatert.</translation>
-<translation id="5865733239029070421">Sender automatisk brukerstatistikk og programstopprapporter til Decentr</translation>
+<translation id="5865733239029070421">Sender automatisk brukerstatistikk og programstopprapporter til tomi</translation>
 <translation id="5868434909835797817">Mikrofonen er av på enheten</translation>
 <translation id="5868479397518301468">Påloggingen ble tidsavbrutt</translation>
 <translation id="5868822853313956582">Følg enhetsfargene</translation>
@@ -7197,7 +7197,7 @@ Tillatelser du allerede har gitt nettsteder og apper, kan gjelde for denne konto
 <translation id="6314819609899340042">Nå har du slått på feilsøkingsfunksjoner på denne <ph name="IDS_SHORT_PRODUCT_NAME" />-enheten.</translation>
 <translation id="6315170314923504164">Tale</translation>
 <translation id="6315493146179903667">Legg alle i forgrunnen</translation>
-<translation id="6316432269411143858">Innholdet i vilkårene for DecentrOS</translation>
+<translation id="6316432269411143858">Innholdet i vilkårene for tomiOS</translation>
 <translation id="6317369057005134371">Venter på appvinduet …</translation>
 <translation id="6318125393809743217">Inkluder en policies.json-fil med regelkonfigurasjoner.</translation>
 <translation id="6318407754858604988">Nedlastingen er startet</translation>
@@ -7429,7 +7429,7 @@ Tillatelser du allerede har gitt nettsteder og apper, kan gjelde for denne konto
 <translation id="6511607461419653612">Start Chromebooken på nytt, og prøv igjen</translation>
 <translation id="6511827214781912955">Du bør vurdere å slette <ph name="FILENAME" />, slik at andre som bruker denne enheten, ikke kan se passordene dine</translation>
 <translation id="6512759338201777379">Generert bilde <ph name="INDEX" /> av <ph name="SUBJECT" /> med <ph name="MOOD" />-stemning.</translation>
-<translation id="6513247462497316522">Decentr bruker mobile data hvis du ikke er koblet til et annet nettverk.</translation>
+<translation id="6513247462497316522">tomi bruker mobile data hvis du ikke er koblet til et annet nettverk.</translation>
 <translation id="6514010653036109809">Tilgjengelig enhet:</translation>
 <translation id="6517227424170598783">Vil du fjerne snarveien «<ph name="SHORTCUT_NAME" /> – <ph name="APP_NAME" />»?</translation>
 <translation id="6517382055541687102">Den valgte enheten er endret til <ph name="DEVICE_NAME" /></translation>
@@ -7822,7 +7822,7 @@ Du har # passord til som er utsatt for sikkerhetsbrudd. Google Passordlagring an
 <translation id="6805647936811177813">Logg på <ph name="TOKEN_NAME" /> for å importere klientsertifikat fra <ph name="HOST_NAME" />.</translation>
 <translation id="680572642341004180">Aktiver RLZ-sporing for <ph name="SHORT_PRODUCT_OS_NAME" />.</translation>
 <translation id="6806089545527108739">Ikke tillat, men spør senere</translation>
-<translation id="680644983456221885">Proaktiv sanntidsbeskyttelse mot farlige nettsteder, nedlastinger og utvidelser, som fungerer ved at nettlesingsdataene dine sendes til Decentr</translation>
+<translation id="680644983456221885">Proaktiv sanntidsbeskyttelse mot farlige nettsteder, nedlastinger og utvidelser, som fungerer ved at nettlesingsdataene dine sendes til tomi</translation>
 <translation id="6808039367995747522">For å fortsette, sett inn sikkerhetsnøkkelen, og berør den</translation>
 <translation id="6808166974213191158">ChromeOS Flex System Image Writer</translation>
 <translation id="6808193438228982088">Rev</translation>
@@ -7993,7 +7993,7 @@ Du har # passord til som er utsatt for sikkerhetsbrudd. Google Passordlagring an
 <translation id="6925127338315966709">Du er i ferd med å legge til en administrert profil i denne nettleseren. Administratoren din har kontroll over profilen og tilgang til de tilhørende dataene. Bokmerker, logg, passord og andre innstillinger kan synkroniseres med kontoen din og administreres av administratoren.</translation>
 <translation id="6928650056523249512">Fjern tillatelser fra ubrukte nettsteder automatisk</translation>
 <translation id="6929126689972602640">Foreldrekontroll støttes ikke for skolekontoer. For å legge til en skolekonto for å få tilgang til Google Classroom og andre nettsteder for skolearbeid hjemme, logg på med barnets personlige konto først. Du kan legge til skolekontoen senere i konfigureringen.</translation>
-<translation id="6929760895658557216">Okay Decentr</translation>
+<translation id="6929760895658557216">Okay tomi</translation>
 <translation id="6930161297841867798">{NUM_EXTENSIONS,plural, =1{En utvidelse er avvist}other{# utvidelser er avvist}}</translation>
 <translation id="6931690462168617033">Klikkstyrke</translation>
 <translation id="6933321725007230600">Slå på &amp;synkronisering…</translation>
@@ -8312,7 +8312,7 @@ Du har # passord til som er utsatt for sikkerhetsbrudd. Google Passordlagring an
 <translation id="7180611975245234373">Last inn på nytt</translation>
 <translation id="7180865173735832675">Tilpass</translation>
 <translation id="7181117767881540376">&amp;Skjul bokmerkeraden</translation>
-<translation id="7181329571386134105">For å tillate at <ph name="CHILD_NAME" /> installerer fremtidige utvidelser uten godkjenning fra deg, åpne Family Link-appen på enheten din og oppdater Decentr-innstillingene til <ph name="CHILD_NAME" />.</translation>
+<translation id="7181329571386134105">For å tillate at <ph name="CHILD_NAME" /> installerer fremtidige utvidelser uten godkjenning fra deg, åpne Family Link-appen på enheten din og oppdater tomi-innstillingene til <ph name="CHILD_NAME" />.</translation>
 <translation id="7182051712900867547">Bruk en annen konto</translation>
 <translation id="7182063559013288142">Umiddelbar wifi-sone</translation>
 <translation id="7182791023900310535">Flytt passordet</translation>
@@ -8510,7 +8510,7 @@ Du har # passord til som er utsatt for sikkerhetsbrudd. Google Passordlagring an
 <translation id="7339898014177206373">Nytt vindu</translation>
 <translation id="7340179705876485790">For å gå tilbake mer enn én side, klikk og hold på Tilbake.</translation>
 <translation id="7340650977506865820">Nettstedet deler skjermen din</translation>
-<translation id="7340757554212515731">Sender programstopprapporter, diagnostikk og bruksdata automatisk til Decentr</translation>
+<translation id="7340757554212515731">Sender programstopprapporter, diagnostikk og bruksdata automatisk til tomi</translation>
 <translation id="734088800888587319">Nettverksberegninger</translation>
 <translation id="7341834142292923918">Vil ha tilgang til dette nettstedet</translation>
 <translation id="7343372807593926528">Beskriv problemet før du sender tilbakemeldingen.</translation>
@@ -9556,7 +9556,7 @@ Oppbevar nøkkelfilen på et trygt sted. Du får bruk for den når du skal oppre
 <translation id="80790299200510644">Bildesøk</translation>
 <translation id="80798452873915119">Nettsteder kan be om å få administrere vinduer på alle skjermene dine</translation>
 <translation id="8080028325999236607">Lukk alle faner</translation>
-<translation id="808089508890593134">Decentr</translation>
+<translation id="808089508890593134">tomi</translation>
 <translation id="8081623398548615289">Økten din administreres av <ph name="MANAGER_NAME" />. Administratorer kan slette profilen din og dessuten overvåke nettverkstrafikken din.</translation>
 <translation id="8081989000209387414">Vil du slå av ADB-feilsøking?</translation>
 <translation id="8082106343289440791">Vil du sammenkoble med «<ph name="DEVICE_NAME" />»?</translation>
@@ -10205,7 +10205,7 @@ Oppbevar nøkkelfilen på et trygt sted. Du får bruk for den når du skal oppre
 <translation id="855604308879080518">Gi Android-apper tilgang til USB-enheter på denne Chromebooken. Du blir spurt om tillatelse hver gang du kobler til en USB-enhet. Individuelle Android-apper kommer til å spørre om tilleggstillatelser.</translation>
 <translation id="8557022314818157177">Fortsett å berøre sikkerhetsnøkkelen til fingeravtrykket er registrert</translation>
 <translation id="8557100046150195444">Touch ID for å fortsette</translation>
-<translation id="8557180006508471423">Slå på «Decentr» i Stedstjenester på Macen</translation>
+<translation id="8557180006508471423">Slå på «tomi» i Stedstjenester på Macen</translation>
 <translation id="8557856025359704738">Neste nedlasting utføres <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8558281414737757274">Google-kontopassord</translation>
 <translation id="8559858985063901027">Passnøkler</translation>
@@ -10514,7 +10514,7 @@ Oppbevar nøkkelfilen på et trygt sted. Du får bruk for den når du skal oppre
 <translation id="8777628254805677039">rotpassord</translation>
 <translation id="877985182522063539">A4</translation>
 <translation id="8779944680596936487">Nettsteder kan bare bruke informasjonskapsler til å se nettleseraktiviteten din på sitt eget nettsted</translation>
-<translation id="8780123805589053431">Få bildebeskrivelser fra Decentr</translation>
+<translation id="8780123805589053431">Få bildebeskrivelser fra tomi</translation>
 <translation id="8780443667474968681">Talesøk er slått av.</translation>
 <translation id="8781834595282316166">Ny fane i gruppen</translation>
 <translation id="8781980678064919987">Slå av maskinen når den lukkes</translation>
@@ -10797,7 +10797,7 @@ Tillatelser du allerede har gitt nettsteder og apper, kan gjelde for denne konto
 <translation id="8985661493893822002">Koble til internett for å logge på <ph name="DEVICE_TYPE" />.</translation>
 <translation id="8985661571449404298">Lastet ned en usikker fil</translation>
 <translation id="8986362086234534611">Glem</translation>
-<translation id="8986494364107987395">Send bruksstatistikk og programstopprapporter automatisk til Decentr</translation>
+<translation id="8986494364107987395">Send bruksstatistikk og programstopprapporter automatisk til tomi</translation>
 <translation id="8987305927843254629">Hver person kan få en personlig opplevelse og holde dataene sine private.</translation>
 <translation id="8987321822984361516">Nettleseren administreres av en organisasjon, og profilen administreres av <ph name="PROFILE_DOMAIN" /></translation>
 <translation id="8987927404178983737">Måned</translation>
