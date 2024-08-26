@@ -890,7 +890,9 @@ class Browser : public TabStripModelObserver,
   BrowserWindowFeatures& GetFeatures() override;
   web_modal::WebContentsModalDialogHost*
   GetWebContentsModalDialogHostForWindow() override;
-
+  // Helper which implements the LocationBarModelDelegate interface.
+  std::unique_ptr<BrowserLocationBarModelDelegate> location_bar_model_delegate_;
+  
  private:
   friend class BrowserTest;
   friend class ExclusiveAccessTest;
