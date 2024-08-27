@@ -562,10 +562,10 @@ void TabHoverCardBubbleView::UpdateCardContent(const Tab* tab) {
     // We only clip the corners of the fade image when there isn't a footer.
     thumbnail_view_->SetRoundedCorners(!show_footer, corner_radius_);
   }
-  TomiUpdateCardContent(tab);
+  tomiUpdateCardContent(tab);
 }
 
-void TabHoverCardBubbleView::TomiUpdateCardContent(const Tab* tab){
+void TabHoverCardBubbleView::tomiUpdateCardContent(const Tab* tab){
   const std::u16string& domain = domain_label_->GetText();
   const std::u16string kChromeUISchemeU16 =
       base::ASCIIToUTF16(content::kChromeUIScheme);
@@ -576,7 +576,7 @@ void TabHoverCardBubbleView::TomiUpdateCardContent(const Tab* tab){
     std::u16string new_domain = domain;
     base::ReplaceFirstSubstringAfterOffset(
         &new_domain, 0ul, kChromeUISchemeU16,
-        base::ASCIIToUTF16(content::kTomiUIScheme));
+        base::ASCIIToUTF16(content::ktomiUIScheme));
     domain_label_->SetData({new_domain, /*is_filename*/ false});
   }
 }

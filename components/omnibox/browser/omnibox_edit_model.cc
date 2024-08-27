@@ -94,18 +94,18 @@ using omnibox::mojom::NavigationPredictor;
 // Helpers --------------------------------------------------------------------
 
 namespace {
-void TomiAdjustTextForCopy(GURL* url) {
+void tomiAdjustTextForCopy(GURL* url) {
 #if !defined(OS_IOS)
   if (url->scheme() == content::kChromeUIScheme) {
     GURL::Replacements replacements;
-    replacements.SetSchemeStr(content::kTomiUIScheme);
+    replacements.SetSchemeStr(content::ktomiUIScheme);
     *url = url->ReplaceComponents(replacements);
   }
 #endif
 }
 }
 #define TOMI_ADJUST_TEXT_FOR_COPY \
-  TomiAdjustTextForCopy(url_from_text);
+  tomiAdjustTextForCopy(url_from_text);
 
 namespace {
 

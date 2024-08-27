@@ -27,23 +27,23 @@ def GetConfigurationForBuild(defines):
   if '_chromium' in defines:
     config = {
         'build': 'tomi',
-        'app_name': 'Tomi',
+        'app_name': 'tomi',
         'doc_url': 'https://chromeenterprise.google/policies/',
         'frame_name': 'tomi Frame',
         'os_name': 'ChromiumOS',
-        'webview_name': 'Tomi WebView',
+        'webview_name': 'tomi WebView',
         'win_config': {
             'win': {
-                'reg_mandatory_key_name': 'Software\\Policies\\Tomi',
+                'reg_mandatory_key_name': 'Software\\Policies\\tomi',
                 'reg_recommended_key_name':
-                'Software\\Policies\\Tomi\\Recommended',
+                'Software\\Policies\\tomi\\Recommended',
                 'mandatory_category_path': ['tomi'],
                 'recommended_category_path': ['tomi_recommended'],
                 'category_path_strings': {
-                    'chromium': 'Tomi',
-                    'chromium_recommended': 'Tomi - {doc_recommended}',
+                    'chromium': 'tomi',
+                    'chromium_recommended': 'tomi - {doc_recommended}',
                 },
-                'namespace': 'Tomi.Policies.Tomi',
+                'namespace': 'tomi.Policies.tomi',
             },
             'chrome_os': {
                 'reg_mandatory_key_name': 'Software\\Policies\\ChromiumOS',
@@ -65,7 +65,7 @@ def GetConfigurationForBuild(defines):
   elif '_google_chrome' in defines or '_is_chrome_for_testing_branded' in defines:
     if '_google_chrome' in defines:
       linux_policy_path = '/etc/opt/tomi/policies/'
-      win_policy_path = 'Software\\Policies\\Tomi'
+      win_policy_path = 'Software\\Policies\\tomi'
     else:
       linux_policy_path = '/etc/opt/chrome_for_testing/policies/'
       win_policy_path = 'Software\\Policies\\Google\\Chrome for Testing'
